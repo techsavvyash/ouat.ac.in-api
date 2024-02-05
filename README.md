@@ -1,5 +1,5 @@
 # ouat.ac.in-api
-FastAPI Server for ouat.ac.in Agri Advisory Services
+Server for ouat.ac.in Agri Advisory Services
 
 ## Description
 This is a service to provide the the agro advisory data provided by OUAT. One can use the environment and run the python script to gather all the data in provided folder. Steps to follow:
