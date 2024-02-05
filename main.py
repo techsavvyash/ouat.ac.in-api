@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import json
 import openai
 from dotenv import load_dotenv
+import time
 
 load_dotenv()
 api_key=os.environ.get("OPENAI_API_KEY")
@@ -57,10 +58,9 @@ def download_pdf(url, temp_dir):
         return None
 
 def send_to_api(pdf_path, base_url):
-    api_url = f"{base_url}/process_md/"
+    api_url = f"{base_url}/process_to_md/"
     files = {'file': open(pdf_path, 'rb')}
     data = {'language': 'english'}
-
     response = requests.post(api_url, files=files, data=data)
 
     if response.status_code == 200:
@@ -72,14 +72,16 @@ def send_to_api(pdf_path, base_url):
         return None
 
 def download_md(pdf_id, base_url, temp_dir):
-    # api_url = f"{base_url}/download_md/"
-    api_url="https://rachitavya.github.io/testing_ghapi/gpt_response.md"
+    api_url = f"{base_url}/download_md/"
+    # api_url="https://rachitavya.github.io/testing_ghapi/gpt_response.md"
     params = {'pdf_id': pdf_id}
 
     response = requests.get(api_url, params=params)
-
-    if response.status_code == 200:
-        md_content = response.text
+    
+    if response.status_code == 200:        
+        md_url=response.json().get('md_url')
+        md_response=requests.get(md_url)
+        md_content = md_response.content.decode("utf-8")
         md_temp_file = tempfile.NamedTemporaryFile(delete=False, dir=temp_dir, suffix=".md")
         with open(md_temp_file.name, 'w') as f:
             f.write(md_content)
@@ -92,8 +94,9 @@ def download_md(pdf_id, base_url, temp_dir):
 
 
 def process_data(data, system_prompt, base_api_url, temp_dir):
-    for district in data:
+    for district in data[21:]:
         district_name = district["district_name"]
+        print("District: ",district_name)
         info = district["info"]
 
         latest_date = None
@@ -105,12 +108,18 @@ def process_data(data, system_prompt, base_api_url, temp_dir):
             english_link = languages.get("english")
 
             if english_link:
+                print("Downloading PDF")
                 pdf_path = download_pdf(english_link, temp_dir)
 
                 if pdf_path:
+                    print("Parsing to MD")
                     pdf_id = send_to_api(pdf_path, base_api_url)
+                    print(pdf_id)
 
                     if pdf_id:
+                        print('let it convert...')
+                        time.sleep(4)
+                        print("Downloading MD")
                         md_path = download_md(pdf_id, base_api_url, temp_dir)
 
                         if md_path:
@@ -131,10 +140,12 @@ def process_data(data, system_prompt, base_api_url, temp_dir):
                             if latest_date is None or date > latest_date:
                                 latest_date = date
                                 latest_gpt_response = gpt_response
+                            
 
                             # Clean up the temporary files
                             os.unlink(pdf_path)
                             os.unlink(md_path)
+                            break
 
         # Save the GPT response for the latest date to the "latest" folder
         if latest_date:
@@ -157,14 +168,12 @@ Note: keep weather table in dict format with keys having individual tupples.
 - Key:'crops_data'; Value: dictionary having info of extracting the crops/animal husbandry/poultry/fishing details from it and extracting information for each crop/animal from it, each tagged separately for each crop/subgroup (There should be a distinct finite list of these subgroups) (Keys: each crop name, Value: Should be a dict with compulsory key 'advisory')
 
 Return only json, nothing else.'''
-    base_api_url = "http://52.191.57.171:8000"
+    base_api_url = "https://api.staging.pdf-parser.samagra.io"
 
     temp_dir = tempfile.mkdtemp()
 
-    # Call the scraper function to get data
     data = scraper()
 
     process_data(data, system_prompt, base_api_url, temp_dir)
 
-    # Clean up the temporary directory
     os.rmdir(temp_dir)
