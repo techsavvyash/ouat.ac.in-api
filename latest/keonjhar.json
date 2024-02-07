@@ -1,0 +1,92 @@
+{
+  "weather": {
+    "07-02-2024": {
+      "Rainfall": 0,
+      "MAX (C )": 31,
+      "T-MIN (C )": 15,
+      "Wind speed (kmph)": 8
+    },
+    "08-02-2024": {
+      "Rainfall": 0,
+      "MAX (C )": 30,
+      "T-MIN (C )": 14,
+      "Wind speed (kmph)": 6
+    },
+    "09-02-2024": {
+      "Rainfall": 0,
+      "MAX (C )": 29,
+      "T-MIN (C )": 13,
+      "Wind speed (kmph)": 6
+    },
+    "10-02-2024": {
+      "Rainfall": 0,
+      "MAX (C )": 27,
+      "T-MIN (C )": 12,
+      "Wind speed (kmph)": 6
+    },
+    "11-02-2024": {
+      "Rainfall": 0,
+      "MAX (C )": 25,
+      "T-MIN (C )": 14,
+      "Wind speed (kmph)": 5
+    }
+  },
+  "general_advice": "According to IMD, no rainfall over the Keonjhar district is forecasted. Provide irrigation if soil moisture stress is observed. Harvest the matured crops and store them in safe storage. Use Aluminium Phosphide (Celphos tablets) as fumigants for safe storage. Carefully, monitor the field for disease and pests.",
+  "name_of_crops": [
+    "Linseed",
+    "Chickpea",
+    "Mustard",
+    "Banana",
+    "Papaya",
+    "Brinjal",
+    "Cauliflower",
+    "Cabbage",
+    "Chilli",
+    "Tomato",
+    "Rose",
+    "Marigold",
+    "Cow"
+  ],
+  "crops_data": {
+    "Linseed": {
+      "advisory": "Top dressing of Urea in pre-flowering stage of Linseed can be applied. Spraying of Imidachloprid @ 2 g/lt of water can reduce the aphids population. Use Chloropyriphos and neem extract containing Azadiractin 300 ppm can reduce the damage by Termite and leaf miner."
+    },
+    "Chickpea": {
+      "advisory": "Avoid excessive irrigation to the crop. Powdery mildew can be managed using home remedy by spraying milk sprays (40% milk and 60% water). To control powdery mildew disease in chickpea spray with Dithane- M 45 @ 2.5 g/lt of water. Alternaria blight in chickpea can be managed by spraying Mancozeb @ 2.5 g/lt of water or Carbendazim @ 1 g/lt of water."
+    },
+    "Mustard": {
+      "advisory": "Mustard are in flowering and pod filling stage. Top dressing of Urea can be done in mustard crop. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit."
+    },
+    "Banana": {
+      "advisory": "Yellow Sigatoka Diseases In Banana Can Be Managed By Spraying Carbendazim And Propiconazole @ 0.1% in 10-15 days interval."
+    },
+    "Papaya": {
+      "advisory": "To Manage Papaya Ring Spot Virus, Remove Or Rogue Out The Plants And Burn It Away From the field. Papaya leaf curl virus can be controlled by spraying Imidachloprid or Acephate @ 2g/lt of water."
+    },
+    "Brinjal": {
+      "advisory": "Whitefly And Aphids In Brinjal Can Be Managed By Spraying Phosphamidon 40% Sl @ 1.5 ml/lt of water. For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10lt of water. Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors."
+    },
+    "Cauliflower": {
+      "advisory": "Diamond back moth in cauliflower can be managed by spraying Cartap hydrochloride @ 1 g/lt of water. Fall army worm or head borer can be controlled by spraying Emamectin benzoate 5% SG @ 4-5 g/10lt of water. Aphids in Cauliflower can be controlled by spraying Thiomethoxam 25% W.G @ 80g or Acetamiprid 20% S.P @ 30g per acre in 200 lt of water."
+    },
+    "Cabbage": {
+      "advisory": "To Control Cabbage Head Borer, Apply Novaluron 10% Ec @ 400 Ml Or Spinosad 2.5% SC @ 300ml or Emamectin benzoate 5% SG @ 100g in 200lt of water and spray on leaves."
+    },
+    "Chilli": {
+      "advisory": "Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water."
+    },
+    "Tomato": {
+      "advisory": "Provide staking to the tomato plants. Remove the disease affected leaves and twigs. Make the field clean and remove the weeds. For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
+    },
+    "Rose": {
+      "advisory": "To control Thrips, aphids and leaf hoppers spray Methyl demeton 25 EC @ 2 ml/lt or Carbofuran 3G @ 5 g/plant."
+    },
+    "Marigold": {
+      "advisory": "Mealy bug in marigold can be controlled by spraying Fish oil or resin soap @ 25 g/lt. In severe infestation, spray Dimethoate or Prophenophos @ 2 ml/lt."
+    },
+    "Cow": {
+      "advisory": "Provide clean drinking water to the calves and cows. Arrange proper heat to the sheds to reduce the cold waves."
+    }
+  },
+  "date": "06-02-2024"
+}
