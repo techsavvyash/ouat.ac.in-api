@@ -58,9 +58,12 @@ def download_pdf(url, temp_dir):
         return None
 
 def send_to_api(pdf_path, base_url):
-    api_url = f"{base_url}/process_to_md/"
+    api_url = f"{base_url}/process/"
     files = {'file': open(pdf_path, 'rb')}
-    data = {'language': 'english'}
+    data = {
+        'language': 'english',
+        'to':'md'
+        }
     response = requests.post(api_url, files=files, data=data)
 
     if response.status_code == 200:
@@ -72,14 +75,16 @@ def send_to_api(pdf_path, base_url):
         return None
 
 def download_md(pdf_id, base_url, temp_dir):
-    api_url = f"{base_url}/download_md/"
+    api_url = f"{base_url}/download/"
     # api_url="https://rachitavya.github.io/testing_ghapi/gpt_response.md"
-    params = {'pdf_id': pdf_id}
-
+    params = {
+        'pdf_id': pdf_id,
+        'format': 'md'
+        }
     response = requests.get(api_url, params=params)
     
     if response.status_code == 200:        
-        md_url=response.json().get('md_url')
+        md_url=response.json().get('data')[0]['mdURL']    
         md_response=requests.get(md_url)
         md_content = md_response.content.decode("utf-8")
         md_temp_file = tempfile.NamedTemporaryFile(delete=False, dir=temp_dir, suffix=".md")
@@ -131,8 +136,9 @@ def process_data(data, system_prompt, base_api_url, temp_dir):
                             history_output_dir = "history"
                             os.makedirs(history_output_dir, exist_ok=True)
                             history_output_file = os.path.join(history_output_dir, f"{date_str}_{district_name}.json")
+                            json_dict=json.loads(gpt_response)
                             with open(history_output_file, 'w') as json_file:
-                                json.dump(gpt_response, json_file, indent=2)
+                                json.dump(json_dict, json_file, indent=2)
 
                             print(f"GPT response for {district_name} on {date} saved to {history_output_file}")
 
@@ -152,8 +158,9 @@ def process_data(data, system_prompt, base_api_url, temp_dir):
             latest_output_dir = "latest"
             os.makedirs(latest_output_dir, exist_ok=True)
             latest_output_file = os.path.join(latest_output_dir, f"{district_name}.json")
+            json_dict=json.loads(latest_gpt_response)
             with open(latest_output_file, 'w') as json_file:
-                json.dump(latest_gpt_response, json_file, indent=2)
+                json.dump(json_dict, json_file, indent=2)
 
             print(f"Latest GPT response for {district_name} saved to {latest_output_file}")
 
@@ -164,8 +171,11 @@ I will give an md having agro-advisory data. You need to extract these things:
 - Key: 'weather'; Value:Extracting table about weather details tagged as 'weather table' 
 Note: keep weather table in dict format with keys having individual tupples.
 - Key:'general_advice'; value: Extracting general advice about the weather and cropping from the pdf tagged as 'general advice' 
-- Key:'name_of_crops'; Value: Name of crops for which further info is present 
-- Key:'crops_data'; Value: dictionary having info of extracting the crops/animal husbandry/poultry/fishing details from it and extracting information for each crop/animal from it, each tagged separately for each crop/subgroup (There should be a distinct finite list of these subgroups) (Keys: each crop name, Value: Should be a dict with compulsory key 'advisory')
+- Key:'name_of_crops'; Value: Name of crops/animal husbandry/poultry/fishing for which further info is present 
+- Key:'crops_data'; Value: dictionary having info of extracting the crops/animal husbandry/poultry/fishing details from it and extracting information for each crops/animal husbandry/poultry/fishing from it, each tagged separately for each crop/subgroup (There should be a distinct finite list of these subgroups) (Keys: each crop name, Value: Should be a dict with compulsory key 'advisory')
+
+Note:1. Don't give any triple backticks or newline characters in response. It should be proper json.
+2. Name of keys of each crop/animal and all in 'crops_data' should be identical to what is was in 'name_of_crops'.
 
 Return only json, nothing else.'''
     base_api_url = "https://api.staging.pdf-parser.samagra.io"
