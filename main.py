@@ -237,7 +237,10 @@ Return only json, nothing else.'''
         json.dump(metadata, meta_file, indent=4)
 
 
-    os.rmdir(temp_dir)
+    try:
+        shutil.rmtree(temp_dir)
+    except Exception as e:
+        print("Error",e)
 
 if __name__ == "__main__":
     retries = 3  
