@@ -34,6 +34,7 @@ def get_gpt_response(system_prompt, user_prompt):
 def move_json_to_history(source_dir, dest_dir):
     # Create the history directory if it doesn't exist
     os.makedirs(dest_dir, exist_ok=True)
+    os.makedirs(source_dir, exist_ok=True)
     
     # Iterate through all JSON files in the source directory
     for filename in os.listdir(source_dir):
