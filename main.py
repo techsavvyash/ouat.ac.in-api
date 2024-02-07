@@ -92,7 +92,10 @@ async def download_and_process(session, district, system_prompt, base_api_url, t
             os.makedirs(latest_output_dir, exist_ok=True)
             district_file_name = f"{district_name}.json"
             latest_output_file = os.path.join(latest_output_dir, district_file_name)
-            json_dict = json.loads(gpt_response)
+            try:
+                json_dict = json.loads(gpt_response)
+            except:
+                print(f"error in {district_name}")
             json_dict['date']=date.replace('/','-')
             with open(latest_output_file, 'w') as json_file:
                 json.dump(json_dict, json_file, indent=2)
