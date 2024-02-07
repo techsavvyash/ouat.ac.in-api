@@ -52,7 +52,7 @@ def move_json_to_history(source_dir, dest_dir):
                 print(f"Moved {filename} to {dest_path}")
 
 async def download_and_process(session, district, system_prompt, base_api_url, temp_dir):
-    
+    global counter
     district_name = district["district_name"]
     info = district.get("link", {})  # Extracting the "link" key instead of "info"
     date=district["date"]
@@ -108,7 +108,7 @@ async def download_and_process(session, district, system_prompt, base_api_url, t
                 os.unlink(md_path)
 
     except Exception as e:
-            print(f"filed for {district_name}. Error: {e}")
+            print(f"failed for {district_name}. Error: {e}")
             
                 # Clean up the temporary files
             
@@ -218,7 +218,10 @@ Return only json, nothing else.'''
     base_api_url = "https://api.staging.pdf-parser.samagra.io"
     temp_dir = tempfile.mkdtemp()
 
-    data = scraper()
+    try:
+        data = scraper()
+    except:
+        print("error scrapping website")
     try:
         move_json_to_history("latest", "history")
     except Exception as e:
