@@ -1,3 +1,5 @@
+import asyncio
+import aiohttp
 import requests
 import tempfile
 import os
@@ -5,11 +7,17 @@ from bs4 import BeautifulSoup
 import json
 import openai
 from dotenv import load_dotenv
+import shutil
 import time
+from aiohttp.client_exceptions import ClientConnectorError
 
 load_dotenv()
-api_key=os.environ.get("OPENAI_API_KEY")
+api_key = os.environ.get("OPENAI_API_KEY")
 openai.api_key = api_key
+
+async def fetch_data(session, url):
+    async with session.get(url) as response:
+        return await response.text()
 
 def get_gpt_response(system_prompt, user_prompt):
     response = openai.ChatCompletion.create(
@@ -23,28 +31,127 @@ def get_gpt_response(system_prompt, user_prompt):
     gpt_response = response["choices"][0]["message"]["content"]
     return gpt_response
 
-def scraper():
-    url='https://ouat.ac.in/quick-links/agro-advisory-services/'
-    response=requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-
-    data=[]
-    districts = soup.find_all('div', class_='hide1')
-    for district in districts:
-        district_name=district.get('id')[:-1]
-        data_dict={'district_name': district_name, 'info':{}}
-        table=district.find('table').find('tbody')
-        rows = table.select('tr')
-        for row in rows:
-            columns = row.find_all('td')
-            date = columns[1].text.strip()
-            english_link = columns[2].find('a')['href']
-            odia_link = columns[3].find('a')['href']
-            link_dict = {'english': english_link, 'odia': odia_link}
-            data_dict['info'][date] = link_dict
-        data.append(data_dict)
+def move_json_to_history(source_dir, dest_dir):
+    # Create the history directory if it doesn't exist
+    os.makedirs(dest_dir, exist_ok=True)
     
-    return data
+    # Iterate through all JSON files in the source directory
+    for filename in os.listdir(source_dir):
+        if filename.endswith(".json"):
+            source_path = os.path.join(source_dir, filename)
+            with open(source_path, 'r') as json_file:
+                data = json.load(json_file)
+                date = data.get('date')
+                district_name = filename.split('.')[0]
+                history_filename = f"{date}_{district_name}.json"
+                dest_path = os.path.join(dest_dir, history_filename)
+                shutil.move(source_path, dest_path)
+                print(f"Moved {filename} to {dest_path}")
+
+async def download_and_process(session, district, system_prompt, base_api_url, temp_dir):
+    district_name = district["district_name"]
+    info = district.get("link", {})  # Extracting the "link" key instead of "info"
+    date=district["date"]
+
+    tasks = []
+    pdf_paths = []
+    md_paths = []
+    gpt_responses = []
+
+    for language, link in info.items():
+        # Focus only on English language links
+        if language == "english":
+            english_link = link
+            print(f"Downloading PDF for {district_name}")
+            pdf_path = download_pdf(english_link, temp_dir)
+            pdf_paths.append(pdf_path)
+
+            if pdf_path:
+                print(f"Parsing to MD for {district_name}")
+                pdf_id_task = send_to_api(session, pdf_path, base_api_url)
+                tasks.append(pdf_id_task)
+    
+    # Run all the tasks concurrently
+    pdf_ids = await asyncio.gather(*tasks)
+
+    for pdf_id in pdf_ids:
+        if pdf_id:
+            md_path = await download_md(session, pdf_id, base_api_url, temp_dir)
+            md_paths.append(md_path)
+            if md_path:
+                with open(md_path, 'r') as md_file:
+                    user_prompt = md_file.read()
+                gpt_response = get_gpt_response(system_prompt, user_prompt)
+                gpt_responses.append(gpt_response)
+
+    for gpt_response, pdf_path, md_path in zip(gpt_responses, pdf_paths, md_paths):
+        # Handle GPT responses and cleanup
+        if gpt_response:
+            latest_output_dir = "latest"
+            os.makedirs(latest_output_dir, exist_ok=True)
+            district_file_name = f"{district_name}.json"
+            latest_output_file = os.path.join(latest_output_dir, district_file_name)
+            json_dict = json.loads(gpt_response)
+            json_dict['date']=date.replace('/','-')
+            with open(latest_output_file, 'w') as json_file:
+                json.dump(json_dict, json_file, indent=2)
+            print(f"GPT response for {district_name} saved to {latest_output_file}")
+
+            # Clean up the temporary files
+            os.unlink(pdf_path)
+            os.unlink(md_path)
+
+def check_status_type(pdf_id, base_url):
+    url = f"{base_url}/status/?pdf_id={pdf_id}"
+    response = requests.get(url)
+    
+    if response.status_code == 200:
+        data = response.json()
+        status = data.get("status", {})
+        message = status.get("message", {})
+        message_type = message.get("type")
+        return message_type
+    else:
+        print(f"Error: Failed to fetch status. Status code: {response.status_code}")
+        return None
+
+async def send_to_api(session, pdf_path, base_url):
+    api_url = f"{base_url}/process/"
+    
+    # Create a multipart request
+    form = aiohttp.FormData()
+    form.add_field('language', 'english')
+    form.add_field('to', 'md')
+    form.add_field('file', open(pdf_path, 'rb'), filename=os.path.basename(pdf_path))
+
+    async with session.post(api_url, data=form) as response:
+        if response.status == 200:
+            pdf_id = (await response.json()).get('pdf_id')
+            print("PDF processed successfully. PDF ID:", pdf_id)
+            return pdf_id
+        else:
+            print(f"Failed to send PDF to API. Status code: {response.status}")
+            return None
+
+async def download_md(session, pdf_id, base_url, temp_dir):
+    while check_status_type(base_url=base_url,pdf_id=pdf_id)!='SUCCESS':
+        time.sleep(2)
+
+    api_url = f"{base_url}/download/"
+    params = {'pdf_id': pdf_id, 'format': 'md'}
+    async with session.get(api_url, params=params) as response:
+        if response.status == 200:
+            md_url = (await response.json()).get('data')[0]['mdURL']
+            async with session.get(md_url) as md_response:
+                md_content = await md_response.text()
+                md_temp_file = tempfile.NamedTemporaryFile(delete=False, dir=temp_dir, suffix=".md")
+                with open(md_temp_file.name, 'w') as f:
+                    f.write(md_content)
+                print("Markdown file downloaded successfully.")
+                return md_temp_file.name
+        else:
+            print(f"Failed to download Markdown file. Status code: {response.status}")
+            return None
 
 def download_pdf(url, temp_dir):
     response = requests.get(url)
@@ -57,115 +164,34 @@ def download_pdf(url, temp_dir):
         print(f"Failed to download PDF from {url}")
         return None
 
-def send_to_api(pdf_path, base_url):
-    api_url = f"{base_url}/process/"
-    files = {'file': open(pdf_path, 'rb')}
-    data = {
-        'language': 'english',
-        'to':'md'
-        }
-    response = requests.post(api_url, files=files, data=data)
+def scraper():
+    url = 'https://ouat.ac.in/quick-links/agro-advisory-services/'
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-    if response.status_code == 200:
-        pdf_id = response.json().get('pdf_id')
-        print("PDF processed successfully. PDF ID:", pdf_id)
-        return pdf_id
-    else:
-        print(f"Failed to send PDF to API. Status code: {response.status_code}")
-        return None
+    data = []
+    districts = soup.find_all('div', class_='hide1')
+    for district in districts:
+        district_name = district.get('id')[:-1]
+        data_dict = {'district_name': district_name}
+        table = district.find('table').find('tbody')
+        if len(table.select('tr'))>0:
+            rows = table.select('tr')[0]
+        else:
+            continue
+        columns = rows.find_all('td')
+        date = columns[1].text.strip()
+        data_dict['date']=date
+        english_link = columns[2].find('a')['href']
+        odia_link = columns[3].find('a')['href']
+        link_dict = {'english': english_link, 'odia': odia_link}
+        data_dict['link'] = link_dict
+        data.append(data_dict)
 
-def download_md(pdf_id, base_url, temp_dir):
-    api_url = f"{base_url}/download/"
-    # api_url="https://rachitavya.github.io/testing_ghapi/gpt_response.md"
-    params = {
-        'pdf_id': pdf_id,
-        'format': 'md'
-        }
-    response = requests.get(api_url, params=params)
-    
-    if response.status_code == 200:        
-        md_url=response.json().get('data')[0]['mdURL']    
-        md_response=requests.get(md_url)
-        md_content = md_response.content.decode("utf-8")
-        md_temp_file = tempfile.NamedTemporaryFile(delete=False, dir=temp_dir, suffix=".md")
-        with open(md_temp_file.name, 'w') as f:
-            f.write(md_content)
-        print("Markdown file downloaded successfully.")
-        return md_temp_file.name
-    else:
-        print(f"Failed to download Markdown file. Status code: {response.status_code}")
-        return None
+    return data
 
-
-
-def process_data(data, system_prompt, base_api_url, temp_dir):
-    for district in data:
-        district_name = district["district_name"]
-        print("District: ",district_name)
-        info = district["info"]
-
-        latest_date = None
-        latest_gpt_response = None
-
-        for date, languages in info.items():
-            # Focus only on English language links
-            date_str = date.replace('/', '-')
-            english_link = languages.get("english")
-
-            if english_link:
-                print("Downloading PDF")
-                pdf_path = download_pdf(english_link, temp_dir)
-
-                if pdf_path:
-                    print("Parsing to MD")
-                    pdf_id = send_to_api(pdf_path, base_api_url)
-                    print(pdf_id)
-
-                    if pdf_id:
-                        print('let it convert...')
-                        time.sleep(4)
-                        print("Downloading MD")
-                        md_path = download_md(pdf_id, base_api_url, temp_dir)
-
-                        if md_path:
-                            with open(md_path, 'r') as md_file:
-                                user_prompt = md_file.read()
-
-                            gpt_response = get_gpt_response(system_prompt, user_prompt)
-
-                            history_output_dir = "history"
-                            os.makedirs(history_output_dir, exist_ok=True)
-                            history_output_file = os.path.join(history_output_dir, f"{date_str}_{district_name}.json")
-                            json_dict=json.loads(gpt_response)
-                            with open(history_output_file, 'w') as json_file:
-                                json.dump(json_dict, json_file, indent=2)
-
-                            print(f"GPT response for {district_name} on {date} saved to {history_output_file}")
-
-                            # Update the latest date for the district
-                            if latest_date is None or date > latest_date:
-                                latest_date = date
-                                latest_gpt_response = gpt_response
-                            
-
-                            # Clean up the temporary files
-                            os.unlink(pdf_path)
-                            os.unlink(md_path)
-
-        # Save the GPT response for the latest date to the "latest" folder
-        if latest_date:
-            latest_output_dir = "latest"
-            os.makedirs(latest_output_dir, exist_ok=True)
-            latest_output_file = os.path.join(latest_output_dir, f"{district_name}.json")
-            json_dict=json.loads(latest_gpt_response)
-            with open(latest_output_file, 'w') as json_file:
-                json.dump(json_dict, json_file, indent=2)
-
-            print(f"Latest GPT response for {district_name} saved to {latest_output_file}")
-
-
-if __name__ == "__main__":
-    system_prompt='''You are an agent which analyze data in the form of md file content and return only json for the information required.
+async def main():
+    system_prompt = '''You are an agent which analyze data in the form of md file content and return only json for the information required.
 I will give an md having agro-advisory data. You need to extract these things:
 - Key: 'weather'; Value:Extracting table about weather details tagged as 'weather table' 
 Note: keep weather table in dict format with keys having individual tupples.
@@ -178,11 +204,30 @@ Note:1. Don't give any triple backticks or newline characters in response. It sh
 
 Return only json, nothing else.'''
     base_api_url = "https://api.staging.pdf-parser.samagra.io"
-
     temp_dir = tempfile.mkdtemp()
 
     data = scraper()
+    move_json_to_history("latest", "history")
 
-    process_data(data, system_prompt, base_api_url, temp_dir)
+    async with aiohttp.ClientSession() as session:
+        tasks = [download_and_process(session, district, system_prompt, base_api_url, temp_dir) for district in data]
+        await asyncio.gather(*tasks)
 
     os.rmdir(temp_dir)
+
+if __name__ == "__main__":
+    retries = 3  
+    retry_delay = 5
+
+    for attempt in range(1, retries + 1):
+        try:
+            asyncio.run(main())
+            break  # If successful, break out of the retry loop
+        except (ClientConnectorError, aiohttp.ClientError) as e:
+            print(f"Attempt {attempt}: An error occurred: {e}")
+            if attempt < retries:
+                print(f"Retrying in {retry_delay} seconds...")
+                time.sleep(retry_delay)
+            else:
+                print("All retry attempts failed. Exiting.")
+                raise e
