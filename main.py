@@ -99,7 +99,7 @@ def download_md(pdf_id, base_url, temp_dir):
 
 
 def process_data(data, system_prompt, base_api_url, temp_dir):
-    for district in data[21:]:
+    for district in data:
         district_name = district["district_name"]
         print("District: ",district_name)
         info = district["info"]
