@@ -151,7 +151,6 @@ def process_data(data, system_prompt, base_api_url, temp_dir):
                             # Clean up the temporary files
                             os.unlink(pdf_path)
                             os.unlink(md_path)
-                            break
 
         # Save the GPT response for the latest date to the "latest" folder
         if latest_date:
