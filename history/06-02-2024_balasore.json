@@ -7,36 +7,30 @@
       "07-02-2024": {
         "T-MAX": 31,
         "T-MIN": 21,
-        "Rh Max": null,
-        "Rh Min": null,
+        "Rh Max": 0,
+        "Rh Min": 0,
         "Wind speed": 1
       },
-      "08-02-2024": {
-        "T-MAX": null,
-        "T-MIN": null,
-        "Rh Max": null,
-        "Rh Min": null,
-        "Wind speed": null
-      },
+      "08-02-2024": {},
       "09-02-2024": {
         "T-MAX": 30,
         "T-MIN": 19,
-        "Rh Max": null,
-        "Rh Min": null,
+        "Rh Max": 0,
+        "Rh Min": 0,
         "Wind speed": 1
       },
       "10-02-2024": {
         "T-MAX": 29,
         "T-MIN": 19,
-        "Rh Max": null,
-        "Rh Min": null,
+        "Rh Max": 0,
+        "Rh Min": 0,
         "Wind speed": 2
       },
       "11-02-2024": {
         "T-MAX": 29,
         "T-MIN": 21,
-        "Rh Max": null,
-        "Rh Min": null,
+        "Rh Max": 0,
+        "Rh Min": 0,
         "Wind speed": 2
       }
     }

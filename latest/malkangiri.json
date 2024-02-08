@@ -23,10 +23,14 @@
     "forecast": {
       "Chances of clear to mainly clear sky during next five days.": true,
       "Chances of no rainfall during next five days.": true,
-      "Maximum temperature": "32-35\u00b0C",
-      "Minimum temperature": "18-20\u00b0C",
-      "Maximum relative humidity": "63-84%",
-      "Minimum relative humidity": "21-26%"
+      "Temperature": {
+        "Maximum": "32-35\u00b0C",
+        "Minimum": "18-20\u00b0C"
+      },
+      "Relative Humidity": {
+        "Maximum": "63-84%",
+        "Minimum": "21-26%"
+      }
     }
   },
   "general_advice": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop field as per requirement. Farmers are advised for not to burn the residue of *kharif* crops in the fields because it not only pollute the environment but also causes the severe health problems.",

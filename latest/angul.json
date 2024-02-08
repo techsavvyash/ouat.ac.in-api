@@ -1,0 +1,72 @@
+{
+  "weather": {
+    "2024-02-07": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 33,
+      "Tmin(\u00b0C)": 13,
+      "RH-I(%)": 61,
+      "RH-II(%)": 26,
+      "Wind Speed(kmph)": 7,
+      "Wind Direction(Degree)": 158,
+      "Cloud Cover(Octa)": 0
+    },
+    "2024-02-08": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 33,
+      "Tmin(\u00b0C)": 12,
+      "RH-I(%)": 82,
+      "RH-II(%)": 25,
+      "Wind Speed(kmph)": 7,
+      "Wind Direction(Degree)": 108,
+      "Cloud Cover(Octa)": 1
+    },
+    "2024-02-09": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 31,
+      "Tmin(\u00b0C)": 11,
+      "RH-I(%)": 74,
+      "RH-II(%)": 29,
+      "Wind Speed(kmph)": 6,
+      "Wind Direction(Degree)": 79,
+      "Cloud Cover(Octa)": 1
+    },
+    "2024-02-10": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 30,
+      "Tmin(\u00b0C)": 11,
+      "RH-I(%)": 54,
+      "RH-II(%)": 29,
+      "Wind Speed(kmph)": 6,
+      "Wind Direction(Degree)": 116,
+      "Cloud Cover(Octa)": 1
+    },
+    "2024-02-11": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 29,
+      "Tmin(\u00b0C)": 13,
+      "RH-I(%)": 45,
+      "RH-II(%)": 18,
+      "Wind Speed(kmph)": 6,
+      "Wind Direction(Degree)": 105,
+      "Cloud Cover(Octa)": 3
+    }
+  },
+  "general_advice": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea.",
+  "name_of_crops": [
+    "RICE",
+    "PIGEON PEA (RED GRAM/ARHAR)",
+    "Onion"
+  ],
+  "crops_data": {
+    "RICE": {
+      "advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea."
+    },
+    "PIGEON PEA (RED GRAM/ARHAR)": {
+      "advisory": "To avoid storage pests' infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
+    },
+    "Onion": {
+      "advisory": "Onion Seedlings of 8-weeks old which are 12-15 cm in height should be planted in the main field. Before transplanting apply 10 tonnes of Compost, 52 kg of DAP, 30 kg of Muriate of Potash 20 kg of urea and 20 kg of sulphur and mix it to the soil uniformly. Transplant the seedlings in line by keeping the row to row spacing at 25 cm and plant to plant spacing at 1"
+    }
+  },
+  "date": "06-02-2024"
+}
