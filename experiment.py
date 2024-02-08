@@ -1,4 +1,3 @@
-from superjsonmode.integrations.openai import StructuredOpenAIModel
 from PyPDF2 import PdfReader
 import asyncio
 from openai import AsyncOpenAI
@@ -12,14 +11,6 @@ client = AsyncOpenAI(
     # This is the default and can be omitted
     api_key=os.environ.get("OPENAI_API_KEY"),
 )
-
-
-model = StructuredOpenAIModel()
-
-reader = PdfReader("/Users/__chaks__/repos/ouat.ac.in-api/pdfs/Bhadrak.pdf")
-text = ""
-for page in reader.pages:
-    text += page.extract_text()
 
 
 async def process_pdf(pdf_path):
