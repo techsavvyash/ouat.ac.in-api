@@ -2,15 +2,24 @@
   "weather": {
     "07-02-2024": {
       "Rainfall (mm)": 0,
-      "Max Temperature (\u00ba C)": 34,
-      "Min Temperature ( \u00baC)": 14,
+      "Max Temperature (\u00ba C)": 33,
+      "Min Temperature ( \u00baC)": 16,
       "Total cloud cover (okta)": 0,
-      "Max Relative Humidity (%)": 64,
-      "Min Relative Humidity (%)": 27,
-      "Wind speed (km/h)": 10,
-      "Wind direction (deg)": 22
+      "Max Relative Humidity (%)": 49,
+      "Min Relative Humidity (%)": 22,
+      "Wind speed (km/h)": 7,
+      "Wind direction (deg)": 292
     },
-    "08-02-2024": {},
+    "08-02-2024": {
+      "Rainfall (mm)": 0,
+      "Max Temperature (\u00ba C)": 32,
+      "Min Temperature ( \u00baC)": 16,
+      "Total cloud cover (okta)": 0,
+      "Max Relative Humidity (%)": 68,
+      "Min Relative Humidity (%)": 22,
+      "Wind speed (km/h)": 6,
+      "Wind direction (deg)": 198
+    },
     "09-02-2024": {},
     "10-02-2024": {},
     "11-02-2024": {}
@@ -38,7 +47,7 @@
       "advisory": "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days old crop."
     },
     "Tomato": {
-      "advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage. Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy."
+      "advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage."
     },
     "Animal Husbandry": {
       "advisory": "Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy."

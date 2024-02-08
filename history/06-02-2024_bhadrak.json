@@ -1,7 +1,7 @@
 {
   "weather": {
     "Weather table": {
-      "Rainfall (mm)": 0.8,
+      "Rainfall (mm)": "0.8",
       "Maximum temperature (C)": "29.0-32.0",
       "Minimum temperature (C)": "17.0-22.0"
     }
@@ -27,7 +27,7 @@
       "advisory": "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended."
     },
     "Rapeseed & Mustard": {
-      "advisory": "The mustard crop is at the flowering stage. The rainfall received during the last week which results in higher humidity and lower temperature might aggravate Aphid, Leaf Webber and Tobacco Caterpillar infestation in mustard crop. To manage these pests at early stage of infestation spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600-ml/acre by mixing in 200-litre of water. After 7-10 days need based spraying of Emamectin Benzoate @300g/acre is recommended."
+      "advisory": "The rainfall received during the last week which results in higher humidity and lower temperature might aggravate Aphid, Leaf Webber and Tobacco Caterpillar infestation in mustard crop. To manage these pests at early stage of infestation spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600-ml/acre by mixing in 200-litre of water. After 7-10 days need based spraying of Emamectin Benzoate @300g/acre is recommended."
     },
     "Greengram": {
       "advisory": "Complete the sowing of summer Greengram as soon as possible to avoid the infestation of sucking pest and viral disease under delayed sowing condition."

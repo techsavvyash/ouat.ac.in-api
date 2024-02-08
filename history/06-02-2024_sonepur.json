@@ -3,14 +3,23 @@
     "07-02-2024": {
       "Rainfall (mm)": 0,
       "Max Temperature (\u00ba C)": 34,
-      "Min Temperature ( \u00baC)": 14,
+      "Min Temperature ( \u00baC)": 18,
       "Total cloud cover (okta)": 0,
-      "Max Relative Humidity (%)": 64,
-      "Min Relative Humidity (%)": 27,
-      "Wind speed (km/h)": 10,
-      "Wind direction (deg)": 22
+      "Max Relative Humidity (%)": 53,
+      "Min Relative Humidity (%)": 21,
+      "Wind speed (km/h)": 8,
+      "Wind direction (deg)": 288
     },
-    "08-02-2024": {},
+    "08-02-2024": {
+      "Rainfall (mm)": 0,
+      "Max Temperature (\u00ba C)": 33,
+      "Min Temperature ( \u00baC)": 16,
+      "Total cloud cover (okta)": 0,
+      "Max Relative Humidity (%)": 50,
+      "Min Relative Humidity (%)": 23,
+      "Wind speed (km/h)": 8,
+      "Wind direction (deg)": 72
+    },
     "09-02-2024": {},
     "10-02-2024": {},
     "11-02-2024": {}

@@ -17,7 +17,8 @@
   },
   "general_advice": "As per extended range forecast of IMD, rainfall is above normal, maximum and minimum temperature is expected to be normal for Odisha during 11.02.2024 to 17.02.2024. Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done during upcoming 3-4 days because there is a chance of occurrence of light rainfall in some places is expected at the end of this week.",
   "name_of_crops": [
-    "Green Gram/Black Gram",
+    "Green Gram/",
+    "Black Gram",
     "Mustard",
     "Sesame",
     "Groundnut",
@@ -25,8 +26,11 @@
     "Animal Husbandry"
   ],
   "crops_data": {
-    "Green Gram/Black Gram": {
+    "Green Gram/": {
       "advisory": "Yellow mosaic virus attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
+    },
+    "Black Gram": {
+      "advisory": ""
     },
     "Mustard": {
       "advisory": "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."

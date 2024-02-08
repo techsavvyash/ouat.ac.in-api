@@ -1,0 +1,92 @@
+{
+  "weather": {
+    "2024-02-07": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 34,
+      "Tmin(\u00b0C)": 18,
+      "RH-I(%)": 73,
+      "RH-II(%)": 25,
+      "Wind Speed(kmph)": 6,
+      "Wind Direction(Degree)": 210,
+      "Cloud Cover(Octa)": 0
+    },
+    "2024-02-08": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 34,
+      "Tmin(\u00b0C)": 18,
+      "RH-I(%)": 85,
+      "RH-II(%)": 21,
+      "Wind Speed(kmph)": 5,
+      "Wind Direction(Degree)": 236,
+      "Cloud Cover(Octa)": 0
+    },
+    "2024-02-09": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 33.4,
+      "Tmin(\u00b0C)": 17,
+      "RH-I(%)": 95,
+      "RH-II(%)": 28,
+      "Wind Speed(kmph)": 5,
+      "Wind Direction(Degree)": 135,
+      "Cloud Cover(Octa)": 1
+    },
+    "2024-02-10": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 32,
+      "Tmin(\u00b0C)": 17,
+      "RH-I(%)": 96,
+      "RH-II(%)": 30,
+      "Wind Speed(kmph)": 5,
+      "Wind Direction(Degree)": 135,
+      "Cloud Cover(Octa)": 1
+    },
+    "2024-02-11": {
+      "Rainfall(mm)": 0,
+      "Tmax(\u00b0C)": 32,
+      "Tmin(\u00b0C)": 17,
+      "RH-I(%)": 60,
+      "RH-II(%)": 27,
+      "Wind Speed(kmph)": 5,
+      "Wind Direction(Degree)": 115,
+      "Cloud Cover(Octa)": 2
+    }
+  },
+  "general_advice": "The mean maximum daily temperature was 32.9\u00b0C and the mean minimum daily temperature was 16.9\u00b0C of the Gajapati district during the last week. The district received 0.0 mm of rainfall during the last week. Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Keep bunding water in the main field of rice under late transplanting. Plan for irrigation to summer paddy and other crops observing soil moisture. Carry on intercultural operation, fertilizer, and weedicide application. Continue harvesting matured crops and keep the products in a safe place to protect them from rain. Spray insecticides or pesticides in crops as per requirement. Apply the insecticides in the afternoon hours so that the movement of Honeybees will not be disturbed. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying.",
+  "name_of_crops": [
+    "RICE",
+    "GROUNDNUT",
+    "HORTICULTURE",
+    "MANGO",
+    "COW",
+    "GOAT",
+    "COMMON CARP",
+    "POULTRY"
+  ],
+  "crops_data": {
+    "RICE": {
+      "advisory": "Farmers those who are going for transplanting should apply 35- kg DAP, 30- kg MOP and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP, 15 kg MOP and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+    },
+    "GROUNDNUT": {
+      "advisory": "To control Tikka disease spray Chlorothalonil 75% WP @ 400-gram/ acre or Mancozeb 75% WP @ 600 gram/acre or Hexaconazole 5% E.C @ 300ml/acre."
+    },
+    "HORTICULTURE": {
+      "advisory": "There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+    },
+    "MANGO": {
+      "advisory": "Due to cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant. To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. Application of smoke below the plants can also help in reducing the pest population."
+    },
+    "COW": {
+      "advisory": "The space left for ventilation must be closed in night, as the night temperature is expected to fall in coming days. Provide sufficient clean drinking water to animals. Don't feed wet or water soaked straw to cattle. Before feeding dry it well under Sun. Animal's shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, diarrhea and even death in severe cases. Good ventilation must be ensured during winter. Vaccinate calves above 3 months against Food and Mouth disease."
+    },
+    "GOAT": {
+      "advisory": "PPR disease also known as 'Goat Plague' is common during winter. This viral disease that affects goats and sheep which causes sudden fever, pneumonia and coughing. Affected animals appear restless, have a dull coat, dry muzzle and depressed appetite. Pregnant animals may abort. Vaccinate the animals."
+    },
+    "COMMON CARP": {
+      "advisory": "In the prevailing winter, there is a possibility of 'EUS' (Epizootic ulcerative syndrome). There is no effective treatment for EUS-infected fish in the wild and in aquaculture ponds. To minimise fish losses in infected fish ponds water exchange should be stopped and lime or hydrated lime and/or salt should be applied. Fishes should be feed daily oil cake bran mixture @ of 2-3%, of their biomass."
+    },
+    "POULTRY": {
+      "advisory": "To protect the poultry from cold, cover the farm with polythene or gunny bag. Provision for 2 watt light bulb per chick to ensure their health from cold wave."
+    }
+  },
+  "date": "06-02-2024"
+}

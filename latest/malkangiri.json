@@ -1,57 +1,32 @@
 {
   "weather": {
-    "Weather condition during last four days": {
-      "02.02.2024": {
-        "Rainfall (mm)": 0.0,
-        "T. Max. (\u00b0C)": 32,
-        "T. Min. (\u00b0C)": 19
-      },
-      "03.02.2024": {
-        "Rainfall (mm)": 0.0,
-        "T. Max. (\u00b0C)": 33,
-        "T. Min. (\u00b0C)": 19
-      },
-      "04.02.2024": {
-        "Rainfall (mm)": 0.0,
-        "T. Max. (\u00b0C)": 33,
-        "T. Min. (\u00b0C)": 19
-      },
-      "05.02.2024": {
-        "Rainfall (mm)": 0.0,
-        "T. Max. (\u00b0C)": 33,
-        "T. Min. (\u00b0C)": 19
-      }
+    "02.02.2024": {
+      "Rainfall (mm)": 0.0,
+      "T. Max. (\u00b0C)": 32,
+      "T. Min. (\u00b0C)": 19
     },
-    "Forecast Up To 11.02.2024 (According To Mc, Imd, Bhubaneswar)": {
-      "Chances of clear to mainly clear sky during next five days.": "",
-      "Chances of no rainfall during next five days.": "",
-      "Maximum temperature is expected to be 32-35\u00b0C and minimum temperature is expected to be 18-20\u00b0C.": "",
-      "Maximum and minimum relative humidity is expected to be 63-84%, and 21-26%, respectively.": "",
-      "07-02-2024": {
-        "Rainfall": 0,
-        "T. Max.": 34,
-        "T. Min.": 20
-      },
-      "08-02-2024": {
-        "Rainfall": 0,
-        "T. Max.": 34,
-        "T. Min.": 20
-      },
-      "09-02-2024": {
-        "Rainfall": 0,
-        "T. Max.": 33,
-        "T. Min.": 19
-      },
-      "10-02-2024": {
-        "Rainfall": 0,
-        "T. Max.": 32,
-        "T. Min.": 18
-      },
-      "11-02-2024": {
-        "Rainfall": 0,
-        "T. Max.": 35,
-        "T. Min.": 18
-      }
+    "03.02.2024": {
+      "Rainfall (mm)": 0.0,
+      "T. Max. (\u00b0C)": 33,
+      "T. Min. (\u00b0C)": 19
+    },
+    "04.02.2024": {
+      "Rainfall (mm)": 0.0,
+      "T. Max. (\u00b0C)": 33,
+      "T. Min. (\u00b0C)": 19
+    },
+    "05.02.2024": {
+      "Rainfall (mm)": 0.0,
+      "T. Max. (\u00b0C)": 33,
+      "T. Min. (\u00b0C)": 19
+    },
+    "forecast": {
+      "Chances of clear to mainly clear sky during next five days.": true,
+      "Chances of no rainfall during next five days.": true,
+      "Maximum temperature": "32-35\u00b0C",
+      "Minimum temperature": "18-20\u00b0C",
+      "Maximum relative humidity": "63-84%",
+      "Minimum relative humidity": "21-26%"
     }
   },
   "general_advice": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop field as per requirement. Farmers are advised for not to burn the residue of *kharif* crops in the fields because it not only pollute the environment but also causes the severe health problems.",
@@ -92,7 +67,7 @@
       "advisory": "To control fruit borer in okra spray neem based pesticide 300 ppm @ 5ml/litre of water. At later stages spray of Spinosad 45% SC @ 0.4ml/litre of water."
     },
     "Chilli": {
-      "advisory": "Fruit rot infestation may observe in field, if observe spray Azoxystrobin 23% SC @ 1 ml/litre of water or Tebuconazole 25.9% EC @ 1 ml/litre of water.. For better agricultural benefits use, OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits &Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & Vermi Compost and Farm Implements). Note: Contact nearby KVK Scientist or State Agriculture Officer/ Horticulture Officer for necessary help and suggestion."
+      "advisory": "Fruit rot infestation may observe in field, if observe spray Azoxystrobin 23% SC @ 1 ml/litre of water or Tebuconazole 25.9% EC @ 1 ml/litre of water."
     }
   },
   "date": "06-02-2024"

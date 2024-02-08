@@ -1,0 +1,96 @@
+{
+  "weather": {
+    "KANDHAMAL": {
+      "07-02-2024": {
+        "Rainfall (mm)": 0,
+        "MAX (C)": 33,
+        "MIN (C)": 14,
+        "Rh Max (%)": 51,
+        "Rh Min (%)": 23,
+        "Wind speed (kmph)": 6
+      },
+      "08-02-2024": {
+        "Rainfall (mm)": 0,
+        "MAX (C)": 32,
+        "MIN (C)": 13,
+        "Rh Max (%)": 69,
+        "Rh Min (%)": 21,
+        "Wind speed (kmph)": 6
+      },
+      "09-02-2024": {
+        "Rainfall (mm)": 0,
+        "MAX (C)": 31,
+        "MIN (C)": 11,
+        "Rh Max (%)": 65,
+        "Rh Min (%)": 22,
+        "Wind speed (kmph)": 6
+      },
+      "10-02-2024": {
+        "Rainfall (mm)": 0,
+        "MAX (C)": 29,
+        "MIN (C)": 11,
+        "Rh Max (%)": 94,
+        "Rh Min (%)": 18,
+        "Wind speed (kmph)": 6
+      },
+      "11-02-2024": {
+        "Rainfall (mm)": 0,
+        "MAX (C)": 27,
+        "MIN (C)": 13,
+        "Rh Max (%)": 53,
+        "Rh Min (%)": 21,
+        "Wind speed (kmph)": 6
+      }
+    }
+  },
+  "general_advice": "The sky will remain clear for the next five days and temperature will be increased with respect to the previous week. Farmers are advised to harvesting of the matured crops and after that they can Sun-dry the harvested crops. Raw turmeric is processed after 2-3 days after harvesting. Store the fingers under the shade or covered in saw/coir dust. Maize, wheat and concentrate oil cakes @ 3 kg to the large animals such as Buffalo and cattle feeding helps in maintaining the body heat. To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. In Rice, Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years.",
+  "name_of_crops": [
+    "Chilli",
+    "Turmeric",
+    "Green Gram",
+    "Rice",
+    "Garden Pea",
+    "Brinjal",
+    "Tomato",
+    "Marigold",
+    "Poultry",
+    "Fisheries",
+    "Cattle"
+  ],
+  "crops_data": {
+    "Chilli": {
+      "advisory": "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+    },
+    "Turmeric": {
+      "advisory": "Raw turmeric is processed after 2-3 days after harvesting. Store the fingers under the shade or covered in saw/coir dust."
+    },
+    "Green Gram": {
+      "advisory": "To control powdery mildew disease in Green-gram crop spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+    },
+    "Rice": {
+      "advisory": "In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years."
+    },
+    "Garden Pea": {
+      "advisory": "Provide lifesaving irrigation to the developing plants otherwise plant will dry up and yellowed. If Pod borer infestation is seen, then apply the following. Spray Azadirachtin 0.03% (300ppm) thrice at fortnightly intervals."
+    },
+    "Brinjal": {
+      "advisory": "During primary stage of whitefly infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. To manage this pest chemically spray Thiamethoxam 25 % WG @40-gram/acre or Pyriproxyfen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250-ml/acre by mixing in 200-liter of water."
+    },
+    "Tomato": {
+      "advisory": "If fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use pheromone trap 20@acre."
+    },
+    "Marigold": {
+      "advisory": "In cloudy weather event, there is a chance of occurrence of powdery mildew in marigold. To control this, apply Sulfex @3gm/liter of water after rain fall stops."
+    },
+    "Poultry": {
+      "advisory": "If chicks are congregated at one place, then provision for more warmth should be done. Close the open spaces in night and early morning to protect them winter. If any disease arises, isolate the affected one and vaccinate the others."
+    },
+    "Fisheries": {
+      "advisory": "In winter there is common white spots are found in fishes called as EUS. These spots later on turned into wounds which led to mortality of fishes. To prevent this, apply Aquaneem @1lt/ha or CIFAX @1lt/ha."
+    },
+    "Cattle": {
+      "advisory": "High amount of food is required in winter for cattle to maintain the metabolic activities and milk production. Maize, wheat and concentrate oil cakes @ 3 kg to the large animals such as Buffalo and cattle feeding helps in maintaining the body heat."
+    }
+  },
+  "date": "06-02-2024"
+}

@@ -1,0 +1,81 @@
+{
+  "weather": {
+    "31-01-2024": {
+      "Rainfall": "0",
+      "Cloud Cover": "30.0-33.3",
+      "T-MAX": "17.8-21.4"
+    },
+    "07-02-2024": {
+      "Rainfall": "0",
+      "Cloud Cover": "34",
+      "T-MAX": "20",
+      "T-MIN": "20"
+    },
+    "08-02-2024": {
+      "Rainfall": "0",
+      "Cloud Cover": "33",
+      "T-MAX": "19",
+      "T-MIN": "19"
+    },
+    "09-02-2024": {
+      "Rainfall": "0",
+      "Cloud Cover": "31",
+      "T-MAX": "17",
+      "T-MIN": "17"
+    },
+    "10-02-2024": {
+      "Rainfall": "0",
+      "Cloud Cover": "30",
+      "T-MAX": "17",
+      "T-MIN": "17"
+    },
+    "11-02-2024": {
+      "Rainfall": "0",
+      "Cloud Cover": "29",
+      "T-MAX": "19",
+      "T-MIN": "19"
+    }
+  },
+  "general_advice": "Farmers are advised to irrigate their field as there is mildly dry condition prevailed. Rabi season crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture. Groundnut crop is at flowering stage, apply Gypsum 200 kg per acre. In onion crop, go for interculture and hand weeding at 15-20 DAT. Apply 30kg of urea and 15kg of MOP fertilizer at this stage. Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties. To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4%G @ 10kg/acre or Chlorantraniliprole 0.4 % GR @ 4kg/acre or Imidacloprid 0.3% GR @ 6kg/acre by mixing it with sand at 1:1 ratio. Carry out planting of Sugarcane crop. To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water. To control Bihar hairy caterpillar in green gram and black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Farmers are also advised for various other crop management practices.",
+  "name_of_crops": [
+    "PADDY",
+    "GROUNDNUT",
+    "BLACK GRAM & GREEN GRAM",
+    "BRINJAL",
+    "POTATO",
+    "ONION",
+    "MANGO",
+    "ANIMAL HUSBANDRY",
+    "POULTRY"
+  ],
+  "crops_data": {
+    "PADDY": {
+      "advisory": "Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties. To control stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4%G @ 10kg/acre or Chlorantraniliprole 0.4 % GR @ 4kg/acre or Imidacloprid 0.3% GR @ 6kg/acre by mixing it with sand at 1:1 ratio."
+    },
+    "GROUNDNUT": {
+      "advisory": "To manage the carrier of Bud necrosis disease (Thrips) during the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage Thrips chemically, spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+    },
+    "BLACK GRAM & GREEN GRAM": {
+      "advisory": "To control Bihar hairy caterpillar in green gram and black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water."
+    },
+    "BRINJAL": {
+      "advisory": "To manage little leaf of Brinjal, which is a mycoplasma disease transmitted by leaf hopper, first remove and destroy the infected plant. To manage the vector of the disease, spray Thiamethoxam 25 % WG @ 50 g/acre or Flonicamid 50% WG @ 60 g/acre."
+    },
+    "POTATO": {
+      "advisory": "To control cut worm in potato crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Cut Worm pest are nocturnal so insecticide spray should be done at evening hours."
+    },
+    "ONION": {
+      "advisory": "To manage purple blotch and Stemphylium leaf blight disease in onion, spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval."
+    },
+    "MANGO": {
+      "advisory": "To manage mango hoppers, spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 3ml/15litre of water or Acetamiprid 20% S.P. @ 4g/15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after the first spray. Application of smoke below the plants can also help in reducing the pest population."
+    },
+    "ANIMAL HUSBANDRY": {
+      "advisory": "For countering Foot and mouth diseases of cattle, care should be taken for FMD vaccination once in a year."
+    },
+    "POULTRY": {
+      "advisory": "Sleeping disease of poultry has been found. Vaccinate the chicks with Lasota at 7 days and with IBD vaccines within 13-15 days."
+    }
+  },
+  "date": "06-02-2024"
+}
