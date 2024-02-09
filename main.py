@@ -108,7 +108,23 @@ def scraper():
     except Exception as e:
         logging.error(f"Error scraping website: {e}")
         return []
+    
 
+def move_json_to_history(source_dir, dest_dir):
+    os.makedirs(dest_dir, exist_ok=True)
+    os.makedirs(source_dir, exist_ok=True)
+
+    for filename in os.listdir(source_dir):
+        if filename.endswith(".json"):
+            source_path = os.path.join(source_dir, filename)
+            with open(source_path, 'r') as json_file:
+                data = json.load(json_file)
+                date = data.get('date')
+                district_name = filename.split('.')[0]
+                history_filename = f"{date}_{district_name}.json"
+                dest_path = os.path.join(dest_dir, history_filename)
+                shutil.move(source_path, dest_path)
+                print(f"Moved {filename} to {dest_path}")
 
 async def main():
     temp_dir = tempfile.mkdtemp()
@@ -119,14 +135,21 @@ async def main():
         logging.error(f"Error getting districts data: {e}")
         print("Error scraping website")
 
+    move_json_to_history("latest","history")
+
     tasks = [process_pdf(district_data, temp_dir) for district_data in districts_data]
     results = await asyncio.gather(*tasks)
 
-    composite_json = {key: value for key, value in results}
+    counter=0
+    for district, response in results:
+        if response=="error":
+            counter+=1
+            continue
+        with open(f"latest/{district}.json", "w") as f:
+            json.dump(response, f, ensure_ascii=False, indent=3)
 
     total_districts = len(districts_data)
-    error_count = sum(1 for value in composite_json.values() if isinstance(value, str) and value == "error")
-    metadata = f"District_done: {total_districts - error_count}, Total_district: {total_districts}"
+    metadata = f"District_done: {total_districts - counter}, Total_district: {total_districts}"
     with open("meta_data.txt", "w") as meta_file:
         json.dump(metadata, meta_file, indent=4)
 
@@ -134,8 +157,9 @@ async def main():
         shutil.rmtree(temp_dir)
     except Exception as e:
         logging.error(f"Error removing temporary directory: {e}")
+    
 
-    return composite_json
+    return "SUCCESS"
 
 
 if __name__ == "__main__":
@@ -144,9 +168,7 @@ if __name__ == "__main__":
 
     for attempt in range(1, retries + 1):
         try:
-            composite_results = asyncio.run(main())
-            with open("latest_data.json", "w") as f:
-                json.dump(composite_results, f, ensure_ascii=False, indent=4)
+            asyncio.run(main())
             print('latest data saved successfully')
             break  # If successful, break out of the retry loop
         except Exception as e:
