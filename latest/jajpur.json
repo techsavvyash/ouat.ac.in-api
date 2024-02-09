@@ -1,86 +1,159 @@
 {
-  "weather": {
-    "07-02-2024": {
-      "T-MAX": 0,
-      "T-MIN": 33,
-      "Rh Max": 19,
-      "Rh Min": 0,
-      "Wind speed": 0,
-      "Wind Direction": 91
-    },
-    "08-02-2024": {
-      "T-MAX": 0,
-      "T-MIN": 32,
-      "Rh Max": 18,
-      "Rh Min": 0,
-      "Wind speed": 0,
-      "Wind Direction": 89
-    },
-    "09-02-2024": {
-      "T-MAX": 0,
-      "T-MIN": 31,
-      "Rh Max": 18,
-      "Rh Min": 1,
-      "Wind speed": 0,
-      "Wind Direction": 60
-    },
-    "10-02-2024": {
-      "T-MAX": 0,
-      "T-MIN": 30,
-      "Rh Max": 19,
-      "Rh Min": 0,
-      "Wind speed": 0,
-      "Wind Direction": 40
-    },
-    "11-02-2024": {
-      "T-MAX": 0,
-      "T-MIN": 30,
-      "Rh Max": 20,
-      "Rh Min": 3,
-      "Wind speed": 0,
-      "Wind Direction": 36
-    }
-  },
-  "general_advice": "As per Medium range weather forecast of IMD, chances of dry weather for 5 days forecasted so Farmers are advised to give necessary irrigation to field & vegetable crops. Utilising the available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35kg DAP, 20 kg MOP & 10 kg ZnSO4 /acre. Inspect the go down & open the doors & windows for sometime for ventilation & need based spraying of Lambda Cyahalothrin4.9CS@1.5ml/li. of water to minimize the infestation of storage pest.",
-  "name_of_crops": [
-    "Rice",
-    "Blackgram",
-    "Rapeseed & Mustard",
-    "Greengram",
-    "Tomato & Brinjal",
-    "Cucurbits",
-    "Marigold",
-    "Pisciculture",
-    "Animal Science"
-  ],
-  "crops_data": {
-    "Rice": {
-      "advisory": "Utilising the available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35kg DAP, 20 kg MOP & 10 kg ZnSO4 /acre. Inspect the go down & open the doors & windows for sometime for ventilation & need based spraying of Lambda Cyahalothrin4.9CS@1.5ml/li. of water to minimize the infestation of storage pest."
-    },
-    "Blackgram": {
-      "advisory": "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended."
-    },
-    "Rapeseed & Mustard": {
-      "advisory": "The mustard crop is at the flowering stage. The rainfall received during the last week which results in higher humidity and lower temperature might aggravate Aphid, Leaf Webber and Tobacco Caterpillar infestation in mustard crop. To manage these pests at early stage of infestation spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600-ml/acre by mixing in 200-litre of water. After 7-10 days need based spraying of Emamectin Benzoate @300g/acre is recommended."
-    },
-    "Greengram": {
-      "advisory": "Complete the sowing of summer Greengram as soon as possible to avoid the infestation of sucking pest and viral disease under delayed sowing condition."
-    },
-    "Tomato & Brinjal": {
-      "advisory": "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base."
-    },
-    "Cucurbits": {
-      "advisory": "Sowing of Recommended HYV/Hybrid of Cucurbits after treating the seeds with Imidachloprid 600FS@(8-10)ml/kg seeds to minimize the incidence of viral /phytoplasma incidence."
-    },
-    "Marigold": {
-      "advisory": "Spray The Marigold Plant With Difenthurion @1G/L Of Water Or Abamectin @0.75Ml/L Of water to control the infestation of Thrips, Aphids, Mites and Leaf Minor. For spraying of incidence of leaf spot & Blight spraying of (Carbendazim+Mancozeb) recommended."
-    },
-    "Pisciculture": {
-      "advisory": "As the winter is in the starting phase, there is a possibility of 'EUS' disease in fish. Farmers are advised to apply 'Cifax' @ 400 ml mixed with 40 litre of water in one acre pond area as a preventive measure. The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass. The large ventilation spaces in shed must be closed in night, as the night temperature is falling."
-    },
-    "Animal Science": {
-      "advisory": "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
-    }
-  },
-  "date": "06-02-2024"
+   "Institution": {
+      "Gramin Krishi Mausam Sewa": "India Meteorological Department",
+      "Odisha University of Agriculture and Technology": "Ranital, Bhadrak, - 756111"
+   },
+   "Bulletin_Details": {
+      "Week_Number": "WeekNo.06",
+      "District": "Jajpur",
+      "Bulletin_Number": "No-12(Eng.Bulletin)",
+      "Date": "Dt.-09.02.2024"
+   },
+   "Weather_Condition_Last_Week": {
+      "Period": "DISTRICT",
+      "Rainfall_mm": 0,
+      "Max_Temperature_C": "T-MAX (C)",
+      "Min_Temperature_C": "T-MIN (C)"
+   },
+   "Forecast_Up_To": {
+      "Date": "Forecast (Upto 14.02.2024)",
+      "Description": "Given by Met. Centre,IMD, Bhubaneswar"
+   },
+   "Daily_Weather_Data": [
+      {
+         "Date": "10-02-2024",
+         "Rainfall_mm": 0,
+         "Max_Temp_C": 29,
+         "Min_Temp_C": 19,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 47,
+         "Min_RH_Percent": 21,
+         "Wind_Speed_kmph": 8,
+         "Wind_Direction_deg": 90
+      },
+      {
+         "Date": "11-02-2024",
+         "Rainfall_mm": 0,
+         "Max_Temp_C": 30,
+         "Min_Temp_C": 19,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 51,
+         "Min_RH_Percent": 18,
+         "Wind_Speed_kmph": 7,
+         "Wind_Direction_deg": 72
+      },
+      {
+         "Date": "12-02-2024",
+         "Rainfall_mm": 0,
+         "Max_Temp_C": 29,
+         "Min_Temp_C": 20,
+         "Cloud_Cover": 7,
+         "Max_RH_Percent": 50,
+         "Min_RH_Percent": 17,
+         "Wind_Speed_kmph": 7,
+         "Wind_Direction_deg": 90
+      },
+      {
+         "Date": "13-02-2024",
+         "Rainfall_mm": 5,
+         "Max_Temp_C": 28,
+         "Min_Temp_C": 21,
+         "Cloud_Cover": 6,
+         "Max_RH_Percent": 58,
+         "Min_RH_Percent": 19,
+         "Wind_Speed_kmph": 7,
+         "Wind_Direction_deg": 248
+      },
+      {
+         "Date": "14-02-2024",
+         "Rainfall_mm": 0,
+         "Max_Temp_C": 30,
+         "Min_Temp_C": 21,
+         "Cloud_Cover": 4,
+         "Max_RH_Percent": 64,
+         "Min_RH_Percent": 19,
+         "Wind_Speed_kmph": 8,
+         "Wind_Direction_deg": 161
+      }
+   ],
+   "Agromet_Advisory": {
+      "Rice": [
+         {
+            "Crop": "Rice",
+            "Advisory": "Farmers are advised to give necessary irrigation to field & vegetable crops."
+         },
+         {
+            "Crop": "Rice",
+            "Advisory": "Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachl or @ 4kg/ acre at 5 -8 days after transplanting."
+         },
+         {
+            "Crop": "Rice",
+            "Advisory": "Utilising the available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35 kg DAP,20 kg MOP &10 kg ZnSO 4 /acre."
+         },
+         {
+            "Crop": "Rice",
+            "Advisory": "In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes."
+         }
+      ],
+      "Sugarcane": [
+         {
+            "Crop": "Sugarcane",
+            "Advisory": "In Ratoon crop of sugarcane remove the disease & pest infected plants and dispose the grassy shoot infected plant followed by recommended fertilizer application & spraying of Fipronil 5 Sc @2ml/l of water recommended."
+         },
+         {
+            "Crop": "Sugarcane",
+            "Advisory": "Sugarcane Sett treatment with (Metalaxyl + Mancozeb)@2g/l Of water is recommended to decrease the incidence of diseases like Red Rot & Wilt."
+         }
+      ],
+      "Blackgram": [
+         {
+            "Crop": "Blackgram",
+            "Advisory": "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended."
+         },
+         {
+            "Crop": "Blackgram",
+            "Advisory": "To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamipri d 20% S.P. @ 50 17.8% SL @ 60 -ml/acre or Imidacloprid by mixing in 200 litres of water."
+         }
+      ],
+      "Rapeseed & Mustard": [
+         {
+            "Crop": "Rapeseed & Mustard",
+            "Advisory": "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml /lit."
+         },
+         {
+            "Crop": "Rapeseed & Mustard",
+            "Advisory": "To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at early stage spray Neem -based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200 -litre of water. Spraying of Insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
+         }
+      ],
+      "Vegetables": [
+         {
+            "Crop": "Vegetables",
+            "Advisory": "Cucurbits: Sowing of Recommended HYV/Hybrid of Cucurbits after treating the seeds with Imidachloprid 600FS@(8 -10)ml/kg seeds to minimize the incidence of viral /phytoplasma incidence."
+         },
+         {
+            "Crop": "Vegetables",
+            "Advisory": "Cucurbits: Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits."
+         }
+      ]
+   },
+   "Contact_Information": {
+      "OfficialContact": [
+         {
+            "Name": "Mrs. Meera Mahanty",
+            "Position": "Jr. Agrometeorologist"
+         },
+         {
+            "Name": "Dr. Umasankar Nayak",
+            "Position": "ADR & NODAL OFFICER"
+         }
+      ]
+   },
+   "Additional_Resources": {
+      "OUAT_KALINGA_Products": "For better agricultural benefits use, OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits &Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio -Fertilizer, Bio -Pesticides,Vermi &Vermi Compost and Farm Implements).",
+      "Meghdoot_Mobile_App": {
+         "Android": "https://play.google.com/store/apps/details?id=com.aas.meghdoot",
+         "iOS": "https://apps.apple.com/in/app/meghdoot/id1474048155"
+      }
+   },
+   "date": "09-02-2024"
 }

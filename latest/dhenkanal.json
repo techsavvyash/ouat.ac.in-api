@@ -1,41 +1,105 @@
 {
-  "weather": {
-    "31-01-2024": {
-      "Rainfall": "0",
-      "Cloud Cover": "30.0-33.3",
-      "T-MAX": "17.8-21.4"
-    },
-    "07-02-2024": {
-      "Rainfall": "0",
-      "Cloud Cover": "34",
-      "T-MAX": "20",
-      "T-MIN": "20"
-    },
-    "08-02-2024": {
-      "Rainfall": "0",
-      "Cloud Cover": "33",
-      "T-MAX": "19",
-      "T-MIN": "19"
-    },
-    "09-02-2024": {
-      "Rainfall": "0",
-      "Cloud Cover": "31",
-      "T-MAX": "17",
-      "T-MIN": "17"
-    },
-    "10-02-2024": {
-      "Rainfall": "0",
-      "Cloud Cover": "30",
-      "T-MAX": "17",
-      "T-MIN": "17"
-    },
-    "11-02-2024": {
-      "Rainfall": "0",
-      "Cloud Cover": "29",
-      "T-MAX": "19",
-      "T-MIN": "19"
-    }
-  },
-  "general_advice": "Farmers are advised to irrigate their field as there is mildly dry condition prevailed. Rabi season crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture. Groundnut crop is at flowering stage, apply Gypsum 200 kg per acre. In onion crop, go for inter culture and hand weeding at 15-20 DAT. Apply 30kg of urea and 15kg of MOP fertilizer at this stage. Farmers those who have already transplanted paddy should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties. To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4%G @ 10kg/acre or Fipronil 0.3 % GR @ 10kg/acre or Chlorantraniliprole 0.4 % GR @ 4kg/acre or Imidacloprid 0.3% GR @ 6kg/acre by mixing it with sand at 1:1 ratio. Carry out planting of Sugarcane crop. To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water. To control Bihar hairy caterpillar in green gram and black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Farmers are also advised for specific fertilization and pest control measures for various crops like Paddy, Sugarcane, Black Gram, Green Gram, Groundnut, Brinjal, Potato, Onion, and Mango. Animal husbandry and poultry related advice is also provided.",
-  "date": "06-02-2024"
+   "AgrometBulletin": {
+      "Institution": {
+         "name": "INDIA METEOROLOGICAL DEPARTMENT",
+         "location": "ODISHA UNIVERSITY OF AGRICULTURE & TECHNOLOGY",
+         "address": "Mahisapat, Dhenkanal - 759 013"
+      },
+      "Bulletin_Details": {
+         "Week_Number": "06",
+         "District": "DHENKANAL",
+         "Bulletin_Number": "12",
+         "Date": "09.02.2024"
+      },
+      "Weather_Condition_Last_Week": {
+         "Period": "03.02.2024 to 09.02.2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temperature_C": "27.2-23.4",
+         "Min_Temperature_C": "15.3-23.4"
+      },
+      "Forecast_Up_To": {
+         "Date": "14.02.2024",
+         "Description": "Dhenkanal district is likely to receive light rainfall on Tuesday and dry weather on other four days with a generally cloudy sky. The wind speed is likely to remain between 06-08 km/h. The maximum temperature is likely to remain between 27-28°C and the minimum temperature between 15-23°C. The maximum relative humidity (RH) will remain between 57% to 76% and the minimum RH between 17% to 23% for the next five days."
+      },
+      "Daily_Weather_Data": [
+         {
+            "Date": "10-02-2024",
+            "Rainfall_mm": 0,
+            "Max_Temp_C": 27,
+            "Min_Temp_C": 15,
+            "Cloud_Cover": null,
+            "Max_RH_Percent": 61,
+            "Min_RH_Percent": 23,
+            "Wind_Speed_kmph": 7,
+            "Wind_Direction_deg": 150
+         },
+         {
+            "Date": "11-02-2024",
+            "Rainfall_mm": 0,
+            "Max_Temp_C": 28,
+            "Min_Temp_C": 17,
+            "Cloud_Cover": null,
+            "Max_RH_Percent": 62,
+            "Min_RH_Percent": 17,
+            "Wind_Speed_kmph": 6,
+            "Wind_Direction_deg": 90
+         },
+         {
+            "Date": "12-02-2024",
+            "Rainfall_mm": 0,
+            "Max_Temp_C": 28,
+            "Min_Temp_C": 19,
+            "Cloud_Cover": 5,
+            "Max_RH_Percent": 57,
+            "Min_RH_Percent": 18,
+            "Wind_Speed_kmph": 6,
+            "Wind_Direction_deg": 120
+         },
+         {
+            "Date": "13-02-2024",
+            "Rainfall_mm": 5,
+            "Max_Temp_C": 27,
+            "Min_Temp_C": 19,
+            "Cloud_Cover": 7,
+            "Max_RH_Percent": 63,
+            "Min_RH_Percent": 18,
+            "Wind_Speed_kmph": 7,
+            "Wind_Direction_deg": 135
+         },
+         {
+            "Date": "14-02-2024",
+            "Rainfall_mm": 0,
+            "Max_Temp_C": 26,
+            "Min_Temp_C": 18,
+            "Cloud_Cover": 4,
+            "Max_RH_Percent": 76,
+            "Min_RH_Percent": 19,
+            "Wind_Speed_kmph": 8,
+            "Wind_Direction_deg": 124
+         }
+      ],
+      "Agromet_Advisory": {
+         "Groundnut crop": [
+            {
+               "Crop": "Groundnut",
+               "Advisory": "Crop is in flowering stage, apply Gypsum 200 kg per acre."
+            }
+         ],
+         "Onion crop": [
+            {
+               "Crop": "Onion",
+               "Advisory": "Crop is in inter-culture stage, apply MOP fertilizer at this stage."
+            }
+         ]
+      },
+      "Contact_Information": {},
+      "Additional_Resources": {
+         "OUAT_KALINGA_Products": "Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & VermiCompost and Farm Implements",
+         "Meghdoot_Mobile_App": {
+            "Android": "https://play.google.com/store/apps/details?id=com.aas.meghdoot",
+            "iOS": "https://apps.apple.com/in/app/meghdoot/id1474048155"
+         }
+      }
+   },
+   "date": "09-02-2024"
 }

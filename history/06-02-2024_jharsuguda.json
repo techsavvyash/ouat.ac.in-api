@@ -22,7 +22,8 @@
     "Sesame",
     "Groundnut",
     "Tomato",
-    "Animal Husbandry"
+    "Brinjal",
+    "Chilli"
   ],
   "crops_data": {
     "Green Gram/Black Gram": {
@@ -38,10 +39,13 @@
       "advisory": "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days old crop."
     },
     "Tomato": {
-      "advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage. Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy."
+      "advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage."
     },
-    "Animal Husbandry": {
-      "advisory": "Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy."
+    "Brinjal": {
+      "advisory": "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised under clear weather condition. If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+    },
+    "Chilli": {
+      "advisory": "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised under clear weather condition. If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
     }
   },
   "date": "06-02-2024"

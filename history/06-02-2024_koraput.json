@@ -1,30 +1,32 @@
 {
   "weather": {
-    "02.02.2024": {
-      "Rainfall (mm)": 0.0,
-      "T. Max. (\u00b0C)": 30,
-      "T. Min. (\u00b0C)": 11
+    "02-02-2024": {
+      "Rainfall": "0.0",
+      "T. Max. (\u00b0C)": "30",
+      "T. Min. (\u00b0C)": "11"
     },
-    "03.02.2024": {
-      "Rainfall (mm)": 0.0,
-      "T. Max. (\u00b0C)": 28,
-      "T. Min. (\u00b0C)": 11
+    "03-02-2024": {
+      "Rainfall": "0.0",
+      "T. Max. (\u00b0C)": "28",
+      "T. Min. (\u00b0C)": "11"
     },
-    "04.02.2024": {
-      "Rainfall (mm)": 0.0,
-      "T. Max. (\u00b0C)": 29,
-      "T. Min. (\u00b0C)": 11
+    "04-02-2024": {
+      "Rainfall": "0.0",
+      "T. Max. (\u00b0C)": "29",
+      "T. Min. (\u00b0C)": "11"
     },
-    "05.02.2024": {
-      "Rainfall (mm)": 0.0,
-      "T. Max. (\u00b0C)": 28,
-      "T. Min. (\u00b0C)": 11
+    "05-02-2024": {
+      "Rainfall": "0.0",
+      "T. Max. (\u00b0C)": "28",
+      "T. Min. (\u00b0C)": "11"
     },
-    "forecast": {
-      "Chances of mainly clear sky during next five days.": true,
-      "Chances of no rainfall during next five days.": true,
-      "Maximum temperature is expected to be 27-30\u00b0C and minimum temperature is expected to be 11-14\u00b0C.": true,
-      "Maximum and minimum relative humidity is expected to be 62-92%, and 22-28%, respectively.": true
+    "Forecast": {
+      "Chances of mainly clear sky during next five days": true,
+      "Chances of no rainfall during next five days": true,
+      "Maximum temperature": "27-30\u00b0C",
+      "Minimum temperature": "11-14\u00b0C",
+      "Maximum relative humidity": "62-92%",
+      "Minimum relative humidity": "22-28%"
     }
   },
   "general_advice": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop field as per requirement. Farmers are advised for not to burn the residue of *kharif* crops in the fields because it not only pollute the environment but also causes the severe health problems.",

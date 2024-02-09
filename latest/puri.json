@@ -1,68 +1,147 @@
 {
-  "weather": {
-    "PURI": {
-      "Weather Forecast": {
-        "07/02/2024": {
-          "Rainfall (mm)": "0",
-          "T-MAX (C )": "32",
-          "T-MIN (C )": "24",
-          "Cloud Cover": "0",
-          "Rh Max (%)": "90",
-          "Rh Min (%)": "64",
-          "Wind speed (kmph)": "16",
-          "Wind Direction (deg)": "205"
-        },
-        "08/02/2024": {
-          "Rainfall (mm)": "0",
-          "T-MAX (C )": "31",
-          "T-MIN (C )": "21",
-          "Cloud Cover": "0",
-          "Rh Max (%)": "90",
-          "Rh Min (%)": "65",
-          "Wind speed (kmph)": "11",
-          "Wind Direction (deg)": "108"
-        },
-        "09/02/2024": {
-          "Rainfall (mm)": "0",
-          "T-MAX (C )": "NA",
-          "T-MIN (C )": "NA",
-          "Cloud Cover": "NA",
-          "Rh Max (%)": "NA",
-          "Rh Min (%)": "NA",
-          "Wind speed (kmph)": "NA",
-          "Wind Direction (deg)": "NA"
-        }
+   "Institution": {
+      "Gramin Krishi Mausam Sewa": "India Meteorological Department",
+      "Odisha University of Agriculture and Technology": "Bhubaneswar -751 003"
+   },
+   "Bulletin_Details": {
+      "Week_Number": "06",
+      "District": "Puri (East and South-Eastern Coastal Plain Agroclimatic Zone)",
+      "Bulletin_Number": "131",
+      "Date": "09.02.2024"
+   },
+   "Weather_Condition_Last_Week": {
+      "Period": "Last Week",
+      "Rainfall_mm": 0.0,
+      "Max_Temperature_C": "29",
+      "Min_Temperature_C": "19"
+   },
+   "Forecast_Up_To": {
+      "Date": "14.02.2024",
+      "Description": "As per the forecast received from IMD, dry weather may prevail over the district of Puri for next five days. The sky condition may remain clear to generally cloudy for the next five days. In the next 5 days, the wind speed will remain within 10-14 km/h. The daily maximum and minimum temperature are likely to remain 29-30°C and 19-20°C respectively for next five days."
+   },
+   "Daily_Weather_Data": [
+      {
+         "Date": "10/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 29.0,
+         "Min_Temp_C": 19.0,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 67,
+         "Min_RH_Percent": 45,
+         "Wind_Speed_kmph": 14,
+         "Wind_Direction_deg": 110
+      },
+      {
+         "Date": "11/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 30.0,
+         "Min_Temp_C": 20.0,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 66,
+         "Min_RH_Percent": 37,
+         "Wind_Speed_kmph": 11,
+         "Wind_Direction_deg": 105
+      },
+      {
+         "Date": "12/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 29.0,
+         "Min_Temp_C": 20.0,
+         "Cloud_Cover": 4,
+         "Max_RH_Percent": 69,
+         "Min_RH_Percent": 37,
+         "Wind_Speed_kmph": 10,
+         "Wind_Direction_deg": 112
+      },
+      {
+         "Date": "13/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 29.0,
+         "Min_Temp_C": 20.0,
+         "Cloud_Cover": 5,
+         "Max_RH_Percent": 75,
+         "Min_RH_Percent": 41,
+         "Wind_Speed_kmph": 10,
+         "Wind_Direction_deg": 150
+      },
+      {
+         "Date": "14/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 30.0,
+         "Min_Temp_C": 19.0,
+         "Cloud_Cover": 4,
+         "Max_RH_Percent": 77,
+         "Min_RH_Percent": 48,
+         "Wind_Speed_kmph": 10,
+         "Wind_Direction_deg": 163
       }
-    }
-  },
-  "general_advice": "Complete the transplanting of 3-5 week old seedlings in well puddled soil at a spacing of 15cm \u00d7 15cm with 3-4 seedlings per hill at shallow depth. In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes. Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling. Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/ acre at 5-8 days after transplanting. In just transplanted field put 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Rabi crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture condition. Sugarcane crop is a heavy feeder. Apply 87-kg of DAP, 20-kg of MOP and 4- tonne of FYM at the time of planting in trenches. Top dressing with Urea @ 60-kg per acre each at 45, 75 and 105 days after planting should be done. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500gram/acre at 7 days interval. PADDY (Summer): Post-emergence Weed Management In transplanted and broadcasted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray, Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40gram acre at 3 to 4 leaf stage by mixing in 200litre of water. If only broad leaf weeds and sedges are dominant in the field spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8gram /acre at 20-25 DAT by mixing in 200 litre of water. SUGARCANE: Sett Rot management To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water. BLACKGRAM AND GREENGRAM: Aphid To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water. COLE CROPS: Alternaria Leaf Spot There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water. TOMATO & BRINJAL: Whiteflies To manage whiteflies pest in Tomato and Brinjal crop, use yellow sticky traps @ 8-10/acre to attract and kill the insects. During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. To manage this pest chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Pyriproxifen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250-ml/acre by mixing in 200- litre of water. POULTRY: Sleeping disease of poultry has been found. Vaccinate the chicks with Lasota at 7 days and with IBD vaccines within 13-15 days.",
-  "name_of_crops": [
-    "PADDY (Summer)",
-    "SUGARCANE",
-    "BLACKGRAM AND GREENGRAM",
-    "COLE CROPS",
-    "TOMATO & BRINJAL",
-    "POULTRY"
-  ],
-  "crops_data": {
-    "PADDY (Summer)": {
-      "advisory": "Post-emergence Weed Management In transplanted and broadcasted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray, Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40gram acre at 3 to 4 leaf stage by mixing in 200litre of water. If only broad leaf weeds and sedges are dominant in the field spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8gram /acre at 20-25 DAT by mixing in 200 litre of water."
-    },
-    "SUGARCANE": {
-      "advisory": "Sett Rot management To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water."
-    },
-    "BLACKGRAM AND GREENGRAM": {
-      "advisory": "Aphid To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
-    },
-    "COLE CROPS": {
-      "advisory": "Alternaria Leaf Spot There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
-    },
-    "TOMATO & BRINJAL": {
-      "advisory": "Whiteflies To manage whiteflies pest in Tomato and Brinjal crop, use yellow sticky traps @ 8-10/acre to attract and kill the insects. During primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. To manage this pest chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Pyriproxifen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250-ml/acre by mixing in 200- litre of water."
-    },
-    "POULTRY": {
-      "advisory": "Sleeping disease of poultry has been found. Vaccinate the chicks with Lasota at 7 days and with IBD vaccines within 13-15 days."
-    }
-  },
-  "date": "06-02-2024"
+   ],
+   "Agromet_Advisory": {
+      "PURI": [
+         {
+            "Crop": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stem borer in the main field if granular insecticides have not been applied previously in the nursery.",
+            "Advisory": "Complete the transplanting of 3-5 week old seedlings in well puddled soil at a spacing of 15cm × 15cm with 3-4 seedlings per hill at shallow depth."
+         },
+         {
+            "Crop": "In bacterial blight endemic areas",
+            "Advisory": "Dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes."
+         },
+         {
+            "Crop": "Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling.",
+            "Advisory": "Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/acre at 5-8 days after transplanting."
+         },
+         {
+            "Crop": "Rabi crop",
+            "Advisory": "Needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture condition."
+         },
+         {
+            "Crop": "Sugarcane crop",
+            "Advisory": "Is a heavy feeder. Apply 87-kg of DAP, 20-kg of MOP and 4-tonne of FYM at the time of planting in trenches. Top dressing with Urea @ 60-kg per acre each at 45, 75 and 105 days after planting should be done."
+         },
+         {
+            "Crop": "To manage early and late leaf blight in tomato",
+            "Advisory": "Spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500gram/acre at 7 days interval."
+         }
+      ],
+      "PADDY (Summer)": {
+         "Crop": "Post-emergence Weed Management",
+         "Advisory": "In transplanted and broadcasted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray, Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40gram acre at 3 to 4 leaf stage by mixing in 200litre of water. If only broad leaf weeds and sedges are dominant in the field spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8gram /acre at 20-25 DAT by mixing in 200 litre of water."
+      },
+      "GROUNDNUT": {
+         "Crop": "Bud Necrosis",
+         "Advisory": "To manage the carrier of Bud necrosis disease (Thrips) during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage Thrips chemically spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+      },
+      "BLACKGRAM AND GREENGRAM": {
+         "Crop": "Aphid",
+         "Advisory": "To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+      },
+      "COLE CROPS": {
+         "Crop": "Alternaria Leaf Spot",
+         "Advisory": "There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+      },
+      "POTATO": {
+         "Crop": "Cut Worm",
+         "Advisory": "To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Cut Worm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
+      },
+      "ANIMAL HUSBANDRY": {
+         "Crop": "Foot and mouth diseases of cattle",
+         "Advisory": "For countering Foot and mouth diseases of cattle, care should be taken for FMD vaccination once in a year."
+      }
+   },
+   "Contact_Information": {
+      "Official Contact": [
+         {
+            "Name": "Dr.T.R Mohanty",
+            "Position": "Nodal Officer"
+         }
+      ]
+   },
+   "Additional_Resources": {
+      "OUAT_KALINGA_Products": "For better agricultural benefits use, OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & VermiCompost and Farm Implements)",
+      "Meghdoot_Mobile_App": {
+         "Android": "https://play.google.com/store/apps/details?id=com.aas.meghdoot",
+         "iOS": "https://apps.apple.com/in/app/meghdoot/id1474048155"
+      }
+   },
+   "date": "09-02-2024"
 }

@@ -1,84 +1,140 @@
 {
-  "weather": {
-    "07-02-2024": {
-      "Rainfall (mm)": 0,
-      "Max Temperature (\u00ba C)": 32,
-      "Min Temperature ( \u00baC)": 19,
-      "Total cloud cover (okta)": 0,
-      "Max Relative Humidity (%)": 55,
-      "Min Relative Humidity (%)": 22,
-      "Wind speed (km/h)": 9,
-      "Wind direction (deg)": 22
-    },
-    "08-02-2024": {
-      "Rainfall (mm)": 0,
-      "Max Temperature (\u00ba C)": 32,
-      "Min Temperature ( \u00baC)": 17,
-      "Total cloud cover (okta)": 0,
-      "Max Relative Humidity (%)": 38,
-      "Min Relative Humidity (%)": 25,
-      "Wind speed (km/h)": 10,
-      "Wind direction (deg)": 0
-    },
-    "09-02-2024": {
-      "Rainfall (mm)": 0,
-      "Max Temperature (\u00ba C)": 31,
-      "Min Temperature ( \u00baC)": 15,
-      "Total cloud cover (okta)": 0,
-      "Max Relative Humidity (%)": 31,
-      "Min Relative Humidity (%)": 18,
-      "Wind speed (km/h)": 9,
-      "Wind direction (deg)": 255
-    },
-    "10-02-2024": {
-      "Rainfall (mm)": 0,
-      "Max Temperature (\u00ba C)": 30,
-      "Min Temperature ( \u00baC)": 15,
-      "Total cloud cover (okta)": 5,
-      "Max Relative Humidity (%)": 48,
-      "Min Relative Humidity (%)": 17,
-      "Wind speed (km/h)": 8,
-      "Wind direction (deg)": 63
-    },
-    "11-02-2024": {
-      "Rainfall (mm)": 10,
-      "Max Temperature (\u00ba C)": 29,
-      "Min Temperature ( \u00baC)": 17,
-      "Total cloud cover (okta)": 7,
-      "Max Relative Humidity (%)": 75,
-      "Min Relative Humidity (%)": 26,
-      "Wind speed (km/h)": 9,
-      "Wind direction (deg)": 45
-    }
-  },
-  "general_advice": "As per extended range forecast of IMD, rainfall is above normal, maximum and minimum temperature is expected to be normal for Odisha during 11.02.2024 to 17.02.2024. Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done during upcoming 3-4 days because there is a chance of occurrence of light rainfall in some places is expected at the end of this week.",
-  "name_of_crops": [
-    "Green Gram/Black Gram",
-    "Mustard",
-    "Sesame",
-    "Groundnut",
-    "Tomato, Brinjal, Chilli",
-    "Tomato"
-  ],
-  "crops_data": {
-    "Green Gram/Black Gram": {
-      "advisory": "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
-    },
-    "Mustard": {
-      "advisory": "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."
-    },
-    "Sesame": {
-      "advisory": "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line."
-    },
-    "Groundnut": {
-      "advisory": "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days old crop."
-    },
-    "Tomato, Brinjal, Chilli": {
-      "advisory": "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised under clear weather condition. If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
-    },
-    "Tomato": {
-      "advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage. Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy."
-    }
-  },
-  "date": "06-02-2024"
+   "Institution": {
+      "India Meteorological Department": "Orissa University of Agriculture and Technology",
+      "RRTTS, Chiplima, Sambalpur": ""
+   },
+   "Bulletin_Details": {
+      "Week_Number": "06",
+      "District": "Bargarh",
+      "Bulletin_Number": "12",
+      "Date": "09.02.2024"
+   },
+   "Weather_Condition_Last_Week": {
+      "Period": "10-02-2024  11-02-2024  12-02-2024  13-02-2024  14-02-2024",
+      "Rainfall_mm": [
+         0,
+         0,
+         7,
+         2,
+         0
+      ],
+      "Max_Temperature_C": "30 31 30 29 30",
+      "Min_Temperature_C": "16 17 18 18 17"
+   },
+   "Forecast_Up_To": {
+      "Date": "22nd February, 2024",
+      "Description": "Mainly dry weather very likely to prevail over the districts of Odisha during week-2 (16th to 22nd February 2024) with isolated light rain/ thundershower likely at one or two places over the districts of north Odisha. Minimum temperature (Night temperature) is likely to be slightly above normal at many places over the districts of Odisha during week-2 (16th to 22nd February 2024)."
+   },
+   "Daily_Weather_Data": [
+      {
+         "Date": "10-02-2024",
+         "Rainfall_mm": 0,
+         "Max_Temp_C": 30,
+         "Min_Temp_C": 16,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 33,
+         "Min_RH_Percent": 14,
+         "Wind_Speed_kmph": 7,
+         "Wind_Direction_deg": 65
+      },
+      {
+         "Date": "11-02-2024",
+         "Rainfall_mm": 0,
+         "Max_Temp_C": 31,
+         "Min_Temp_C": 17,
+         "Cloud_Cover": 3,
+         "Max_RH_Percent": 38,
+         "Min_RH_Percent": 18,
+         "Wind_Speed_kmph": 6,
+         "Wind_Direction_deg": 70
+      },
+      {
+         "Date": "12-02-2024",
+         "Rainfall_mm": 7,
+         "Max_Temp_C": 30,
+         "Min_Temp_C": 18,
+         "Cloud_Cover": 2,
+         "Max_RH_Percent": 50,
+         "Min_RH_Percent": 27,
+         "Wind_Speed_kmph": 5,
+         "Wind_Direction_deg": 124
+      },
+      {
+         "Date": "13-02-2024",
+         "Rainfall_mm": 2,
+         "Max_Temp_C": 29,
+         "Min_Temp_C": 18,
+         "Cloud_Cover": 8,
+         "Max_RH_Percent": 70,
+         "Min_RH_Percent": 25,
+         "Wind_Speed_kmph": 8,
+         "Wind_Direction_deg": 120
+      },
+      {
+         "Date": "14-02-2024",
+         "Rainfall_mm": 0,
+         "Max_Temp_C": 30,
+         "Min_Temp_C": 17,
+         "Cloud_Cover": 6,
+         "Max_RH_Percent": 53,
+         "Min_RH_Percent": 25,
+         "Wind_Speed_kmph": 8,
+         "Wind_Direction_deg": 75
+      }
+   ],
+   "Agromet_Advisory": {
+      "General Advisory": {
+         "Crop": "",
+         "Advisory": "Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done within two days and wait to apply irrigation in crop field for some days because there is a chance of cloudy weather along with occurrence of light rainfall in some places thereafter."
+      },
+      "Crop and livestock Specific Agromet Advisory": [
+         {
+            "Crop": "Green Gram/Black Gram",
+            "Advisory": "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
+         },
+         {
+            "Crop": "Mustard",
+            "Advisory": "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."
+         },
+         {
+            "Crop": "Sesame",
+            "Advisory": "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line."
+         },
+         {
+            "Crop": "Groundnut",
+            "Advisory": "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days of sowing but due to chance of occurrence of rainfall in upcoming days farmers should wait some days for spraying."
+         },
+         {
+            "Crop": "Tomato/Brinjal/Chilli",
+            "Advisory": "To control leaf eating caterpillar and fruit borer/ shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall. If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+         }
+      ]
+   },
+   "Contact_Information": {
+      "IMD, Bhubaneswar": [
+         {
+            "Name": "Ms. Jubuli Sahu",
+            "Position": "Junior Agrometeorologist"
+         },
+         {
+            "Name": "Dr. Sanjukta Mohapatra",
+            "Position": "ADR & Nodal Officer"
+         }
+      ]
+   },
+   "Additional_Resources": {
+      "OUAT_KALINGA_Products": "Seedling, Sapling & QPM, Tissue Culture Plants, Fruits and Vegetables, Value Added Products, Fingerling/Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & Vermicompost and Farm Implements.",
+      "Meghdoot_Mobile_App": {
+         "url": {
+            "url": "https://play.gooogle.com/store/apps/details?id=com. aas.meghdoot",
+            "scheme": "https",
+            "host": "play.google.com",
+            "path": "/store/apps/details",
+            "query": {
+               "id": "com. aas.meghdoot"
+            }
+         }
+      }
+   },
+   "date": "09-02-2024"
 }

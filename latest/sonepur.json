@@ -1,57 +1,102 @@
 {
-  "weather": {
-    "07-02-2024": {
-      "Rainfall (mm)": 0,
-      "Max Temperature (\u00ba C)": 34,
-      "Min Temperature ( \u00baC)": 18,
-      "Total cloud cover (okta)": 0,
-      "Max Relative Humidity (%)": 53,
-      "Min Relative Humidity (%)": 21,
-      "Wind speed (km/h)": 8,
-      "Wind direction (deg)": 288
-    },
-    "08-02-2024": {
-      "Rainfall (mm)": 0,
-      "Max Temperature (\u00ba C)": 33,
-      "Min Temperature ( \u00baC)": 16,
-      "Total cloud cover (okta)": 0,
-      "Max Relative Humidity (%)": 50,
-      "Min Relative Humidity (%)": 23,
-      "Wind speed (km/h)": 8,
-      "Wind direction (deg)": 72
-    },
-    "09-02-2024": {},
-    "10-02-2024": {},
-    "11-02-2024": {}
-  },
-  "general_advice": "As per extended range forecast of IMD, rainfall is above normal, maximum and minimum temperature is expected to be normal for Odisha during 11.02.2024 to 17.02.2024. Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done during upcoming 3-4 days because there is a chance of occurrence of light rainfall in some places is expected at the end of this week.",
-  "name_of_crops": [
-    "Green Gram/Black Gram",
-    "Mustard",
-    "Sesame",
-    "Groundnut",
-    "Tomato",
-    "Animal Husbandry"
-  ],
-  "crops_data": {
-    "Green Gram/Black Gram": {
-      "advisory": "Yellow mosaic virus attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
-    },
-    "Mustard": {
-      "advisory": "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."
-    },
-    "Sesame": {
-      "advisory": "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line."
-    },
-    "Groundnut": {
-      "advisory": "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days old crop."
-    },
-    "Tomato": {
-      "advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage. Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy."
-    },
-    "Animal Husbandry": {
-      "advisory": "Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy."
-    }
-  },
-  "date": "06-02-2024"
+   "Institution": {
+      "India Meteorological Department": "Orissa University of Agriculture and Technology"
+   },
+   "Bulletin_Details": {
+      "Week_Number": "06",
+      "District": "Sonepur",
+      "Bulletin_Number": "12",
+      "Date": "09.02.2024"
+   },
+   "Weather_Condition_Last_Week": {
+      "Period": "10-02-2024 to 14-02-2024",
+      "Rainfall_mm": {
+         "10-02-2024": 0,
+         "11-02-2024": 0,
+         "12-02-2024": 8,
+         "13-02-2024": 4,
+         "14-02-2024": 0
+      },
+      "Max_Temperature_C": {
+         "10-02-2024": 26,
+         "11-02-2024": 28,
+         "12-02-2024": 27,
+         "13-02-2024": 27,
+         "14-02-2024": 29
+      },
+      "Min_Temperature_C": {
+         "10-02-2024": 15,
+         "11-02-2024": 16,
+         "12-02-2024": 17,
+         "13-02-2024": 18,
+         "14-02-2024": 18
+      }
+   },
+   "Forecast_Up_To": {
+      "Date": "22-02-2024",
+      "Description": "Mainly dry weather very likely to prevail over the districts of Odisha during week-2 (16th to 22nd February 2024) with isolated light rain/ thundershower likely at one or two places over the districts of north Odisha. Minimum temperature (Night temperature) is likely to be slightly above normal at many places over the districts of Odisha during week-2 (16th to 22nd February 2024)."
+   },
+   "Daily_Weather_Data": [],
+   "Agromet_Advisory": {
+      "General_Advisory": "Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done within two days and wait to apply irrigation in crop field for some days because there is a chance of cloudy weather along with occurrence of light rainfall in some places thereafter.",
+      "Crop_and_Livestock_Specific_Agromet_Advisory": {
+         "Green Gram/Black Gram": [
+            {
+               "Crop": "Green Gram/Black Gram",
+               "Advisory": "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
+            }
+         ],
+         "Mustard": [
+            {
+               "Crop": "Mustard",
+               "Advisory": "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."
+            }
+         ],
+         "Sesame": [
+            {
+               "Crop": "Sesame",
+               "Advisory": "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line."
+            }
+         ],
+         "Groundnut": [
+            {
+               "Crop": "Groundnut",
+               "Advisory": "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days of sowing but due to chance of occurrence of rainfall in upcoming days farmers should wait some days for spraying."
+            }
+         ],
+         "Tomato, Brinjal, Chilli": [
+            {
+               "Crop": "Tomato, Brinjal, Chilli",
+               "Advisory": "To control leaf eating caterpillar and fruit borer/ shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall. If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+            }
+         ],
+         "Tomato": [
+            {
+               "Crop": "Tomato",
+               "Advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage."
+            }
+         ],
+         "Animal Husbandry": [
+            {
+               "Crop": "Animal Husbandry",
+               "Advisory": "Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack and also provide mineral mixture, jaggery etc. along with fresh clean drinking water to the animal in their daily ration to make them healthy. Keep the healthy animal away from affected animal and make provision to restrict direct entry of rain water to animal shed."
+            }
+         ]
+      }
+   },
+   "Contact_Information": {
+      "IMD_Bhubaneswar": [
+         {
+            "Name": "IMD, Bhubaneswar",
+            "Position": "Tel. # 0674-2596116"
+         }
+      ]
+   },
+   "Additional_Resources": {
+      "OUAT_KALINGA_Products": "Seedling, Sapling & QPM, Tissue Culture Plants, Fruits and Vegetables, Value Added Products, Fingerling/Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & Vermicompost and Farm Implements.",
+      "Meghdoot_Mobile_App": {
+         "English": "https://play.gooogle.com/store/apps/details?id=com.aas.meghdoot"
+      }
+   },
+   "date": "09-02-2024"
 }
