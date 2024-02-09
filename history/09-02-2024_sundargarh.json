@@ -1,0 +1,100 @@
+{
+   "Institution": {
+      "Name": "Dr. Sajeeb Kumar Biswasi",
+      "Position": "Senior Scientist & Nodal Officer, GKMS"
+   },
+   "Bulletin_Details": {
+      "Week_Number": "06",
+      "District": "Sundergarh",
+      "Bulletin_Number": "No-12(Eng.Bulletin)",
+      "Date": "09.02.2024"
+   },
+   "Weather_Condition_Last_Week": {
+      "Period": "Last Week",
+      "Rainfall_mm": 0.0,
+      "Max_Temperature_C": "28.4",
+      "Min_Temperature_C": "15.0"
+   },
+   "Forecast_Up_To": {
+      "Date": "14.02.2024",
+      "Description": "As per IMD Forecast, the district is likely to receive light rainfall for the next five days. The sky condition is mainly clear sky to generally cloudy for the next five days. The wind speed is likely to remain within 6-9 km/h. The Maximum Temperature and Minimum Temperature is forecasted to remain between 30-32°C and 9-13°C respectively for the next five days."
+   },
+   "Daily_Weather_Data": [
+      {
+         "Date": "10/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 30.0,
+         "Min_Temp_C": 9.0,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 34,
+         "Min_RH_Percent": 12,
+         "Wind_Speed_kmph": 6,
+         "Wind_Direction_deg": 70
+      },
+      {
+         "Date": "11/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 31.0,
+         "Min_Temp_C": 11.0,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 32,
+         "Min_RH_Percent": 16,
+         "Wind_Speed_kmph": 6,
+         "Wind_Direction_deg": 75
+      },
+      {
+         "Date": "12/02/2024",
+         "Rainfall_mm": 12.0,
+         "Max_Temp_C": 30.0,
+         "Min_Temp_C": 12.0,
+         "Cloud_Cover": 7,
+         "Max_RH_Percent": 41,
+         "Min_RH_Percent": 20,
+         "Wind_Speed_kmph": 6,
+         "Wind_Direction_deg": 118
+      },
+      {
+         "Date": "13/02/2024",
+         "Rainfall_mm": 10.0,
+         "Max_Temp_C": 30.0,
+         "Min_Temp_C": 13.0,
+         "Cloud_Cover": 6,
+         "Max_RH_Percent": 61,
+         "Min_RH_Percent": 26,
+         "Wind_Speed_kmph": 7,
+         "Wind_Direction_deg": 150
+      },
+      {
+         "Date": "14/02/2024",
+         "Rainfall_mm": 0.0,
+         "Max_Temp_C": 32.0,
+         "Min_Temp_C": 13.0,
+         "Cloud_Cover": 0,
+         "Max_RH_Percent": 68,
+         "Min_RH_Percent": 29,
+         "Wind_Speed_kmph": 9,
+         "Wind_Direction_deg": 64
+      }
+   ],
+   "Agromet_Advisory": {
+      "District": "Sundargarh",
+      "General Advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
+      "Crop Advisories": [
+         {
+            "Crop": "Sunner Pulses",
+            "Advisory": "National crops of pulses with high yield in dry season are: - Mung varieties IPM-02-14 (65 days), IPM-02-3 (65 days), PDM-11 (65 days), PDM-54 (60 to 65 days), Durga (60 to 65 days), Samrat (65 to 70 days), K-851 (60 to 65 days) and Blackgram varieties - Sarla (65 to 70 days), PU-31 (70 days), PU-30 (65 to 70 days), PU-35 (65 to 70 days), PU-19 (65 to 70 days) etc. collect and sow in the land 25 kg of seeds are required per hectare. Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds seven days before sowing. In the previous night of sowing, treat the seeds with rizobium culture @ 20g per kg of seeds. Sow it in the spacing of 25cm X 10 cm spacing."
+         }
+      ]
+   },
+   "Contact_Information": {
+      "Name": "Met. Centre, Aerodrom Area, IMD, Bhubaneswar",
+      "Position": "Tel.# 0674 -2596116"
+   },
+   "Additional_Resources": {
+      "OUAT_KALINGA_Products": "Products (Seedlings, Saplings and QPM, Tissue culture plants, Fruits and vegetables, value added products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushroom and spawn, Biofertilizer, Biopesticides, Vermi & Vermicompost and Farm implements)",
+      "Meghdoot_Mobile_App": {
+         "Andriod": "https://play.google.com/store/apps/details?id=com.aas.meghdoot"
+      }
+   },
+   "date": "09-02-2024"
+}

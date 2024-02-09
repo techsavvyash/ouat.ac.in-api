@@ -1,21 +1,65 @@
 {
    "weather_details": {
       "03-02-2024": {
-         "rainfall": 0.8,
+         "rainfall": 0.3,
          "t_max": 32,
-         "t_min": 16,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
+         "t_min": 15,
+         "rh_max": 36,
+         "rh_min": 24,
+         "wind_speed": 10,
+         "wind_direction": 112,
          "cloud_cover": 0
       },
-      "04-02-2024": {},
-      "05-02-2024": {},
-      "06-02-2024": {},
-      "07-02-2024": {},
-      "08-02-2024": {},
-      "09-02-2024": {}
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 36,
+         "rh_min": 24,
+         "wind_speed": 10,
+         "wind_direction": 112,
+         "cloud_cover": 0
+      },
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 42,
+         "rh_min": 24,
+         "wind_speed": 9,
+         "wind_direction": 75,
+         "cloud_cover": 0
+      },
+      "12-02-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 44,
+         "rh_min": 28,
+         "wind_speed": 7,
+         "wind_direction": 180,
+         "cloud_cover": 2
+      },
+      "13-02-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 16,
+         "rh_max": 49,
+         "rh_min": 30,
+         "wind_speed": 10,
+         "wind_direction": 153,
+         "cloud_cover": 4
+      },
+      "14-02-2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": 58,
+         "rh_min": 30,
+         "wind_speed": 10,
+         "wind_direction": 158,
+         "cloud_cover": 7
+      }
    },
    "names_of_crops": [
       "rice",
@@ -50,7 +94,7 @@
       "rapeseed & mustard": {
          "advisory": [
             "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit.",
-            "To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at early stage spray Neem -based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200-litre of water. Spraying of Insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
+            "To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at early stage spray Neem -based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200 -litre of water. Spraying of Insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
          ]
       },
       "vegetables": {
@@ -59,8 +103,8 @@
             "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits.",
             "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
             "Provide bamboo or wooden stake for better fruit set and growth of Tomato plants.",
-            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thirps and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/lit Of water.",
-            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoa te or Spinosad 0.4 ml/ liter of water."
+            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thirps and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/li Of water.",
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/ liter of water."
          ]
       },
       "pisciculture": {

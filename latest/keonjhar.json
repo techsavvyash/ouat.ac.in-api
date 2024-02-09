@@ -1,124 +1,115 @@
 {
-   "Institution": {
-      "Regional_Research_And_Technology_Transfer_Station": "Kendujhar"
+   "weather_details": {
+      "09-02-2024": [
+         1.2,
+         28,
+         14,
+         0,
+         40,
+         22,
+         6,
+         120
+      ],
+      "10-02-2024": [
+         0,
+         27,
+         11,
+         0,
+         40,
+         22,
+         6,
+         120
+      ],
+      "11-02-2024": [
+         0,
+         29,
+         13,
+         1,
+         38,
+         19,
+         5,
+         135
+      ],
+      "12-02-2024": [
+         5,
+         27,
+         14,
+         7,
+         41,
+         20,
+         5,
+         162
+      ],
+      "13-02-2024": [
+         4,
+         27,
+         15,
+         7,
+         49,
+         25,
+         7,
+         180
+      ],
+      "14-02-2024": [
+         0,
+         29,
+         14,
+         5,
+         58,
+         23,
+         7,
+         79
+      ]
    },
-   "Bulletin_Details": {
-      "Week_Number": "06",
-      "District": "Kendujhar",
-      "Bulletin_Number": "09.02.2024",
-      "Date": "09.02.2024"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "Last week",
-      "Rainfall_mm": 1.2,
-      "Max_Temperature_C": "28.5",
-      "Min_Temperature_C": "14.7"
-   },
-   "Forecast_Up_To": {
-      "Date": "14.02.2024",
-      "Description": "Light rainfall expected for the next five days. Maximum temperature: 27-29°C, Minimum temperature: 11-15°C"
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "10-02-2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 27,
-         "Min_Temp_C": 11,
-         "Cloud_Cover": 0,
-         "Max_RH_Percent": 40,
-         "Min_RH_Percent": 22,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 120
-      },
-      {
-         "Date": "11-02-2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 29,
-         "Min_Temp_C": 13,
-         "Cloud_Cover": 1,
-         "Max_RH_Percent": 38,
-         "Min_RH_Percent": 19,
-         "Wind_Speed_kmph": 5,
-         "Wind_Direction_deg": 135
-      },
-      {
-         "Date": "12-02-2024",
-         "Rainfall_mm": 5,
-         "Max_Temp_C": 27,
-         "Min_Temp_C": 14,
-         "Cloud_Cover": 7,
-         "Max_RH_Percent": 41,
-         "Min_RH_Percent": 20,
-         "Wind_Speed_kmph": 5,
-         "Wind_Direction_deg": 162
-      },
-      {
-         "Date": "13-02-2024",
-         "Rainfall_mm": 4,
-         "Max_Temp_C": 27,
-         "Min_Temp_C": 15,
-         "Cloud_Cover": 7,
-         "Max_RH_Percent": 49,
-         "Min_RH_Percent": 25,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 180
-      },
-      {
-         "Date": "14-02-2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 29,
-         "Min_Temp_C": 14,
-         "Cloud_Cover": 5,
-         "Max_RH_Percent": 58,
-         "Min_RH_Percent": 23,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 79
-      }
+   "names_of_crops": [
+      "chickpea",
+      "linseed",
+      "mustard",
+      "vegetables",
+      "flowers",
+      "cow"
    ],
-   "Agromet_Advisory": {
-      "General_advisory": [
-         {
-            "Advisory": "Harvest the matured crops and store them in safe storage. Use Aluminium Phosphide (Celphos tablets) as fumigants for safe storage. Carefully monitor the field for disease and pests. Postpone the spraying activities. Make bunds to store water. Remove excess water through proper drainage channel."
-         }
-      ],
-      "Chickpea": [
-         {
-            "Crop": "Chickpea",
-            "Advisory": "Alternaria blight in chickpea can be managed by spraying Mancozeb @ 2.5 g/lt of water or Carbendazim @ 1 g/lt of water. Avoid excessive irrigation to the crop. To control powdery mildew disease in chickpea spray with Dithane - M 45 @ 2.5 g/lt of water."
-         }
-      ],
-      "Linseed": [
-         {
-            "Crop": "Linseed",
-            "Advisory": "In case of Utera/Paira cropping, apply top dressing of Urea in the pre-flowering stage. Spraying of Imidachloprid @ 2 g/lt of wa ter can reduce the aphids population."
-         }
-      ],
-      "Mustard": [
-         {
-            "Crop": "Mustard",
-            "Advisory": "Mustard are in flowering and pod filling stage. Aphids in Mustard and Toria can be contr olled by spraying Dimethoate 30% EC @ 2 ml/lit."
-         }
-      ],
-      "Vegetables": [
-         {
-            "Crop": "Brinjal",
-            "Advisory": "Whitefly and aphids in brinjal can be managed by spraying Phosphamidon 40% SL @ 1.5 ml/lt of water. For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10l t of water. Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors."
-         }
-      ]
-   },
-   "Contact_Information": {
-      "Technical_Officer": [
-         {
-            "Name": "Name",
-            "Position": "Technical Officer"
-         }
-      ]
-   },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mushroom & Spawn,  Bio-Fertilizer, Bio -Pesticides, Vermi & Vermi Compost and Farm Implements",
-      "Meghdoot_Mobile_App": {
-         "Android": "https://play.google.com/store/apps/details?id=com.aas.meghdoot",
-         "iOS": "https://apps.apple.com/in/app/meghdoot/id1474048155"
+   "general_advidory": "According to IMD, light rainfall over the Keonjhar district is forecasted. Harvest the matured crops and store them in safe storage. Use Aluminium Phosphide (Celphos tablets) as fumigants for safe storage. Carefully monitor the field for disease and pests. Postpone the spraying activities. Make bunds to store water. For better agricultural benefits, use OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio -Pesticides, Vermi & Vermi Compost and Farm Implements).",
+   "crops_data": {
+      "chickpea": {
+         "advisory": [
+            "Alternaria blight in chickpea can be managed by spraying Mancozeb @ 2.5 g/lt of water or Carbendazim @ 1 g/lt of water.",
+            "Avoid excessive irrigation to the crop.",
+            "To control powdery mildew disease in chickpea spray with Dithane - M 45 @ 2.5 g/lt of water."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "In case of Utera/Paira cropping, apply top dressing of Urea in the pre -flowering stage.",
+            "Spraying of Imidachloprid @ 2 g/lt of water can reduce the aphids population."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Mustard are in flowering and pod filling stage.",
+            "Aphids in Mustard and Toria can be contr olled by spraying Dimethoate 30% EC @ 2 ml/lit."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Brinjal: Whitefly and aphids in brinjal can be managed by spraying Phosphamidon 40% SL @ 1.5 ml/lt of water. For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10l t of water. Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors.",
+            "Cauliflower: Diamond back moth in cauliflower can be managed by spraying Cartap hydrochloride @ 1 g/lt of water. Fall army worm or head borer can be controlled by spraying Emamectin benzoate 5% SG @ 4 -5 g/10lt of water. Aphids in Cauliflower can be controlled by s praying Thiomethoxam 25% W.G @ 80g or Acetamiprid 20% S.P @ 30g per acre in 200 lt of water.",
+            "Cabbage: To control Cabbage head borer, apply Novaluron 10% EC @ 400 ml or Spinosad 2.5% SC @ 300ml or Emamectin benzoate 5% SG @ 100g in 200lt of water and spray on leaves.",
+            "Chilli: Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water.",
+            "Tomato: Remove the disease affected leaves and twigs. Make the field clean and remove the weeds. For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
+         ]
+      },
+      "flowers": {
+         "advisory": [
+            "Rose: To control Thrips, aphids and leaf hoppers spray Methyl demeton 25 EC @ 2 ml/lt or Carbofuran 3G @ 5 g/plant.",
+            "Marigold: Mealy bug in marigold can be controlled by spraying Fish oil or resin soap @ 25 g/lt. In severe infestation, spray Dimethoate or Prophenophos @ 2 ml/lt."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide clean drinking water to the calves and cows.",
+            "Arrange proper heat to the sheds to reduce the cold waves."
+         ]
       }
    },
    "date": "09-02-2024"

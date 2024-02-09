@@ -1,63 +1,108 @@
 {
-   "Institution": {
-      "Orissa University of Agriculture & Technology": "Bhubaneswar"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "NA",
-      "District": "MAYURBHANJ(Odisha)",
-      "Bulletin_Number": "NA",
-      "Date": "09-02-2024"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "NA",
-      "Rainfall_mm": 0.0,
-      "Max_Temperature_C": "NA",
-      "Min_Temperature_C": "NA"
-   },
-   "Forecast_Up_To": {
-      "Date": "2024-02-09",
-      "Description": "Valid Till 08:30 IST of the next 5 days"
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "2024-02-10",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 32.0,
-         "Min_Temp_C": 13.0,
-         "Cloud_Cover": 0,
-         "Max_RH_Percent": 30,
-         "Min_RH_Percent": 18,
-         "Wind_Speed_kmph": 8,
-         "Wind_Direction_deg": 195
+   "weather_details": {
+      "2024-02-10": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 13,
+         "rh_max": 30,
+         "rh_min": 18,
+         "wind_speed": 8,
+         "wind_direction": 195,
+         "cloud_cover": 0
+      },
+      "2024-02-11": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 15,
+         "rh_max": 30,
+         "rh_min": 17,
+         "wind_speed": 7,
+         "wind_direction": 165,
+         "cloud_cover": 1
+      },
+      "2024-02-12": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 16,
+         "rh_max": 37,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      },
+      "2024-02-13": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 16,
+         "rh_max": 45,
+         "rh_min": 23,
+         "wind_speed": 8,
+         "wind_direction": 158,
+         "cloud_cover": 7
+      },
+      "2024-02-14": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 15,
+         "rh_max": 59,
+         "rh_min": 21,
+         "wind_speed": 8,
+         "wind_direction": 171,
+         "cloud_cover": 4
       }
+   },
+   "names_of_crops": [
+      "rice",
+      "mustard",
+      "groundnut",
+      "cabbage",
+      "tomato",
+      "mango",
+      "cauliflower",
+      "onion",
+      "potato",
+      "menacinakahi",
+      "chilli",
+      "brinjal"
    ],
-   "Agromet_Advisory": {
-      "General Advisory": [
-         {
-            "Crop": "NA",
-            "Advisory": "The district is likely to receive light rainfall with clear to overcast sky . The wind speed will remain within 5.0 to 8.0 kmph up to next five days. The daily maximum temperature may range between 30.0°C to 32.0°C. The minimum temperature may rise between 13.0°C to 16.0°C. Relative humidity during morning may range between 30 to 59 percent and that during the afternoon may range between 17 to 23 percent."
-         }
-      ],
-      "SMS Advisory": [
-         {
-            "Crop": "NA",
-            "Advisory": "Havestable produce i.e., matured fruits, vegetables and flowers. Light irrigation if required can reduce crop damage. Smoking should be done in mango orchard for better flowering and fruiting."
-         }
-      ],
-      "Crop Specific Advisory": [
-         {
-            "Crop": "RICE",
-            "Advisory": "Farmers those who are going for transplanting should apply 35- kg DAP , 30- kg MOP  and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP , 15 kg MOP  and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
-         }
-      ]
-   },
-   "Contact_Information": {
-      "Name": "NA",
-      "Position": "NA"
-   },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "NA",
-      "Meghdoot_Mobile_App": {}
+   "general_advidory": "The district is likely to receive light rainfall with clear to overcast sky. The wind speed will remain within 5.0 to 8.0 kmph up to next five days. The daily maximum temperature may range between 30.0°C to 32.0°C. The minimum temperature may rise between 13.0°C to 16.0°C. Relative humidity during morning may range between 30 to 59 percent and that during the afternoon may range between 17 to 23 percent.",
+   "crops_data": {
+      "rice": {
+         "advisory": "Farmers those who are going for transplanting should apply 35- kg DAP, 30- kg MOP and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP, 15 kg MOP and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+      },
+      "mustard": {
+         "advisory": "The rainfall during the previous week which results in higher humidity and lower temperature might aggravate Downy Mildew in Mustard. High relative humidity also might aggravate white rust. After rain, to manage Downy Mildew & white rust chemically spray 3.5 ml Metalaxyl-M 31.8% ES or 2.5g Metalaxyl M 4 % + Mancozeb 64 % WP per litre of water. There are chances of Leaf Webber and Mustard sawfly infestation in mustard crop."
+      },
+      "groundnut": {
+         "advisory": "The present weather condition with high day temperature and low night temperature is congenial for aphids and thrips infestation in groundnut. To manage aphids, and thrips spray Neem Based Pesticide 300 PPM @ 1-litre/acre during primary stage of infestation. If the infestation is severe than spray Thiomethoxam 25% W.G @ 40 gram/acre or Imidacloprid 17.8% SL @ 50-ml/acre by mixing it in 200 litre of water. To manage leaf miner in groundnut spray neem Based Pesticide 300 PPM @ 1-litre /acre during primary stage of infestation."
+      },
+      "cabbage": {
+         "advisory": "There are chances of infestation of Diamond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, install 6-8 nos of light traps per acre. During primary stage of pest infestation spray neem-based pesticide @ 1-litre/acre by mixing in 200-litre of water."
+      },
+      "tomato": {
+         "advisory": "To control fruit borer in Tomato, first collect and destroy the affected fruits and grown up larvae. Set up 20 nos. of pheromone trap having Helilure per acre. Go for spraying of insecticide if there are 10% fruits infested with borer. Spray Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre."
+      },
+      "mango": {
+         "advisory": "Due to cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant. To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 5g/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. Application of smoke below the plants can also help in reducing the pest population."
+      },
+      "cauliflower": {
+         "advisory": "There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+      },
+      "onion": {
+         "advisory": "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
+      },
+      "potato": {
+         "advisory": "To control cutworm in the potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 liters of water. Cutworm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
+      },
+      "menacinakahi": {
+         "advisory": "To control aphids and thrips in chili during the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Spray Thiomethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+      },
+      "chilli": {
+         "advisory": "To control aphids and thrips in chili during the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Spray Thiomethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+      },
+      "brinjal": {
+         "advisory": "The larvae of brinjal shoot and fruit borer burrow into the petioles and tender shoots which result in withering of terminal shoots, drooping of leaves, and shedding of flower buds. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+      }
    },
    "date": "09-02-2024"
 }

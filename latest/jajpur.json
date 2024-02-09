@@ -1,0 +1,112 @@
+{
+   "weather_details": {
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 47,
+         "rh_min": 21,
+         "wind_speed": 8,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 51,
+         "rh_min": 18,
+         "wind_speed": 7,
+         "wind_direction": 72,
+         "cloud_cover": 0
+      },
+      "12-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 50,
+         "rh_min": 17,
+         "wind_speed": 7,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      },
+      "13-02-2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 21,
+         "rh_max": 58,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 64,
+         "rh_min": 19,
+         "wind_speed": 8,
+         "wind_direction": 161,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "blackgram",
+      "rapeseed & mustard",
+      "vegetables",
+      "pisciculture",
+      "animal science"
+   ],
+   "general_advidory": "Rice Farmers are advised to give necessary irrigation to field & vegetable crops.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachl or @ 4kg/ acre at 5 -8 days after transplanting.",
+            "Utilising the available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35 kg DAP,20 kg MOP &10 kg ZnSO4 /acre.",
+            "In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "In Ratoon crop of sugarcane remove the disease & pest infected plants and dispose the grassy shoot infected plant followed by recommended fertilizer application & spraying of Fipronil 5 Sc @2ml/l of water recommended.",
+            "Sugarcane Sett treatment with (Metalaxyl + Mancozeb)@2g/l Of water is recommended to decrease the incidence of diseases like Red Rot & Wilt."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended.",
+            "To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P.@ 50 17.8% SL @ 60 -ml/acre or Imidacloprid by mixing in 200 litres of water."
+         ]
+      },
+      "rapeseed & mustard": {
+         "advisory": [
+            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml /lit.",
+            "To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at early stage spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600-ml/acre by mixing in 200-litre of water. Spraying of Insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Sowing of Recommended HYV/Hybrid of Cucurbits after treating the seeds with Imidacloprid 600FS@(8-10)ml/kg seeds to minimize the incidence of viral/phytoplasma incidence.",
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits.",
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
+            "Provide bamboo or wooden stake for better fruit set and growth of Tomato plants.",
+            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thrips and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @ 1g/li Of water.",
+            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/liter of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
+         ]
+      },
+      "animal science": {
+         "advisory": [
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      }
+   },
+   "date": "09-02-2024"
+}

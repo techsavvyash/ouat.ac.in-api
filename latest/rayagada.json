@@ -1,109 +1,72 @@
 {
-   "Institution": {
-      "Orissa University of Agriculture & Technology": "Bhubaneswar"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "2024",
-      "District": "RAYAGADA(Odisha)",
-      "Bulletin_Number": "1",
-      "Date": "06-02-2024"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "2024-02-07",
-      "Rainfall_mm": 0.0,
-      "Max_Temperature_C": "33.0",
-      "Min_Temperature_C": "16.0"
-   },
-   "Forecast_Up_To": {
-      "Date": "2024-02-11",
-      "Description": "It is likely to be clear sky for next four days and partly cloudy sky on sunday . The daily maximum temperature will remain 28.0 °C-33.0°C. The daily minimum temperature will remain 14.0°C-16.0°C. The wind speed will remain 6.0-7.0 kmph. Humid conditions during the forenoon (64-95%) and during the afternoon (18-24%) may prevail."
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "2024-02-07",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 33.0,
-         "Min_Temp_C": 16.0,
-         "Cloud_Cover": 1,
-         "Max_RH_Percent": 64,
-         "Min_RH_Percent": 24,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 210
+   "weather_details": {
+      "2024-02-07": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 64,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 210,
+         "cloud_cover": 1
       },
-      {
-         "Date": "2024-02-08",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 33.0,
-         "Min_Temp_C": 16.0,
-         "Cloud_Cover": 0,
-         "Max_RH_Percent": 75,
-         "Min_RH_Percent": 20,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 154
+      "2024-02-08": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 75,
+         "rh_min": 20,
+         "wind_speed": 7,
+         "wind_direction": 154,
+         "cloud_cover": 0
       },
-      {
-         "Date": "2024-02-09",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 32.0,
-         "Min_Temp_C": 14.0,
-         "Cloud_Cover": 1,
-         "Max_RH_Percent": 81,
-         "Min_RH_Percent": 22,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 112
+      "2024-02-09": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 14,
+         "rh_max": 81,
+         "rh_min": 22,
+         "wind_speed": 6,
+         "wind_direction": 112,
+         "cloud_cover": 1
       },
-      {
-         "Date": "2024-02-10",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 30.0,
-         "Min_Temp_C": 14.0,
-         "Cloud_Cover": 1,
-         "Max_RH_Percent": 95,
-         "Min_RH_Percent": 18,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 150
+      "2024-02-10": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 14,
+         "rh_max": 95,
+         "rh_min": 18,
+         "wind_speed": 6,
+         "wind_direction": 150,
+         "cloud_cover": 1
       },
-      {
-         "Date": "2024-02-11",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 28.0,
-         "Min_Temp_C": 15.0,
-         "Cloud_Cover": 3,
-         "Max_RH_Percent": 66,
-         "Min_RH_Percent": 21,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 135
+      "2024-02-11": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 21,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 3
       }
+   },
+   "names_of_crops": [
+      "rice",
+      "pigeon pea",
+      "onion"
    ],
-   "Agromet_Advisory": {
-      "General Advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery , apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea.",
-      "SMS Advisory": "Cover the recently planted vegetable crops with paper pockets during night time to protect from low temperature.",
-      "Crop Specific Advisory": [
-         {
-            "Crop": "RICE",
-            "Advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery , apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea."
-         },
-         {
-            "Crop": "PIGEON PEA (RED GRAM/ARHAR)",
-            "Advisory": "To avoid storage pests’ infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
-         },
-         {
-            "Crop": "ONION",
-            "Advisory": "Onion Seedlings of 8-weeks old which are 12-15 cm in height should be planted in the main field. Before transplanting apply 10 tonnes of Compost, 52 kg of DAP , 30 kg of Muriate of Potash 20 kg of urea and 20 kg of sulphur and mix it to the soil uniformly . Transplant the seedlings in line by keeping the row to row spacing at 25 cm and plant to plant spacing at 10 cm."
-         }
-      ]
-   },
-   "Contact_Information": {
-      "Official Contacts": [
-         {
-            "Name": "",
-            "Position": ""
-         }
-      ]
-   },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "",
-      "Meghdoot_Mobile_App": {}
+   "general_advidory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5% urea.",
+   "crops_data": {
+      "rice": {
+         "advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5% urea."
+      },
+      "pigeon pea": {
+         "advisory": "To avoid storage pests’ infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
+      },
+      "onion": {
+         "advisory": "Onion Seedlings of 8-weeks old which are 12-15 cm in height should be planted in the main field. Before transplanting apply 10 tonnes of Compost, 52 kg of DAP , 30 kg of Muriate of Potash 20 kg of urea and 20 kg of sulphur and mix it to the soil uniformly. Transplant the seedlings in line by keeping the row to row spacing at 25 cm and plant to plant spacing at 10 cm."
+      }
    },
    "date": "06-02-2024"
 }

@@ -1,81 +1,49 @@
 {
-   "Institution": {
-      "Name": "Odisha University of Agriculture & Technology (OUAT)",
-      "Location": "Kalinga Nagar, Bhubaneswar"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "Week 23",
-      "District": "Mayurbhanj",
-      "Bulletin_Number": "01",
-      "Date": "2023-06-05"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "May 28 - June 3",
-      "Rainfall_mm": 45.6,
-      "Max_Temperature_C": "35",
-      "Min_Temperature_C": "25"
-   },
-   "Forecast_Up_To": {
-      "Date": "2023-06-11",
-      "Description": "Partly cloudy with chance of isolated thunderstorms"
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "2023-06-04",
-         "Rainfall_mm": 10.2,
-         "Max_Temp_C": 32,
-         "Min_Temp_C": 24,
-         "Cloud_Cover": 5,
-         "Max_RH_Percent": 90,
-         "Min_RH_Percent": 60,
-         "Wind_Speed_kmph": 15,
-         "Wind_Direction_deg": 120
+   "weather_details": {
+      "01-01-2022": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 50
       },
-      {
-         "Date": "2023-06-05",
-         "Rainfall_mm": 5.5,
-         "Max_Temp_C": 34,
-         "Min_Temp_C": 25,
-         "Cloud_Cover": 3,
-         "Max_RH_Percent": 95,
-         "Min_RH_Percent": 65,
-         "Wind_Speed_kmph": 12,
-         "Wind_Direction_deg": 110
+      "01-02-2022": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 15,
+         "wind_direction": 200,
+         "cloud_cover": 40
       }
+   },
+   "names_of_crops": [
+      "wheat",
+      "rice",
+      "maize",
+      "cotton",
+      "soybean"
    ],
-   "Agromet_Advisory": {
-      "Rice": [
-         {
-            "Crop": "Rice",
-            "Advisory": "Apply organic manure to the rice fields for better yield"
-         }
-      ],
-      "Maize": [
-         {
-            "Crop": "Maize",
-            "Advisory": "Irrigation should be provided at critical stage of tasseling and silking"
-         }
-      ]
-   },
-   "Contact_Information": {
-      "Director": [
-         {
-            "Name": "Dr. Sanjay Kumar Dash",
-            "Position": "Director of Research"
-         }
-      ],
-      "Head_Agromet": [
-         {
-            "Name": "Dr. Harekrushna Panigrahy",
-            "Position": "Head of Agromet"
-         }
-      ]
-   },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "Information on Kalinga variety of rice seeds and other agri-products",
-      "Meghdoot_Mobile_App": {
-         "Play_Store": "https://playstorelink.com/meghdoot",
-         "App_Store": "https://appstorelink.com/meghdoot"
+   "general_advidory": "It is recommended to plant crops that are suitable for the current weather conditions. Make sure to monitor the weather regularly for any updates.",
+   "crops_data": {
+      "wheat": {
+         "advisory": "Plant wheat seeds at a depth of 1-2 inches with a spacing of 6 inches. Irrigate the crop regularly to ensure proper growth."
+      },
+      "rice": {
+         "advisory": "Transplant rice seedlings at a spacing of 15x15 cm. Keep the field flooded with water during the early stages of growth."
+      },
+      "maize": {
+         "advisory": "Sow maize seeds in well-drained soil with a spacing of 12 inches between plants. Apply nitrogen-based fertilizers for better yield."
+      },
+      "cotton": {
+         "advisory": "Plant cotton seeds in sandy loam soil with proper drainage. Monitor for pests and use pesticides when necessary."
+      },
+      "soybean": {
+         "advisory": "Sow soybean seeds at a depth of 1-2 inches with row spacing of 30 inches. Use balanced fertilizers for healthy growth."
       }
    },
    "date": "06-02-2024"

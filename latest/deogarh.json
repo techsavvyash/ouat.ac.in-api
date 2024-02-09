@@ -1,117 +1,173 @@
 {
-   "Institution": {
-      "Name": "Dr. Sajeeb Kumar Biswasi",
-      "Position": "Senior Scientist & Nodal Officer, GKMS"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "Week No -06",
-      "District": "Deogarh (North Western Plateau Agroclimatic Zone)",
-      "Bulletin_Number": "No-12(Eng.Bulletin)",
-      "Date": "Dt -09.02.2024"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "Last Week",
-      "Rainfall_mm": 0.0,
-      "Max_Temperature_C": "26.60",
-      "Min_Temperature_C": "18.40"
-   },
-   "Forecast_Up_To": {
-      "Date": "14 .02.2024",
-      "Description": "As per IMD Forecast, the district may likely receive light rainfall for the next five days. The sky condition may be clear sky to generally cloudy for the next five days. The wind speed is likely to remain within 5-7km/h. The Maximum Temperature and Minimum Temperature will likely to remain between 27-29°C and 18-20°C respectively for the next five days."
-   },
-   "Daily_Weather_Data": [
+   "weather_details": [
       {
-         "Date": "10/02/2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 27,
-         "Min_Temp_C": 18,
-         "Cloud_Cover": 0,
-         "Max_RH_Percent": 56,
-         "Min_RH_Percent": 18,
-         "Wind_Speed_kmph": 5,
-         "Wind_Direction_deg": 90
+         "10/02/2024": {
+            "rainfall": 0,
+            "t_max": 27,
+            "t_min": 18,
+            "rh_max": 56,
+            "rh_min": 18,
+            "wind_speed": 5,
+            "wind_direction": 90,
+            "cloud_cover": 0
+         }
       },
       {
-         "Date": "11/02/2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 29,
-         "Min_Temp_C": 19,
-         "Cloud_Cover": 2,
-         "Max_RH_Percent": 45,
-         "Min_RH_Percent": 20,
-         "Wind_Speed_kmph": 5,
-         "Wind_Direction_deg": 108
+         "11/02/2024": {
+            "rainfall": 0,
+            "t_max": 29,
+            "t_min": 19,
+            "rh_max": 45,
+            "rh_min": 20,
+            "wind_speed": 5,
+            "wind_direction": 108,
+            "cloud_cover": 2
+         }
       },
       {
-         "Date": "12/02/2024",
-         "Rainfall_mm": 4,
-         "Max_Temp_C": 28,
-         "Min_Temp_C": 20,
-         "Cloud_Cover": 4,
-         "Max_RH_Percent": 48,
-         "Min_RH_Percent": 22,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 116
+         "12/02/2024": {
+            "rainfall": 4,
+            "t_max": 28,
+            "t_min": 20,
+            "rh_max": 48,
+            "rh_min": 22,
+            "wind_speed": 6,
+            "wind_direction": 116,
+            "cloud_cover": 4
+         }
       },
       {
-         "Date": "13/02/2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 27,
-         "Min_Temp_C": 20,
-         "Cloud_Cover": 8,
-         "Max_RH_Percent": 55,
-         "Min_RH_Percent": 27,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 144
+         "13/02/2024": {
+            "rainfall": 0,
+            "t_max": 27,
+            "t_min": 20,
+            "rh_max": 55,
+            "rh_min": 27,
+            "wind_speed": 7,
+            "wind_direction": 144,
+            "cloud_cover": 8
+         }
       },
       {
-         "Date": "14/02/2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 28,
-         "Min_Temp_C": 19,
-         "Cloud_Cover": 5,
-         "Max_RH_Percent": 61,
-         "Min_RH_Percent": 25,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 109
+         "14/02/2024": {
+            "rainfall": 0,
+            "t_max": 28,
+            "t_min": 19,
+            "rh_max": 61,
+            "rh_min": 25,
+            "wind_speed": 7,
+            "wind_direction": 109,
+            "cloud_cover": 5
+         }
       }
    ],
-   "Agromet_Advisory": {
-      "DEO GARH": [
-         {
-            "Crop": "General Advisory",
-            "Advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination."
-         },
-         {
-            "Crop": "High yielding pulses",
-            "Advisory": "National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days). Durga (60 to 65 days), Samrat (65 to 70 days), K -851 (60 to 65 days) and pear varieties – Sarla (65 to 70 days), PU -31 (70 days), PU -30 (65 to 70 days), PU -35 (65 to 70 days), PU -19 (65 to 70 days) etc. collect and sow in the land 25 kg of seeds (500 gm) are required per hectare."
-         },
-         {
-            "Crop": "Paddy Nursery management",
-            "Advisory": "Apply light irrigation in the nursery. Keep standing water in the paddy nursery 15 days onwards of sowing. At 15 days apply 4 kg urea for proper vigor of seedlings. Finish the nursery preparation work at the end of January month. For this, use light and medium varieties of seeds. At the time of last cultivation, 40 baskets of cow dung manure, 12 kg Single Super Phosphate and 02 kg of muriate of potash fertilizer to the soil."
-         },
-         {
-            "Crop": "SRI Paddy",
-            "Advisory": "Prepare the paddy nursery and transplant the 10-12 days old seedling on the main field. Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
-         },
-         {
-            "Crop": "Ragi",
-            "Advisory": "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing. If not tested the soil, apply 24:12:12 kg NPK per acre. Out of this apply 50% of N along with full dose of phosphorus and Potash as basal dose."
-         }
-      ]
-   },
-   "Contact_Information": {
-      "Met. Centre, IMD, Bhubaneswar": [
-         {
-            "Name": "Nodal Officer",
-            "Position": "Gramin Krishi Mausam Sewa"
-         }
-      ]
-   },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "Seedlings, Saapplings and QPM, Tissue culture plants, Fruits and vegetables, value added products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushrooma and spwn, Bi ofertilizer, Biopesticides, Vermi & Vermicompost and Farm implements",
-      "Meghdoot_Mobile_App": {
-         "Andriod": "https://play.google.com/store/apps/details?id=com.aas.meghdoot"
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "oilseeds crop",
+      "vegetables",
+      "mung varieties ipm -02-14",
+      "mung varieties ipm -02-3",
+      "pdm -11",
+      "pdm -54",
+      "durga",
+      "samrat",
+      "k -851",
+      "sarla",
+      "pu -31",
+      "pu -30",
+      "pu -35",
+      "pu -19",
+      "ragi",
+      "groundnut",
+      "rabi pulses crop",
+      "wheat",
+      "chilli",
+      "sunflower",
+      "potato",
+      "toria",
+      "animal",
+      "poultry"
+   ],
+   "general_advidory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
+   "crops_data": {
+      "paddy": {
+         "advisory": "Apply light irrigation in the nursery. Keep standing water in the paddy nursery 15 days onwards of sowing. At 15 days apply 4 kg urea for proper vigor of seedlings. Finish the nursery preparation work at the end of January month. Use light and medium varieties of seeds. At the time of last cultivation, 40 baskets of cow dung manure, 12 kg Single Super Phosphate and 2 kg of muriate of potash fertilizer to the soil. SRI Paddy: Prepare the paddy nursery and transplant the 10-12 days old seedling on the main field."
+      },
+      "pulses": {
+         "advisory": "National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days), Durga (60 to 65 days), Samrat (65 to 70 days), K -851 (60 to 65 days) and pear varieties – Sarla (65 to 70 days), PU -31 (70 days), PU -30 (65 to 70 days), PU -35 (65 to 70 days), PU -19 (65 to 70 days) etc. Collect and sow in the land 25 kg of seeds (500 gm) are required per hectare."
+      },
+      "oilseeds crop": {
+         "advisory": "No specific advisory information available."
+      },
+      "vegetables": {
+         "advisory": "No specific advisory information available."
+      },
+      "mung varieties ipm -02-14": {
+         "advisory": "No specific advisory information available."
+      },
+      "mung varieties ipm -02-3": {
+         "advisory": "No specific advisory information available."
+      },
+      "pdm -11": {
+         "advisory": "No specific advisory information available."
+      },
+      "pdm -54": {
+         "advisory": "No specific advisory information available."
+      },
+      "durga": {
+         "advisory": "No specific advisory information available."
+      },
+      "samrat": {
+         "advisory": "No specific advisory information available."
+      },
+      "k -851": {
+         "advisory": "No specific advisory information available."
+      },
+      "sarla": {
+         "advisory": "No specific advisory information available."
+      },
+      "pu -31": {
+         "advisory": "No specific advisory information available."
+      },
+      "pu -30": {
+         "advisory": "No specific advisory information available."
+      },
+      "pu -35": {
+         "advisory": "No specific advisory information available."
+      },
+      "pu -19": {
+         "advisory": "No specific advisory information available."
+      },
+      "ragi": {
+         "advisory": "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing. If not tested the soil, apply 24:12:12 kg NPK per acre. Out of this apply 50% of N along with full dose of phosphorus and Potash as basal dose."
+      },
+      "groundnut": {
+         "advisory": "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
+      },
+      "rabi pulses crop": {
+         "advisory": "Harvest when 90 percent of mungbean pods and pea crops are at ripen stage. After harvesting, dry and store the seeds for 2-3 days in a dry place."
+      },
+      "wheat": {
+         "advisory": "In order to control the black spot disease in wheat crop, bury or burn the affected trees in the soil and sprinkle 022 grams of carbendazim in 022 liters of water per acre. Pay attention to watering during flowering and flowering."
+      },
+      "chilli": {
+         "advisory": "If leaf spot appears in pepper crop, spray leaves with 0 ml of abamectin 9.1% or 9.1 to 0 ml of ethion per liter of water."
+      },
+      "sunflower": {
+         "advisory": "At 25 to 30 days after sowing the sunflower, apply 6-8 kg nitrogen per acre. Go for thinning operation."
+      },
+      "potato": {
+         "advisory": "Without any delay complete sowing of Potato. Seed rate is 6-8q/ac. Good varieties are Kufri Pokhraj, Kufri Lalima, Kufri chipsona. The seed weight should be 25-35 g per piece and having 2-3 eyes."
+      },
+      "toria": {
+         "advisory": "Due to powdery mildew, apply 1 kg sulphur powder in 200 liters of water per acre."
+      },
+      "animal": {
+         "advisory": "Keep clean and dry the animal shed. Arrange smoke of neem leaves near to animal shed for preventive measures of diseases. Provide need-based animal vaccination in consultation with line department. Animals should be given the wheat grains, jaggery and the mixture of mineral with white salt at the daily basis, all these may be provided @ 05-15% in the daily ration basis."
+      },
+      "poultry": {
+         "advisory": "Add half a gram of furasil to 1 liter of water for 3 days. To control chicken rabies, administer Lasota vaccine within the first 7 days and administer IBT eye drops within 13-15 days."
       }
    },
    "date": "09-02-2024"

@@ -1,144 +1,83 @@
 {
-   "Institution": {
-      "India Meteorological Department": "Orissa University of Agriculture and Technology",
-      "Region National Research & Technology Transfer Station": "Bhawanipatna, Kalahandi - 766001"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "06",
-      "District": "Kalahan di",
-      "Bulletin_Number": "12/2024",
-      "Date": "09-02-2024"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "Week",
-      "Rainfall_mm": 0.0,
-      "Max_Temperature_C": "32.0",
-      "Min_Temperature_C": "17.5"
-   },
-   "Forecast_Up_To": {
-      "Date": "14-02-2024",
-      "Description": "Dry weather very likely with clear to generally cloudy sky and wind mainly from South Easterly to Southerly direction with a speed of 006 to 007 km/hr. Maximum and minimum temperatures expected to be 28 to 30 0C and 15 to 18 0C respectively. Maximum RH expected between 54-79% and minimum RH between 17-24%."
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "10-02-2024",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 28.0,
-         "Min_Temp_C": 15.0,
-         "Cloud_Cover": 0,
-         "Max_RH_Percent": 78,
-         "Min_RH_Percent": 17,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 120
+   "weather_details": {
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 17,
+         "wind_speed": 6,
+         "wind_direction": 120,
+         "cloud_cover": 0
       },
-      {
-         "Date": "11-02-2024",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 30.0,
-         "Min_Temp_C": 17.0,
-         "Cloud_Cover": 1,
-         "Max_RH_Percent": 79,
-         "Min_RH_Percent": 19,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 153
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 19,
+         "wind_speed": 6,
+         "wind_direction": 153,
+         "cloud_cover": 1
       },
-      {
-         "Date": "12-02-2024",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 29.0,
-         "Min_Temp_C": 18.0,
-         "Cloud_Cover": 7,
-         "Max_RH_Percent": 68,
-         "Min_RH_Percent": 24,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 195
+      "12-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 68,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 195,
+         "cloud_cover": 7
       },
-      {
-         "Date": "13-02-2024",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 29.0,
-         "Min_Temp_C": 18.0,
-         "Cloud_Cover": 6,
-         "Max_RH_Percent": 61,
-         "Min_RH_Percent": 22,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 146
+      "13-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 61,
+         "rh_min": 22,
+         "wind_speed": 7,
+         "wind_direction": 146,
+         "cloud_cover": 6
       },
-      {
-         "Date": "14-02-2024",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 30.0,
-         "Min_Temp_C": 17.0,
-         "Cloud_Cover": 4,
-         "Max_RH_Percent": 54,
-         "Min_RH_Percent": 18,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 158
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 54,
+         "rh_min": 18,
+         "wind_speed": 7,
+         "wind_direction": 158,
+         "cloud_cover": 4
       }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "chick pea",
+      "ground nut",
+      "field pea",
+      "maize"
    ],
-   "Agromet_Advisory": {
-      "General_Advisory": [
-         {
-            "Crop": "Green gram, black gram, chickpea, groundnut, field pea, maize",
-            "Advisory": "Necessary irrigation at flowering stage to avoid water stress condition"
-         },
-         {
-            "Crop": "Chickpea, Green gram, Groundnut",
-            "Advisory": "Install 'T' shaped bird perches for controlling insect population"
-         }
-      ],
-      "Crop_Specific_Advisory": [
-         {
-            "Crop": "Summer Paddy",
-            "Advisory": "Apply granular herbicide Bensulfuron-methyl + Pretilachlor"
-         },
-         {
-            "Crop": "Green gram / Black gram",
-            "Advisory": "Apply Imazethapyr for weed management"
-         },
-         {
-            "Crop": "Groundnut",
-            "Advisory": "Install yellow sticky trap for monitoring Aphids/Jassids/White fly"
-         },
-         {
-            "Crop": "Hybrid Maize",
-            "Advisory": "Apply Tembotrione for weed management"
-         },
-         {
-            "Crop": "Sunflower",
-            "Advisory": "Harvest the head at 20% moisture of the seed"
-         },
-         {
-            "Crop": "Vegetable Tomato",
-            "Advisory": "Install pheromone trap for fruit & shoot borer"
-         },
-         {
-            "Crop": "Cauliflower & Cabbage",
-            "Advisory": "Spray Fipronil 5% SC for Dimond back moth"
-         },
-         {
-            "Crop": "Chilli",
-            "Advisory": "Install blue sticky trap for Thrips"
-         },
-         {
-            "Crop": "Brinjal",
-            "Advisory": "Install pheromone trap for Fruit and Shoot borer"
-         }
-      ]
-   },
-   "Contact_Information": {
-      "Nodal_Officer": [
-         {
-            "Name": "GKMS, RRTTS, Bhawanipatna",
-            "Position": "Nodal Officer"
-         }
-      ]
-   },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi & VermiCompost and Farm Implements",
-      "Meghdoot_Mobile_App": {
-         "Android": "https://play.google.com/store/apps/details?id=com.aas.meghdoot",
-         "iOS": "https://apps.apple.com/in/app/meghdoot/id1474048155"
+   "general_advidory": "Early sown crops like green gram, black gram, chick pea, ground nut, field pea, maize etc. are at flowering stage. Farmers are advised to provide necessary irrigation at this stage to avoid water stress condition.",
+   "crops_data": {
+      "green gram": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/ 10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period. Disease and Insect Management: Yellow Mosaic Virus: If infection of YMV is noticed, then infected plants should be uprooted and buried in the soil. Installation of yellow sticky trap @ 8/acre at vegetative stage is recommended or spray Thiomethoxam 25 WG @ 1g/ 5 ltr or Imidacloprid 17.8% SL @ 1.5 ml/ 5 ltr of water to monitor the vector of YMV effectively."
+      },
+      "black gram": {
+         "advisory": "Same advisory as green gram"
+      },
+      "chick pea": {
+         "advisory": "Install yellow sticky trap @ 8/acre to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetative stage. To prevent sucking pests neem-based pesticide (1500 ppm) may be sprayed @ 3 ml/ lit of water or to control chemically, apply Thiamethoxam 25 WG @ 0.2 g/lit or Imidacloprid 17.8% SL @ 0.25 ml/lit of water."
+      },
+      "ground nut": {
+         "advisory": "Aphid/Jassids/White fly: Install yellow sticky trap @ 8/acre to monitor at vegetative stage. Thrips: Install blue sticky trap @ 8/acre to monitor at vegetative stage. Tobacco Caterpillar: To monitor effectively install pheromone trap (Spodo lure) @ 8 no./ac at vegetative stage and replace the lure after 3 weeks."
+      },
+      "field pea": {
+         "advisory": "Not available"
+      },
+      "maize": {
+         "advisory": "Weed Management: Apply Tembotrione 34.4% SC @ 6ml or Topramezone 33.6% SC @ 1.5 g by mixing with 10 liters of water at 20-25 DAS for chemical control. Nutrient Management: Apply 75 kg urea as first top dressing at 20-25 DAS and 45 kg Urea + 20 kg MOP as second top dressing at 40-45 DAS"
       }
    },
    "date": "09-02-2024"

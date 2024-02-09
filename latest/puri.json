@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "10/02/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 67,
+         "rh_min": 45,
+         "wind_speed": 14,
+         "wind_direction": 110,
+         "cloud_cover": 0
+      },
+      "11/02/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 66,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 105,
+         "cloud_cover": 0
+      },
+      "12/02/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 69,
+         "rh_min": 37,
+         "wind_speed": 10,
+         "wind_direction": 112,
+         "cloud_cover": 4
+      },
+      "13/02/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 10,
+         "wind_direction": 150,
+         "cloud_cover": 5
+      },
+      "14/02/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 77,
+         "rh_min": 48,
+         "wind_speed": 10,
+         "wind_direction": 163,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "blackgram",
+      "greengram",
+      "cole crops",
+      "potato"
+   ],
+   "general_advidory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stem borer in the main field if granular insecticides have not been applied previously in the nursery. Complete the transplanting of 3-5 week old seedlings in well puddled soil.",
+   "crops_data": {
+      "paddy": {
+         "advisory": "Post-emergence Weed Management - spray Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40gram acre at 3 to 4 leaf stage."
+      },
+      "groundnut": {
+         "advisory": "To manage the carrier of Bud necrosis disease (Thrips) during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre."
+      },
+      "blackgram": {
+         "advisory": "To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre."
+      },
+      "greengram": {
+         "advisory": "To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre."
+      },
+      "cole crops": {
+         "advisory": "To control Alternaria leaf spot disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre."
+      },
+      "potato": {
+         "advisory": "To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water."
+      }
+   },
+   "date": "09-02-2024"
+}

@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "09-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 54,
+         "rh_min": 15,
+         "wind_speed": 6,
+         "wind_direction": 68,
+         "cloud_cover": 0
+      },
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 44,
+         "rh_min": 18,
+         "wind_speed": 6,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "11-02-2024": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 46,
+         "rh_min": 22,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      },
+      "12-02-2024": {
+         "rainfall": 4,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 59,
+         "rh_min": 25,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 7
+      },
+      "13-02-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 17,
+         "rh_max": 64,
+         "rh_min": 25,
+         "wind_speed": 7,
+         "wind_direction": 112,
+         "cloud_cover": 5
+      },
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 0,
+         "t_min": 0,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "green gram/black gram",
+      "mustard",
+      "sesame",
+      "groundnut",
+      "tomato",
+      "brinjal",
+      "chilli"
+   ],
+   "general_advidory": "As per Extended Range Forecast of IMD, MC, Bhubaneswar, isolated light rain/thundershower very likely at one or two places during 9th to 15th February 2024.",
+   "crops_data": {
+      "green gram/black gram": {
+         "advisory": "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
+      },
+      "mustard": {
+         "advisory": "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."
+      },
+      "sesame": {
+         "advisory": "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line."
+      },
+      "groundnut": {
+         "advisory": "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days of sowing but due to chance of occurrence of rainfall in upcoming days farmers should wait some days for spraying."
+      },
+      "tomato": {
+         "advisory": "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage."
+      },
+      "brinjal": {
+         "advisory": "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall. If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+      },
+      "chilli": {
+         "advisory": "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall. If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+      }
+   },
+   "date": "09-02-2024"
+}

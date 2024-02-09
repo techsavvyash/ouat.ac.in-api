@@ -1,104 +1,74 @@
 {
-   "Institution": {
-      "Orissa University of Agriculture & Technology": "Bhubaneswar"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "09",
-      "District": "GANJAM",
-      "Bulletin_Number": "District Level Agromet Advisory Bulletin",
-      "Date": "09-02-2024"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "2024-02-09",
-      "Rainfall_mm": 2.0,
-      "Max_Temperature_C": "29.0",
-      "Min_Temperature_C": "23.0"
-   },
-   "Forecast_Up_To": {
-      "Date": "2024-02-14",
-      "Description": "According to the weather forecast received from the India Meteorological Department, the district is likely to have light rain in the coming five days with a partly to fully cloudy sky . The wind is likely to remain within 6-8 km/hr . The maximum temperature and minimum temperature will likely remain between 27.0-29.0°C and 22.0-24.0°C respectively . The Maximum Relative Humidity and Minimum Relative Humidity will likely remain between 61-87% and 25-47% respectively for the next five days."
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "2024-02-10",
-         "Rainfall_mm": 2.0,
-         "Max_Temp_C": 28.0,
-         "Min_Temp_C": 22.0,
-         "Cloud_Cover": 7,
-         "Max_RH_Percent": 87,
-         "Min_RH_Percent": 47,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 115
+   "weather_details": {
+      "2024-02-10": {
+         "rainfall": 2.0,
+         "t_max": 28.0,
+         "t_min": 22.0,
+         "rh_max": 87,
+         "rh_min": 47,
+         "wind_speed": 7,
+         "wind_direction": 115,
+         "cloud_cover": 7
       },
-      {
-         "Date": "2024-02-11",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 28.0,
-         "Min_Temp_C": 23.0,
-         "Cloud_Cover": 1,
-         "Max_RH_Percent": 75,
-         "Min_RH_Percent": 37,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 135
+      "2024-02-11": {
+         "rainfall": 0.0,
+         "t_max": 28.0,
+         "t_min": 23.0,
+         "rh_max": 75,
+         "rh_min": 37,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 1
       },
-      {
-         "Date": "2024-02-12",
-         "Rainfall_mm": 1.0,
-         "Max_Temp_C": 27.0,
-         "Min_Temp_C": 24.0,
-         "Cloud_Cover": 2,
-         "Max_RH_Percent": 61,
-         "Min_RH_Percent": 30,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 248
+      "2024-02-12": {
+         "rainfall": 1.0,
+         "t_max": 27.0,
+         "t_min": 24.0,
+         "rh_max": 61,
+         "rh_min": 30,
+         "wind_speed": 7,
+         "wind_direction": 248,
+         "cloud_cover": 2
       },
-      {
-         "Date": "2024-02-13",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 27.0,
-         "Min_Temp_C": 24.0,
-         "Cloud_Cover": 5,
-         "Max_RH_Percent": 68,
-         "Min_RH_Percent": 25,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 161
+      "2024-02-13": {
+         "rainfall": 0.0,
+         "t_max": 27.0,
+         "t_min": 24.0,
+         "rh_max": 68,
+         "rh_min": 25,
+         "wind_speed": 7,
+         "wind_direction": 161,
+         "cloud_cover": 5
       },
-      {
-         "Date": "2024-02-14",
-         "Rainfall_mm": 0.0,
-         "Max_Temp_C": 29.0,
-         "Min_Temp_C": 23.0,
-         "Cloud_Cover": 6,
-         "Max_RH_Percent": 76,
-         "Min_RH_Percent": 26,
-         "Wind_Speed_kmph": 8,
-         "Wind_Direction_deg": 167
+      "2024-02-14": {
+         "rainfall": 0.0,
+         "t_max": 29.0,
+         "t_min": 23.0,
+         "rh_max": 76,
+         "rh_min": 26,
+         "wind_speed": 8,
+         "wind_direction": 167,
+         "cloud_cover": 6
       }
-   ],
-   "Agromet_Advisory": {
-      "General Advisory": "Light Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
-      "SMS Advisory": "Light Rain is expected in the coming five days.",
-      "Horticulture Specific Advisory": [
-         {
-            "Crop": "TOMATO",
-            "Advisory": "If fruit borer infestation is observed, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre."
-         },
-         {
-            "Crop": "BRINJAL",
-            "Advisory": "During the primary stage of the shoot and fruit borer infestation in Brinjal spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water ."
-         }
-      ],
-      "Fishieries Specific Advisory": [
-         {
-            "Crop": "COMMON CARP",
-            "Advisory": "Common white spots in fishes are called EUS mainly observed in winter . These spots later on turned into wounds which led to the mortality of fishes. To prevent this, apply Aquaneem @1lt/ha or CIF AX @1lt/ha."
-         }
-      ]
    },
-   "Contact_Information": {},
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "NA",
-      "Meghdoot_Mobile_App": {}
+   "names_of_crops": [
+      "tomato",
+      "brinjal",
+      "cowpea"
+   ],
+   "general_advidory": "Light Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
+   "crops_data": {
+      "crops": {
+         "tomato": {
+            "advisory": "If fruit borer infestation is observed, spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre."
+         },
+         "brinjal": {
+            "advisory": "During the primary stage of the shoot and fruit borer infestation in Brinjal, spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water."
+         },
+         "cowpea": {
+            "advisory": "Downy mildew in beans has been observed in some places. For chemical management, spray 30 gm of Metalaxyl 8% + Mancozeb 64% with Thiamethoxam 3 gm in 14 lt of water."
+         }
+      }
    },
    "date": "09-02-2024"
 }

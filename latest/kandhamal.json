@@ -1,127 +1,83 @@
 {
-   "Institution": {
-      "Name": "INDIA METEOROLOGICAL DEPARTMENT",
-      "Location": "NORTH EASTERN GHAT ZONE",
-      "Address": "RRTTS, G. UDAYAGIRI, OUAT, KANDHAMAL, ODISHA -762100"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "06",
-      "District": "KANDHAMAL",
-      "Bulletin_Number": "12",
-      "Date": "09.02.2024"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "10-02-2024 to 14-02-2024",
-      "Rainfall_mm": 8,
-      "Max_Temperature_C": "28",
-      "Min_Temperature_C": "12"
-   },
-   "Forecast_Up_To": {
-      "Date": "14.02.2024",
-      "Description": "As per the IMD forecast, the district is likely to receive light rainfall on 12th and 13th of February days with clear to overcast sky."
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "10-02-2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 26.0,
-         "Min_Temp_C": 12.0,
-         "Cloud_Cover": 0,
-         "Max_RH_Percent": 87,
-         "Min_RH_Percent": 19,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 135
+   "weather_details": {
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 87,
+         "rh_min": 19,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 0
       },
-      {
-         "Date": "11-02-2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 28.0,
-         "Min_Temp_C": 14.0,
-         "Cloud_Cover": 1,
-         "Max_RH_Percent": 80,
-         "Min_RH_Percent": 20,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 158
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 80,
+         "rh_min": 20,
+         "wind_speed": 6,
+         "wind_direction": 158,
+         "cloud_cover": 1
       },
-      {
-         "Date": "12-02-2024",
-         "Rainfall_mm": 6,
-         "Max_Temp_C": 27.0,
-         "Min_Temp_C": 15.0,
-         "Cloud_Cover": 8,
-         "Max_RH_Percent": 63,
-         "Min_RH_Percent": 23,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 200
+      "12-02-2024": {
+         "rainfall": 6,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 63,
+         "rh_min": 23,
+         "wind_speed": 6,
+         "wind_direction": 200,
+         "cloud_cover": 8
       },
-      {
-         "Date": "13-02-2024",
-         "Rainfall_mm": 2,
-         "Max_Temp_C": 27.0,
-         "Min_Temp_C": 15.0,
-         "Cloud_Cover": 7,
-         "Max_RH_Percent": 52,
-         "Min_RH_Percent": 23,
-         "Wind_Speed_kmph": 6,
-         "Wind_Direction_deg": 161
+      "13-02-2024": {
+         "rainfall": 2,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 52,
+         "rh_min": 23,
+         "wind_speed": 6,
+         "wind_direction": 161,
+         "cloud_cover": 7
       },
-      {
-         "Date": "14-02-2024",
-         "Rainfall_mm": 0,
-         "Max_Temp_C": 28.0,
-         "Min_Temp_C": 15.0,
-         "Cloud_Cover": 4,
-         "Max_RH_Percent": 55,
-         "Min_RH_Percent": 17,
-         "Wind_Speed_kmph": 7,
-         "Wind_Direction_deg": 161
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 55,
+         "rh_min": 17,
+         "wind_speed": 7,
+         "wind_direction": 161,
+         "cloud_cover": 4
       }
+   },
+   "names_of_crops": [
+      "mango",
+      "chilli",
+      "rice",
+      "brinjal",
+      "tomato",
+      "fisheries"
    ],
-   "Agromet_Advisory": {
-      "MANGO": [
-         {
-            "Crop": "MANGO",
-            "Advisory": "To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray."
-         }
-      ],
-      "Chilli": [
-         {
-            "Crop": "Chilli",
-            "Advisory": "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200 -litre of water."
-         }
-      ],
-      "Rice": [
-         {
-            "Crop": "Rice",
-            "Advisory": "In Rice, Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years."
-         }
-      ],
-      "Brinjal": [
-         {
-            "Crop": "Brinjal",
-            "Advisory": "To manage this pest chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Pyriproxyfen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250-ml/acre by mixing in 200-liter of water."
-         }
-      ],
-      "TOMATO": [
-         {
-            "Crop": "TOMATO",
-            "Advisory": "If fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use pheromone trap 20@acre."
-         }
-      ]
-   },
-   "Contact_Information": {
-      "Associate_Director_of_Research": [
-         {
-            "Name": "Sri Rahul Kumar Sahu",
-            "Position": "Jr. Agrometeorologist"
-         }
-      ]
-   },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "Seedling, Sampling & QPM, Tissue Culture Plants, Fruits and Vegetables, Value added products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushroom and Spawns, Bio-fertilizers, Bio-pesticides, Vermi & Vermi Compost",
-      "Meghdoot_Mobile_App": {
-         "iOS": "https://example.com/ios",
-         "Android": "https://example.com/android"
+   "general_advidory": "To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray.",
+   "crops_data": {
+      "mango": {
+         "advisory": "To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray."
+      },
+      "chilli": {
+         "advisory": "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+      },
+      "rice": {
+         "advisory": "In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years."
+      },
+      "brinjal": {
+         "advisory": "During primary stage of whitefly infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water. To manage this pest chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Pyriproxyfen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250-ml/acre by mixing in 200-liter of water."
+      },
+      "tomato": {
+         "advisory": "If fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use pheromone trap 20@acre."
+      },
+      "fisheries": {
+         "advisory": "In winter there is common white spots are found in fishes called as EUS. These spots later on turned into wounds which led to mortality of fishes. To prevent this, apply Aquaneem @ 1lt/ha or CIFAX @ 1lt/ha."
       }
    },
    "date": "09-02-2024"

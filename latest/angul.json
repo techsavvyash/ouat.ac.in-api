@@ -1,0 +1,76 @@
+{
+   "weather_details": {
+      "2024-02-10": {
+         "rainfall": 0.0,
+         "t_max": 31.0,
+         "t_min": 11.0,
+         "rh_max": 68,
+         "rh_min": 22,
+         "wind_speed": 6,
+         "wind_direction": 112,
+         "cloud_cover": 0
+      },
+      "2024-02-11": {
+         "rainfall": 0.0,
+         "t_max": 31.0,
+         "t_min": 12.0,
+         "rh_max": 56,
+         "rh_min": 20,
+         "wind_speed": 6,
+         "wind_direction": 112,
+         "cloud_cover": 1
+      },
+      "2024-02-12": {
+         "rainfall": 0.0,
+         "t_max": 30.0,
+         "t_min": 14.0,
+         "rh_max": 49,
+         "rh_min": 21,
+         "wind_speed": 6,
+         "wind_direction": 144,
+         "cloud_cover": 6
+      },
+      "2024-02-13": {
+         "rainfall": 0.0,
+         "t_max": 30.0,
+         "t_min": 14.0,
+         "rh_max": 55,
+         "rh_min": 23,
+         "wind_speed": 7,
+         "wind_direction": 124,
+         "cloud_cover": 7
+      },
+      "2024-02-14": {
+         "rainfall": 4.0,
+         "t_max": 31.0,
+         "t_min": 13.0,
+         "rh_max": 70,
+         "rh_min": 21,
+         "wind_speed": 8,
+         "wind_direction": 112,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "groundnut",
+      "cow",
+      "common fish"
+   ],
+   "general_advidory": "In case of pest infestation in stored grain of rice, apply Three Aluminum Phosphide Tablet per one ton of rice; Cover it well with Tarpaulin and ensure no space is left. Farmers must ensure to cover all corner and door space with Tarpaulin and cello tape so that no gas will escape the room. Cover the grain sack for 7-10days, donot perform the process in the living areas. Mustard crop is in flowering to Pod formation stage, there is a chance of infestation of Mustard Sawfly , to control sawfly in mustard crop apply Profenofos+Cypermethrin commercially known as Profigan 2ml/litre. The time to sow Til crop has come, use varieties e.g Shubha, Smarak for good yield.",
+   "crops_data": {
+      "green gram": {
+         "advisory": "There are chances of infection of Greengram crops by the yellow mosaic virus. To manage the population of the vector in the field first get rid of the severely infected plants by uprooting and destroying them far away from the field. Install 20 yellow sticky traps per acre. To manage whiteflies chemically spray Thiamethoxam @ 40 gram/acre or Acetamiprid @ 50-gram /acre or Pyriproxifen 10% EC @ 200-ml/acre by mixing in 200-litre of water. ( Donot go for application on Tuesday as light rainfall in expected)"
+      },
+      "groundnut": {
+         "advisory": "To control tikka disease of Groundnut, apply Pyraclostobin 20% WG @ 1g/lit or Tebuconazole 25% WG @ 5g/10lit. Grow tolerant varieties like JAL-42,2/9/24, 2:52 PM District Advisory"
+      },
+      "cow": {
+         "advisory": "To avoid FMD disease of cow , vaccination must be done in six months interval in February and September ."
+      },
+      "common fish": {
+         "advisory": "To prevent any disease/mortality problems, the water quality parameters should be maintained in the range of i.e pH-7.5 to 8.5, Dissolved oxygen -5.0ppm , Temperature- 25-30°C , total alkalinity- 75-175ppm, total hardness- 75-150ppm."
+      }
+   },
+   "date": "09-02-2024"
+}
