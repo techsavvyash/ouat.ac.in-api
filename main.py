@@ -135,7 +135,13 @@ async def main():
         logging.error(f"Error getting districts data: {e}")
         print("Error scraping website")
 
-    move_json_to_history("latest","history")
+    # move latest to history. 
+    try:
+        move_json_to_history("latest","history")
+    except Exception as e:
+        print("error moving latest to history",e)
+
+
 
     tasks = [process_pdf(district_data, temp_dir) for district_data in districts_data]
     results = await asyncio.gather(*tasks)
