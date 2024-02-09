@@ -3,27 +3,42 @@
     "07-02-2024": {
       "T. Max.": 29,
       "T. Min.": 15,
-      "Wind": 12
+      "Wind": {
+        "Rainfall": 0,
+        "speed": 15
+      }
     },
     "08-02-2024": {
       "T. Max.": 33,
       "T. Min.": 14,
-      "Wind": 15
+      "Wind": {
+        "Rainfall": 0,
+        "speed": 14
+      }
     },
     "09-02-2024": {
       "T. Max.": 31,
       "T. Min.": 12,
-      "Wind": 0
+      "Wind": {
+        "Rainfall": 0,
+        "speed": 12
+      }
     },
     "10-02-2024": {
       "T. Max.": 30,
       "T. Min.": 12,
-      "Wind": 0
+      "Wind": {
+        "Rainfall": 0,
+        "speed": 12
+      }
     },
     "11-02-2024": {
       "T. Max.": 29,
       "T. Min.": 14,
-      "Wind": 0
+      "Wind": {
+        "Rainfall": 0,
+        "speed": 14
+      }
     }
   },
   "general_advice": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop field as per requirement. Farmers are advised for not to burn the residue of *kharif* crops in the fields because it not only pollute the environment but also causes the severe health problems.",

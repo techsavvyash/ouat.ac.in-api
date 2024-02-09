@@ -1,35 +1,37 @@
 {
   "weather": {
     "PURI": {
-      "07/02/2024": {
-        "Rainfall (mm)": 0,
-        "T-MAX (C )": 32,
-        "T-MIN (C )": 24,
-        "Cloud Cover": 0,
-        "Rh Max (%)": 90,
-        "Rh Min (%)": 64,
-        "Wind speed (kmph)": 16,
-        "Wind Direction (deg)": 205
-      },
-      "08/02/2024": {
-        "Rainfall (mm)": 0,
-        "T-MAX (C )": 31,
-        "T-MIN (C )": 21,
-        "Cloud Cover": 0,
-        "Rh Max (%)": 90,
-        "Rh Min (%)": 65,
-        "Wind speed (kmph)": 11,
-        "Wind Direction (deg)": 108
-      },
-      "09/02/2024": {
-        "Rainfall (mm)": 0,
-        "T-MAX (C )": null,
-        "T-MIN (C )": null,
-        "Cloud Cover": null,
-        "Rh Max (%)": null,
-        "Rh Min (%)": null,
-        "Wind speed (kmph)": null,
-        "Wind Direction (deg)": null
+      "Weather Forecast": {
+        "07/02/2024": {
+          "Rainfall (mm)": "0",
+          "T-MAX (C )": "32",
+          "T-MIN (C )": "24",
+          "Cloud Cover": "0",
+          "Rh Max (%)": "90",
+          "Rh Min (%)": "64",
+          "Wind speed (kmph)": "16",
+          "Wind Direction (deg)": "205"
+        },
+        "08/02/2024": {
+          "Rainfall (mm)": "0",
+          "T-MAX (C )": "31",
+          "T-MIN (C )": "21",
+          "Cloud Cover": "0",
+          "Rh Max (%)": "90",
+          "Rh Min (%)": "65",
+          "Wind speed (kmph)": "11",
+          "Wind Direction (deg)": "108"
+        },
+        "09/02/2024": {
+          "Rainfall (mm)": "0",
+          "T-MAX (C )": "NA",
+          "T-MIN (C )": "NA",
+          "Cloud Cover": "NA",
+          "Rh Max (%)": "NA",
+          "Rh Min (%)": "NA",
+          "Wind speed (kmph)": "NA",
+          "Wind Direction (deg)": "NA"
+        }
       }
     }
   },
