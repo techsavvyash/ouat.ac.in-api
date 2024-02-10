@@ -1,1 +1,96 @@
-"Error"
+{
+   "weather_details": {
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": null,
+         "rh_min": null,
+         "wind_speed": null,
+         "wind_direction": null,
+         "cloud_cover": null
+      },
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 17,
+         "rh_max": null,
+         "rh_min": null,
+         "wind_speed": null,
+         "wind_direction": null,
+         "cloud_cover": null
+      },
+      "12-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": null,
+         "rh_min": null,
+         "wind_speed": null,
+         "wind_direction": null,
+         "cloud_cover": null
+      },
+      "13-02-2024": {
+         "rainfall": 5,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": null,
+         "rh_min": null,
+         "wind_speed": null,
+         "wind_direction": null,
+         "cloud_cover": null
+      },
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 18,
+         "rh_max": null,
+         "rh_min": null,
+         "wind_speed": null,
+         "wind_direction": null,
+         "cloud_cover": null
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "onion",
+      "paddy",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "brinjal",
+      "potato",
+      "mango"
+   ],
+   "general_advidory": "As per IMD forecast, the Dhenkanal district is likely to experience light rainfall on some days with clear to cloudy sky. The wind speed is expected to be between 06-08 km/h. The maximum temperature will range between 27-28°C. Various crop-specific advisories have been provided for different crops such as groundnut, onion, paddy, sugarcane, black gram, green gram, brinjal, potato, mango, animal husbandry, and poultry.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": "To manage the carrier of Bud necrosis disease (Thrips) during the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM. To manage Thrips chemically, spray Thiamethoxam 25% W.G or Acetamiprid 20% S.P. or Imidacloprid 17.8% SL."
+      },
+      "onion": {
+         "advisory": "To manage purple blotch and Stemphylium leaf blight disease in onion, spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C."
+      },
+      "paddy": {
+         "advisory": "Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties."
+      },
+      "sugarcane": {
+         "advisory": "Carry out planting of Sugarcane crop. To manage sett rot disease, apply Carbendazim 12% + Mancozeb 63% or foliar spray with Metalaxyl 8%.",
+         "black gram": {
+            "advisory": "To control Bihar hairy caterpillar in green gram and black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
+         },
+         "green gram": {
+            "advisory": "To control Bihar hairy caterpillar in green gram and black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
+         },
+         "brinjal": {
+            "advisory": "Little leaf of Brinjal is a mycoplasma disease which is transmitted by leafhopper. To manage this, spray Thiamethoxam 25 % WG or Flonicamid 50% WG."
+         },
+         "potato": {
+            "advisory": "To control cut worm in potato crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
+         },
+         "mango": {
+            "advisory": "To manage mango hoppers, spray Imidacloprid 17.8% SL or Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
+         }
+      }
+   },
+   "date": "09-02-2024"
+}

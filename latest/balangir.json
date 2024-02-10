@@ -1,50 +1,49 @@
 {
    "weather_details": {
-      "01-01-2023": {
+      "2022-10-01": {
          "rainfall": 5,
          "t_max": 30,
-         "t_min": 15,
-         "rh_max": 90,
+         "t_min": 20,
+         "rh_max": 80,
          "rh_min": 50,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 50
+         "cloud_cover": 30
       },
-      "01-02-2023": {
-         "rainfall": 0,
-         "t_max": 25,
-         "t_min": 12,
-         "rh_max": 80,
+      "2022-10-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
          "rh_min": 45,
-         "wind_speed": 15,
-         "wind_direction": 220,
+         "wind_speed": 12,
+         "wind_direction": 200,
          "cloud_cover": 20
       }
    },
-   "names_of_crops": {
-      "cotton": "rice",
-      "wheat": "tomato",
-      "potato": "corn"
-   },
-   "general_advidory": "Prepare for heavy rainfall in the upcoming week. Avoid sowing new crops.",
+   "names_of_crops": [
+      "rice",
+      "wheat",
+      "corn",
+      "soybean",
+      "cotton"
+   ],
+   "general_advidory": "Ensure to monitor the weather changes closely and adjust your farming activities accordingly.",
    "crops_data": {
-      "cotton": {
-         "advisory": "Due to the expected heavy rainfall, take necessary steps to prevent waterlogging in cotton fields."
-      },
       "rice": {
-         "advisory": "Ensure proper drainage in rice fields to avoid water stagnation during the rainy season."
+         "advisory": "Planting should be done in areas with sufficient water availability."
       },
       "wheat": {
-         "advisory": "Prepare for low temperatures during the upcoming weeks to protect wheat crops from frost damage."
-      },
-      "tomato": {
-         "advisory": "Keep a lookout for any signs of pests and diseases in tomato plants, especially during periods of high humidity."
-      },
-      "potato": {
-         "advisory": "Monitor potato crops closely for any signs of late blight, a common disease that thrives in wet conditions."
+         "advisory": "Ensure proper fertilization and pest control practices are implemented."
       },
       "corn": {
-         "advisory": "Implement water conservation measures in corn fields to cope with the forecasted dry spell in the region."
+         "advisory": "Harvesting timing should be chosen based on moisture content of the kernels."
+      },
+      "soybean": {
+         "advisory": "Rotate soybean crops with legumes to improve soil fertility."
+      },
+      "cotton": {
+         "advisory": "Monitor plant growth regularly and apply appropriate irrigation techniques."
       }
    },
    "date": "06-02-2024"
