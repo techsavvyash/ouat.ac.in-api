@@ -3,3 +3,4 @@ venv/
 src/
 static/
 archived/
+__pycache__/

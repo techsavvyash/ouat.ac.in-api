@@ -1,0 +1,124 @@
+{
+   "weather_details": {
+      "10/02/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 18,
+         "rh_max": 56,
+         "rh_min": 18,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "11/02/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 45,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 108,
+         "cloud_cover": 2
+      },
+      "12/02/2024": {
+         "rainfall": 4,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 48,
+         "rh_min": 22,
+         "wind_speed": 6,
+         "wind_direction": 116,
+         "cloud_cover": 4
+      },
+      "13/02/2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 20,
+         "rh_max": 55,
+         "rh_min": 27,
+         "wind_speed": 7,
+         "wind_direction": 144,
+         "cloud_cover": 8
+      },
+      "14/02/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 19,
+         "rh_max": 61,
+         "rh_min": 25,
+         "wind_speed": 7,
+         "wind_direction": 109,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "oilseeds",
+      "vegetables",
+      "mung varieties ipm -02-14 (65 days)",
+      "ipm -02-3 (65 days)",
+      "pdm -11 (65 days)",
+      "pdm -54 (60 to 65 days)",
+      "durga (60 to 65 days)",
+      "samrat (65 to 70 days)",
+      "k -851 (60 to 65 days)",
+      "sarla (65 to 70 days)",
+      "pu -31 (70 days)",
+      "pu -30 (65 to 70 days)",
+      "pu -35 (65 to 70 days)",
+      "pu -19 (65 to 70 days)"
+   ],
+   "general_advidory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
+   "crops_data": {
+      "paddy": {
+         "advisory": "Paddy Nursery management: Apply light irrigation in the nursery. Keep standing water in the paddy nursery 15 days onwards of sowing. At 15 days apply 4 kg urea for proper vigor of seedlings. Finish the nursery preparation work at the end of January month. For this, use light and medium varieties of seeds. At the time of last cultivation, 40 baskets of cow dung manure, 12 kg Single Super Phosphate and 02 kg of muriate of potash fertilizer to the soil. SRI Paddy: Prepare the paddy nursery and transplant the 10-12 days old seedling on the main field."
+      },
+      "pulses": {
+         "advisory": "National crops of pulses with high yield in dry season are: Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days), Durga (60 to 65 days), Samrat (65 to 70 days), K -851 (60 to 65 days), and pear varieties – Sarla (65 to 70 days), PU -31 (70 days), PU -30 (65 to 70 days), PU -35 (65 to 70 days), PU -19 (65 to 70 days) etc. Collect and sow in the land 25 kg of seeds (500 gm) are required per hectare."
+      },
+      "oilseeds": {
+         "advisory": "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
+      },
+      "vegetables": {
+         "advisory": "The overall crop condition is normal."
+      },
+      "mung varieties ipm -02-14 (65 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "ipm -02-3 (65 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "pdm -11 (65 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "pdm -54 (60 to 65 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "durga (60 to 65 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "samrat (65 to 70 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "k -851 (60 to 65 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "sarla (65 to 70 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "pu -31 (70 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "pu -30 (65 to 70 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "pu -35 (65 to 70 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "pu -19 (65 to 70 days)": {
+         "advisory": "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      }
+   },
+   "date": "09-02-2024"
+}

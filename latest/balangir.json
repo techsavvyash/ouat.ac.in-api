@@ -1,27 +1,51 @@
 {
-  "weather": {
-    "weather table": {
-      "Date": "01-01-2023",
-      "Temperature(C)": "25",
-      "Humidity(%)": "60",
-      "Rainfall(mm)": "2"
-    }
-  },
-  "general_advice": "It is recommended to take necessary precautions as the weather is expected to be rainy with high humidity. For crops, it is advised to protect them from waterlogging.",
-  "name_of_crops": "Rice, Wheat, Maize, Sugarcane",
-  "crops_data": {
-    "Rice": {
-      "advisory": "Ensure proper drainage for the rice fields and protect from waterlogging."
-    },
-    "Wheat": {
-      "advisory": "Avoid excessive irrigation during the rainy period to prevent waterlogging."
-    },
-    "Maize": {
-      "advisory": "Implement measures to prevent waterlogging and fungal diseases in maize fields."
-    },
-    "Sugarcane": {
-      "advisory": "Take measures to prevent waterlogging and excessive moisture around the sugarcane plants."
-    }
-  },
-  "date": "06-02-2024"
+   "weather_details": {
+      "01-01-2023": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 90,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 50
+      },
+      "01-02-2023": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 12,
+         "rh_max": 80,
+         "rh_min": 45,
+         "wind_speed": 15,
+         "wind_direction": 220,
+         "cloud_cover": 20
+      }
+   },
+   "names_of_crops": {
+      "cotton": "rice",
+      "wheat": "tomato",
+      "potato": "corn"
+   },
+   "general_advidory": "Prepare for heavy rainfall in the upcoming week. Avoid sowing new crops.",
+   "crops_data": {
+      "cotton": {
+         "advisory": "Due to the expected heavy rainfall, take necessary steps to prevent waterlogging in cotton fields."
+      },
+      "rice": {
+         "advisory": "Ensure proper drainage in rice fields to avoid water stagnation during the rainy season."
+      },
+      "wheat": {
+         "advisory": "Prepare for low temperatures during the upcoming weeks to protect wheat crops from frost damage."
+      },
+      "tomato": {
+         "advisory": "Keep a lookout for any signs of pests and diseases in tomato plants, especially during periods of high humidity."
+      },
+      "potato": {
+         "advisory": "Monitor potato crops closely for any signs of late blight, a common disease that thrives in wet conditions."
+      },
+      "corn": {
+         "advisory": "Implement water conservation measures in corn fields to cope with the forecasted dry spell in the region."
+      }
+   },
+   "date": "06-02-2024"
 }
