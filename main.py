@@ -1,4 +1,5 @@
 import json
+from jsonschema import validate, ValidationError
 import asyncio
 import requests
 import tempfile
@@ -20,6 +21,46 @@ client = AsyncOpenAI(api_key=api_key)
 # Configure logging
 logging.basicConfig(filename='error.log', level=logging.ERROR)
 
+async def save_response(results,districts_data,temp_dir):
+    inconsistent=[]
+    for district, response in results:
+        try:
+            validate(instance=response, schema=prompt.schema)
+            if len(response.get('names_of_crops', [])) != len(response.get('crops_data', {})):
+                raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
+        except Exception as e:
+            inconsistent.append(district)
+            
+        with open(f"latest/{district}.json", "w") as f:
+            json.dump(response, f, ensure_ascii=False, indent=3)
+
+    if len(inconsistent)>0:
+        print("Going again for inconsistent json for",inconsistent)
+        inconsistent_districts = [d for d in districts_data if d['district_name'] in inconsistent]
+        return await refine_response(inconsistent_districts,temp_dir)
+
+    return 0
+
+async def refine_response(inconsistent_districts,temp_dir):
+    tasks = [process_pdf(district_data, temp_dir) for district_data in inconsistent_districts]
+    results = await asyncio.gather(*tasks)
+
+    for district, response in results:
+        counter=0
+        try:
+            validate(instance=response, schema=prompt.schema)
+            if len(response.get('names_of_crops', [])) != len(response.get('crops_data', {})):
+                counter+=1
+                raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
+        except Exception as e:
+            response={"ERROR":"Not getting consistent data."}
+            
+        with open(f"latest/{district}.json", "w") as f:
+            json.dump(response, f, ensure_ascii=False, indent=3)
+        
+        return counter
+
+    
 
 async def process_pdf(district_data, temp_dir):
     district_name = district_data['district_name']
@@ -28,9 +69,10 @@ async def process_pdf(district_data, temp_dir):
 
     print("Processing data for", district_name)
     pdf_path = download_pdf(pdf_link, temp_dir)
+    c=0
     if pdf_path is None:
         logging.error(f"Error downloading PDF for {district_name}")
-        return district_name, "Error"
+        return district_name,{'date':'date',"error":"Error in getting the document."}
 
     try:
         reader = PdfReader(pdf_path)
@@ -57,7 +99,7 @@ async def process_pdf(district_data, temp_dir):
 
     except Exception as e:
         logging.error(f"Error processing PDF for {district_name}: {e}")
-        return district_name, "Error"
+        return district_name, {'date':'date',"error":"Error in getting the response."}
 
     return district_name, response
 
@@ -146,14 +188,8 @@ async def main():
     tasks = [process_pdf(district_data, temp_dir) for district_data in districts_data]
     results = await asyncio.gather(*tasks)
 
-    counter=0
-    for district, response in results:
-        if response=="error":
-            counter+=1
-            continue
-        with open(f"latest/{district}.json", "w") as f:
-            json.dump(response, f, ensure_ascii=False, indent=3)
-
+    counter=await save_response(results,districts_data,temp_dir)
+    
     total_districts = len(districts_data)
     metadata = f"District_done: {total_districts - counter}, Total_district: {total_districts}"
     with open("meta_data.txt", "w") as meta_file:
