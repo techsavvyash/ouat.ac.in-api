@@ -1,4 +1,5 @@
 import json
+from jsonschema import validate, ValidationError
 import asyncio
 import requests
 import tempfile
@@ -17,9 +18,78 @@ load_dotenv()
 api_key = os.environ.get("OPENAI_API_KEY")
 client = AsyncOpenAI(api_key=api_key)
 
-# Configure logging
 logging.basicConfig(filename='error.log', level=logging.ERROR)
 
+async def save_response(results,districts_data,temp_dir):
+    inconsistent=[]
+    for district, response in results:
+        try:
+            validate(instance=response, schema=prompt.schema)
+            if len(response.get('names_of_crops', [])) != len(response.get('crops_data', {})):
+                raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
+        except ValidationError as e:
+            inconsistent.append([district,response,str(e)])
+            
+        with open(f"latest/{district}.json", "w") as f:
+            json.dump(response, f, ensure_ascii=False, indent=3)
+
+    if len(inconsistent)>0:
+        print("Going again for inconsistent json for",[a[0] for a in inconsistent])
+        return await refine_response(inconsistent)                    
+
+    return 0
+    
+async def refine_response(inconsistent):
+    tasks = [retry_response(district_data[0], district_data[1], district_data[2]) for district_data in inconsistent]
+        
+    results = await asyncio.gather(*tasks)
+    for district, response in results:
+        counter=0
+        try:
+            validate(instance=response, schema=prompt.schema)
+            if len(response.get('names_of_crops', [])) != len(response.get('crops_data', {})):
+                raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
+        except Exception as e:
+            counter+=1
+            response={"ERROR":"Not getting consistent data."}
+            
+        with open(f"latest/{district}.json", "w") as f:
+            json.dump(response, f, ensure_ascii=False, indent=3)
+        
+    return counter
+
+async def retry_response(district,response,e):
+    try:
+        date=response['date']
+    except:
+        pass
+    user_prompt=f'''
+    I asked you to do this: {prompt.prompt} 
+    But this is the response I got: {response}
+    Error in your response: {e}
+    Improve your response please. Provide only json format and all conditions remain same. Keep date also.
+    '''
+    try:
+        chat_completion = await client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": user_prompt,
+                }
+            ],
+            model="gpt-3.5-turbo-0125",
+            response_format={"type": "json_object"},
+        )
+
+        response = chat_completion.choices[0].message.content
+        response = json.loads(response)
+        response['date'] = date
+    except Exception as e:
+        print("lol",e)
+        
+    return district,response
+
+    
 
 async def process_pdf(district_data, temp_dir):
     district_name = district_data['district_name']
@@ -28,9 +98,10 @@ async def process_pdf(district_data, temp_dir):
 
     print("Processing data for", district_name)
     pdf_path = download_pdf(pdf_link, temp_dir)
+    c=0
     if pdf_path is None:
         logging.error(f"Error downloading PDF for {district_name}")
-        return district_name, "Error"
+        return district_name,{'date':'date',"error":"Error in getting the document."}
 
     try:
         reader = PdfReader(pdf_path)
@@ -57,7 +128,7 @@ async def process_pdf(district_data, temp_dir):
 
     except Exception as e:
         logging.error(f"Error processing PDF for {district_name}: {e}")
-        return district_name, "Error"
+        return district_name, {'date':'date',"error":"Error in getting the response."}
 
     return district_name, response
 
@@ -146,14 +217,8 @@ async def main():
     tasks = [process_pdf(district_data, temp_dir) for district_data in districts_data]
     results = await asyncio.gather(*tasks)
 
-    counter=0
-    for district, response in results:
-        if response=="error":
-            counter+=1
-            continue
-        with open(f"latest/{district}.json", "w") as f:
-            json.dump(response, f, ensure_ascii=False, indent=3)
-
+    counter=await save_response(results,districts_data,temp_dir)
+    
     total_districts = len(districts_data)
     metadata = f"District_done: {total_districts - counter}, Total_district: {total_districts}"
     with open("meta_data.txt", "w") as meta_file:

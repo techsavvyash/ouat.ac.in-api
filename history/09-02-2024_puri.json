@@ -1,0 +1,94 @@
+{
+   "weather_details": [
+      {
+         "10/02/2024": {
+            "rainfall": 0,
+            "t_max": 29,
+            "t_min": 19,
+            "rh_max": 67,
+            "rh_min": 45,
+            "wind_speed": 14,
+            "wind_direction": 110,
+            "cloud_cover": 0
+         }
+      },
+      {
+         "11/02/2024": {
+            "rainfall": 0,
+            "t_max": 30,
+            "t_min": 20,
+            "rh_max": 66,
+            "rh_min": 37,
+            "wind_speed": 11,
+            "wind_direction": 105,
+            "cloud_cover": 0
+         }
+      },
+      {
+         "12/02/2024": {
+            "rainfall": 0,
+            "t_max": 29,
+            "t_min": 20,
+            "rh_max": 69,
+            "rh_min": 37,
+            "wind_speed": 10,
+            "wind_direction": 112,
+            "cloud_cover": 4
+         }
+      },
+      {
+         "13/02/2024": {
+            "rainfall": 0,
+            "t_max": 29,
+            "t_min": 20,
+            "rh_max": 75,
+            "rh_min": 41,
+            "wind_speed": 10,
+            "wind_direction": 150,
+            "cloud_cover": 5
+         }
+      },
+      {
+         "14/02/2024": {
+            "rainfall": 0,
+            "t_max": 30,
+            "t_min": 19,
+            "rh_max": 77,
+            "rh_min": 48,
+            "wind_speed": 10,
+            "wind_direction": 163,
+            "cloud_cover": 4
+         }
+      }
+   ],
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "blackgram and greengram",
+      "cole crops",
+      "potato",
+      "animal husbandry"
+   ],
+   "general_advidory": "Complete the transplanting of seedlings, apply basal dose during final puddling, manage pests in different crops mentioned",
+   "crops_data": {
+      "paddy": {
+         "advisory": "Post-emergence Weed Management: Spray suggested herbicides at specific stages"
+      },
+      "groundnut": {
+         "advisory": "Manage Bud Necrosis: Spray recommended pesticides at particular stages"
+      },
+      "blackgram and greengram": {
+         "advisory": "Control Aphids: Spray necessary pesticides at early stages"
+      },
+      "cole crops": {
+         "advisory": "Manage Alternaria Leaf Spot: Use relevant fungicides for disease control"
+      },
+      "potato": {
+         "advisory": "Control Cut Worm: Specific insecticides recommended for treatment"
+      },
+      "animal husbandry": {
+         "advisory": "Vaccinate against Foot and mouth diseases once a year"
+      }
+   },
+   "date": "09-02-2024"
+}

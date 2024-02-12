@@ -1,0 +1,50 @@
+{
+   "weather_details": {
+      "2022-10-01": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 30
+      },
+      "2022-10-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 45,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 20
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "wheat",
+      "corn",
+      "soybean",
+      "cotton"
+   ],
+   "general_advidory": "Ensure to monitor the weather changes closely and adjust your farming activities accordingly.",
+   "crops_data": {
+      "rice": {
+         "advisory": "Planting should be done in areas with sufficient water availability."
+      },
+      "wheat": {
+         "advisory": "Ensure proper fertilization and pest control practices are implemented."
+      },
+      "corn": {
+         "advisory": "Harvesting timing should be chosen based on moisture content of the kernels."
+      },
+      "soybean": {
+         "advisory": "Rotate soybean crops with legumes to improve soil fertility."
+      },
+      "cotton": {
+         "advisory": "Monitor plant growth regularly and apply appropriate irrigation techniques."
+      }
+   },
+   "date": "06-02-2024"
+}

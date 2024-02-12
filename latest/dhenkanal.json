@@ -4,51 +4,51 @@
          "rainfall": 0,
          "t_max": 27,
          "t_min": 15,
-         "rh_max": null,
-         "rh_min": null,
-         "wind_speed": null,
-         "wind_direction": null,
-         "cloud_cover": null
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
       "11-02-2024": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 17,
-         "rh_max": null,
-         "rh_min": null,
-         "wind_speed": null,
-         "wind_direction": null,
-         "cloud_cover": null
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
       "12-02-2024": {
          "rainfall": 0,
          "t_max": 28,
          "t_min": 19,
-         "rh_max": null,
-         "rh_min": null,
-         "wind_speed": null,
-         "wind_direction": null,
-         "cloud_cover": null
+         "rh_max": 5,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
       "13-02-2024": {
          "rainfall": 5,
          "t_max": 27,
          "t_min": 19,
-         "rh_max": null,
-         "rh_min": null,
-         "wind_speed": null,
-         "wind_direction": null,
-         "cloud_cover": null
+         "rh_max": 7,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
       "14-02-2024": {
          "rainfall": 0,
          "t_max": 26,
          "t_min": 18,
-         "rh_max": null,
-         "rh_min": null,
-         "wind_speed": null,
-         "wind_direction": null,
-         "cloud_cover": null
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
@@ -60,36 +60,66 @@
       "green gram",
       "brinjal",
       "potato",
-      "mango"
+      "mango",
+      "animal husbandry",
+      "poultry"
    ],
-   "general_advidory": "As per IMD forecast, the Dhenkanal district is likely to experience light rainfall on some days with clear to cloudy sky. The wind speed is expected to be between 06-08 km/h. The maximum temperature will range between 27-28°C. Various crop-specific advisories have been provided for different crops such as groundnut, onion, paddy, sugarcane, black gram, green gram, brinjal, potato, mango, animal husbandry, and poultry.",
+   "general_advisory": "Groundnut crop is in flowering stage, apply Gypsum 200 kg per acre. In onion crop, perform interculture and hand weeding at 15-20 days after transplanting. Apply specific fertilizers as recommended.",
    "crops_data": {
       "groundnut": {
-         "advisory": "To manage the carrier of Bud necrosis disease (Thrips) during the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM. To manage Thrips chemically, spray Thiamethoxam 25% W.G or Acetamiprid 20% S.P. or Imidacloprid 17.8% SL."
+         "advisory": [
+            "To manage the carrier of Bud necrosis disease (Thrips) during primary stage, spray Neem Based Pesticide (Azadirachtin) 1500 PPM. To manage Thrips chemically, use Thiamethoxam 25% W.G or other recommended chemicals."
+         ]
       },
       "onion": {
-         "advisory": "To manage purple blotch and Stemphylium leaf blight disease in onion, spray Mancozeb 75% WP or Difenoconazole 25% E.C or Tebuconazole 25.9% E.C."
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight disease, spray specific fungicides at recommended intervals."
+         ]
       },
       "paddy": {
-         "advisory": "Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties."
+         "advisory": [
+            "Apply 35 kg Urea per acre at 3 weeks after transplantation for high yielding varieties. Control Yellow Stem Borer using recommended pesticides."
+         ]
       },
       "sugarcane": {
-         "advisory": "Carry out planting of Sugarcane crop. To manage sett rot disease, apply Carbendazim 12% + Mancozeb 63% or foliar spray with Metalaxyl 8%.",
-         "black gram": {
-            "advisory": "To control Bihar hairy caterpillar in green gram and black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
-         },
-         "green gram": {
-            "advisory": "To control Bihar hairy caterpillar in green gram and black gram crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
-         },
-         "brinjal": {
-            "advisory": "Little leaf of Brinjal is a mycoplasma disease which is transmitted by leafhopper. To manage this, spray Thiamethoxam 25 % WG or Flonicamid 50% WG."
-         },
-         "potato": {
-            "advisory": "To control cut worm in potato crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C."
-         },
-         "mango": {
-            "advisory": "To manage mango hoppers, spray Imidacloprid 17.8% SL or Thiamethoxam 25% W.G or Acetamiprid 20% S.P."
-         }
+         "advisory": [
+            "Plant Sugarcane crop with recommended fungicides. Manage sett rot disease post-planting."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To control Bihar hairy caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C. in the evening."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To control Bihar hairy caterpillar, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C. in the evening."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Manage little leaf disease with recommended chemicals for leafhoppers."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To control cutworm, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C. in the evening."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To manage mango hoppers, spray recommended insecticides at specific intervals. Application of smoke can also help reduce pest population."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "For countering Foot and mouth diseases of cattle, ensure FMD vaccination once a year."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate chicks with Lasota at 7 days and with IBD vaccines within 13-15 days to prevent sleeping disease."
+         ]
       }
    },
    "date": "09-02-2024"
