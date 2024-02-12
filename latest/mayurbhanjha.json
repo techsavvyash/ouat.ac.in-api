@@ -61,71 +61,68 @@
       "cauliflower",
       "onion",
       "potato",
+      "moringa",
       "chilli",
-      "brinjal",
-      "cow"
+      "brinjal"
    ],
-   "general_advisory": "The district is likely to receive light rainfall with clear to overcast sky. The wind speed will remain within 5.0 to 8.0 kmph up to next five days. The daily maximum temperature may range between 30.0°C to 32.0°C. The minimum temperature may rise between 13.0°C to 16.0°C. Relative humidity during the morning may range between 30 to 59 percent and that during the afternoon may range between 17 to 23 percent. Harvestable produce i.e., matured fruits, vegetables, and flowers must be harvested and marketed to avoid deterioration of quality due to chances of occurrence of rain.",
+   "general_advisory": "The district is likely to receive light rainfall with clear to overcast sky. The wind speed will remain within 5.0 to 8.0 kmph up to next five days. The daily maximum temperature may range between 30.0°C to 32.0°C. The minimum temperature may rise between 13.0°C to 16.0°C. Relative humidity during morning may range between 30 to 59 percent and that during the afternoon may range between 17 to 23 percent. Harvestable produce should be harvested and marketed to avoid deterioration of quality due to chances of occurrence of rain.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers going for transplanting should apply 35-kg DAP, 30-kg MOP, and 8-kg Urea per acre during last puddling."
+            "Farmers going for transplanting should apply 35 kg DAP, 30 kg MOP, and 8 kg Urea per acre during last puddling."
          ]
       },
       "mustard": {
          "advisory": [
-            "To manage Downy Mildew & white rust chemically spray 3.5 ml Metalaxyl-M 31.8% ES or 2.5g Metalaxyl M 4 % + Mancozeb 64 % WP per litre of water.",
-            "For Mustard sawfly and leaf Webber infestation, spray Ethofenprox 10 % EC @ 200-ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing in 200 litres of water."
+            "Chemically spray Metalaxyl-M 31.8% ES or Metalaxyl M 4% + Mancozeb 64% WP to manage Downy Mildew."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage aphids and thrips, spray Neem Based Pesticide 300 PPM @ 1-litre/acre during the primary stage of infestation."
+            "To manage aphids and thrips, spray Neem Based Pesticide 300 PPM."
          ]
       },
       "cabbage": {
          "advisory": [
-            "To manage Dimond Back Moth infestation, install light traps per acre and spray neem-based pesticide @ 1-litre/acre during the primary stage of pest infestation."
+            "Install light traps per acre to manage Dimond Back Moth infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "To control fruit borer, collect and destroy affected fruits and larvae. Set up pheromone traps and spray insecticide if necessary."
+            "Collect and destroy affected fruits and larvae to control fruit borer."
          ]
       },
       "mango": {
          "advisory": [
-            "To control Mango Hoppers, spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 5g/15litre of water."
+            "To control Mango Hoppers, spray Imidacloprid or Thiamethoxam."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "To control Alternaria leaf spot disease, spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+            "To control Alternaria leaf spot disease, spray Mancozeb or carbendazim."
          ]
       },
       "onion": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight disease, spray Mancozeb 75% WP @ 600 gram/acre or Difenoconazole 25% E.C @ 200ml/acre at 15 days interval."
+            "To manage purple blotch and Stemphylium leaf blight, spray Mancozeb or Difenoconazole."
          ]
       },
       "potato": {
          "advisory": [
-            "To control cutworm, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre."
+            "To control cut worm, spray Chlorpyriphos + Cypermethrin."
          ]
+      },
+      "moringa": {
+         "advisory": []
       },
       "chilli": {
          "advisory": [
-            "To control aphids and thrips, spray neem-based pesticide 1500 PPM @ 600-ml/acre during the primary stage of infestation."
+            "To control aphids and thrips, spray neem-based pesticide 1500 PPM."
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage brinjal shoot and fruit borer, remove affected terminal shoots and fruits. Install pheromone traps and spray neem-based pesticide."
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "Provide proper shelter with ventilation. High amount of food in winter. Maize, wheat, and concentrate oil cakes are beneficial for large animals."
+            "Remove affected terminal shoots and fruits to manage brinjal shoot and fruit borer."
          ]
       }
    },

@@ -60,13 +60,13 @@
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Farmers are advised to take necessary irrigation measures for rice and vegetable crops. Other specific crop advisories are mentioned in the document.",
+   "general_advisory": "Farmers are advised to give necessary irrigation to field & vegetable crops. Utilize available water for summer rice transplanting. Take necessary preventive measures for different crops as mentioned in the advisory.",
    "crops_data": {
       "rice": {
          "advisory": [
             "Farmers are advised to give necessary irrigation to field & vegetable crops.",
-            "Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg / acre at 5 -8 days after transplanting.",
-            "Utilising available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35 kg DAP,20 kg MOP &10 kg ZnSO4 /acre.",
+            "Farmers those have already completed transplanting, apply granular herbicide Bensulfuron -methyl + Pretilachlor @ 4kg / acre at 5 -8 days after transplanting.",
+            "Utilising the available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35 kg DAP,20 kg MOP &10 kg ZnSO 4 /acre.",
             "In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes."
          ]
       },
@@ -85,22 +85,18 @@
       "rapeseed & mustard": {
          "advisory": [
             "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit.",
-            "To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at early stage spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200-litre of water. Spraying of insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
+            "To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at early stage spray Neem -based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200-litre of water. Spraying of Insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Sowing of Recommended HYV/Hybrid of Cucurbits after treating the seeds with Imidachloprid 600FS@(8 -10)ml/kg seeds to minimize the incidence of viral/phytoplasma incidence.",
-            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits.",
-            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
-            "Provide bamboo or wooden stake for better fruit set and growth of Tomato plants.",
-            "For minimizing the infestation of sucking insect pests like white fly, leaf hopper, thirps and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/lit Of water.",
-            "To control leaf eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5 g Emamectin benzoate or Spinosad 0.4 ml/liter of water."
+            "Sowing of Recommended HYV/Hybrid of Cucurbits after treating the seeds with Imidachloprid 600FS@(8 -10)ml/kg seeds to minimize the incidence of viral /phytoplasma incidence.",
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Beetle in cucurbits."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "The fishes should be fed daily with oil cake bran mixture at the rate of 2-3 % of their total biomass."
+            "The fishes should be fed daily with oil cake bran mixture at the rate of 2 -3 % of their total biomass."
          ]
       },
       "animal science": {

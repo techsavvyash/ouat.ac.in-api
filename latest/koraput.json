@@ -1,52 +1,12 @@
 {
    "weather_details": {
-      "05-02-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 11,
-         "rh_max": 93,
-         "rh_min": 15,
-         "wind_speed": 28,
-         "wind_direction": 135,
-         "cloud_cover": 0
-      },
-      "06-02-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 11,
-         "rh_max": 93,
-         "rh_min": 15,
-         "wind_speed": 24,
-         "wind_direction": 158,
-         "cloud_cover": 0
-      },
-      "07-02-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 11,
-         "rh_max": 86,
-         "rh_min": 15,
-         "wind_speed": 27,
-         "wind_direction": 154,
-         "cloud_cover": 0
-      },
-      "08-02-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 11,
-         "rh_max": 59,
-         "rh_min": 15,
-         "wind_speed": 20,
-         "wind_direction": 158,
-         "cloud_cover": 0
-      },
       "10-02-2024": {
          "rainfall": 2,
          "t_max": 32,
          "t_min": 11,
          "rh_max": 93,
          "rh_min": 28,
-         "wind_speed": 28,
+         "wind_speed": 7,
          "wind_direction": 135,
          "cloud_cover": 7
       },
@@ -56,7 +16,7 @@
          "t_min": 13,
          "rh_max": 86,
          "rh_min": 24,
-         "wind_speed": 24,
+         "wind_speed": 6,
          "wind_direction": 158,
          "cloud_cover": 1
       },
@@ -66,7 +26,7 @@
          "t_min": 14,
          "rh_max": 66,
          "rh_min": 27,
-         "wind_speed": 27,
+         "wind_speed": 7,
          "wind_direction": 154,
          "cloud_cover": 2
       },
@@ -76,7 +36,7 @@
          "t_min": 14,
          "rh_max": 59,
          "rh_min": 20,
-         "wind_speed": 20,
+         "wind_speed": 8,
          "wind_direction": 158,
          "cloud_cover": 6
       },
@@ -86,7 +46,7 @@
          "t_min": 13,
          "rh_max": 56,
          "rh_min": 15,
-         "wind_speed": 15,
+         "wind_speed": 7,
          "wind_direction": 158,
          "cloud_cover": 7
       }
@@ -95,14 +55,14 @@
       "rice",
       "maize",
       "groundnut",
-      "mustard/toria",
+      "mustard",
       "cauliflower",
       "brinjal",
       "tomato",
       "okra",
       "chilli"
    ],
-   "general_advisory": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop field as per requirement. Farmers are advised for not to burn the residue of kharif crops in the fields because it not only pollutes the environment but also causes severe health problems.",
+   "general_advisory": "No rainfall and dry weather expected during next five days. So, go for irrigation in crop field as per requirement. Farmers are advised for not to burn the residue of kharif crops in the fields because it not only pollute the environment but also causes severe health problems.",
    "crops_data": {
       "rice": {
          "advisory": [
@@ -114,7 +74,7 @@
       "maize": {
          "advisory": [
             "Fall army worm may observe in rabi maize field, to control it spray Emamectin benzoate 5% SG @ 0.4 g/litre of water or Chlorantraniliprole 18.5% SC @ 0.4 ml/litre of water.",
-            "Complete the sowing of summer maize within 1st week of February at a spacing of 60 cm x 20 cm with seed rate of 6 kg/acre. Apply of 52 kg DAP and 40 kg MoP per acre as basal dose. To control weeds spray Atrazine 50% WP @ 800 g/acre with 200 litres of water within 3 days after sowing."
+            "Complete the sowing of summer maize within 1st week of February at a spacing of 60 cm x 20 cm with seed rate of 6 kg/acre. Apply of 52 kg DAP and 40 kg MoP per acre as basal dose. To control weeds, spray Atrazine 50% WP @ 800 g/acre with 200 litres of water within 3 days after sowing."
          ]
       },
       "groundnut": {
@@ -124,14 +84,14 @@
             "Go for land preparation and sowing of summer groundnut at a spacing of 25 cm x 10 cm with seed rate of 50 kg/acre. Apply 35 kg DAP, 4 kg urea and 27 kg MoP per acre along with 10 kg zinc sulfate and 4 kg borax/acre as basal. Before sowing seed should be treated with 10 g Trichoderma harzianum/viride or 3 g Carboxin 37.5% + Thiram 37.5% DS for one kg seed."
          ]
       },
-      "mustard/toria": {
+      "mustard": {
          "advisory": [
-            "Chances of aphid infestation, if observed spray Dimethoate 30% EC @ 1.5 ml/litre of water or Imidacloprid 17.8 % SL @ 0.3 ml/litre of water."
+            "Chances of aphid infestation, if observe spray Dimethoate 30% EC @ 1.5 ml/litre of water or Imidacloprid 17.8 % SL @ 0.3 ml/litre of water."
          ]
       },
       "cauliflower": {
          "advisory": [
-            "Chances of diamond back moth infestation in cauliflower, if observed spray Azadirachtin 5% W/W @ 0.5 ml/litre of water or Emamectin benzoate 5% SG @ 0.4 g/litre of water."
+            "Chances of diamond back moth infestation in cauliflower, if observe spray Azadirachtin 5% W/W @ 0.5 ml/litre of water or Emamectin benzoate 5% SG @ 0.4 g/litre of water."
          ]
       },
       "brinjal": {
@@ -146,12 +106,12 @@
       },
       "okra": {
          "advisory": [
-            "To control fruit borer in okra spray neem based pesticide 300 ppm @ 5ml/litre of water. At later stages spray of Spinosad 45% SC @ 0.4ml/litre of water."
+            "To control fruit borer in okra spray neem-based pesticide 300 ppm @ 5ml/litre of water. At later stages, spray of Spinosad 45% SC @ 0.4 ml/litre of water."
          ]
       },
       "chilli": {
          "advisory": [
-            "Fruit rot infestation may observe in field, if observed spray Azoxystrobin 23% SC @ 1 ml/litre of water or Tebuconazole 25.9% EC @ 1 ml/litre of water."
+            "Fruit rot infestation may observe in field, if observe spray Azoxystrobin 23% SC @ 1 ml/litre of water or Tebuconazole 25.9% EC @ 1 ml/litre of water."
          ]
       }
    },

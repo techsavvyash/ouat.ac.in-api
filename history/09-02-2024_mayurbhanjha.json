@@ -1,7 +1,7 @@
 {
    "weather_details": {
       "2024-02-10": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 32,
          "t_min": 13,
          "rh_max": 30,
@@ -11,7 +11,7 @@
          "cloud_cover": 0
       },
       "2024-02-11": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 32,
          "t_min": 15,
          "rh_max": 30,
@@ -21,7 +21,7 @@
          "cloud_cover": 1
       },
       "2024-02-12": {
-         "rainfall": 6.0,
+         "rainfall": 6,
          "t_max": 31,
          "t_min": 16,
          "rh_max": 37,
@@ -31,7 +31,7 @@
          "cloud_cover": 8
       },
       "2024-02-13": {
-         "rainfall": 5.0,
+         "rainfall": 5,
          "t_max": 30,
          "t_min": 16,
          "rh_max": 45,
@@ -41,7 +41,7 @@
          "cloud_cover": 7
       },
       "2024-02-14": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 31,
          "t_min": 15,
          "rh_max": 59,
@@ -61,47 +61,72 @@
       "cauliflower",
       "onion",
       "potato",
-      "menacinakahi",
       "chilli",
-      "brinjal"
+      "brinjal",
+      "cow"
    ],
-   "general_advidory": "The district is likely to receive light rainfall with clear to overcast sky. The wind speed will remain within 5.0 to 8.0 kmph up to next five days. The daily maximum temperature may range between 30.0°C to 32.0°C. The minimum temperature may rise between 13.0°C to 16.0°C. Relative humidity during morning may range between 30 to 59 percent and that during the afternoon may range between 17 to 23 percent. Havestable produce i.e., matured fruits, vegetables and flowers must be harvested and marketed to avoid deterioration of quality due to chances of occurrence of the rain.",
+   "general_advisory": "The district is likely to receive light rainfall with clear to overcast sky. The wind speed will remain within 5.0 to 8.0 kmph up to next five days. The daily maximum temperature may range between 30.0°C to 32.0°C. The minimum temperature may rise between 13.0°C to 16.0°C. Relative humidity during the morning may range between 30 to 59 percent and that during the afternoon may range between 17 to 23 percent. Harvestable produce i.e., matured fruits, vegetables, and flowers must be harvested and marketed to avoid deterioration of quality due to chances of occurrence of rain.",
    "crops_data": {
       "rice": {
-         "advisory": "Farmers those who are going for transplanting should apply 35- kg DAP , 30- kg MOP  and 8-kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP , 15 kg MOP  and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+         "advisory": [
+            "Farmers going for transplanting should apply 35-kg DAP, 30-kg MOP, and 8-kg Urea per acre during last puddling."
+         ]
       },
       "mustard": {
-         "advisory": "The rainfall during the previous week which results in higher humidity and lower temperature might aggravate Downy Mildew in Mustard. High relative humidity also might aggravate white rust. After rain, to manage Downy Mildew & white rust chemically spray 3.5 ml Metalaxyl-M 31.8% ES or 2.5g Metalaxyl M 4 % + Mancozeb 64 % WP per litre of water . There are chances of Leaf Webber and Mustard sawfly infestation in mustard crop. To manage Mustard sawfly and leaf Webber spray Ethofenprox 10 % EC @ 200-ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water . There are chances of aphid and painted bug infestation in mustard crop. During primary stage of infestation of Aphid and Painted Bug, farmers should spray Neem Based Pesticide 1500 PPM @ 600-ml/acre. To manage Aphids and Painted Bug chemically spray Thiomethoxam 25% W. G @ 40 gram/acre or Acetamiprid 20% S.P . @ 50 gram/acre or Imidachloprid 17.8% SL  @ 60- ml acre by mixing in 200 litres of water . Apply the insecticides in the afternoon hours so that the movement of Honeybees will not be disturbed."
+         "advisory": [
+            "To manage Downy Mildew & white rust chemically spray 3.5 ml Metalaxyl-M 31.8% ES or 2.5g Metalaxyl M 4 % + Mancozeb 64 % WP per litre of water.",
+            "For Mustard sawfly and leaf Webber infestation, spray Ethofenprox 10 % EC @ 200-ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing in 200 litres of water."
+         ]
       },
       "groundnut": {
-         "advisory": "The present weather condition with high day temperature and low night temperature is congenial for aphids and thrips infestation in groundnut. To manage aphids, and thrips spray Neem Based Pesticide 300 PPM @ 1-litre /acre during primary stage of infestation. If the infestation is severe than spray Thiomethoxam 25% W.G @ 40 gram/acre or Imidacloprid 17.8% SL  @ 50-ml/acre by mixing it in 200 litre of water. To manage leaf miner in groundnut spray neem Based Pesticide 300 PPM @ 1-litre /acre during primary stage of infestation. To manage leaf miner chemically spray Profenophos 50% EC @ 400 ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 -litre of water."
+         "advisory": [
+            "To manage aphids and thrips, spray Neem Based Pesticide 300 PPM @ 1-litre/acre during the primary stage of infestation."
+         ]
       },
       "cabbage": {
-         "advisory": "There are chances of infestation of Dimond Back Moth in early planted Cole crops. The damage is caused by the larvae that dig tunnels in the leaf tissues or scrap the epidermal leaf tissues of the lower surface of the leaf blade producing typical whitish patches on leaves. To manage this pest, farmers should install 6-8 nos of light traps per acre. During primary stage of pest infestation, they should spray neem-based pesticide @ 1-litre/acre by mixing in 200-litre of water. To manage this pest chemically, farmers should spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Emamectin Benzoate 5 % SG @ 80-gram/acre by mixing in 200-litre of water."
+         "advisory": [
+            "To manage Dimond Back Moth infestation, install light traps per acre and spray neem-based pesticide @ 1-litre/acre during the primary stage of pest infestation."
+         ]
       },
       "tomato": {
-         "advisory": "To control fruit borer in Tomato, farmers should first collect and destroy the affected fruits and grown up larvae. They should then set up 20 nos. of pheromone trap having Helilure per acre. If there are 10% fruits infested with borer, farmers should go for spraying of insecticide. They can spray Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. They can use any of the above insecticides alternately at 15 days interval."
+         "advisory": [
+            "To control fruit borer, collect and destroy affected fruits and larvae. Set up pheromone traps and spray insecticide if necessary."
+         ]
       },
       "mango": {
-         "advisory": "Due to cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant. To control mango hoppers, farmers should spray Imidacloprid 17.8% SL  @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 5g/15litre of water or Acetamiprid 20% S.P . @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after the first spray. Application of smoke below the plants can also help in reducing the pest population."
+         "advisory": [
+            "To control Mango Hoppers, spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 5g/15litre of water."
+         ]
       },
       "cauliflower": {
-         "advisory": "There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops farmers should spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+         "advisory": [
+            "To control Alternaria leaf spot disease, spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+         ]
       },
       "onion": {
-         "advisory": "To manage purple blotch and Stemphylium leaf blight disease in onion, farmers should spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. They should add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight disease, spray Mancozeb 75% WP @ 600 gram/acre or Difenoconazole 25% E.C @ 200ml/acre at 15 days interval."
+         ]
       },
       "potato": {
-         "advisory": "To control cut worm in potato crop, farmers should spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Cut Worm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
-      },
-      "menacinakahi": {
-         "advisory": "To control aphids and thrips in chilli during primary stage of pest infestation, farmers should spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. They can also spray Thiomethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+         "advisory": [
+            "To control cutworm, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre."
+         ]
       },
       "chilli": {
-         "advisory": "To control aphids and thrips in chilli during primary stage of pest infestation, farmers should spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. They can also spray Thiomethoxam 25 % WG @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g /acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+         "advisory": [
+            "To control aphids and thrips, spray neem-based pesticide 1500 PPM @ 600-ml/acre during the primary stage of infestation."
+         ]
       },
       "brinjal": {
-         "advisory": "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds. To manage the pest, farmers should remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, they should install 20 nos. of pheromone trap having Leucin Lure per acre. During the primary stage of pest infestation, they should spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. They can go for chemical control if there is 4% withering of terminal shoot or 14% fruits infested with borers. For chemical control, they should spray Spinosad 45 % SC @ 75-ml/acre or Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. They should not repeat the same insecticide and use any of the above insecticides alternately at 15-days interval."
+         "advisory": [
+            "To manage brinjal shoot and fruit borer, remove affected terminal shoots and fruits. Install pheromone traps and spray neem-based pesticide."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide proper shelter with ventilation. High amount of food in winter. Maize, wheat, and concentrate oil cakes are beneficial for large animals."
+         ]
       }
    },
    "date": "09-02-2024"

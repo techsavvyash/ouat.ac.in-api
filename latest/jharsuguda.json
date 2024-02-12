@@ -61,7 +61,7 @@
       "brinjal",
       "chilli"
    ],
-   "general_advisory": "As per Extended Range Forecast of IMD, MC, Bhubaneswar, isolated light rain/ thundershower very likely at one or two places during 9th to 15th February 2024. No large change in minimum temperature and minimum temperature is expected to be slightly above normal at many places over the districts of Odisha during that period. Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done within two days and wait to apply irrigation in crop field for some days because there is a chance of cloudy weather along with occurrence of light rainfall in some places thereafter.",
+   "general_advisory": "Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done within two days and wait to apply irrigation in crop field for some days because there is a chance of cloudy weather along with occurrence of light rainfall in some places thereafter.",
    "crops_data": {
       "green gram": {
          "advisory": [
@@ -69,7 +69,9 @@
          ]
       },
       "black gram": {
-         "advisory": []
+         "advisory": [
+            "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
+         ]
       },
       "mustard": {
          "advisory": [
@@ -88,15 +90,22 @@
       },
       "tomato": {
          "advisory": [
-            "To control leaf eating caterpillar and fruit borer/ shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall.",
-            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage."
+            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage.",
+            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall.",
+            "If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
          ]
       },
       "brinjal": {
-         "advisory": []
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall.",
+            "If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+         ]
       },
       "chilli": {
-         "advisory": []
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall.",
+            "If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+         ]
       }
    },
    "date": "09-02-2024"

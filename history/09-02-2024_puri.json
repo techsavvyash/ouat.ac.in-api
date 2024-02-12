@@ -1,93 +1,95 @@
 {
-   "weather_details": [
-      {
-         "10/02/2024": {
-            "rainfall": 0,
-            "t_max": 29,
-            "t_min": 19,
-            "rh_max": 67,
-            "rh_min": 45,
-            "wind_speed": 14,
-            "wind_direction": 110,
-            "cloud_cover": 0
-         }
+   "weather_details": {
+      "10/02/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 67,
+         "rh_min": 45,
+         "wind_speed": 14,
+         "wind_direction": 110,
+         "cloud_cover": 0
       },
-      {
-         "11/02/2024": {
-            "rainfall": 0,
-            "t_max": 30,
-            "t_min": 20,
-            "rh_max": 66,
-            "rh_min": 37,
-            "wind_speed": 11,
-            "wind_direction": 105,
-            "cloud_cover": 0
-         }
+      "11/02/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 66,
+         "rh_min": 37,
+         "wind_speed": 11,
+         "wind_direction": 105,
+         "cloud_cover": 0
       },
-      {
-         "12/02/2024": {
-            "rainfall": 0,
-            "t_max": 29,
-            "t_min": 20,
-            "rh_max": 69,
-            "rh_min": 37,
-            "wind_speed": 10,
-            "wind_direction": 112,
-            "cloud_cover": 4
-         }
+      "12/02/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 69,
+         "rh_min": 37,
+         "wind_speed": 10,
+         "wind_direction": 112,
+         "cloud_cover": 4
       },
-      {
-         "13/02/2024": {
-            "rainfall": 0,
-            "t_max": 29,
-            "t_min": 20,
-            "rh_max": 75,
-            "rh_min": 41,
-            "wind_speed": 10,
-            "wind_direction": 150,
-            "cloud_cover": 5
-         }
+      "13/02/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 75,
+         "rh_min": 41,
+         "wind_speed": 10,
+         "wind_direction": 150,
+         "cloud_cover": 5
       },
-      {
-         "14/02/2024": {
-            "rainfall": 0,
-            "t_max": 30,
-            "t_min": 19,
-            "rh_max": 77,
-            "rh_min": 48,
-            "wind_speed": 10,
-            "wind_direction": 163,
-            "cloud_cover": 4
-         }
+      "14/02/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
+         "rh_max": 77,
+         "rh_min": 48,
+         "wind_speed": 10,
+         "wind_direction": 163,
+         "cloud_cover": 4
       }
-   ],
+   },
    "names_of_crops": [
       "paddy",
       "groundnut",
-      "blackgram and greengram",
+      "blackgram",
+      "greengram",
       "cole crops",
-      "potato",
-      "animal husbandry"
+      "potato"
    ],
-   "general_advidory": "Complete the transplanting of seedlings, apply basal dose during final puddling, manage pests in different crops mentioned",
+   "general_advisory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stem borer in the main field if granular insecticides have not been applied previously in the nursery. Complete the transplanting of 3-5 week old seedlings in well puddled soil at a spacing of 15cm × 15cm with 3-4 seedlings per hill at shallow depth. In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes.",
    "crops_data": {
       "paddy": {
-         "advisory": "Post-emergence Weed Management: Spray suggested herbicides at specific stages"
+         "advisory": [
+            "Post-emergence Weed Management: In transplanted and broadcasted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40 gram acre at 3 to 4 leaf stage by mixing in 200 litre of water. If only broad leaf weeds and sedges are dominant in the field spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8gram /acre at 20-25 DAT by mixing in 200 litre of water."
+         ]
       },
       "groundnut": {
-         "advisory": "Manage Bud Necrosis: Spray recommended pesticides at particular stages"
+         "advisory": [
+            "Bud Necrosis: To manage the carrier of Bud necrosis disease (Thrips) during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage Thrips chemically spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+         ]
       },
-      "blackgram and greengram": {
-         "advisory": "Control Aphids: Spray necessary pesticides at early stages"
+      "blackgram": {
+         "advisory": [
+            "Aphid: To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Aphid: To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+         ]
       },
       "cole crops": {
-         "advisory": "Manage Alternaria Leaf Spot: Use relevant fungicides for disease control"
+         "advisory": [
+            "Alternaria Leaf Spot: There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+         ]
       },
       "potato": {
-         "advisory": "Control Cut Worm: Specific insecticides recommended for treatment"
-      },
-      "animal husbandry": {
-         "advisory": "Vaccinate against Foot and mouth diseases once a year"
+         "advisory": [
+            "Cut Worm: To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Cut Worm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
+         ]
       }
    },
    "date": "09-02-2024"

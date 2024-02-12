@@ -2,48 +2,46 @@
    "weather_details": {
       "2022-10-01": {
          "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 80,
-         "rh_min": 50,
-         "wind_speed": 10,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 15,
          "wind_direction": 180,
-         "cloud_cover": 30
+         "cloud_cover": 6
       },
       "2022-10-02": {
          "rainfall": 2,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 75,
-         "rh_min": 45,
+         "t_max": 25,
+         "t_min": 17,
+         "rh_max": 80,
+         "rh_min": 55,
          "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 20
+         "wind_direction": 220,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "rice",
       "wheat",
-      "corn",
-      "soybean",
-      "cotton"
+      "sugar cane",
+      "poultry"
    ],
-   "general_advidory": "Ensure to monitor the weather changes closely and adjust your farming activities accordingly.",
+   "general_advisory": "Sow wheat seeds now, ensure proper irrigation for sugar cane, monitor poultry health regularly.",
    "crops_data": {
-      "rice": {
-         "advisory": "Planting should be done in areas with sufficient water availability."
-      },
       "wheat": {
-         "advisory": "Ensure proper fertilization and pest control practices are implemented."
+         "advisory": [
+            "Sow seeds at a depth of 2 inches, apply nitrogen fertilizer post-germination."
+         ]
       },
-      "corn": {
-         "advisory": "Harvesting timing should be chosen based on moisture content of the kernels."
+      "sugar cane": {
+         "advisory": [
+            "Ensure proper irrigation to avoid water stress, watch out for pests and diseases."
+         ]
       },
-      "soybean": {
-         "advisory": "Rotate soybean crops with legumes to improve soil fertility."
-      },
-      "cotton": {
-         "advisory": "Monitor plant growth regularly and apply appropriate irrigation techniques."
+      "poultry": {
+         "advisory": [
+            "Maintain clean coop, provide balanced diet, monitor for signs of illness."
+         ]
       }
    },
    "date": "06-02-2024"

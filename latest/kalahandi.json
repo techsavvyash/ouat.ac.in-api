@@ -1,3 +1,80 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 17,
+         "wind_speed": 6,
+         "wind_direction": 120,
+         "cloud_cover": 0
+      },
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 19,
+         "wind_speed": 6,
+         "wind_direction": 153,
+         "cloud_cover": 1
+      },
+      "12-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 68,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 195,
+         "cloud_cover": 7
+      },
+      "13-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 61,
+         "rh_min": 22,
+         "wind_speed": 7,
+         "wind_direction": 146,
+         "cloud_cover": 6
+      },
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 54,
+         "rh_min": 18,
+         "wind_speed": 7,
+         "wind_direction": 158,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "chickpea",
+      "groundnut",
+      "paddy",
+      "rice"
+   ],
+   "general_advisory": "Early sown crops like green gram, black gram, chickpea, ground nut, field pea, maize etc. are at flowering stage. Farmers are advised to provide necessary irrigation at this stage to avoid water stress condition. Farmers are advised to install 'T' shaped bird perches in and around crop fields like chickpea, green gram, groundnut and vegetables for controlling insect population. Install pheromone trap @ 3-4/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato, etc. Rouging of viral infested plants should be done in vegetables. Infected plants should be uprooted and buried in the soil.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Weed Management: Apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 days after transplanting by mixing with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 WP @ 5 g/10 ltrs of water at 3-5 days after transplanting or spray Bispyribac sodium @ 8 ml by mixing with 10 liters of water at 10-15 DAT.",
+            "Nutrient Management: In direct-seeded rice apply urea @ 24 kg/acre as fist top dressing at 20-25 DAS. Prepare the main field for timely transplanting. Apply DAP 44 kg + MOP 22 kg per acre as a basal dose during final puddling.",
+            "Disease and Insect Management: If infestation of blast disease is noticed in direct-seeded rice, spray Carbendazim 50 WP @ 1g/ltr of water or Trifloxystrobin 25% + Tebuconazole 50% @ 4 g/10 ltrs of water or Edifenphos 50 EC @ 1 ml/ltr of water. For further information, contact the IMD, Bhubaneswar, Tel.#0674-2596116."
+         ]
+      },
+      "rice": {
+         "advisory": []
+      },
+      "chickpea": {
+         "advisory": []
+      },
+      "groundnut": {
+         "advisory": []
+      }
+   },
+   "date": "09-02-2024"
 }
