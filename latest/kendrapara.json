@@ -54,30 +54,42 @@
    "names_of_crops": [
       "paddy",
       "groundnut",
-      "blackgram and greengram",
+      "blackgram",
+      "greengram",
       "cole crops",
-      "potato",
-      "animal husbandry"
+      "potato"
    ],
-   "general_advidory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Complete the transplanting of 3-5 week old seedlings in well puddled soil at a spacing of 15cm × 15cm with 3-4 seedlings per hill at shallow depth. In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling. Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/acre at 5-8 days after transplanting. In just transplanted field put 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Rabi crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture condition. Sugarcane crop is a heavy feeder. Apply 87-kg of DAP, 20-kg of MOP and 4-tonne of FYM at the time of planting in trenches. Top dressing with Urea @ 60-kg per acre each at 45, 75 and 105 days after planting should be done. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500gram/acre at 7 days interval.",
+   "general_advisory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Complete the transplanting of 3-5 week old seedlings in well puddled soil at a spacing of 15cm × 15cm with 3-4 seedlings per hill at shallow depth. In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling. Farmers who have completed transplanting should apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/acre at 5-8 days after transplanting. In just transplanted fields put 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Rabi crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture condition. Sugarcane crop is a heavy feeder. Apply 87-kg of DAP, 20-kg of MOP, and 4-tonne of FYM at the time of planting in trenches. Top dressing with Urea @ 60-kg per acre each at 45, 75, and 105 days after planting should be done. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500 gram/acre at 7-day intervals.",
    "crops_data": {
       "paddy": {
-         "advisory": "Post-emergence Weed Management: In transplanted and broadcasted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40gram acre at 3 to 4 leaf stage by mixing in 200litre of water. If only broad leaf weeds and sedges are dominant in the field spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8gram /acre at 20-25 DAT by mixing in 200 litre of water."
+         "advisory": [
+            "Post-emergence Weed Management: In transplanted and broadcasted paddy to control grasses, sedges, and broad leaf weeds, farmers are advised to spray, Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40 gram/acre at 3 to 4 leaf stage by mixing in 200 liters of water. If only broad leaf weeds and sedges are dominant in the field, spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8 gram/acre at 20-25 DAT by mixing in 200 liters of water."
+         ]
       },
       "groundnut": {
-         "advisory": "Bud Necrosis: To manage the carrier of Bud necrosis disease (Thrips) during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage Thrips chemically spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+         "advisory": [
+            "Bud Necrosis: To manage the carrier of Bud necrosis disease (Thrips) during the primary stage of pest infestation, spray Neem-Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage Thrips chemically, spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+         ]
       },
-      "blackgram and greengram": {
-         "advisory": "Aphid: To control aphids during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+      "blackgram": {
+         "advisory": [
+            "Aphid: To control aphids during the primary stage of pest infestation, spray Neem-Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Aphid: To control aphids during the primary stage of pest infestation, spray Neem-Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+         ]
       },
       "cole crops": {
-         "advisory": "Alternaria Leaf Spot: There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+         "advisory": [
+            "Alternaria Leaf Spot: There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+         ]
       },
       "potato": {
-         "advisory": "Cut Worm: To control cut worms in the potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litres of water. Cut worm pests are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP @ 10-kg/acre should be done across the bund."
-      },
-      "animal husbandry": {
-         "advisory": "For countering Foot and Mouth diseases of cattle, care should be taken for FMD vaccination once in a year."
+         "advisory": [
+            "Cut Worm: To control cut worm in potato crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litres of water. Cut Worm pests are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP @ 10-kg/acre should be done across the bund."
+         ]
       }
    },
    "date": "09-02-2024"

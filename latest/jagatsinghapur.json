@@ -54,26 +54,42 @@
    "names_of_crops": [
       "paddy",
       "groundnut",
-      "blackgram and greengram",
+      "blackgram",
+      "greengram",
       "cole crops",
       "potato"
    ],
-   "general_advidory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery.",
+   "general_advisory": "Seedling treatment with Chloropyriphos, transplanting guidelines, basal dose application, herbicide application, pheromone trap placement, irrigation schedule, sugarcane feeding, tomato blight management.",
    "crops_data": {
       "paddy": {
-         "advisory": "In transplanted and broadcasted paddy to control grasses, sedges and broad leaf weeds farmers are advised to spray, Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40gram acre at 3 to 4 leaf stage by mixing in 200litre of water. If only broad leaf weeds and sedges are dominant in the field spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8gram /acre at 20-25 DAT by mixing in 200 litre of water."
+         "advisory": [
+            "Post-emergence Weed Management with specified herbicides."
+         ]
       },
       "groundnut": {
-         "advisory": "To manage the carrier of Bud necrosis disease (Thrips) during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage Thrips chemically spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+         "advisory": [
+            "To manage Bud Necrosis, spray specific pesticides."
+         ]
       },
-      "blackgram and greengram": {
-         "advisory": "To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+      "blackgram": {
+         "advisory": [
+            "To control Aphid, spray specified pesticides."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "To control Aphid, spray specified pesticides."
+         ]
       },
       "cole crops": {
-         "advisory": "There are chances of Alternaria leaf spot disease incidence in Cole crops due to current cloudy weather condition. To control this disease in Cole crops spray Mancozeb 75 % WP @ 600-gram/acre or carbendazim 12 % + Mancozeb 63 % WP @ 400-gram/acre by mixing in 200-litre of water."
+         "advisory": [
+            "To control Alternaria Leaf Spot, spray specified fungicides."
+         ]
       },
       "potato": {
-         "advisory": "To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 litre of water. Cut Worm pest are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
+         "advisory": [
+            "To control Cut Worm, spray specified insecticides."
+         ]
       }
    },
    "date": "09-02-2024"

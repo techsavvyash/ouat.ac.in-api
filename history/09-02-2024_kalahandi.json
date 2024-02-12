@@ -1,0 +1,134 @@
+{
+   "weather_details": {
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 17,
+         "wind_speed": 6,
+         "wind_direction": 120,
+         "cloud_cover": 0
+      },
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 79,
+         "rh_min": 19,
+         "wind_speed": 6,
+         "wind_direction": 153,
+         "cloud_cover": 1
+      },
+      "12-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 68,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 195,
+         "cloud_cover": 7
+      },
+      "13-02-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 61,
+         "rh_min": 22,
+         "wind_speed": 7,
+         "wind_direction": 146,
+         "cloud_cover": 6
+      },
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 17,
+         "rh_max": 54,
+         "rh_min": 18,
+         "wind_speed": 7,
+         "wind_direction": 158,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "green gram",
+      "black gram",
+      "chick pea",
+      "ground nut",
+      "field pea",
+      "maize",
+      "chickpea",
+      "green gram",
+      "groundnut",
+      "vegetables",
+      "cabbage",
+      "tomato",
+      "summer paddy",
+      "rice",
+      "direct seeded rice",
+      "hybrid maize",
+      "sunflower",
+      "cauliflower",
+      "brinjal",
+      "cotton"
+   ],
+   "general_advideory": "Early sown crops like green gram, black gram, chick pea, ground nut, field pea, maize etc. are at flowering stage. Farmers are advised to provide necessary irrigation at this stage to avoid water stress condition.",
+   "crops_data": {
+      "green gram": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period. Disease and Insect Management: Yellow Mosaic Virus: If infection of YMV is noticed, then infected plants should be uprooted and buried in the soil. Installation of yellow sticky trap @ 8/acre at vegetative stage is recommended or spray Thiomethoxam 25 WG @ 1g/5 ltr or Imidacloprid 17.8% SL @ 1.5 ml/5 ltr of water to monitor the vector of YMV effectively."
+      },
+      "black gram": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period. Disease and Insect Management: Yellow Mosaic Virus: If infection of YMV is noticed, then infected plants should be uprooted and buried in the soil. Installation of yellow sticky trap @ 8/acre at vegetative stage is recommended or spray Thiomethoxam 25 WG @ 1g/5 ltr or Imidacloprid 17.8% SL @ 1.5 ml/5 ltr of water to monitor the vector of YMV effectively."
+      },
+      "chick pea": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+      },
+      "ground nut": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+      },
+      "field pea": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+      },
+      "maize": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+      },
+      "chickpea": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+      },
+      "groundnut": {
+         "advisory": "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS. Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+      },
+      "vegetables": {
+         "advisory": "Install pheromone trap @ 3-4/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Rouging of viral infested plant should be done in vegetables. Infected plants should be uprooted and buried in the soil. After rouging, if infection is more than spraying of Imidacloprid @ 0.3 ml per litre of water is advised to control the vector."
+      },
+      "cabbage": {
+         "advisory": "Diamond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water. Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water. Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water."
+      },
+      "tomato": {
+         "advisory": "Fruit & Shoot borer: Install pheromone trap @ 2nos/acre and for chemical control, spray Chlorantraniliprole 18.5% SC @ 3ml or Cyntraniliprole 10.26% OD @ 18 ml or Indoxacarb 14.5% SC @ 10 ml by mixing with 10 liters of water. Leaf spot/Downy mildew/Powdery mildew: Spray Azoxystrobin 4.8% + Chlorothalonil 40% SC @ 6g/ltr of water. Wilting & Leaf blight: Spray Carbendazim @ 1g/ltr + Plantomycin @ 1g/ltr at the root zone."
+      },
+      "summer paddy": {
+         "advisory": "Weed Management: Apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 days after transplanting by mixing with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 WP @ 5 g/10 ltrs of water at 3-5 days after transplanting or spray Bispyribac sodium @ 8 ml by mixing with 10 liters of water at 10-15 DAT. Nutrient Management: In direct seeded rice apply urea @ 24 kg/acre as fist top dressing at 20-25 DAS. Prepare the main field for timely transplanting. Apply DAP 44 kg + MOP 22 kg per acre as basal dose during final puddling. Disease and Insect Management: If infestation of blast disease is noticed in direct seeded rice, spray Carbendazim 50 WP @ 1g/ltr of water or Trifloxystrobin 25% + Tebuconazole 50% @ 4 g/10 ltrs of water or Edifenphos 50 EC @ 1 ml/ltr of water. For further information, contact the IMD, Bhubaneswar, Tel.#0674-2596116."
+      },
+      "rice": {
+         "advisory": "In bacterial blight endemic areas, dip the seedling roots in 0.1% Plantomycin solution before transplanting for 30 minutes. Install 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder just after the transplanting. Whenever the number of male moths/trap reaches 4 or 5, spray Azadiractin 0.15% neem seed kernel-based EC formulation @ 4 ml/ltr of water or apply Cartap hydrochloride 4G @ 10 kg/acre mixing with sand at 1:1 ratio."
+      },
+      "hybrid maize": {
+         "advisory": "Weed Management: Apply Tembotrione 34.4% SC @ 6ml or Topramezone 33.6% SC @ 1.5 g by mixing with 10 liters of water at 20-25 DAS for chemical control. Nutrient Management: Apply 75 kg urea as first top dressing at 20-25 DAS and 45 kg Urea + 20 kg MOP as second top dressing at 40-45 DAS. Insect Management: Aphid & Thrips: Spray Thiomethoxam 25 WG @ 1g/5 ltr or Imidacloprid 17.8% SL @ 1.5 ml/5 ltr of water. Stem Borer: For effective control of stem borer spray Fipronil 5% SC or Profenophos 50% EC @ 2ml/ltr of water. FAW: Apply Emamectin Benzoate 5% SG @ 2 ml/5 ltr of water to control FAW infestation."
+      },
+      "sunflower": {
+         "advisory": "Now the crop is close to maturity stage. Harvest the head at 20% moisture of the seed. The head should be re-dried in the sun on the threshing floor for 4-5 days followed by threshing by beating with stick or by sunflower thresher and dry the seeds after threshing to reduce the moisture content to 9% for safe storage."
+      },
+      "cauliflower": {
+         "advisory": "Diamond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water. Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water. Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water."
+      },
+      "brinjal": {
+         "advisory": "Insect Management: Fruit and Shoot borer: Install pheromone trap/Wata trap @ 8 nos. per acre area at vegetative stage and replace lure after 3 weeks. To control chemically, spray Spinosad 45% SC @ 5.5 ml by mixing with 15 liters of water or Thiodicarb 75% WP @ 2ml/ltr of water. White fly: Install yellow sticky trap @ 8-10/acre or spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 3ml/ltr of water at initial stage of infestation."
+      },
+      "cotton": {
+         "advisory": "Fruit and Shoot borer: Install pheromone trap/Wata trap @ 8 nos. per acre area at vegetative stage and replace lure after 3 weeks. To control chemically, spray Spinosad 45% SC @ 5.5 ml by mixing with 15 liters of water or Thiodicarb 75% WP @ 2ml/ltr of water. White fly: Install yellow sticky trap @ 8-10/acre or spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 3ml/ltr of water at initial stage of infestation."
+      }
+   },
+   "date": "09-02-2024"
+}
