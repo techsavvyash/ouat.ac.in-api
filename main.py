@@ -18,7 +18,6 @@ load_dotenv()
 api_key = os.environ.get("OPENAI_API_KEY")
 client = AsyncOpenAI(api_key=api_key)
 
-# Configure logging
 logging.basicConfig(filename='error.log', level=logging.ERROR)
 
 async def save_response(results,districts_data,temp_dir):
@@ -28,37 +27,67 @@ async def save_response(results,districts_data,temp_dir):
             validate(instance=response, schema=prompt.schema)
             if len(response.get('names_of_crops', [])) != len(response.get('crops_data', {})):
                 raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
-        except Exception as e:
-            inconsistent.append(district)
+        except ValidationError as e:
+            inconsistent.append([district,response,str(e)])
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
 
     if len(inconsistent)>0:
-        print("Going again for inconsistent json for",inconsistent)
-        inconsistent_districts = [d for d in districts_data if d['district_name'] in inconsistent]
-        return await refine_response(inconsistent_districts,temp_dir)
+        print("Going again for inconsistent json for",[a[0] for a in inconsistent])
+        return await refine_response(inconsistent)                    
 
     return 0
-
-async def refine_response(inconsistent_districts,temp_dir):
-    tasks = [process_pdf(district_data, temp_dir) for district_data in inconsistent_districts]
+    
+async def refine_response(inconsistent):
+    tasks = [retry_response(district_data[0], district_data[1], district_data[2]) for district_data in inconsistent]
+        
     results = await asyncio.gather(*tasks)
-
     for district, response in results:
         counter=0
         try:
             validate(instance=response, schema=prompt.schema)
             if len(response.get('names_of_crops', [])) != len(response.get('crops_data', {})):
-                counter+=1
                 raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
         except Exception as e:
+            counter+=1
             response={"ERROR":"Not getting consistent data."}
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
         
-        return counter
+    return counter
+
+async def retry_response(district,response,e):
+    try:
+        date=response['date']
+    except:
+        pass
+    user_prompt=f'''
+    I asked you to do this: {prompt.prompt} 
+    But this is the response I got: {response}
+    Error in your response: {e}
+    Improve your response please. Provide only json format and all conditions remain same. Keep date also.
+    '''
+    try:
+        chat_completion = await client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": user_prompt,
+                }
+            ],
+            model="gpt-3.5-turbo-0125",
+            response_format={"type": "json_object"},
+        )
+
+        response = chat_completion.choices[0].message.content
+        response = json.loads(response)
+        response['date'] = date
+    except Exception as e:
+        print("lol",e)
+        
+    return district,response
 
     
 
