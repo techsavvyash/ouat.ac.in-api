@@ -1,81 +1,50 @@
 {
-   "Institution": {
-      "Name": "Odisha University of Agriculture & Technology (OUAT)",
-      "Location": "Kalinga Nagar, Bhubaneswar"
-   },
-   "Bulletin_Details": {
-      "Week_Number": "Week 23",
-      "District": "Mayurbhanj",
-      "Bulletin_Number": "01",
-      "Date": "2023-06-05"
-   },
-   "Weather_Condition_Last_Week": {
-      "Period": "May 28 - June 3",
-      "Rainfall_mm": 45.6,
-      "Max_Temperature_C": "35",
-      "Min_Temperature_C": "25"
-   },
-   "Forecast_Up_To": {
-      "Date": "2023-06-11",
-      "Description": "Partly cloudy with chance of isolated thunderstorms"
-   },
-   "Daily_Weather_Data": [
-      {
-         "Date": "2023-06-04",
-         "Rainfall_mm": 10.2,
-         "Max_Temp_C": 32,
-         "Min_Temp_C": 24,
-         "Cloud_Cover": 5,
-         "Max_RH_Percent": 90,
-         "Min_RH_Percent": 60,
-         "Wind_Speed_kmph": 15,
-         "Wind_Direction_deg": 120
+   "weather_details": {
+      "01-01-2023": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 90,
+         "rh_min": 50,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 50
       },
-      {
-         "Date": "2023-06-05",
-         "Rainfall_mm": 5.5,
-         "Max_Temp_C": 34,
-         "Min_Temp_C": 25,
-         "Cloud_Cover": 3,
-         "Max_RH_Percent": 95,
-         "Min_RH_Percent": 65,
-         "Wind_Speed_kmph": 12,
-         "Wind_Direction_deg": 110
+      "01-02-2023": {
+         "rainfall": 0,
+         "t_max": 25,
+         "t_min": 12,
+         "rh_max": 80,
+         "rh_min": 45,
+         "wind_speed": 15,
+         "wind_direction": 220,
+         "cloud_cover": 20
       }
-   ],
-   "Agromet_Advisory": {
-      "Rice": [
-         {
-            "Crop": "Rice",
-            "Advisory": "Apply organic manure to the rice fields for better yield"
-         }
-      ],
-      "Maize": [
-         {
-            "Crop": "Maize",
-            "Advisory": "Irrigation should be provided at critical stage of tasseling and silking"
-         }
-      ]
    },
-   "Contact_Information": {
-      "Director": [
-         {
-            "Name": "Dr. Sanjay Kumar Dash",
-            "Position": "Director of Research"
-         }
-      ],
-      "Head_Agromet": [
-         {
-            "Name": "Dr. Harekrushna Panigrahy",
-            "Position": "Head of Agromet"
-         }
-      ]
+   "names_of_crops": {
+      "cotton": "rice",
+      "wheat": "tomato",
+      "potato": "corn"
    },
-   "Additional_Resources": {
-      "OUAT_KALINGA_Products": "Information on Kalinga variety of rice seeds and other agri-products",
-      "Meghdoot_Mobile_App": {
-         "Play_Store": "https://playstorelink.com/meghdoot",
-         "App_Store": "https://appstorelink.com/meghdoot"
+   "general_advidory": "Prepare for heavy rainfall in the upcoming week. Avoid sowing new crops.",
+   "crops_data": {
+      "cotton": {
+         "advisory": "Due to the expected heavy rainfall, take necessary steps to prevent waterlogging in cotton fields."
+      },
+      "rice": {
+         "advisory": "Ensure proper drainage in rice fields to avoid water stagnation during the rainy season."
+      },
+      "wheat": {
+         "advisory": "Prepare for low temperatures during the upcoming weeks to protect wheat crops from frost damage."
+      },
+      "tomato": {
+         "advisory": "Keep a lookout for any signs of pests and diseases in tomato plants, especially during periods of high humidity."
+      },
+      "potato": {
+         "advisory": "Monitor potato crops closely for any signs of late blight, a common disease that thrives in wet conditions."
+      },
+      "corn": {
+         "advisory": "Implement water conservation measures in corn fields to cope with the forecasted dry spell in the region."
       }
    },
    "date": "06-02-2024"
