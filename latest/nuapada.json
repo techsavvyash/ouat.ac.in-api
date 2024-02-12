@@ -1,1 +1,100 @@
-"Error"
+{
+   "weather_details": {
+      "10-02-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 27,
+         "rh_min": 18,
+         "wind_speed": 5,
+         "wind_direction": 72,
+         "cloud_cover": 0
+      },
+      "11-02-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 39,
+         "rh_min": 17,
+         "wind_speed": 5,
+         "wind_direction": 101,
+         "cloud_cover": 3
+      },
+      "12-02-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 72,
+         "rh_min": 33,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 8
+      },
+      "13-02-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 19,
+         "rh_max": 77,
+         "rh_min": 31,
+         "wind_speed": 7,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "14-02-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 50,
+         "rh_min": 29,
+         "wind_speed": 5,
+         "wind_direction": 150,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "summer paddy",
+      "green gram / black gram",
+      "groundnut",
+      "hybrid maize",
+      "sunflower",
+      "vegetable",
+      "tomato",
+      "cauliflower & cabbage",
+      "chilli",
+      "brinjal"
+   ],
+   "general_advidory": "Very light to light rain is in the forecast on coming Monday & Tuesday. So, farmers are advised to withhold irrigation and spraying of chemicals for the time being. Farmers are advised to install “T” shaped bird perches in and around crop fields for controlling insect population.",
+   "crops_data": {
+      "summer paddy": {
+         "advisory": "Apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 days after transplanting for weed management."
+      },
+      "green gram / black gram": {
+         "advisory": "Water stress must be avoided during flowering and grain filling stages."
+      },
+      "groundnut": {
+         "advisory": "Install yellow sticky trap @ 8/acre to monitor for Aphid/Jassids/White fly."
+      },
+      "hybrid maize": {
+         "advisory": "Apply Tembotrione 34.4% SC @ 6ml or Topramezone 33.6% SC @ 1.5 g for weed management."
+      },
+      "sunflower": {
+         "advisory": "Harvest the head at 20% moisture of the seed."
+      },
+      "vegetable": {
+         "advisory": "See crop-specific advisories for tomato, cauliflower & cabbage, and chilli."
+      },
+      "tomato": {
+         "advisory": "Install pheromone trap @ 2nos/acre for fruit & shoot borer and spray Chlorantraniliprole 18.5% SC for chemical control."
+      },
+      "cauliflower & cabbage": {
+         "advisory": "Spray Fipronil 5% SC for Dimond back moth and Tobacco leaf eating caterpillar."
+      },
+      "chilli": {
+         "advisory": "Install Blue sticky trap for thrips and spray Emamectin Benzoate 5% SG for chemical control."
+      },
+      "brinjal": {
+         "advisory": "Install pheromone trap/Wata trap for Fruit and Shoot borer and White fly."
+      }
+   },
+   "date": "09-02-2024"
+}

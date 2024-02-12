@@ -1,1 +1,128 @@
-"Error"
+{
+   "weather_details": {
+      "10/02/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 9,
+         "rh_max": 34,
+         "rh_min": 12,
+         "wind_speed": 6,
+         "wind_direction": 70,
+         "cloud_cover": 0
+      },
+      "11/02/2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 11,
+         "rh_max": 32,
+         "rh_min": 16,
+         "wind_speed": 6,
+         "wind_direction": 75,
+         "cloud_cover": 0
+      },
+      "12/02/2024": {
+         "rainfall": 12,
+         "t_max": 30,
+         "t_min": 12,
+         "rh_max": 41,
+         "rh_min": 20,
+         "wind_speed": 6,
+         "wind_direction": 118,
+         "cloud_cover": 7
+      },
+      "13/02/2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 13,
+         "rh_max": 61,
+         "rh_min": 26,
+         "wind_speed": 7,
+         "wind_direction": 150,
+         "cloud_cover": 6
+      },
+      "14/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 13,
+         "rh_max": 68,
+         "rh_min": 29,
+         "wind_speed": 9,
+         "wind_direction": 64,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "pulses",
+      "oilseeds",
+      "vegetables",
+      "gramin krishi mausam sewa",
+      "sri paddy",
+      "mung blackgram",
+      "ragi",
+      "maize",
+      "groundnut",
+      "wheat",
+      "sunflower",
+      "potato",
+      "brinjal",
+      "animal husbandry",
+      "pisciculture",
+      "poultry"
+   ],
+   "general_advidory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
+   "crops_data": {
+      "paddy": {
+         "advisory": "Apply light irrigation in the nursery. Keep standing water in the paddy nursery 15 days onwards of sowing. Apply 4 kg urea for proper vigor of seedlings at 15 days."
+      },
+      "pulses": {
+         "advisory": "National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days). Durga (60 to 65 days), Samrat (65 to 70 days), K -851 (60 to 65 days) and Blackgram varieties – Sarla (65 to 70 days), PU -31 (70 days), PU -30 (65 to 70 days), PU -35 (65 to 70 days), PU -19 (65 to 70 days) etc. collect and sow in the land 25 kg of seeds are required per hectare. Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds seven days before sowing. In the previous night of sowing, treat the seeds with rizobium culture @ 20g per kg of seeds. Sow it in the spacing of 25cm X 10 cm spacing."
+      },
+      "oilseeds": {
+         "advisory": ""
+      },
+      "vegetables": {
+         "advisory": ""
+      },
+      "gramin krishi mausam sewa": {
+         "advisory": "In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre. Due to weather manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water and repeat it after 12 days of first application."
+      },
+      "sri paddy": {
+         "advisory": "Prepare the paddy nursery and transplant the 10 -12 days old seedling on the main field. Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+      },
+      "mung blackgram": {
+         "advisory": ""
+      },
+      "ragi": {
+         "advisory": "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing. If not tested the soil, apply 24:12:12 kg NPK per acre. Out of this apply 50% of N along with full dose of phosphorus and Potash as basal dose."
+      },
+      "maize": {
+         "advisory": "When the maize crop is 2 -3 weeks old, go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre."
+      },
+      "groundnut": {
+         "advisory": "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
+      },
+      "wheat": {
+         "advisory": "Irrigate the crop at crown root initiation and jointing stage. In late sowing go for intercultivation. In the early sown crop apply 8 kg Nitrogen per acre."
+      },
+      "sunflower": {
+         "advisory": "At 25 to 30 days after sowing the sunflower, apply 6 -8 kg nitrogen per acre. Go for thinning operation. Also complete sowing of summer sunflower in irrigated areas. Choose good varieties like MSFH 17, KBSH1, Jwalamukhi @ 2 kg seed per acre. The spacing is 60 X 30 cm. Before sowing, soak the seeds overnight for proper germination. For higher oil content, apply gypsum @ 100 kg/acre and 4 kg Borax along with basal dose of fertilizer. Apply the basal dose as 12:32: 24 kg NPK per acre. Treat the seeds with 4 g Trichoderma per kilogram seed."
+      },
+      "potato": {
+         "advisory": "In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre. Due to weather manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water and repeat it after 12 days of first application."
+      },
+      "brinjal": {
+         "advisory": ""
+      },
+      "animal husbandry": {
+         "advisory": "The shed should be well ventilated. It is best to put sand on the floor of the shed because their excreta is absorbed into the sand so they can always stay on a dry floor. Always keep inside and outside of the cowshed clean. In winter, cattle are fed with high-energy fiber foods such as grass straw, straw, sorghum stalks, and corn leaves."
+      },
+      "pisciculture": {
+         "advisory": "Due to low temperature, the coldness of water can be balanced by application of lime @ 100kg per 1 meter depth of water. Due to low temperature, lower quantity of food be given for easing the digestion capacity of fish."
+      },
+      "poultry": {
+         "advisory": "Add half a gram of furasil to 1 liter of water for 3 days. To control chicken rabies, administer Lasota vaccine within the first 7 days and administer IBT eye drops within 13 -15 days."
+      }
+   },
+   "date": "09-02-2024"
+}
