@@ -1,0 +1,93 @@
+{
+   "weather_details": {
+      "21/02/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 80,
+         "rh_min": 60,
+         "wind_speed": 26,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "22/02/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 61,
+         "wind_speed": 30,
+         "wind_direction": 202,
+         "cloud_cover": 1
+      },
+      "23/02/2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 68,
+         "wind_speed": 29,
+         "wind_direction": 202,
+         "cloud_cover": 1
+      },
+      "24/02/2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 26,
+         "rh_max": 85,
+         "rh_min": 65,
+         "wind_speed": 22,
+         "wind_direction": 201,
+         "cloud_cover": 7
+      },
+      "25/02/2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 65,
+         "wind_speed": 12,
+         "wind_direction": 162,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "blackgram & greengram",
+      "brinjal",
+      "cole crops"
+   ],
+   "general_advisory": "Prepare for dry weather conditions. Some light rainfall expected on Saturday & Sunday. Ensure appropriate herbicide and pesticide application as per recommendations. Follow ideal sowing and harvesting practices.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply Urea at active tillering stage for high yielding paddy varieties.",
+            "Manage stem borer using recommended pesticides."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Manage sett rot disease through basal drenching or foliar spray with recommended fungicides."
+         ]
+      },
+      "blackgram & greengram": {
+         "advisory": [
+            "Control aphids with neem-based pesticide followed by additional pesticide sprays.",
+            "Monitor pest infestations and take necessary action."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Manage little leaf disease by removing infected plants and using recommended pesticides."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Regular monitoring for leaf webber and head borer infestations.",
+            "Use neem-based pesticide or other recommended chemical sprays when necessary."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

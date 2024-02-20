@@ -1,0 +1,151 @@
+{
+   "weather_details": {
+      "16-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "17-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "18-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "19-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "21-02-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 65,
+         "rh_min": 16,
+         "wind_speed": 6,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "22-02-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 61,
+         "rh_min": 22,
+         "wind_speed": 8,
+         "wind_direction": 214,
+         "cloud_cover": 1
+      },
+      "23-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 19,
+         "rh_max": 72,
+         "rh_min": 29,
+         "wind_speed": 8,
+         "wind_direction": 214,
+         "cloud_cover": 1
+      },
+      "24-02-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 20,
+         "rh_max": 78,
+         "rh_min": 29,
+         "wind_speed": 8,
+         "wind_direction": 236,
+         "cloud_cover": 7
+      },
+      "25-02-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 63,
+         "rh_min": 22,
+         "wind_speed": 6,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "mustard/toria",
+      "green gram",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "mango"
+   ],
+   "general_advisory": "Farmers are advised not to burn the residue of kharif crops in the fields. Rice crops should be monitored for stem borer. Weeding and disease control measures for groundnut, mustard/toria, green gram, brinjal, tomato, chilli, and mango are recommended.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In transplanted rice, apply specific herbicide for weed control.",
+            "Monitor for stem borer and apply granular insecticide if necessary."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Weeding after 3-4 weeks with gypsum application.",
+            "Disease control measures with specific fungicides."
+         ]
+      },
+      "mustard/toria": {
+         "advisory": [
+            "Be aware of aphid infestation and apply insecticides when needed."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Control YMV vector infestation with specific insecticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Use appropriate insecticides to control shoot and fruit borer."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Monitor for late blight and use specific fungicides for control.",
+            "Control leaf miner with suitable insecticides."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Thrips control with specific insecticides."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Prevent mango hopper infestation with appropriate insecticide."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

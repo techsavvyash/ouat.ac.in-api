@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "2024-02-21": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 83,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "2024-02-22": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 19,
+         "wind_speed": 9,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "2024-02-23": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 19,
+         "rh_max": 89,
+         "rh_min": 27,
+         "wind_speed": 10,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "2024-02-24": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 82,
+         "rh_min": 25,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "2024-02-25": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 20,
+         "rh_max": 88,
+         "rh_min": 21,
+         "wind_speed": 5,
+         "wind_direction": 153,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "brinjal",
+      "tomato",
+      "onion",
+      "cow",
+      "common carp",
+      "chick"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 34.7°C and the mean minimum daily temperature was 17.4°C of the district. Plan for irrigation to summer paddy and other crops observing soil moisture. Carry on intercultural operation, fertilizer, and weedicide application. Continue harvesting matured crops. Spray insecticides or pesticides in crops as per requirement.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers who have transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting for high yielding paddy varieties. Control grasses, sedges and broadleaf weeds by spraying Bispyribac Sodium 10% E.C. or Ethoxysulfuron 15% WDG.",
+            "To control only broad leaf weeds and sedges, spray ready mix Metsulfuron methyl 10% + Chlorimuronethyl 10% WP. Use flat-fan or flood-jet nozzle with clean water for herbicide spraying."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage aphids and thrips, spray Neem Based Pesticide or Thiamethoxam 25% W.G. To manage leaf miner, spray neem Based Pesticide or Profenophos 50% EC."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage brinjal shoot and fruit borer, remove affected terminal shoot and fruits. Install pheromone trap and spray neem-based pesticide. Use Spinosad or Emamectin Benzoate for chemical control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To manage whiteflies, use yellow sticky traps and spray neem-based pesticide. For chemical control, spray Thiamethoxam 25 % WG or Pyriproxifen 10% EC. To manage fruit borer, collect and destroy affected fruits and larvae. Set up pheromone trap and spray Neem-based pesticide."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Frequent light irrigation is needed for proper growth and bulb development. To manage thrips, spray Neem Based Pesticide or Thiamethoxam 25% W.G. Add a spreader or sticker for retention and spread of spray fluid."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Close ventilation space in night to prevent pneumonia, fever , diarrhea, and death. Provide clean drinking water. Do not feed wet straw."
+         ]
+      },
+      "common carp": {
+         "advisory": [
+            "Apply 'Citax' as a preventive measure for 'EUS' (Epizootic vicerative syndrome). Feed fishes daily oil cake bran mixture."
+         ]
+      },
+      "chick": {
+         "advisory": [
+            "Cover the farm with polythene or gunny bag to protect from cold. Provide 2 watt light bulb per chick. Ensure good ventilation."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

@@ -1,0 +1,51 @@
+{
+   "weather_details": {
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 5
+      },
+      "2022-01-02": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 80,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "cattle"
+   ],
+   "general_advisory": "Keep an eye on upcoming rains and adjust farming practices accordingly.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Plant rice seedlings on well-prepared wet land.",
+            "Use balanced fertilizers to promote growth during early stages."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Ensure good drainage for maize fields.",
+            "Protect maize crops from birds and pests."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Ensure cattle have access to clean water and shade during hot days.",
+            "Schedule regular veterinary check-ups for cattle health."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

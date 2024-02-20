@@ -1,0 +1,139 @@
+{
+   "weather_details": {
+      "21/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 46,
+         "rh_min": 18,
+         "wind_speed": 7,
+         "wind_direction": 288,
+         "cloud_cover": 0
+      },
+      "22/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 50,
+         "rh_min": 14,
+         "wind_speed": 9,
+         "wind_direction": 234,
+         "cloud_cover": 2
+      },
+      "23/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 55,
+         "rh_min": 19,
+         "wind_speed": 11,
+         "wind_direction": 236,
+         "cloud_cover": 4
+      },
+      "24/02/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 47,
+         "rh_min": 17,
+         "wind_speed": 11,
+         "wind_direction": 288,
+         "cloud_cover": 5
+      },
+      "25/02/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 21,
+         "wind_speed": 8,
+         "wind_direction": 45,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "summer pulses",
+      "ragi",
+      "paddy",
+      "SRI paddy",
+      "maize",
+      "summer groundnut",
+      "wheat",
+      "sunflower",
+      "potato",
+      "vegetables",
+      "chilli",
+      "animal",
+      "poultry"
+   ],
+   "general_advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
+   "crops_data": {
+      "summer pulses": {
+         "advisory": [
+            "National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days)."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing. If not tested the soil, apply 24:12:12 kg NPK per acre."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "At 3 weeks of paddy, top dress with 16 kg Nitrogen per acre."
+         ]
+      },
+      "SRI paddy": {
+         "advisory": [
+            "Transplant the 10 -12 days old seedling on the main field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "When the maize crop is 2 -3 weeks old, go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre."
+         ]
+      },
+      "summer groundnut": {
+         "advisory": [
+            "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Irrigate the crop at crown root initiation and jointing stage. In late sowing go for intercultivation. In the early sown crop apply 8 kg Nitrogen per acre."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "At 25 to 30 days after sowing the sunflower, apply 6 -8 kg nitrogen per acre. Go for thinning operation. Also complete sowing of summer sunflower in irrigated areas."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre. Due to weather manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water and repeat it after 12 days of first application."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "The Brinjal Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "If leaf spot appears in pepper crop, spray leaves with 2 ml of abamectin 9.1 % or 9.1 to 2 ml of ethion per liter of water."
+         ]
+      },
+      "animal": {
+         "advisory": [
+            "Keep clean and dry the animal shed. Arrange smoke of neem leaves near to animal shed for preventive measures of diseases. Provide need based animal vaccination in consultation with line department. Animals should be given the wheat grains, jaggery and the mixture of mineral with white salt at the daily basis all these may be provided @ 05 -15% in the daily ration basis. Due to forecast of decreasing temperature, cover the animal shed specially in nights."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Add half a gram of furasil to 1 liter of water for 3 days.",
+            "To control chicken rabies, administer Lasota vaccine within the first 7 days and administer IBT eye drops within 13 -15 days."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

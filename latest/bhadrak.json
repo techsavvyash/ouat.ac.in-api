@@ -56,70 +56,49 @@
       "sugarcane",
       "blackgram",
       "rapeseed & mustard",
-      "cucurbits",
-      "tomato & brinjal",
       "vegetables",
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Drain out excess water from paddy field and conduct regular surveillance to monitor disease pests. Take control measures to prevent blast infestation in rice crops. Ensure proper seed treatment and fertilization practices for sugarcane, blackgram, rapeseed & mustard, and vegetables. Monitor fish health for white spot disease symptoms. Provide mineral mixture to animals for better health.",
+   "general_advisory": "Drain out excess water from paddy field, maintain regular surveillance to control pests and diseases.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Drain out excess water from paddy fields",
-            "Monitor disease pests and initiate control strategies",
-            "Combat blast infestation with recommended sprays",
-            "Complete transplanting of summer rice with specified fertilizers"
+            "Increased temperature difference may lead to blast infestation, use appropriate fungicides for control",
+            "Complete transplanting of summer rice with specified basal fertilizer application"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect disease-free setts for planting",
-            "Undertake sett rot management with appropriate treatments",
-            "Remove infected plants in ratoon crop",
-            "Protect cane hips from termite attack after harvest"
+            "Ensure proper sett treatment before planting",
+            "Manage sett rot disease with recommended chemicals post-planting"
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray recommended fungicide for disease control",
-            "Apply pesticides to control aphids"
+            "Spray recommended pesticides to control Powdery mildew, Anthracnose & Stem rot",
+            "Control aphids with specified pesticides during primary stage of infestation"
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control aphids with recommended sprays",
-            "Combat infestation of Mustard Sawfly, Leaf Webber, and Tobacco Caterpillar"
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "Minimize damage caused by Red Pumpkin Beetle with specified sprays",
-            "Manage Epilachna Beetle in cucumber with neem-based pesticide"
-         ]
-      },
-      "tomato & brinjal": {
-         "advisory": [
-            "Start sowing tomato seeds for summer cultivation",
-            "Prevent wilting in brinjal and tomato with specified treatments",
-            "Provide support structures for tomatoes",
-            "Control sucking insect pests with recommended sprays"
+            "Control aphids with specified insecticides, ensure spraying at appropriate times"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spray recommended pesticides for Cucurbit vegetables",
-            "Combat leaf eating caterpillars and fruit borers in winter vegetables"
+            "Use specified pesticides to manage pests in Cucurbits and Tomato & Brinjal crops",
+            "Provide necessary support for Tomato plants for better growth"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Treat white spot disease in fish with specified procedure"
+            "Treat white spot disease in fish with specified salt-water bath"
          ]
       },
       "animal science": {
          "advisory": [
-            "Provide mineral mixture and additional feed to animals during winter"
+            "Provide mineral mixture and additional energy sources for animals during winter"
          ]
       }
    },

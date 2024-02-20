@@ -54,24 +54,24 @@
    "names_of_crops": [
       "green gram",
       "brinjal",
-      "toma to",
+      "tomato",
       "common carp"
    ],
    "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
    "crops_data": {
       "green gram": {
          "advisory": [
-            "To control sucking pest infestation in green gram, spray Thiamethoxam - 05 gram in 15 lt of water."
+            "To control sucking pest infestation in green gram spray Thiamethoxam - 05 gram IN 15 lt of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Rain is expected in the coming five days, hence farmers can postpone irrigation in standing crop field. Provide drainage to remove excess rainwater from the field."
+            "Rain is expected in the coming five days hence farmers can postpone irrigation in standing crop field. Provide drainage to remove excess rainwater from field."
          ]
       },
-      "toma to": {
+      "tomato": {
          "advisory": [
-            "If fruit borer infestation is observed, spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carry out spray operation in clear weather conditions."
+            "If fruit borer infestation is observed, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carried out spray operation in clear weather conditions."
          ]
       },
       "common carp": {

@@ -1,0 +1,116 @@
+{
+   "weather_details": {
+      "21-02-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 79,
+         "rh_min": 20,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 0
+      },
+      "22-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 22,
+         "rh_max": 69,
+         "rh_min": 17,
+         "wind_speed": 17,
+         "wind_direction": 207,
+         "cloud_cover": 3
+      },
+      "23-02-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 31,
+         "wind_speed": 17,
+         "wind_direction": 225,
+         "cloud_cover": 5
+      },
+      "24-02-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 82,
+         "rh_min": 20,
+         "wind_speed": 12,
+         "wind_direction": 158,
+         "cloud_cover": 7
+      },
+      "25-02-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 38,
+         "wind_speed": 11,
+         "wind_direction": 105,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "blackgram",
+      "rapeseed & mustard",
+      "vegetables",
+      "pisciculture",
+      "animal science"
+   ],
+   "general_advisory": "Drain out excess water from paddy fields. Regular surveillance work for disease pests. Take measures to control blast and thrips. Complete transplanting of summer rice with recommended fertilizers. Collect disease-free setts for sugarcane. Treat sett rot with recommended chemicals. Remove infected plants in ratoon crop. Control pests in blackgram. Manage disease in rapeseed & mustard. Use pesticides in vegetables for pest control. Treat white spot disease in fish. Provide necessary minerals and supplements to animals.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Drain out excess water from paddy fields.",
+            "Regular surveillance work for disease pests.",
+            "Control blast and thrips with recommended pesticides.",
+            "Transplant summer rice with recommended fertilizers."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Collect disease-free setts from healthy plants.",
+            "Treat sett rot with recommended chemicals.",
+            "Remove infected plants in ratoon crop.",
+            "Protect cane hips from termite attack after harvest."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Spray pesticides to reduce Powdery mildew, Anthracnose & Stem rot incidence.",
+            "Control aphids with recommended pesticides."
+         ]
+      },
+      "rapeseed & mustard": {
+         "advisory": [
+            "Manage disease in rapeseed & mustard crops.",
+            "Use pesticides to control pests."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Use pesticides to control Red Pumpkin Bettle in cucurbits.",
+            "Manage pests in cucumber with neem-based pesticides.",
+            "Apply fungicide to prevent wilting in tomato & brinjal.",
+            "Provide support for tomato plants' growth.",
+            "Use pesticides to control insect pests in vegetables."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Treat white spot disease in fish by bathing in saltwater.",
+            "Repeat treatment for 7-10 days."
+         ]
+      },
+      "animal science": {
+         "advisory": [
+            "Provide mineral mixture and supplements to animals regularly.",
+            "Include wheat grains and jaggery in the daily ration during winter."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

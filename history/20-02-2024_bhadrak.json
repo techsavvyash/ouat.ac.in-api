@@ -1,0 +1,127 @@
+{
+   "weather_details": {
+      "21-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 75,
+         "rh_min": 25,
+         "wind_speed": 16,
+         "wind_direction": 243,
+         "cloud_cover": 0
+      },
+      "22-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 67,
+         "rh_min": 22,
+         "wind_speed": 22,
+         "wind_direction": 207,
+         "cloud_cover": 2
+      },
+      "23-02-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 35,
+         "wind_speed": 21,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "24-02-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 35,
+         "wind_speed": 15,
+         "wind_direction": 191,
+         "cloud_cover": 7
+      },
+      "25-02-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 82,
+         "rh_min": 42,
+         "wind_speed": 13,
+         "wind_direction": 45,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "blackgram",
+      "rapeseed & mustard",
+      "cucurbits",
+      "tomato & brinjal",
+      "vegetables",
+      "pisciculture",
+      "animal science"
+   ],
+   "general_advisory": "Drain out excess water from paddy field and conduct regular surveillance to monitor disease pests. Take control measures to prevent blast infestation in rice crops. Ensure proper seed treatment and fertilization practices for sugarcane, blackgram, rapeseed & mustard, and vegetables. Monitor fish health for white spot disease symptoms. Provide mineral mixture to animals for better health.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Drain out excess water from paddy fields",
+            "Monitor disease pests and initiate control strategies",
+            "Combat blast infestation with recommended sprays",
+            "Complete transplanting of summer rice with specified fertilizers"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Collect disease-free setts for planting",
+            "Undertake sett rot management with appropriate treatments",
+            "Remove infected plants in ratoon crop",
+            "Protect cane hips from termite attack after harvest"
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Spray recommended fungicide for disease control",
+            "Apply pesticides to control aphids"
+         ]
+      },
+      "rapeseed & mustard": {
+         "advisory": [
+            "Control aphids with recommended sprays",
+            "Combat infestation of Mustard Sawfly, Leaf Webber, and Tobacco Caterpillar"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Minimize damage caused by Red Pumpkin Beetle with specified sprays",
+            "Manage Epilachna Beetle in cucumber with neem-based pesticide"
+         ]
+      },
+      "tomato & brinjal": {
+         "advisory": [
+            "Start sowing tomato seeds for summer cultivation",
+            "Prevent wilting in brinjal and tomato with specified treatments",
+            "Provide support structures for tomatoes",
+            "Control sucking insect pests with recommended sprays"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Spray recommended pesticides for Cucurbit vegetables",
+            "Combat leaf eating caterpillars and fruit borers in winter vegetables"
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Treat white spot disease in fish with specified procedure"
+         ]
+      },
+      "animal science": {
+         "advisory": [
+            "Provide mineral mixture and additional feed to animals during winter"
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

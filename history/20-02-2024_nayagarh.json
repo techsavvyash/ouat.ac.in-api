@@ -55,13 +55,15 @@
       "pigeon pea",
       "green gram",
       "brinjal",
+      "menacinakahi",
       "chilli",
       "cucumber",
       "mushroom",
       "fresh water prawn",
-      "chick"
+      "chick",
+      "agril engineering"
    ],
-   "general_advisory": "Very light to light rainfall is expected on 24&25 February. Maximum temperature will vary from 32°C-36°C and minimum temperature will vary from 21°C to 22°C. The range of maximum humidity may remain 66%-94% and minimum humidity may remain 17%-30%. Cloud cover will be 1-6 okta. Wind speed may vary from 7-10 kmph.",
+   "general_advisory": "Very light to light rainfall is expected on 24&25 February.",
    "crops_data": {
       "pigeon pea": {
          "advisory": [
@@ -76,14 +78,19 @@
       },
       "brinjal": {
          "advisory": [
-            "Wilting has been noticed in brinjal. Soil drench with Copper oxychloride 50Horticulture (Stage) ",
+            "Wilting has been noticed in brinjal. Soil drench with Copper oxychloride 50Horticulture (Stage) Horticulture Specific Advisory WP @ 2 gm + Streptocyclin @ 0.1 gm per liter of water to control it.",
             "In order to control Epilachna beetle in brinjal crop spray Emmamectin benzoate 5 SG @ 60 gm in 200 litre of water per acre of land.",
             "Fruit rot disease in brinjal crop has been noticed. Foliar spray with Thiophenate methyl @ 300 g in 200 litre of water per acre of land."
          ]
       },
+      "menacinakahi": {
+         "advisory": [
+            "Thrips and mites are noticed in chilli. Foliar spray with Propar gite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
+         ]
+      },
       "chilli": {
          "advisory": [
-            "Thrips and mites are noticed in chilli. Foliar spray with Propargite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
+            "Thrips and mites are noticed in chilli. Foliar spray with Propar gite 57 EC @ 400 ml and Fipronil 5% SC @ 400 ml alternately at an interval of 10-15 days in 200 litres of water per acre of land to control it."
          ]
       },
       "cucumber": {
@@ -105,8 +112,13 @@
       },
       "chick": {
          "advisory": [
-            "In order to prevent from Fowlpox disease vaccinate the chicks within 6 weeks with Fowlpox vaccine @ 0.2 ml under the wings or muscle areas.",
+            "In order to prevent from Fowlpox disease, vaccinate the chicks within 6 weeks with Fowl pox vaccine @ 0.2 ml under the wings or muscle areas.",
             "Deworming of chicks should be done once in every 2-3 months."
+         ]
+      },
+      "agril engineering": {
+         "advisory": [
+            "Power weeder can be used in all types of cultivation having row to row spacing of 33-120 cm. Spacing of the machine can be adjusted according to the crop and 1.5 litres of petrol/diesel is consumed per hour."
          ]
       }
    },
