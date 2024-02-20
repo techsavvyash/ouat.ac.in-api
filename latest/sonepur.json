@@ -1,106 +1,114 @@
 {
    "weather_details": {
-      "10-02-2024": {
+      "21-02-2024": {
          "rainfall": 0,
-         "t_max": 26,
-         "t_min": 15,
-         "rh_max": 64,
+         "t_max": 36,
+         "t_min": 21,
+         "rh_max": 35,
          "rh_min": 15,
-         "wind_speed": 7,
-         "wind_direction": 68,
-         "cloud_cover": 0
-      },
-      "11-02-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 58,
-         "rh_min": 19,
-         "wind_speed": 6,
-         "wind_direction": 90,
+         "wind_speed": 9,
+         "wind_direction": 252,
          "cloud_cover": 2
       },
-      "12-02-2024": {
-         "rainfall": 8,
-         "t_max": 27,
-         "t_min": 17,
-         "rh_max": 52,
-         "rh_min": 26,
-         "wind_speed": 5,
-         "wind_direction": 135,
-         "cloud_cover": 7
-      },
-      "13-02-2024": {
-         "rainfall": 4,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 66,
-         "rh_min": 23,
-         "wind_speed": 6,
-         "wind_direction": 135,
-         "cloud_cover": 6
-      },
-      "14-02-2024": {
+      "22-02-2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 18,
-         "rh_max": 53,
-         "rh_min": 20,
-         "wind_speed": 7,
-         "wind_direction": 112,
-         "cloud_cover": 4
+         "t_max": 36,
+         "t_min": 21,
+         "rh_max": 50,
+         "rh_min": 15,
+         "wind_speed": 13,
+         "wind_direction": 238,
+         "cloud_cover": 2
+      },
+      "23-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 35,
+         "rh_min": 18,
+         "wind_speed": 12,
+         "wind_direction": 270,
+         "cloud_cover": 2
+      },
+      "24-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 44,
+         "rh_min": 15,
+         "wind_speed": 10,
+         "wind_direction": 292,
+         "cloud_cover": 1
+      },
+      "25-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 73,
+         "rh_min": 16,
+         "wind_speed": 9,
+         "wind_direction": 71,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
+      "rice",
       "green gram",
       "black gram",
-      "mustard",
       "sesame",
       "groundnut",
+      "mango",
       "tomato",
-      "brinjal",
-      "chilli"
+      "cow/buffalo"
    ],
-   "general_advisory": "As per Extended Range Forecast of IMD, farmers are advised to start sowing for summer vegetable cultivation. Spraying operations should be done within two days and irrigation should be delayed due to expected cloudy weather.",
+   "general_advisory": "As per extended range forecast of IMD, rainfall is above normal, maximum and minimum temperature is expected to be below normal and normal respectively for Odisha during 25.02.2024 to 02.03.2024 so farmers are advised to conduct spraying operations in this week. Farmers are advised to start sowing or nursery for cultivation of summer vegetables like cucurbits, okra etc. Prevailing weather condition is favourable for attack of different diseases and insects in crop field so its regular monitoring should be advised.",
    "crops_data": {
+      "rice": {
+         "advisory": [
+            "Transplanting should be advised in case of 21 to 25 days or above old seedlings. Application of granular herbicide Bensulfuron-methyl @ 4 kg/acre + Pretilachlor at 5-8 days after transplanting or spraying of Pyrazosulfuron-ethyl 10 WP @ 5 g/10 ltrs of water at 3-5 DAT or Bispyribac sodium @ 120 ml by mixing with 140 liters of water per acre at 10-15 DAT should be advised for weed control."
+         ]
+      },
       "green gram": {
          "advisory": [
-            "Yellow mosaic virus attack symptoms observed, spray Acetamiprid under clear sky"
+            "Maintain adequate moisture in crop field to avoid flower drop due to water stress condition.",
+            "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
          ]
       },
       "black gram": {
-         "advisory": []
-      },
-      "mustard": {
          "advisory": [
-            "To control aphid and mustard sawfly attack, spray Imidachlorprid or Thiamethoxam and Chloropyriphos under clear weather"
+            "Maintain adequate moisture in crop field to avoid flower drop due to water stress condition.",
+            "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers field so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
          ]
       },
       "sesame": {
          "advisory": [
-            "Sow sesame crop with appropriate seed rate and treat seeds before sowing"
+            "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line. Recommended fertilizer dose for Sesame 30:20:20 NPK kg/ha. Apply full P, K and ½ N as basal and the remaining N at first hoeing and weeding.",
+            "First hoeing, weeding and thinning should be done at 15 days stage. Thinning should be done to keep the plants about 10cm apart.",
+            "4-5 leaf stage is the critical stage of irrigation in sesame so farmers are advised to maintain adequate moisture in field at this stage."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Spray Imazethapyr within 15 days of sowing, delay spraying due to expected rainfall"
+            "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days of sowing to control weed in ground nut."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hopper in Mango tree, spraying of insecticides like Acephate (1g/L) or Chloropyriphos (0.5 ml/L) or Thiomethoxam (0.3-0.4 g/L) should be advised. During full flowering, spray of insecticides should be avoided because this may reduce population of beneficial insects which help in pollination.",
+            "To control powdery mildew disease in mango, spraying of soluble sulphur (2 g/L) should be advised during clear weather condition.",
+            "To increase fruit size KNO3 2% at mustard size fruit stage should be applied."
          ]
       },
       "tomato": {
          "advisory": [
-            "Start sowing tomato seed for summer cultivation, perform hoeing and weeding in vegetative growth stage"
+            "Farmers should start planting of tomato seedling with 25-30 days old. One hoeing and weeding operation is advised in case of crop having vegetative growth stage."
          ]
       },
-      "brinjal": {
+      "cow/buffalo": {
          "advisory": [
-            "Control leaf eating caterpillar and fruit borer in Brinjal, spray Emamectin Benzoate after rainfall"
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Control leaf eating caterpillar and fruit borer in Chilli with appropriate spray"
+            "Vaccination against FMD, HS and BQ should be advised. Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

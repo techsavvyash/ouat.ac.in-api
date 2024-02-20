@@ -55,13 +55,8 @@
       "chickpea",
       "linseed",
       "mustard",
-      "brinjal",
-      "cauliflower",
-      "cabbage",
-      "chilli",
-      "tomato",
-      "rose",
-      "marigold",
+      "vegetables",
+      "flowers",
       "cow"
    ],
    "general_advisory": "According to IMD, light rainfall over the Keonjhar district is forecasted. Harvest the matured crops and store them in safe storage. Use Aluminium Phosphide (Celphos tablets) as fumigants for safe storage. Carefully monitor the field for disease and pests. Postpone the spraying activities. Make bunds to store water. Remove excess water through proper drainage channel.",
@@ -76,8 +71,7 @@
       "linseed": {
          "advisory": [
             "In case of Utera/Paira cropping, apply top dressing of Urea in the pre-flowering stage.",
-            "Spraying of Imidachloprid @ 2 g/lt of water can reduce the aphids population.",
-            "Use Chloropyriphos and neem extract containing Azadiractin 300 ppm can reduce the damage by Termite and leaf miner."
+            "Spraying of Imidachloprid @ 2 g/lt of water can reduce the aphids population."
          ]
       },
       "mustard": {
@@ -86,46 +80,19 @@
             "Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit."
          ]
       },
-      "brinjal": {
+      "vegetables": {
          "advisory": [
-            "Whitefly and aphids in brinjal can be managed by spraying Phosphamidon 40% SL @ 1.5 ml/lt of water.",
-            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10lt of water.",
-            "Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors."
+            "Brinjal: Whitefly and aphids in brinjal can be managed by spraying Phosphamidon 40% SL @ 1.5 ml/lt of water. For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10lt of water. Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors.",
+            "Cauliflower: Diamond back moth in cauliflower can be managed by spraying Cartap hydrochloride @ 1 g/lt of water. Fall army worm or head borer can be controlled by spraying Emamectin benzoate 5% SG @ 4-5 g/10lt of water. Aphids in Cauliflower can be controlled by spraying Thiomethoxam 25% W.G @ 80g or Acetamiprid 20% S.P @ 30g per acre in 200 lt of water.",
+            "Cabbage: To control Cabbage head borer, apply Novaluron 10% EC @ 400 ml or Spinosad 2.5% SC @ 300ml or Emamectin benzoate 5% SG @ 100g in 200lt of water and spray on leaves.",
+            "Chilli: Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water.",
+            "Tomato: Remove the disease-affected leaves and twigs. Make the field clean and remove the weeds. For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
          ]
       },
-      "cauliflower": {
+      "flowers": {
          "advisory": [
-            "Diamond back moth in cauliflower can be managed by spraying Cartap hydrochloride @ 1 g/lt of water.",
-            "Fall army worm or head borer can be controlled by spraying Emamectin benzoate 5% SG @ 4-5 g/10lt of water.",
-            "Aphids in Cauliflower can be controlled by spraying Thiomethoxam 25% W.G @ 80g or Acetamiprid 20% S.P @ 30g per acre in 200 lt of water."
-         ]
-      },
-      "cabbage": {
-         "advisory": [
-            "To control Cabbage head borer, apply Novaluron 10% EC @ 400 ml or Spinosad 2.5% SC @ 300ml or Emamectin benzoate 5% SG @ 100g in 200lt of water and spray on leaves."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Remove the disease affected leaves and twigs.",
-            "Make the field clean and remove the weeds.",
-            "For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "To control Thrips, aphids and leaf hoppers spray Methyl demeton 25 EC @ 2 ml/lt or Carbofuran 3G @ 5 g/plant."
-         ]
-      },
-      "marigold": {
-         "advisory": [
-            "Mealy bug in marigold can be controlled by spraying Fish oil or resin soap @ 25 g/lt.",
-            "In severe infestation, spray Dimethoate or Prophenophos @ 2 ml/lt."
+            "Rose: To control Thrips, aphids and leafhoppers spray Methyl demeton 25 EC @ 2 ml/lt or Carbofuran 3G @ 5 g/plant.",
+            "Marigold: Mealy bug in marigold can be controlled by spraying Fish oil or resin soap @ 25 g/lt. In severe infestation, spray Dimethoate or Prophenophos @ 2 ml/lt."
          ]
       },
       "cow": {

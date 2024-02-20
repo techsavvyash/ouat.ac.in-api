@@ -1,114 +1,107 @@
 {
    "weather_details": {
-      "09-02-2024": {
+      "21-02-2024": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 80,
+         "t_max": 37,
+         "t_min": 21,
+         "rh_max": 40,
          "rh_min": 16,
-         "wind_speed": 6,
-         "wind_direction": 105,
-         "cloud_cover": 0
+         "wind_speed": 9,
+         "wind_direction": 210,
+         "cloud_cover": 1
       },
-      "10-02-2024": {
+      "22-02-2024": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 37,
          "t_min": 21,
-         "rh_max": 68,
-         "rh_min": 19,
-         "wind_speed": 7,
-         "wind_direction": 112,
-         "cloud_cover": 0
+         "rh_max": 52,
+         "rh_min": 15,
+         "wind_speed": 12,
+         "wind_direction": 234,
+         "cloud_cover": 1
       },
-      "11-02-2024": {
+      "23-02-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 22,
+         "rh_max": 42,
+         "rh_min": 20,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "24-02-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 22,
+         "rh_max": 43,
+         "rh_min": 15,
+         "wind_speed": 8,
+         "wind_direction": 288,
+         "cloud_cover": 6
+      },
+      "25-02-2024": {
          "rainfall": 5,
-         "t_max": 32,
+         "t_max": 34,
          "t_min": 22,
-         "rh_max": 54,
-         "rh_min": 23,
-         "wind_speed": 6,
-         "wind_direction": 180,
-         "cloud_cover": 5
-      },
-      "12-02-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 54,
-         "rh_min": 21,
-         "wind_speed": 6,
-         "wind_direction": 162,
-         "cloud_cover": 8
-      },
-      "13-02-2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 62,
+         "rh_max": 87,
          "rh_min": 17,
-         "wind_speed": 7,
-         "wind_direction": 112,
-         "cloud_cover": 8
-      },
-      "14-02-2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "wind_speed": 8,
+         "wind_direction": 79,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "green gram",
-      "black gram",
-      "mustard",
+      "rice",
+      "green gram/black gram",
       "sesame",
       "groundnut",
+      "mango",
       "tomato",
-      "brinjal",
-      "chilli"
+      "cow/buffalo"
    ],
-   "general_advisory": "As per Extended Range Forecast of IMD, MC, Bhubaneswar, isolated light rain/ thundershower very likely at one or two places during 9th to 15th February 2024. No large change in minimum temperature and minimum temperature is expected to be slightly above normal at many places over the districts of Odisha during that period. Farmers are advised to start sowing (nursery) for summer vegetable cultivation. Spraying operations should be done within two days and wait to apply irrigation in crop field for some days because there is a chance of cloudy weather along with occurrence of light rainfall in some places thereafter.",
+   "general_advisory": "As per extended range forecast of IMD, rainfall is above normal, maximum and minimum temperature is expected to be below normal and normal respectively for Odisha during 25.02.2024 to 02.03.2024 so farmers are advised to conduct spraying operations in this week. Farmers are advised to start sowing or nursery for cultivation of summer vegetables like cucurbits, okra etc. Prevailing weather condition is favorable for the attack of different diseases and insects in crop field so its regular monitoring should be advised.",
    "crops_data": {
-      "green gram": {
+      "rice": {
          "advisory": [
-            "Yellow mosaic virus (transmitted through white fly) attack symptoms is observed in some farmers fields so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
+            "Transplanting should be advised in case of 21 to 25 days or above old seedlings. Application of granular herbicide Bensulfuron-methyl @ 4 kg/acre + Pretilachlor at 5-8 days after transplanting or spraying of Pyrazosulfuron-ethyl 10 WP @ 5 g/10 ltrs of water at 3-5 DAT or Bispyribac sodium @ 120 ml by mixing with 140 liters of water per acre at 10-15 DAT should be advised for weed control."
          ]
       },
-      "black gram": {
-         "advisory": []
-      },
-      "mustard": {
+      "green gram/black gram": {
          "advisory": [
-            "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."
+            "Maintain adequate moisture in crop field to avoid flower drop due to water stress condition.",
+            "Yellow mosaic virus (transmitted through white fly) attack symptoms are observed in some farmers' fields so to control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
          ]
       },
       "sesame": {
          "advisory": [
-            "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line."
+            "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line. Recommended fertilizer dose for Sesame 30:20:20 NPK kg/ha. Apply full P, K and ½ N as basal and the remaining N at first hoeing and weeding.",
+            "First hoeing, weeding and thinning should be done at 15 days stage.",
+            "4-5 leaf stage is the critical stage of irrigation in sesame so farmers are advised to maintain adequate moisture in the field at this stage."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days of sowing but due to chance of occurrence of rainfall in upcoming days farmers should wait some days for spraying."
+            "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days of sowing to control weed in groundnut."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hopper in Mango tree, spraying of insecticides like Acephate (1g/L) or Chloropyriphos (0.5 ml/L) or Thiomethoxam (0.3-0.4 g/L) should be advised. During full flowering, spray of insecticides should be avoided because this may reduce the population of beneficial insects which help in pollination.",
+            "To control powdery mildew disease in mango, spraying of soluble sulphur (2 g/L) should be advised during clear weather conditions.",
+            "To increase fruit size KNO3 2% at mustard size fruit stage should be applied."
          ]
       },
       "tomato": {
          "advisory": [
-            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage.",
-            "To control leaf-eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall.",
-            "If white fly attack is observed in case of Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+            "Farmers should start planting of tomato seedling with 25-30 days old. One hoeing and weeding operation is advised in the case of the crop having vegetative growth stage."
          ]
       },
-      "brinjal": {
-         "advisory": []
-      },
-      "chilli": {
-         "advisory": []
+      "cow/buffalo": {
+         "advisory": [
+            "Vaccination against FMD, HS, and BQ should be advised. Farmers are advised to keep the animal shed clean and dry to avoid disease and insect attack."
+         ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

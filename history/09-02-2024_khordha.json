@@ -53,42 +53,79 @@
    },
    "names_of_crops": [
       "paddy",
+      "pulse",
+      "oilseed",
+      "vegetables",
+      "mustard",
+      "til",
       "groundnut",
+      "sugarcane",
       "blackgram",
       "greengram",
       "cole crops",
       "potato"
    ],
-   "general_advisory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Complete the transplanting of 3-5 week old seedlings in well puddled soil at a spacing of 15cm x 15cm with 3-4 seedlings per hill at shallow depth. In bacterial blight endemic areas, dip the seedling roots in 0.1% Plantomycin solution before transplanting. Apply recommended basal doses during final puddling. Apply granular herbicide for farmers who have completed transplanting. Set up pheromone traps for monitoring pests. Follow irrigation schedule depending on soil moisture conditions. Apply recommended fertilizers and manage pest and disease control based on crop specifics.",
+   "general_advisory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer... For better agricultural benefits use OUAT KALINGA products...",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Post-emergence Weed Management: Follow specific herbicide application as recommended based on weed types."
+            "Post-emergence Weed Management: In transplanted and broadcasted paddy...",
+            "Summary of paddy advisory..."
+         ]
+      },
+      "pulse": {
+         "advisory": [
+            "Summary of pulse advisory..."
+         ]
+      },
+      "oilseed": {
+         "advisory": [
+            "Summary of oilseed advisory..."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Summary of vegetable advisory..."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Summary of mustard advisory..."
+         ]
+      },
+      "til": {
+         "advisory": [
+            "Summary of til advisory..."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Bud Necrosis: Spray recommended pesticides to manage Thrips infestation."
+            "Bud Necrosis: To manage the carrier of Bud necrosis disease (Thrips)..."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Sugarcane crop is a heavy feeder. Apply 87-kg of DAP, 20-kg of MOP..."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Aphid Control: Use recommended pesticides based on pest stage."
+            "Aphid: To control aphids during primary stage of pest infestation..."
          ]
       },
       "greengram": {
          "advisory": [
-            "Aphid Control: Utilize Neem-based pesticides followed by chemical solutions for best results."
+            "Aphid: To control aphids during primary stage of pest infestation..."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Alternaria Leaf Spot: Manage disease with specific fungicides based on current weather conditions."
+            "Alternaria Leaf Spot: There are chances of Alternaria leaf spot disease..."
          ]
       },
       "potato": {
          "advisory": [
-            "Cut Worm Control: Apply appropriate insecticides to control cut worm infestation."
+            "Cut Worm: To control cut worm in potato crop spray Chlorpyriphos 50%..."
          ]
       }
    },

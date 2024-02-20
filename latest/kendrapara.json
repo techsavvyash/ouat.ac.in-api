@@ -1,96 +1,132 @@
 {
    "weather_details": {
-      "10/02/2024": {
+      "21/02/2024": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 16,
-         "rh_max": 49,
-         "rh_min": 30,
-         "wind_speed": 10,
-         "wind_direction": 90,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 76,
+         "rh_min": 37,
+         "wind_speed": 27,
+         "wind_direction": 207,
          "cloud_cover": 0
       },
-      "11/02/2024": {
+      "22/02/2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 50,
-         "rh_min": 28,
-         "wind_speed": 9,
-         "wind_direction": 90,
-         "cloud_cover": 0
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 76,
+         "rh_min": 35,
+         "wind_speed": 26,
+         "wind_direction": 202,
+         "cloud_cover": 2
       },
-      "12/02/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 19,
-         "rh_max": 55,
-         "rh_min": 28,
-         "wind_speed": 10,
-         "wind_direction": 112,
-         "cloud_cover": 4
-      },
-      "13/02/2024": {
+      "23/02/2024": {
          "rainfall": 2,
-         "t_max": 28,
-         "t_min": 19,
-         "rh_max": 70,
-         "rh_min": 28,
-         "wind_speed": 10,
-         "wind_direction": 108,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 82,
+         "rh_min": 45,
+         "wind_speed": 16,
+         "wind_direction": 204,
+         "cloud_cover": 5
+      },
+      "24/02/2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 82,
+         "rh_min": 43,
+         "wind_speed": 12,
+         "wind_direction": 202,
          "cloud_cover": 7
       },
-      "14/02/2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 18,
-         "rh_max": 71,
-         "rh_min": 32,
-         "wind_speed": 6,
-         "wind_direction": 135,
-         "cloud_cover": 6
+      "25/02/2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 88,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 90,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "paddy",
+      "summer pulses",
+      "vegetables",
+      "mustard",
+      "sugarcane",
+      "cashew",
+      "potato",
       "groundnut",
-      "blackgram",
+      "black gram",
       "greengram",
-      "cole crops",
-      "potato"
+      "brinjal",
+      "cole crops"
    ],
-   "general_advisory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Complete the transplanting of 3-5 week old seedlings in well puddled soil at a spacing of 15cm × 15cm with 3-4 seedlings per hill at shallow depth. In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling. Farmers those have already completed transplanting, apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4kg/acre at 5-8 days after transplanting. In just transplanted field put 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder. Rabi crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture condition. Sugarcane crop is a heavy feeder. Apply 87-kg of DAP, 20-kg of MOP and 4-tonne of FYM at the time of planting in trenches. Top dressing with Urea @ 60-kg per acre each at 45, 75 and 105 days after planting should be done. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500 gram/acre at 7 days interval.",
+   "general_advisory": "Transplanting of summer paddy is continuing. Sowing of summer pulses, oilseed, and vegetables are also in progress. Mustard, Til, and Groundnut are in harvesting stage. Harvesting of rabi paira pulses like Mung, Biri, and Kulthi are continuing. Planting of Sugarcane is under progress. Crop coverage till date is 86% of the total program area. Overall, crop condition is Normal.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "In transplanted and broadcasted paddy to control grasses, sedges, and broadleaf weeds, spray Bispyribac Sodium 10% E.C. @ 80 ml/acre or Ethoxysulfuron 15% WDG @ 40 gram/acre at 3 to 4 leaf stage by mixing in 200 liters of water. If only broadleaf weeds and sedges are dominant in the field, spray ready mix Metsulfuron methyl 10%+ Chlorimuron ethyl 10% WP @ 8gram/acre at 20-25 DAT by mixing in 200 liters of water."
+            "Fertilizer Application (ActiveTillering) - Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties.",
+            "Yellow Stem Borer management - To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4 % G (@ 8-kg/acre or Fipronil 0.3 % GR @ 10-kg/acre or Chlorantraniliprole 0.4 % GR @ 4-kg/acre or Imidacloprid 0.3% GR @ 6-kg/acre by mixing it with sand at 1: 1 ratio."
          ]
       },
-      "groundnut": {
+      "summer pulses": {
+         "advisory": []
+      },
+      "vegetables": {
          "advisory": [
-            "To manage the carrier of Bud necrosis disease (Thrips) during the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage Thrips chemically spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+            "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon.",
+            "Transplanting of vegetables should be done in the afternoon hour to avoid high temperature."
          ]
       },
-      "blackgram": {
+      "mustard": {
          "advisory": [
-            "To control aphids during the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+            "Harvest the mustard crop as soon as the pods turn yellowish-brown. The crop is liable to shattering, hence it should be harvested just before the pods open to avoid losses. The harvested crop should be stacked in the threshing floor for 5- days before threshing. After threshing dry the seeds in sunlight for a few days to bring the moisture content of seeds up to 8 %."
          ]
       },
-      "greengram": {
+      "sugarcane": {
          "advisory": [
-            "To control aphids during the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+            "Sett Rot management - To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-liter of water."
          ]
       },
-      "cole crops": {
+      "cashew": {
          "advisory": [
-            "There are chances of Alternaria leaf spot disease incidence in cole crops due to the current cloudy weather condition. To control this disease in cole crops, spray Mancozeb 75% WP @ 600-gram/acre or carbendazim 12% + Mancozeb 63% WP @ 400-gram/acre by mixing in 200-liter of water."
+            "For controlling stem and root borer in cashew remove a minimum width of the bark (only the damaged or tunneled portions) retaining at least 50% of the bark circumference."
          ]
       },
       "potato": {
          "advisory": [
-            "To control cut worm in potato crop, spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 liters of water. Cut worm pests are nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund."
+            "Harvest the potato crop which is at 75-85 days after planting and when the majority of the leaves turn yellowish-brown. For harvesting stop the irrigation 15 days before. All the harvested tubers should be kept in the shed for 24 hours. Remove all the damaged and rotten tubers."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage Tobacco Caterpillar pest in Groundnut, Blackgram, Greengram during the primary stages of pest infestation proper surveillance should be done to collect and destroy egg mass and caterpillar of the pest. Monitor the emergence of adult moths by setting up Pheromone traps having Spodolure @ 6-8 nos/acre. Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To control aphids during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 grams/acre or Acetamiprid 20% S.P. @ 50 grams/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "To control aphids during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 grams/acre or Acetamiprid 20% S.P. @ 50 grams/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To manage little leaf in brinjal first remove and destroy the infected plant. To manage the vector of the disease spray Thiamethoxam 25 % WG @ 40-gram/acre or Flonicamid 50% WG @ 60-gram/acre or Dinotefuran 20 % SG @ 80-gram/acre."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "To manage leaf webber and head borer pests, regular monitoring of pest infestation should be carried out. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Neem based Pesticide (Azadirachtin) 300 PPM @ 1-liter /acre by mixing in 200-liter of water. To manage these pests chemically spray Tolfenpyrad 15 % EC@ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10% SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200-litre of water."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

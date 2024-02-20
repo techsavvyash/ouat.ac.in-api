@@ -61,11 +61,11 @@
       "brinjal",
       "chilli"
    ],
-   "general_advisory": "As per Extended Range Forecast of IMD, MC, Bhubaneswar, isolated light rain/thundershower very likely at one or two places during 9th to 15th February 2024...",
+   "general_advisory": "As per Extended Range Forecast of IMD, farmers are advised to start sowing for summer vegetable cultivation. Spraying operations should be done within two days and irrigation should be delayed due to expected cloudy weather.",
    "crops_data": {
       "green gram": {
          "advisory": [
-            "Yellow mosaic virus (transmitted through white fly) attack symptoms observed in some farmers field. To control this insect spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear sky."
+            "Yellow mosaic virus attack symptoms observed, spray Acetamiprid under clear sky"
          ]
       },
       "black gram": {
@@ -73,32 +73,33 @@
       },
       "mustard": {
          "advisory": [
-            "To control aphid and mustard sawfly attack in mustard crop, spraying of Imidachlorprid @ 0.3 ml or Thiamethoxam @ 0.3 g and Chloropyriphos @ 2 ml per liter of water respectively should be advised under clear weather condition."
+            "To control aphid and mustard sawfly attack, spray Imidachlorprid or Thiamethoxam and Chloropyriphos under clear weather"
          ]
       },
       "sesame": {
          "advisory": [
-            "Sowing of Sesame crop should be advised with a seed rate @ 2-2.5 kg seeds per acre. Before sowing, seed treatment should be done with 2g Carbendazim (Bavistin) and due to small seed size it should be mixed with dry sand during sowing in line."
+            "Sow sesame crop with appropriate seed rate and treat seeds before sowing"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Spraying of Imazethapyr @ 3 ml/liter of water should be advised within 15 days of sowing. Due to chance of occurrence of rainfall in upcoming days, farmers should wait some days for spraying."
+            "Spray Imazethapyr within 15 days of sowing, delay spraying due to expected rainfall"
          ]
       },
       "tomato": {
          "advisory": [
-            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed. One hoeing and weeding operation should be advised in case of crop having vegetative growth stage."
+            "Start sowing tomato seed for summer cultivation, perform hoeing and weeding in vegetative growth stage"
          ]
       },
       "brinjal": {
          "advisory": [
-            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised after occurrence of rainfall.",
-            "If white fly attack is observed in case Tomato and Brinjal, spraying of Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather condition."
+            "Control leaf eating caterpillar and fruit borer in Brinjal, spray Emamectin Benzoate after rainfall"
          ]
       },
       "chilli": {
-         "advisory": []
+         "advisory": [
+            "Control leaf eating caterpillar and fruit borer in Chilli with appropriate spray"
+         ]
       }
    },
    "date": "09-02-2024"

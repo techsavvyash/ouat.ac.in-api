@@ -1,53 +1,53 @@
 {
    "weather_details": {
-      "10-02-2024": {
+      "21-02-2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 16,
-         "rh_max": 43,
-         "rh_min": 24,
-         "wind_speed": 11,
-         "wind_direction": 68,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 75,
+         "rh_min": 25,
+         "wind_speed": 16,
+         "wind_direction": 243,
          "cloud_cover": 0
       },
-      "11-02-2024": {
+      "22-02-2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 17,
-         "rh_max": 44,
-         "rh_min": 24,
-         "wind_speed": 10,
-         "wind_direction": 90,
-         "cloud_cover": 0
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 67,
+         "rh_min": 22,
+         "wind_speed": 22,
+         "wind_direction": 207,
+         "cloud_cover": 2
       },
-      "12-02-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 45,
-         "rh_min": 23,
-         "wind_speed": 9,
-         "wind_direction": 75,
-         "cloud_cover": 3
+      "23-02-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 35,
+         "wind_speed": 21,
+         "wind_direction": 207,
+         "cloud_cover": 6
       },
-      "13-02-2024": {
-         "rainfall": 4,
-         "t_max": 27,
-         "t_min": 19,
-         "rh_max": 57,
-         "rh_min": 25,
-         "wind_speed": 9,
-         "wind_direction": 288,
-         "cloud_cover": 4
+      "24-02-2024": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 35,
+         "wind_speed": 15,
+         "wind_direction": 191,
+         "cloud_cover": 7
       },
-      "14-02-2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 62,
-         "rh_min": 25,
-         "wind_speed": 9,
-         "wind_direction": 116,
+      "25-02-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 82,
+         "rh_min": 42,
+         "wind_speed": 13,
+         "wind_direction": 45,
          "cloud_cover": 7
       }
    },
@@ -56,54 +56,72 @@
       "sugarcane",
       "blackgram",
       "rapeseed & mustard",
+      "cucurbits",
+      "tomato & brinjal",
       "vegetables",
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Farmers are advised to give necessary irrigation to field & vegetable crops. Utilize available water for summer rice transplanting. Take necessary preventive measures for different crops as mentioned in the advisory.",
+   "general_advisory": "Drain out excess water from paddy field and conduct regular surveillance to monitor disease pests. Take control measures to prevent blast infestation in rice crops. Ensure proper seed treatment and fertilization practices for sugarcane, blackgram, rapeseed & mustard, and vegetables. Monitor fish health for white spot disease symptoms. Provide mineral mixture to animals for better health.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers are advised to give necessary irrigation to field & vegetable crops.",
-            "Farmers those have already completed transplanting, apply granular herbicide Bensulfuron -methyl + Pretilachlor @ 4kg / acre at 5 -8 days after transplanting.",
-            "Utilising the available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35 kg DAP,20 kg MOP &10 kg ZnSO 4 /acre.",
-            "In bacterial blight endemic areas, dip the seedling roots in 0.1% (1g in one litre of water) Plantomycin solution before transplanting for 30 minutes."
+            "Drain out excess water from paddy fields",
+            "Monitor disease pests and initiate control strategies",
+            "Combat blast infestation with recommended sprays",
+            "Complete transplanting of summer rice with specified fertilizers"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "In Ratoon crop of sugarcane remove the disease & pest infected plants and dispose the grassy shoot infected plant followed by recommended fertilizer application & spraying of Fipronil 5 Sc @2ml/l of water recommended.",
-            "Sugarcane Sett treatment with (Metalaxyl + Mancozeb)@2g/l Of water is recommended to decrease the incidence of diseases like Red Rot & Wilt."
+            "Collect disease-free setts for planting",
+            "Undertake sett rot management with appropriate treatments",
+            "Remove infected plants in ratoon crop",
+            "Protect cane hips from termite attack after harvest"
          ]
       },
       "blackgram": {
          "advisory": [
-            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended.",
-            "To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 17.8% SL @ 60 -ml/acre or Imidacloprid by mixing in 200 litres of water."
+            "Spray recommended fungicide for disease control",
+            "Apply pesticides to control aphids"
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit.",
-            "To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at early stage spray Neem -based pesticide (Neem Oil 1500 PPM) @ 600 -ml/acre by mixing in 200-litre of water. Spraying of Insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
+            "Control aphids with recommended sprays",
+            "Combat infestation of Mustard Sawfly, Leaf Webber, and Tobacco Caterpillar"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Minimize damage caused by Red Pumpkin Beetle with specified sprays",
+            "Manage Epilachna Beetle in cucumber with neem-based pesticide"
+         ]
+      },
+      "tomato & brinjal": {
+         "advisory": [
+            "Start sowing tomato seeds for summer cultivation",
+            "Prevent wilting in brinjal and tomato with specified treatments",
+            "Provide support structures for tomatoes",
+            "Control sucking insect pests with recommended sprays"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Sowing of Recommended HYV/Hybrid of Cucurbits after treating the seeds with Imidachloprid 600FS@(8 -10)ml/kg seeds to minimize the incidence of viral /phytoplasma incidence.",
-            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Beetle in cucurbits."
+            "Spray recommended pesticides for Cucurbit vegetables",
+            "Combat leaf eating caterpillars and fruit borers in winter vegetables"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "The fishes should be fed daily with oil cake bran mixture at the rate of 2 -3 % of their total biomass."
+            "Treat white spot disease in fish with specified procedure"
          ]
       },
       "animal science": {
          "advisory": [
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+            "Provide mineral mixture and additional feed to animals during winter"
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

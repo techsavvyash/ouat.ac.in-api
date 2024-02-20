@@ -59,8 +59,9 @@
       "mung",
       "blackgram",
       "ragi",
-      "groundnut",
       "wheat",
+      "groundnut",
+      "pea",
       "chilli",
       "sunflower",
       "potato",
@@ -72,66 +73,77 @@
          "advisory": [
             "Apply light irrigation in the nursery.",
             "Keep standing water in the paddy nursery 15 days onwards of sowing.",
-            "Apply 4 kg urea at 15 days for proper seedling vigor."
+            "Apply 4 kg urea at 15 days for proper vigor of seedlings.",
+            "Use light and medium varieties of seeds."
          ]
       },
       "pulses": {
          "advisory": [
-            "Harvest when 90 percent of mungbean pods and pea crops are at ripen stage.",
-            "Dry and store seeds for 2-3 days in a dry place."
+            "National high yielding pulses varieties: IPM-02-14, IPM-02-3, PDM-11, PDM-54, Durga, Samrat, K-851, Sarla, PU-31, PU-30, PU-35, PU-19.",
+            "Collect and sow 25 kg of seeds per hectare."
          ]
       },
       "oilseeds": {
-         "advisory": []
+         "advisory": [
+            "Apply gypsum at sowing if not applied."
+         ]
       },
       "vegetables": {
          "advisory": [
-            "Vegetables are at harvesting stage."
+            "Harvest at maturity."
          ]
       },
       "mung": {
-         "advisory": []
+         "advisory": [
+            "Apply 200 grams of mustard oil or til oil per quintal to reduce moth infestation."
+         ]
       },
       "blackgram": {
-         "advisory": []
+         "advisory": [
+            "Apply 200 grams of mustard oil or til oil per quintal to reduce moth infestation."
+         ]
       },
       "ragi": {
          "advisory": [
-            "Transplant seedlings in 20cm X 10 cm spacing after 3 weeks.",
-            "Apply 24:12:12 kg NPK per acre for soil without testing."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Apply gypsum at sowing @ 50kg/acre or broadcast 100 kg per acre."
+            "Transplant seedlings in specified spacing.",
+            "Apply NPK as per soil requirements."
          ]
       },
       "wheat": {
          "advisory": [
-            "Control black spot disease with carbendazim in water per acre.",
-            "Water during flowering and flowering stages."
+            "Control black spot disease with carbendazim.",
+            "Pay attention to watering during flowering."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply gypsum at sowing."
+         ]
+      },
+      "pea": {
+         "advisory": [
+            "Harvest at ripen stage and store seeds properly."
          ]
       },
       "chilli": {
          "advisory": [
-            "Spray leaves with abamectin or ethion for leaf spot."
+            "Spray with abamectin or ethion if leaf spot appears."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Apply 6-8 kg nitrogen per acre at 25-30 days after sowing.",
-            "Perform thinning operation."
+            "Apply nitrogen at specified time and go for thinning operation."
          ]
       },
       "potato": {
          "advisory": [
-            "Complete sowing without delay with good varieties like Kufri Pokhraj.",
-            "Seed rate is 6-8q/ac with proper seed weight."
+            "Complete sowing without delay.",
+            "Use good varieties with specified seed rate and eye count."
          ]
       },
       "toria": {
          "advisory": [
-            "Apply 1 kg sulphur powder in 200 liters of water per acre for powdery mildew."
+            "Apply sulphur powder for powdery mildew."
          ]
       }
    },

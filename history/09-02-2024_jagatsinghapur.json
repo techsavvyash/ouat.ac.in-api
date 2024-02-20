@@ -59,36 +59,36 @@
       "cole crops",
       "potato"
    ],
-   "general_advisory": "Seedling treatment with Chloropyriphos, transplanting guidelines, basal dose application, herbicide application, pheromone trap placement, irrigation schedule, sugarcane feeding, tomato blight management.",
+   "general_advisory": "Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer...",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Post-emergence Weed Management with specified herbicides."
+            "Post-emergence Weed Management In transplanted and broadcasted paddy to control grasses, sedges and broad leaf weeds..."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage Bud Necrosis, spray specific pesticides."
+            "Bud Necrosis To manage the carrier..."
          ]
       },
       "blackgram": {
          "advisory": [
-            "To control Aphid, spray specified pesticides."
+            "Aphid To control aphids during primary stage of pest infestation spray Neem Based Pesticide..."
          ]
       },
       "greengram": {
          "advisory": [
-            "To control Aphid, spray specified pesticides."
+            "Aphid To control aphids during primary stage of pest infestation spray Neem Based Pesticide..."
          ]
       },
       "cole crops": {
          "advisory": [
-            "To control Alternaria Leaf Spot, spray specified fungicides."
+            "Alternaria Leaf Spot There are chances of Alternaria leaf spot disease incidence in Cole crops..."
          ]
       },
       "potato": {
          "advisory": [
-            "To control Cut Worm, spray specified insecticides."
+            "Cut Worm To control cut worm in potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre..."
          ]
       }
    },

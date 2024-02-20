@@ -1,106 +1,161 @@
 {
    "weather_details": {
-      "10-02-2024": {
+      "21-02-2024": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 11,
-         "rh_max": 40,
-         "rh_min": 22,
-         "wind_speed": 6,
-         "wind_direction": 120,
-         "cloud_cover": 0
-      },
-      "11-02-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 13,
-         "rh_max": 38,
-         "rh_min": 19,
-         "wind_speed": 5,
-         "wind_direction": 135,
-         "cloud_cover": 1
-      },
-      "12-02-2024": {
-         "rainfall": 5,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 41,
-         "rh_min": 20,
-         "wind_speed": 5,
-         "wind_direction": 162,
-         "cloud_cover": 7
-      },
-      "13-02-2024": {
-         "rainfall": 4,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 49,
-         "rh_min": 25,
-         "wind_speed": 7,
-         "wind_direction": 180,
-         "cloud_cover": 7
-      },
-      "14-02-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 14,
-         "rh_max": 58,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 60,
          "rh_min": 23,
          "wind_speed": 7,
-         "wind_direction": 79,
+         "wind_direction": 208,
+         "cloud_cover": 1
+      },
+      "22-02-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 59,
+         "rh_min": 18,
+         "wind_speed": 11,
+         "wind_direction": 234,
+         "cloud_cover": 2
+      },
+      "23-02-2024": {
+         "rainfall": 3,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 73,
+         "rh_min": 28,
+         "wind_speed": 12,
+         "wind_direction": 225,
          "cloud_cover": 5
+      },
+      "24-02-2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 55,
+         "rh_min": 23,
+         "wind_speed": 11,
+         "wind_direction": 56,
+         "cloud_cover": 7
+      },
+      "25-02-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 71,
+         "rh_min": 30,
+         "wind_speed": 9,
+         "wind_direction": 90,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "chickpea",
       "linseed",
       "mustard",
-      "vegetables",
-      "flowers",
-      "cow"
+      "chickpea",
+      "banana",
+      "papaya",
+      "cucurbits",
+      "onion",
+      "brinjal",
+      "chilli",
+      "tomato",
+      "cauliflower",
+      "marigold",
+      "poultry"
    ],
-   "general_advisory": "According to IMD, light rainfall over the Keonjhar district is forecasted. Harvest the matured crops and store them in safe storage. Use Aluminium Phosphide (Celphos tablets) as fumigants for safe storage. Carefully monitor the field for disease and pests. Postpone the spraying activities. Make bunds to store water. Remove excess water through proper drainage channel.",
+   "general_advisory": "According to IMD, no to light rainfall over the Keonjhar district is forecasted. Monitor the field for disease and pests regularly. Harvest the matured crops and store them in safe storage. Apply fertilizers and irrigate the field accordingly. If excess rainfall occurs, remove the water through proper drainage.",
    "crops_data": {
-      "chickpea": {
-         "advisory": [
-            "Alternaria blight in chickpea can be managed by spraying Mancozeb @ 2.5 g/lt of water or Carbendazim @ 1 g/lt of water.",
-            "Avoid excessive irrigation to the crop.",
-            "To control powdery mildew disease in chickpea spray with Dithane - M 45 @ 2.5 g/lt of water."
-         ]
-      },
       "linseed": {
          "advisory": [
-            "In case of Utera/Paira cropping, apply top dressing of Urea in the pre-flowering stage.",
-            "Spraying of Imidachloprid @ 2 g/lt of water can reduce the aphids population."
+            "Linseed are in flowering and pod formation stage.",
+            "If top dressing of Urea is not done, apply fertilizer in the flowering stage.",
+            "Aphids in Linseed can be managed by spraying of Imidachloprid @ 2 g/lt of water."
          ]
       },
       "mustard": {
          "advisory": [
+            "One irrigation can be applied in the flowering stage along with top dressing of Urea.",
             "Mustard are in flowering and pod filling stage.",
+            "Carefully monitor the field for white rust.",
             "Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit."
          ]
       },
-      "vegetables": {
+      "chickpea": {
          "advisory": [
-            "Brinjal: Whitefly and aphids in brinjal can be managed by spraying Phosphamidon 40% SL @ 1.5 ml/lt of water. For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10lt of water. Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors.",
-            "Cauliflower: Diamond back moth in cauliflower can be managed by spraying Cartap hydrochloride @ 1 g/lt of water. Fall army worm or head borer can be controlled by spraying Emamectin benzoate 5% SG @ 4-5 g/10lt of water. Aphids in Cauliflower can be controlled by spraying Thiomethoxam 25% W.G @ 80g or Acetamiprid 20% S.P @ 30g per acre in 200 lt of water.",
-            "Cabbage: To control Cabbage head borer, apply Novaluron 10% EC @ 400 ml or Spinosad 2.5% SC @ 300ml or Emamectin benzoate 5% SG @ 100g in 200lt of water and spray on leaves.",
-            "Chilli: Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water.",
-            "Tomato: Remove the disease-affected leaves and twigs. Make the field clean and remove the weeds. For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
+            "Keep the field weed free.",
+            "Irrigation can be done to avoid heat stress.",
+            "If only one irrigation is available apply it in pod formation stage.",
+            "To control powdery mildew disease in chickpea spray with Dithane - M 45 @ 2.5 g/lt of water."
          ]
       },
-      "flowers": {
+      "banana": {
          "advisory": [
-            "Rose: To control Thrips, aphids and leafhoppers spray Methyl demeton 25 EC @ 2 ml/lt or Carbofuran 3G @ 5 g/plant.",
-            "Marigold: Mealy bug in marigold can be controlled by spraying Fish oil or resin soap @ 25 g/lt. In severe infestation, spray Dimethoate or Prophenophos @ 2 ml/lt."
+            "Irrigate the banana crop regularly.",
+            "Make the surrounding of the plant weed free.",
+            "Yellow sigatoka diseases in Banana can be managed by spraying Carbendazim and Propiconazole @ 0.1% in 10-15 days interval."
          ]
       },
-      "cow": {
+      "papaya": {
          "advisory": [
-            "Provide clean drinking water to the calves and cows.",
-            "Arrange proper heat to the sheds to reduce the cold waves."
+            "To manage Papaya ring spot virus, remove or rogue out the plants and burn it away from the field.",
+            "Papaya leaf curl virus can be controlled by spraying Imidachloprid or Acephate @ 2g/lt of water."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spray neem oil @ 600 ml/acre to control red pumpkin beetle in cucurbits.",
+            "Sulphur powder can be used to treat powdery mildew disease in cucurbits."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To control cutworm in onion, drench the soil with Chloropyriphos @ 2 ml/lt of water.",
+            "Spray Mancozeb or Copper oxychloride @ 2 g/lt of water to manage leaf spot in Onion."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10lt of water.",
+            "Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Remove the disease-affected leaves and twigs.",
+            "Make the field clean and remove the weeds",
+            "For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Alternaria leaf spot can be managed by spraying Mancozeb 75% WP @ 600 g/acre.",
+            "Diamond back moth in cauliflower can be managed by spraying Cartap hydrochloride @ 1 g/lt of water.",
+            "Fall army worm or head borer can be controlled by spraying Emamectin benzoate 5% SG @ 4-5 g/10lt of water.",
+            "Aphids in Cauliflower can be controlled by spraying Thiomethoxam 25% W.G @ 80g or Acetamiprid 20% S.P @ 30g per acre in 200 lt of water."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Pluck the flowers regularly and sell it in the market for fetching good return.",
+            "Irrigate the crop regularly.",
+            "Mealy bug in marigold can be controlled by spraying Fish oil or resin soap @ 25 g/lt.",
+            "In severe infestation, spray Dimethoate or Prophenophos @ 2 ml/lt."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Vaccinate the poultry birds within the first week with Lasota and administer IBT within the first two weeks.",
+            "Clean drinking water should be provided regularly to the poultry birds."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }
