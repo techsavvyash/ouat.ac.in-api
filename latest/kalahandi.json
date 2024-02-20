@@ -1,80 +1,142 @@
 {
    "weather_details": {
-      "10-02-2024": {
+      "21-02-2024": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 15,
-         "rh_max": 78,
+         "t_max": 37,
+         "t_min": 22,
+         "rh_max": 53,
          "rh_min": 17,
-         "wind_speed": 6,
-         "wind_direction": 120,
-         "cloud_cover": 0
+         "wind_speed": 8,
+         "wind_direction": 195,
+         "cloud_cover": 2
       },
-      "11-02-2024": {
+      "22-02-2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 79,
-         "rh_min": 19,
-         "wind_speed": 6,
-         "wind_direction": 153,
+         "t_max": 37,
+         "t_min": 22,
+         "rh_max": 61,
+         "rh_min": 18,
+         "wind_speed": 11,
+         "wind_direction": 225,
          "cloud_cover": 1
       },
-      "12-02-2024": {
+      "23-02-2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 18,
-         "rh_max": 68,
-         "rh_min": 24,
-         "wind_speed": 6,
-         "wind_direction": 195,
-         "cloud_cover": 7
+         "t_max": 36,
+         "t_min": 23,
+         "rh_max": 58,
+         "rh_min": 23,
+         "wind_speed": 11,
+         "wind_direction": 207,
+         "cloud_cover": 3
       },
-      "13-02-2024": {
-         "rainfall": 0,
-         "t_max": 29,
-         "t_min": 18,
-         "rh_max": 61,
-         "rh_min": 22,
+      "24-02-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 46,
+         "rh_min": 20,
          "wind_speed": 7,
-         "wind_direction": 146,
+         "wind_direction": 162,
          "cloud_cover": 6
       },
-      "14-02-2024": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 54,
-         "rh_min": 18,
+      "25-02-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 57,
+         "rh_min": 15,
          "wind_speed": 7,
-         "wind_direction": 158,
-         "cloud_cover": 4
+         "wind_direction": 90,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "chickpea",
-      "groundnut",
-      "paddy",
-      "rice"
+      "summer paddy",
+      "green gram",
+      "black gram",
+      "ground nut",
+      "maize",
+      "hybrid maize",
+      "tomato",
+      "cauliflower",
+      "cabbage",
+      "chilli",
+      "brinjal",
+      "onion",
+      "cattle & buffalo",
+      "poultry",
+      "goat"
    ],
-   "general_advisory": "Early sown crops like green gram, black gram, chickpea, ground nut, field pea, maize etc. are at flowering stage. Farmers are advised to provide necessary irrigation at this stage to avoid water stress condition. Farmers are advised to install 'T' shaped bird perches in and around crop fields like chickpea, green gram, groundnut and vegetables for controlling insect population. Install pheromone trap @ 3-4/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato, etc. Rouging of viral infested plants should be done in vegetables. Infected plants should be uprooted and buried in the soil.",
+   "general_advisory": "Regular monitoring of the crop for incidence of pest and diseases should be done & keep your crop field free from weed. Apply balanced and appropriate fertilizers according to crop’s growth stage followed by irrigation.",
    "crops_data": {
-      "paddy": {
+      "summer paddy": {
          "advisory": [
-            "Weed Management: Apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 days after transplanting by mixing with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 WP @ 5 g/10 ltrs of water at 3-5 days after transplanting or spray Bispyribac sodium @ 8 ml by mixing with 10 liters of water at 10-15 DAT.",
-            "Nutrient Management: In direct-seeded rice apply urea @ 24 kg/acre as fist top dressing at 20-25 DAS. Prepare the main field for timely transplanting. Apply DAP 44 kg + MOP 22 kg per acre as a basal dose during final puddling.",
-            "Disease and Insect Management: If infestation of blast disease is noticed in direct-seeded rice, spray Carbendazim 50 WP @ 1g/ltr of water or Trifloxystrobin 25% + Tebuconazole 50% @ 4 g/10 ltrs of water or Edifenphos 50 EC @ 1 ml/ltr of water. For further information, contact the IMD, Bhubaneswar, Tel.#0674-2596116."
+            "Weed Management: Apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 days after transplanting by mixing with equal quantity of sand and broadcast it uniformly in the field."
          ]
       },
-      "rice": {
+      "green gram": {
+         "advisory": [
+            "Water management: Now the crop is at flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Water management: Now the crop is at flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Disease & Insect Management: Aphid/Jassids/White fly/Thrips: Install yellow sticky trap @ 8/acre to monitor sucking pests complex and blue sticky trap @ 8/acre for monitoring thrips at vegetative stage."
+         ]
+      },
+      "maize": {
          "advisory": []
       },
-      "chickpea": {
+      "hybrid maize": {
+         "advisory": [
+            "Weed Management: Apply Tembotrione 34.4% SC @ 6ml or Topramezone 33.6% SC @ 1.5 g by mixing with 10 liters of water at 20-25 DAS for chemical control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Disease and Insect Management: Fruit & Shoot borer: Install pheromone trap @ 2nos/acre and for chemical control, spray Chlorantraniliprole 18.5% SC @ 3ml or Cyntraniliprole 10.26% OD @ 18ml or Indoxacarb 14.5% SC @ 10 ml by mixing with 10 liters of water."
+         ]
+      },
+      "cauliflower": {
          "advisory": []
       },
-      "groundnut": {
+      "cabbage": {
          "advisory": []
+      },
+      "chilli": {
+         "advisory": []
+      },
+      "brinjal": {
+         "advisory": [
+            "Insect Management: Fruit and Shoot borer: Install pheromone trap/Wata trap @ 8 nos. per acre area at vegetative stage and replace lure after 3 weeks."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Disease Management: Purple blotch: Spray Difenoconazole 25% EC or Tebuconazole 25.9% EC or Kitazin 48% EC @ 1g/ltr of water."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Provide sufficient green grass. Lactating animals should be provided with concentrate mix for better production."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make necessary arrangements to provide heat especially to chicks during night hours to reduce the mortality rate. Make proper brooding arrangement for chicks. Keep the poultry house clean and damp free."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Provide protection from damp floors. Supply kid starter @ 50-100 g/day for better growth."
+         ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

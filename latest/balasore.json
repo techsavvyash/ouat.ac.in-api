@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "10-02-2024": {
+      "21-02-2024": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 14,
-         "rh_max": 36,
-         "rh_min": 24,
-         "wind_speed": 10,
-         "wind_direction": 112,
-         "cloud_cover": 0
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 68,
+         "rh_min": 34,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 1
       },
-      "11-02-2024": {
+      "22-02-2024": {
          "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 63,
+         "rh_min": 36,
+         "wind_speed": 19,
+         "wind_direction": 201,
+         "cloud_cover": 3
+      },
+      "23-02-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 78,
+         "rh_min": 39,
+         "wind_speed": 19,
+         "wind_direction": 212,
+         "cloud_cover": 5
+      },
+      "24-02-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 70,
+         "rh_min": 41,
+         "wind_speed": 14,
+         "wind_direction": 135,
+         "cloud_cover": 6
+      },
+      "25-02-2024": {
+         "rainfall": 5,
          "t_max": 29,
-         "t_min": 15,
-         "rh_max": 42,
-         "rh_min": 24,
-         "wind_speed": 9,
-         "wind_direction": 75,
-         "cloud_cover": 0
-      },
-      "12-02-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 15,
-         "rh_max": 44,
-         "rh_min": 28,
-         "wind_speed": 7,
-         "wind_direction": 180,
-         "cloud_cover": 2
-      },
-      "13-02-2024": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 49,
-         "rh_min": 30,
-         "wind_speed": 10,
-         "wind_direction": 153,
-         "cloud_cover": 4
-      },
-      "14-02-2024": {
-         "rainfall": 2,
-         "t_max": 28,
-         "t_min": 17,
-         "rh_max": 58,
-         "rh_min": 30,
-         "wind_speed": 10,
-         "wind_direction": 158,
-         "cloud_cover": 7
+         "t_min": 23,
+         "rh_max": 75,
+         "rh_min": 38,
+         "wind_speed": 13,
+         "wind_direction": 135,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
@@ -56,67 +56,47 @@
       "sugarcane",
       "blackgram",
       "rapeseed & mustard",
-      "cucurbits",
-      "tomato & brinjal",
       "vegetables",
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Farmers are advised to give necessary irrigation to fields and vegetable crops. In specific crop advisories, various treatments and preventions are recommended to control diseases and pests.",
+   "general_advisory": "Drain out excess water from paddy field for rice cultivation. Take regular surveillance in all crops to control disease pests. Utilize available water for summer rice cultivation. Follow necessary procedures in the cultivation of sugarcane, blackgram, rapeseed & mustard, vegetables, pisciculture, and animal science.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers advised to give necessary irrigation to field & vegetable crops.",
-            "Apply granular herbicide Bensulfuron - methyl + Pretilachlor @ 4kg / acre after transplanting."
+            "Increased temperature difference may lead to blast infestation. Use appropriate fungicides and insecticides as needed."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Remove disease & pest infected plants in Ratoon crop and dispose them with recommended fertilizer application.",
-            "Sugarcane Sett treatment with (Metalaxyl + Mancozeb)@2g/l of water is recommended."
+            "Collect setts from healthy plants for sowing. Implement sett rot management practices. Remove diseased plants in ratoon crop."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spraying of (Tebuconazole + Sulphur) @500g/acre recommended to reduce incidence of diseases.",
-            "Control aphids during pest infestation using Neem Based Pesticide."
+            "Spray recommended pesticides to control diseases and aphids."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control aphids by spraying Dimethoate 30% EC.",
-            "Spray Neem-based pesticide to prevent infestation."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "Sow Recommended HYV/Hybrid of Cucurbits after treating seeds with Imidachloprid.",
-            "Spray Acephate to minimize damage caused by Red Pumpkin Bettle in cucurbits."
-         ]
-      },
-      "tomato & brinjal": {
-         "advisory": [
-            "Apply Neem or Karanjaa cake to prevent wilting in plants.",
-            "Provide support for better growth of Tomato plants."
+            "Control pests through timely spraying of insecticides. Provide necessary care during the flowering stage."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spray Thiamethoxam to control sucking insect pests.",
-            "Apply Emamectin benzoate or Spinosad to control leaf eating caterpillar and fruit borer."
+            "Use appropriate pesticides to manage pests in cucurbits. Start sowing tomato seeds for summer cultivation. Provide support for tomato plants."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Feed fishes daily with oil cake bran mixture at the recommended rate."
+            "Treat fish for white spot disease symptoms."
          ]
       },
       "animal science": {
          "advisory": [
-            "Provide mineral mixture along with salt regularly to animals.",
-            "Include wheat grains, jaggery, etc. in the daily ration during winter season."
+            "Regularly provide mineral mixture and salt to animals. Include wheat grains and jaggery in their diet during winter."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

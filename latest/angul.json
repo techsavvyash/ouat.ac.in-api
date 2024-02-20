@@ -1,72 +1,78 @@
 {
    "weather_details": {
-      "2024-02-10": {
+      "2024-02-21": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 11,
-         "rh_max": 68,
-         "rh_min": 22,
-         "wind_speed": 6,
-         "wind_direction": 112,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 52,
+         "rh_min": 17,
+         "wind_speed": 7,
+         "wind_direction": 180,
          "cloud_cover": 0
       },
-      "2024-02-11": {
+      "2024-02-22": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 12,
-         "rh_max": 56,
-         "rh_min": 20,
-         "wind_speed": 6,
-         "wind_direction": 112,
-         "cloud_cover": 1
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 53,
+         "rh_min": 15,
+         "wind_speed": 10,
+         "wind_direction": 234,
+         "cloud_cover": 2
       },
-      "2024-02-12": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
-         "rh_max": 49,
-         "rh_min": 21,
-         "wind_speed": 6,
-         "wind_direction": 144,
+      "2024-02-23": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 52,
+         "rh_min": 22,
+         "wind_speed": 11,
+         "wind_direction": 242,
+         "cloud_cover": 4
+      },
+      "2024-02-24": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 48,
+         "rh_min": 16,
+         "wind_speed": 10,
+         "wind_direction": 292,
          "cloud_cover": 6
       },
-      "2024-02-13": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
-         "rh_max": 55,
-         "rh_min": 23,
-         "wind_speed": 7,
-         "wind_direction": 124,
-         "cloud_cover": 7
-      },
-      "2024-02-14": {
-         "rainfall": 4,
-         "t_max": 31,
-         "t_min": 13,
-         "rh_max": 70,
-         "rh_min": 21,
+      "2024-02-25": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 84,
+         "rh_min": 24,
          "wind_speed": 8,
-         "wind_direction": 112,
-         "cloud_cover": 4
+         "wind_direction": 105,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "green gram",
-      "groundnut"
+      "goat",
+      "common fish"
    ],
-   "general_advisory": "In case of pest infestation in stored grain of rice, apply Three Aluminum Phosphide Tablet per one ton of rice; Cover it well with Tarpaulin and ensure no space is left. Mustard crop is in flowering to Pod formation stage, there is a chance of infestation of Mustard Sawfly, to control sawfly in mustard crop apply Profenofos+Cypermethrin. The time to sow Til crop has come, use varieties e.g Shubha, Smarak for good yield. Store the harvested paddy in a safer place to avoid rodent infestation.",
+   "general_advisory": "Current weather allows planting of pine apple. Grow variety Que, Queen, Simachalan and Maritius. Climate and weather allows planting papaya up to March. Grow variety Honey dew , Kur g honey dew , coembatore-1 Coembatore-2, Pusa delicious, Pusa majestic, Pusa dwarf and Pusa giant.",
    "crops_data": {
       "green gram": {
          "advisory": [
-            "There are chances of infection of Greengram crops by the yellow mosaic virus. To manage the population of the vector in the field first get rid of the severely infected plants by uprooting and destroying them far away from the field. Install 20 yellow sticky traps per acre. To manage whiteflies chemically spray Thiamethoxam @ 40 gram/acre or Acetamiprid @ 50-gram /acre or Pyriproxifen 10% EC @ 200-ml/acre by mixing in 200-litre of water."
+            "Green gram crop is at pod formation to mature stage. Due to the regular dew fall and prevailing dry weather the Powdery mildew disease is going to aggravate in coming days. So go for foliar application of Sulphur 80% WP /Litre of water. (Do not go for application of any fungicide on Thursday , Friday , Saturday.)"
          ]
       },
-      "groundnut": {
+      "goat": {
          "advisory": [
-            "To control tikka disease of Groundnut, apply Pyraclostobin 20% WG @ 1g/lit or Tebuconazole 25% WG @ 5g/10lit. Grow tolerant varieties like JAL-42, Devi."
+            "Do vaccination of goat within three months to control P.P.R disease, and in case goats are affected give them antibiotics like Siproplafaxin, Eneroflaxin."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "To prevent any disease/mortality problems, the water quality parameters should be maintained in the range of pH-7.5 to 8.5, Dissolved oxygen - 5.0ppm, Temperature- 25-30°C, total alkalinity- 75-175ppm, total hardness- 75-150ppm. Use CIF ABROOD of 3-5 mm diameter sinking pellet type and fed @ 3-5% body weight per day for two months prior to breeding for better growth & survival of the spawn and try as well as for early maturation and spawning of brooders."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

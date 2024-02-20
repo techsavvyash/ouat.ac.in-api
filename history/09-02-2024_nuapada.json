@@ -4,8 +4,8 @@
          "rainfall": 0,
          "t_max": 32,
          "t_min": 16,
-         "rh_max": 27,
-         "rh_min": 18,
+         "rh_max": 77,
+         "rh_min": 27,
          "wind_speed": 5,
          "wind_direction": 72,
          "cloud_cover": 0
@@ -53,79 +53,105 @@
    },
    "names_of_crops": [
       "summer paddy",
-      "green gram /black gram",
+      "green gram",
+      "black gram",
       "groundnut",
       "hybrid maize",
       "sunflower",
-      "vegetable",
       "tomato",
-      "cauliflower & cabbage",
+      "cauliflower",
+      "cabbage",
       "chilli",
-      "brinjal"
+      "brinjal",
+      "cattle",
+      "buffalo",
+      "poultry",
+      "goat"
    ],
-   "general_advisory": "Very light to light rain is in the forecast on coming Monday & Tuesday. So, farmers are advised to withhold irrigation and spraying of chemicals for the time being. Farmers are advised to install “T” shaped bird perches in and around crop field like Chickpea, Green gram, Groundnut, and vegetables for controlling insect population. Install pheromone trap @ 3-4/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. Rouging of viral infested plant should be done in vegetables. Infected plants should be uprooted and buried in the soil. After rouging, if infection is more than spraying of Imidacloprid @ 0.3 ml per litre of water is advised to control the vector. Install yellow sticky trap @ 8/acre to monitor sucking pest like White fly, Aphids, Jassids & Thirps in vegetative stage. To prevent sucking pests neem-based pesticide (1500 ppm) may be sprayed @ 3 ml/lit of water or to control chemically, apply Thiamethoxam 25 WG @ 0.2 g/lit or Imidacloprid 17.8% SL @ 0.25 ml/lit of water. To control black spot disease in Rose spray Copper Oxy-chloride 50% WP @ 3g/ltr of water. To control inflorescence rotting in Merigold spray Mancozeb 75% WP @ 2g or Carbendazim 50% WP @ 1g by mixing with one liter of water. Vaccinate animals against FMD, BQ, HS, PPR & Goat Pox.",
+   "general_advisory": "Very light to light rain is forecasted on coming Monday & Tuesday. Farmers are advised to withhold irrigation and spraying of chemicals for the time being. Install pheromone traps in crop fields for insect control. Vaccinate animals against specific diseases.",
    "crops_data": {
       "summer paddy": {
          "advisory": [
-            "Weed Management: Apply granular herbicide Bensulfuron-methyl + Pretilachlor @ 4 kg/acre at 5-8 days after transplanting by mixing with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 WP @ 5 g/10 ltrs of water at 3-5 days after transplanting or spray Bispyribac sodium @ 8 ml by mixing with 10 liters of water at 10-15 DAT.",
-            "Nutrient Management: In direct seeded rice apply urea @ 24 kg/acre as fist top dressing at 20-25 DAS. Prepare the main field for timely transplanting. Apply DAP 44 kg + MOP 22 kg per acre as basal dose during final puddling.",
-            "Disease and Insect Management: If infestation of blast disease is noticed in direct seeded rice, spray Carbendazim 50 WP @ 1g/ltr of water or Trifloxystrobin 25% + Tebuconazole 50% @ 4 g/10 ltrs of water or Edifenphos 50 EC @ 1 ml/ltr of water. In bacterial blight endemic areas, dip the seedling roots in 0.1% Plantomycin solution before transplanting for 30 minutes. For further information, contact the IMD, Bhubaneswar, Tel.#0674-2596116."
+            "Apply granular herbicide for weed management.",
+            "Apply urea as fist top dressing in direct seeded rice."
          ]
       },
-      "green gram /black gram": {
+      "green gram": {
          "advisory": [
-            "Weed Management: Apply Imazethapyr 10% SL @ 3ml/10 ltrs of water or Imazethapyr 35% + Imazamox 35% SL @ 1ml/5 ltrs of water at 15-20 DAS.",
-            "Water management: Now the crop is approaching to flowering stage. So flowering and grain filling stages are critical for green and black gram and water stress must be avoided during this period.",
-            "Disease and Insect Management: Yellow Mosaic Virus: If infection of YMV is noticed, then infected plants should be uprooted and buried in the soil. Installation of yellow sticky trap @ 8/acre at vegetative stage is recommended or spray Thiomethoxam 25 WG @ 1g/5 ltr or Imidacloprid 17.8% SL @ 1.5 ml/5 ltr of water to monitor the vector of YMV effectively."
+            "Apply Imazethapyr for weed management.",
+            "Avoid water stress during flowering and grain filling stages."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Apply Imazethapyr for weed management.",
+            "Monitor Yellow Mosaic Virus infection."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Disease & Insect Management: Aphid/Jassids/White fly: Install yellow sticky trap @ 8/acre to monitor at vegetative stage. Thrips: Install blue sticky trap @ 8/acre to monitor at vegetative stage. Tobacco Caterpillar: To monitor effectively install pheromone trap (Spodo lure) @ 8 no./ac at vegetative stage and replace the lure after 3 weeks."
+            "Install yellow sticky traps to monitor pests."
          ]
       },
       "hybrid maize": {
          "advisory": [
-            "Weed Management: Apply Tembotrione 34.4% SC @ 6ml or Topramezone 33.6% SC @ 1.5 g by mixing with 10 liters of water at 20-25 DAS for chemical control.",
-            "Nutrient Management: Apply 75 kg urea as first top dressing at 20-25 DAS and 45 kg Urea + 20 kg MOP as second top dressing at 40-45 DAS.",
-            "Insect Management: Aphid & Thrips: Spray Thiomethoxam 25 WG @ 1g/5 ltr or Imidacloprid 17.8% SL @ 1.5 ml/5 ltr of water. Stem Borer: For effective control of stem borer spray Fipronil 5% SC or Profenophos 50% EC @ 2ml/ltr of water. FAW: Apply Emamectin Benzoate 5% SG @ 2 ml/5 ltr of water to control FAW infestation."
+            "Apply Tembotrione or Topramezone for weed management.",
+            "Apply urea as top dressing at specific stages."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Now the crop is close to maturity stage. Harvest the head at 20% moisture of the seed.",
-            "The head should be re-dried in the sun on the threshing floor for 4-5 days followed by threshing by beating with stick or by sunflower thresher and dry the seeds after threshing to reduce the moisture content to 9% for safe storage."
-         ]
-      },
-      "vegetable": {
-         "advisory": [
-            "Tomato: Disease and Insect Management: Fruit & Shoot borer: Install pheromone trap @ 2nos/acre and for chemical control, spray Chlorantraniliprole 18.5% SC @ 3ml or Cyntraniliprole 10.26% OD @ 18 ml or Indoxacarb 14.5% SC @ 10 ml by mixing with 10 liters of water. Leaf spot/Downy mildew/Powdery mildew: Spray Azoxystrobin 4.8% + Chlorothalonil 40% SC @ 6g/ltr of water. Wilting & Leaf blight: Spray Carbendazim @ 1g/ltr + Plantomycin @ 1g/ltr at the root zone.",
-            "Cauliflower & Cabbage: Disease and Insect Management: Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water. Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water. Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water."
+            "Harvest sunflower heads at specific moisture content."
          ]
       },
       "tomato": {
          "advisory": [
-            "Fruit & Shoot borer: Install pheromone trap @ 2nos/acre and for chemical control, spray Chlorantraniliprole 18.5% SC @ 3ml or Cyntraniliprole 10.26% OD @ 18 ml or Indoxacarb 14.5% SC @ 10 ml by mixing with 10 liters of water.",
-            "Leaf spot/Downy mildew/Powdery mildew: Spray Azoxystrobin 4.8% + Chlorothalonil 40% SC @ 6g/ltr of water.",
-            "Wilting & Leaf blight: Spray Carbendazim @ 1g/ltr + Plantomycin @ 1g/ltr at the root zone."
+            "Install pheromone traps for borer control.",
+            "Spray pesticides for disease management."
          ]
       },
-      "cauliflower & cabbage": {
+      "cauliflower": {
          "advisory": [
-            "Dimond back moth: Spray Fipronil 5% SC @ 2ml/ltr or Chlorpyriphos 20% EC @ 4ml/ltr of water.",
-            "Tobacco leaf eating caterpillar: Spray Cyantraniliprole 10.26% OD @ 6ml/5 ltr of water.",
-            "Cabbage Aphid: Spray Thiamethoxam 25% WG @ 2g/5ltr of water."
+            "Spray pesticides for insect and disease control."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Spray pesticides for caterpillar and aphid control."
          ]
       },
       "chilli": {
          "advisory": [
-            "Thrips: To manage thrips infestation install Blue sticky trap @ 8 nos./acre. For chemical control spray Emamectin Benzoate 5% SG @ 2 g or Fipronil 5% SC @ 10 ml or Imidacloprid 17.8% SL 1.5 ml by mixing with 5 ltrs of water.",
-            "Anthracnose: To control anthracnose disease spray Azoxystrobin 8.3% + Mancozeb 66.7% WG @ 3 g/lit or Tebuconazole 50% + Trifloxystrobin 25 % WG @ 0.5 g/lit of water."
+            "Install traps for thrips monitoring.",
+            "Spray pesticides for disease control."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Insect Management: Fruit and Shoot borer: Install pheromone trap/Wata trap @ 8 nos. per acre area at vegetative stage and replace lure after 3 weeks. To control chemically, spray Spinosad 45% SC @ 5.5 ml by mixing with 15 liters of water or Thiodicarb 75 % WP @ 2ml/ltr of water. White fly: Install yellow sticky trap @ 8-10/acre or spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 3ml/ltr of water at initial stage of infestation."
+            "Install pheromone traps for borer control.",
+            "Install yellow sticky traps for white fly control."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Provide sufficient green grass for cattle."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Provide concentrate mix for lactating animals."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide heat arrangements for chicks during night.",
+            "Ensure clean and damp-free poultry house."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Protect from chill wind.",
+            "Provide proper feed for growth."
          ]
       }
    },

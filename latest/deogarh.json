@@ -1,151 +1,147 @@
 {
    "weather_details": {
-      "10/02/2024": {
+      "21/02/2024": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 18,
-         "rh_max": 56,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 46,
          "rh_min": 18,
-         "wind_speed": 5,
-         "wind_direction": 90,
+         "wind_speed": 7,
+         "wind_direction": 288,
          "cloud_cover": 0
       },
-      "11/02/2024": {
+      "22/02/2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 19,
-         "rh_max": 45,
-         "rh_min": 20,
-         "wind_speed": 5,
-         "wind_direction": 108,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 50,
+         "rh_min": 14,
+         "wind_speed": 9,
+         "wind_direction": 234,
          "cloud_cover": 2
       },
-      "12/02/2024": {
-         "rainfall": 4,
-         "t_max": 28,
-         "t_min": 20,
-         "rh_max": 48,
-         "rh_min": 22,
-         "wind_speed": 6,
-         "wind_direction": 116,
+      "23/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 55,
+         "rh_min": 19,
+         "wind_speed": 11,
+         "wind_direction": 236,
          "cloud_cover": 4
       },
-      "13/02/2024": {
+      "24/02/2024": {
          "rainfall": 0,
-         "t_max": 27,
-         "t_min": 20,
-         "rh_max": 55,
-         "rh_min": 27,
-         "wind_speed": 7,
-         "wind_direction": 144,
-         "cloud_cover": 8
-      },
-      "14/02/2024": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 19,
-         "rh_max": 61,
-         "rh_min": 25,
-         "wind_speed": 7,
-         "wind_direction": 109,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 47,
+         "rh_min": 17,
+         "wind_speed": 11,
+         "wind_direction": 288,
          "cloud_cover": 5
+      },
+      "25/02/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 21,
+         "wind_speed": 8,
+         "wind_direction": 45,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "paddy",
-      "pulses",
-      "oilseeds",
-      "vegetables",
       "mung",
       "blackgram",
       "ragi",
+      "paddy",
+      "sri paddy",
+      "maize",
+      "summer groundnut",
       "wheat",
-      "groundnut",
-      "pea",
-      "chilli",
       "sunflower",
       "potato",
-      "toria"
+      "brinjal",
+      "chilli"
    ],
    "general_advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
    "crops_data": {
-      "paddy": {
-         "advisory": [
-            "Apply light irrigation in the nursery.",
-            "Keep standing water in the paddy nursery 15 days onwards of sowing.",
-            "Apply 4 kg urea at 15 days for proper vigor of seedlings.",
-            "Use light and medium varieties of seeds."
-         ]
-      },
-      "pulses": {
-         "advisory": [
-            "National high yielding pulses varieties: IPM-02-14, IPM-02-3, PDM-11, PDM-54, Durga, Samrat, K-851, Sarla, PU-31, PU-30, PU-35, PU-19.",
-            "Collect and sow 25 kg of seeds per hectare."
-         ]
-      },
-      "oilseeds": {
-         "advisory": [
-            "Apply gypsum at sowing if not applied."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Harvest at maturity."
-         ]
-      },
       "mung": {
          "advisory": [
-            "Apply 200 grams of mustard oil or til oil per quintal to reduce moth infestation."
+            "Collect and sow in the land 25 kg of seeds per hectare.",
+            "Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds seven days before sowing.",
+            "In the previous night of sowing, treat the seeds with rizobium culture @ 20g per kg of seeds.",
+            "Sow it in the spacing of 25cm X 10 cm spacing."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Apply 200 grams of mustard oil or til oil per quintal to reduce moth infestation."
+            "Collect and sow in the land 25 kg of seeds per hectare.",
+            "Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds seven days before sowing.",
+            "In the previous night of sowing, treat the seeds with rizobium culture @ 20g per kg of seeds.",
+            "Sow it in the spacing of 25cm X 10 cm spacing."
          ]
       },
       "ragi": {
          "advisory": [
-            "Transplant seedlings in specified spacing.",
-            "Apply NPK as per soil requirements."
+            "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing.",
+            "If not tested the soil, apply 24:12:12 kg NPK per acre.",
+            "Out of this apply 50% of N along with full dose of phosphorus and Potash as basal dose."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "At 3 weeks of paddy, top dress with  16 kg Nitrogen  per acre.",
+            "Water management: Paddy needs everyday 1 cm water for its optimum growth.",
+            "Provide irrigation at critical stage like Jointing, Panicle growth, Anthesis  and Milking stage."
+         ]
+      },
+      "sri paddy": {
+         "advisory": [
+            "Transplant the 10 -12 days old seedling on the main field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "When the maize crop is 2 -3 weeks old, go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre."
+         ]
+      },
+      "summer groundnut": {
+         "advisory": [
+            "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
          ]
       },
       "wheat": {
          "advisory": [
-            "Control black spot disease with carbendazim.",
-            "Pay attention to watering during flowering."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Apply gypsum at sowing."
-         ]
-      },
-      "pea": {
-         "advisory": [
-            "Harvest at ripen stage and store seeds properly."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Spray with abamectin or ethion if leaf spot appears."
+            "Irrigate the crop at crown root initiation and jointing stage.",
+            "In late sowing go for intercultivation.",
+            "In the early sown crop apply 8 kg Nitrogen per acre."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Apply nitrogen at specified time and go for thinning operation."
+            "At 25 to 30 days after sowing the sunflower, apply 6 -8 kg nitrogen per acre.",
+            "Go for thinning operation.",
+            "Also complete sowing of summer sunflower in irrigated areas."
          ]
       },
       "potato": {
          "advisory": [
-            "Complete sowing without delay.",
-            "Use good varieties with specified seed rate and eye count."
+            "In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre.",
+            "Due to weather manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water and repeat it after 12 days of first application."
          ]
       },
-      "toria": {
+      "brinjal": {
          "advisory": [
-            "Apply sulphur powder for powdery mildew."
+            "The Brinjal Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "If leaf spot appears in pepper crop, spray leaves with 2 ml of abamectin 9.1 % or 9.1 to 2 ml of ethion per liter of water."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

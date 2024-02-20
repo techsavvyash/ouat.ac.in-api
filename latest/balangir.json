@@ -1,51 +1,58 @@
 {
    "weather_details": {
-      "2022-10-01": {
+      "2022-12-01": {
          "rainfall": 5,
-         "t_max": 28,
-         "t_min": 18,
+         "t_max": 25,
+         "t_min": 15,
          "rh_max": 80,
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 4
+         "cloud_cover": 6
       },
-      "2022-10-02": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 20,
+      "2022-12-02": {
+         "rainfall": 3,
+         "t_max": 28,
+         "t_min": 18,
          "rh_max": 75,
          "rh_min": 55,
          "wind_speed": 12,
          "wind_direction": 200,
-         "cloud_cover": 3
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "rice",
-      "maize",
-      "wheat"
+      "wheat",
+      "corn",
+      "poultry"
    ],
-   "general_advisory": "Sow wheat seeds early to ensure a good yield. Watch out for potential rainfall in the coming days.",
+   "general_advisory": "Planting of crops should be done after checking the weather forecast. Keep poultry indoors during heavy rainfall.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Plant rice seeds at a depth of 2 inches.",
-            "Ensure proper irrigation throughout the growing season."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Apply nitrogen-rich fertilizer during the vegetative stage.",
-            "Monitor for pests and diseases regularly."
+            "Sow seeds after the last frost date.",
+            "Provide sufficient water for proper growth."
          ]
       },
       "wheat": {
          "advisory": [
-            "Sow wheat seeds at recommended spacing for optimal growth.",
-            "Protect wheat plants from strong winds with suitable support."
+            "Plant wheat in well-drained soil.",
+            "Protect from frost during early stages of growth."
+         ]
+      },
+      "corn": {
+         "advisory": [
+            "Maintain soil moisture for good kernel development.",
+            "Protect from strong winds during pollination."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry houses.",
+            "Keep feed and water sources clean."
          ]
       }
    },
-   "date": "06-02-2024"
+   "date": "20-02-2024"
 }

@@ -1,77 +1,77 @@
 {
    "weather_details": {
-      "2024-02-10": {
-         "rainfall": 2,
-         "t_max": 28,
-         "t_min": 22,
-         "rh_max": 87,
-         "rh_min": 47,
-         "wind_speed": 7,
-         "wind_direction": 115,
-         "cloud_cover": 7
-      },
-      "2024-02-11": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 23,
-         "rh_max": 75,
-         "rh_min": 37,
-         "wind_speed": 6,
-         "wind_direction": 135,
-         "cloud_cover": 1
-      },
-      "2024-02-12": {
-         "rainfall": 1,
-         "t_max": 27,
-         "t_min": 24,
-         "rh_max": 61,
-         "rh_min": 30,
-         "wind_speed": 7,
-         "wind_direction": 248,
-         "cloud_cover": 2
-      },
-      "2024-02-13": {
-         "rainfall": 0,
-         "t_max": 27,
-         "t_min": 24,
-         "rh_max": 68,
-         "rh_min": 25,
-         "wind_speed": 7,
-         "wind_direction": 161,
-         "cloud_cover": 5
-      },
       "2024-02-14": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 23,
+         "t_max": 30,
+         "t_min": 19,
          "rh_max": 76,
-         "rh_min": 26,
-         "wind_speed": 8,
+         "rh_min": 33,
+         "wind_speed": 9,
+         "wind_direction": 180,
+         "cloud_cover": 2
+      },
+      "2024-02-15": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 64,
+         "rh_min": 28,
+         "wind_speed": 9,
+         "wind_direction": 193,
+         "cloud_cover": 4
+      },
+      "2024-02-16": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 72,
+         "rh_min": 25,
+         "wind_speed": 7,
          "wind_direction": 167,
-         "cloud_cover": 6
+         "cloud_cover": 7
+      },
+      "2024-02-17": {
+         "rainfall": 15,
+         "t_max": 28,
+         "t_min": 21,
+         "rh_max": 72,
+         "rh_min": 30,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 8
+      },
+      "2024-02-18": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 19,
+         "rh_max": 67,
+         "rh_min": 28,
+         "wind_speed": 7,
+         "wind_direction": 161,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "tomato",
+      "green gram",
       "brinjal",
-      "cowpea/lobia",
+      "tomato",
       "common carp"
    ],
-   "general_advisory": "Light Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
+   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops. Rain is expected in the coming five days.",
    "crops_data": {
-      "tomato": {
+      "green gram": {
          "advisory": [
-            "If fruit borer infestation is observed, spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre."
+            "To control sucking pest infestation in green gram spray Thiamethoxam - 05 gram in 15 lt of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "During the primary stage of the shoot and fruit borer infestation in Brinjal, spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+            "Rain is expected in the coming five days hence farmers can postpone irrigation in standing crop field. Provide drainage to remove excess rainwater from field."
          ]
       },
-      "cowpea/lobia": {
+      "tomato": {
          "advisory": [
-            "Downy mildew in beans has been observed in some places, for chemical management spray 30 gm of Metalaxyl 8% + Mancozeb 64% with Thiamethoxam 3 gm in 14 lt of water."
+            "If fruit borer infestation is observed, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carried out spray operation in clear weather conditions."
          ]
       },
       "common carp": {
@@ -80,5 +80,5 @@
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "13-02-2024"
 }

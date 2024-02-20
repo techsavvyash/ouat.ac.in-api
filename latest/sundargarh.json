@@ -1,146 +1,145 @@
 {
    "weather_details": {
-      "10/02/2024": {
+      "21/02/2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 9,
-         "rh_max": 34,
-         "rh_min": 12,
-         "wind_speed": 6,
-         "wind_direction": 70,
+         "t_max": 35,
+         "t_min": 18,
+         "rh_max": 43,
+         "rh_min": 18,
+         "wind_speed": 8,
+         "wind_direction": 248,
          "cloud_cover": 0
       },
-      "11/02/2024": {
+      "22/02/2024": {
          "rainfall": 0,
-         "t_max": 31,
-         "t_min": 11,
-         "rh_max": 32,
-         "rh_min": 16,
-         "wind_speed": 6,
-         "wind_direction": 75,
-         "cloud_cover": 0
+         "t_max": 35,
+         "t_min": 18,
+         "rh_max": 44,
+         "rh_min": 15,
+         "wind_speed": 10,
+         "wind_direction": 238,
+         "cloud_cover": 2
       },
-      "12/02/2024": {
-         "rainfall": 12,
-         "t_max": 30,
-         "t_min": 12,
-         "rh_max": 41,
-         "rh_min": 20,
-         "wind_speed": 6,
-         "wind_direction": 118,
-         "cloud_cover": 7
-      },
-      "13/02/2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 13,
-         "rh_max": 61,
-         "rh_min": 26,
-         "wind_speed": 7,
-         "wind_direction": 150,
+      "23/02/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 51,
+         "rh_min": 17,
+         "wind_speed": 13,
+         "wind_direction": 245,
          "cloud_cover": 6
       },
-      "14/02/2024": {
+      "24/02/2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 13,
-         "rh_max": 68,
-         "rh_min": 29,
-         "wind_speed": 9,
+         "t_min": 17,
+         "rh_max": 50,
+         "rh_min": 20,
+         "wind_speed": 13,
+         "wind_direction": 27,
+         "cloud_cover": 5
+      },
+      "25/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 16,
+         "rh_max": 44,
+         "rh_min": 18,
+         "wind_speed": 12,
          "wind_direction": 64,
-         "cloud_cover": 0
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
+      "paddy",
       "sunner pulses",
-      "sri paddy",
-      "ragi",
       "maize",
       "summer groundnut",
       "wheat",
+      "ragi",
       "sunflower",
       "potato",
-      "vegetables",
+      "brinjal foot & shoot borer",
       "animal",
       "pisciculture",
       "poultry"
    ],
    "general_advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
    "crops_data": {
+      "paddy": {
+         "advisory": [
+            "At 3 weeks of paddy, top dress with 16 kg Nitrogen per acre.",
+            "Paddy needs everyday 1 cm water for its optimum growth.",
+            "SRI Paddy: Transplant the 10-12 days old seedling on the main field."
+         ]
+      },
       "sunner pulses": {
          "advisory": [
-            "Collect and sow Mung varieties IPM-02-14 (65 days), IPM-02-3 (65 days), PDM-11 (65 days), PDM-54 (60 to 65 days), Durga (60 to 65 days), Samrat (65 to 70 days), K-851 (60 to 65 days) and Blackgram varieties - Sarla (65 to 70 days), PU-31 (70 days), PU-30 (65 to 70 days), PU-35 (65 to 70 days), PU-19 (65 to 70 days) etc.",
-            "Treat seeds with Carbendazim @ 2 g/kg of seeds before sowing",
-            "Treat seeds with rizobium culture @ 20g per kg of seeds prior to sowing"
-         ]
-      },
-      "sri paddy": {
-         "advisory": [
-            "Transplant 10-12 days old seedlings on the main field",
-            "Apply 200 grams of mustard oil or til oil per quintal to reduce moth infestation"
-         ]
-      },
-      "ragi": {
-         "advisory": [
-            "Transplant seedlings in 20cm X 10 cm spacing when 3 weeks old",
-            "Apply 24:12:12 kg NPK per acre if soil is not tested",
-            "Apply 8 kg Nitrogen per acre when maize crop is 2-3 weeks old"
+            "National pulses with high yield in dry season are: - Mung varieties IPM-02-14, IPM-02-3, PDM-11, PDM-54, Durga, Samrat, K-851, and Blackgram varieties. Collect and sow 25 kg of seeds per hectare.",
+            "Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds."
          ]
       },
       "maize": {
          "advisory": [
-            "Go for intercultivation and earthing up work when maize crop is 2-3 weeks old",
-            "Apply 8 kg Nitrogen per acre"
+            "When the maize crop is 2-3 weeks old, go for intercultivation and apply 8 kg Nitrogen per acre."
          ]
       },
       "summer groundnut": {
          "advisory": [
-            "Apply gypsum at sowing @ 50kg/acre or 100 kg broadcast per acre"
+            "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
          ]
       },
       "wheat": {
          "advisory": [
-            "Irrigate at crown root initiation and jointing stage",
-            "Apply 8 kg Nitrogen per acre in early sown crop"
+            "Irrigate the crop at crown root initiation and jointing stage.",
+            "In the early-sown crop, apply 8 kg Nitrogen per acre.",
+            "In case of Stem borer, apply Triazophos @ 2 ml/liter of water."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "When the seedlings are 3 weeks old, transplant at spacing of 20 X 10 cm.",
+            "If the soil is not tested, apply 24:16:12 kg NPK/acre."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Apply 6-8 kg nitrogen per acre at 25-30 days after sowing",
-            "Thinning operation at 25-30 days after sowing"
+            "At 25 to 30 days after sowing, apply 6-8 kg nitrogen per acre.",
+            "Complete sowing of summer sunflower in irrigated areas.",
+            "Choose good varieties like MSFH 17, KBSH1, Jwalamukhi @ 2 kg seed per acre."
          ]
       },
       "potato": {
          "advisory": [
-            "Go for intercultivation and earthing up in delayed sown crop",
-            "Apply remaining nitrogen fertilizer of 30 kg/acre",
-            "Manage Leaf blight with Mancozeb application"
+            "In the delayed sown crop, apply the remaining fertilizer of Nitrogen 30 kg/acre.",
+            "Manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water."
          ]
       },
-      "vegetables": {
+      "brinjal foot & shoot borer": {
          "advisory": [
-            "Manage Brinjal Foot & Shoot borer with Neem based pesticides"
+            "Manage the Brinjal Foot & Shoot borer by application of Neem based pesticides 330 ppm @ 1 liter per acre."
          ]
       },
       "animal": {
          "advisory": [
-            "Ventilate the shed well",
-            "Use sand on the shed floor for cleanliness",
-            "Feed high-energy fiber foods in winter"
+            "The shed should be well ventilated.",
+            "Put sand on the floor of the shed to absorb excreta.",
+            "In winter, feed cattle with high-energy fiber foods."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Balance coldness of water with lime application",
-            "Reduce food quantity due to low temperature for fish digestion ease"
+            "Balance the coldness of water by applying lime@ 100kg per 1 meter depth of water.",
+            "Give lower quantity of food to ease the digestion capacity of fish."
          ]
       },
       "poultry": {
          "advisory": [
-            "Administer furasil in water for 3 days",
-            "Administer Lasota vaccine within 7 days for chicken rabies control"
+            "Add half a gram of furasil to 1 liter of water for 3 days.",
+            "To control chicken rabies, administer Lasota vaccine within the first 7 days."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }

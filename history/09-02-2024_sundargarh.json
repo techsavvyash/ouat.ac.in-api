@@ -52,95 +52,93 @@
       }
    },
    "names_of_crops": [
-      "pulses",
-      "oilseeds",
-      "vegetables",
+      "sunner pulses",
       "sri paddy",
-      "mung",
-      "blackgram",
       "ragi",
       "maize",
       "summer groundnut",
       "wheat",
       "sunflower",
       "potato",
-      "brinjal",
-      "cow",
+      "vegetables",
+      "animal",
       "pisciculture",
       "poultry"
    ],
    "general_advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
    "crops_data": {
-      "pulses": {
+      "sunner pulses": {
          "advisory": [
-            "National pulses with high yield in dry season are: - Mung varieties IPM-02-14, IPM-02-3, PDM-11, PDM-54, Durga, Samrat, K-851. Sow at 25cm X 10cm spacing."
+            "Collect and sow Mung varieties IPM-02-14 (65 days), IPM-02-3 (65 days), PDM-11 (65 days), PDM-54 (60 to 65 days), Durga (60 to 65 days), Samrat (65 to 70 days), K-851 (60 to 65 days) and Blackgram varieties - Sarla (65 to 70 days), PU-31 (70 days), PU-30 (65 to 70 days), PU-35 (65 to 70 days), PU-19 (65 to 70 days) etc.",
+            "Treat seeds with Carbendazim @ 2 g/kg of seeds before sowing",
+            "Treat seeds with rizobium culture @ 20g per kg of seeds prior to sowing"
          ]
-      },
-      "oilseeds": {
-         "advisory": []
-      },
-      "vegetables": {
-         "advisory": []
       },
       "sri paddy": {
          "advisory": [
-            "Prepare paddy nursery and transplant seedling on the main field. Apply 200 grams of mustard oil or til oil per quintal to reduce moth infestation."
+            "Transplant 10-12 days old seedlings on the main field",
+            "Apply 200 grams of mustard oil or til oil per quintal to reduce moth infestation"
          ]
-      },
-      "mung": {
-         "advisory": []
-      },
-      "blackgram": {
-         "advisory": []
       },
       "ragi": {
          "advisory": [
-            "Transplant seedlings in 20cm X 10cm spacing. Apply 24:12:12 kg NPK per acre. Apply 50% N along with full dose of phosphorus and potash as basal dose."
+            "Transplant seedlings in 20cm X 10 cm spacing when 3 weeks old",
+            "Apply 24:12:12 kg NPK per acre if soil is not tested",
+            "Apply 8 kg Nitrogen per acre when maize crop is 2-3 weeks old"
          ]
       },
       "maize": {
          "advisory": [
-            "After 2-3 weeks, go for intercultivation and apply 8 kg Nitrogen per acre."
+            "Go for intercultivation and earthing up work when maize crop is 2-3 weeks old",
+            "Apply 8 kg Nitrogen per acre"
          ]
       },
       "summer groundnut": {
          "advisory": [
-            "If gypsum not applied at sowing, apply 50kg/acre in lines or 100 kg/acre broadcast."
+            "Apply gypsum at sowing @ 50kg/acre or 100 kg broadcast per acre"
          ]
       },
       "wheat": {
          "advisory": [
-            "Irrigate at crown root initiation and jointing stage. Apply 8 kg Nitrogen per acre in early sown crops."
+            "Irrigate at crown root initiation and jointing stage",
+            "Apply 8 kg Nitrogen per acre in early sown crop"
          ]
       },
       "sunflower": {
          "advisory": [
-            "Apply 6-8 kg nitrogen per acre after 25-30 days of sowing. Thinning operation is needed."
+            "Apply 6-8 kg nitrogen per acre at 25-30 days after sowing",
+            "Thinning operation at 25-30 days after sowing"
          ]
       },
       "potato": {
          "advisory": [
-            "In delayed sown crop, go for intercultivation and apply remaining nitrogen. Manage Leaf blight with Mancozeb."
+            "Go for intercultivation and earthing up in delayed sown crop",
+            "Apply remaining nitrogen fertilizer of 30 kg/acre",
+            "Manage Leaf blight with Mancozeb application"
          ]
       },
-      "brinjal": {
+      "vegetables": {
          "advisory": [
-            "Manage Foot & Shoot borer with Neem based pesticides."
+            "Manage Brinjal Foot & Shoot borer with Neem based pesticides"
          ]
       },
-      "cow": {
+      "animal": {
          "advisory": [
-            "Keep shed well ventilated and clean. Sand on the floor helps absorb excreta. In winter, feed high-energy fiber foods."
+            "Ventilate the shed well",
+            "Use sand on the shed floor for cleanliness",
+            "Feed high-energy fiber foods in winter"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Balance cold water with lime @ 100kg per 1m depth. Reduce food quantity due to low temperature."
+            "Balance coldness of water with lime application",
+            "Reduce food quantity due to low temperature for fish digestion ease"
          ]
       },
       "poultry": {
          "advisory": [
-            "Add furasil to water for 3 days. Administer Lasota vaccine within 7 days for rabies."
+            "Administer furasil in water for 3 days",
+            "Administer Lasota vaccine within 7 days for chicken rabies control"
          ]
       }
    },

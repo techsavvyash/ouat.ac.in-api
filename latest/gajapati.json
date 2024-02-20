@@ -1,91 +1,108 @@
 {
    "weather_details": {
-      "2024-02-10": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 95,
-         "rh_min": 38,
-         "wind_speed": 5,
-         "wind_direction": 146,
-         "cloud_cover": 6
-      },
-      "2024-02-11": {
+      "2024-02-21": {
          "rainfall": 0,
-         "t_max": 34,
+         "t_max": 36,
          "t_min": 19,
          "rh_max": 83,
-         "rh_min": 28,
-         "wind_speed": 4,
-         "wind_direction": 161,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "2024-02-22": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 19,
+         "wind_speed": 9,
+         "wind_direction": 207,
          "cloud_cover": 1
       },
-      "2024-02-12": {
+      "2024-02-23": {
          "rainfall": 0,
-         "t_max": 33,
+         "t_max": 35,
          "t_min": 19,
-         "rh_max": 63,
-         "rh_min": 24,
+         "rh_max": 89,
+         "rh_min": 27,
+         "wind_speed": 10,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "2024-02-24": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 82,
+         "rh_min": 25,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "2024-02-25": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 20,
+         "rh_max": 88,
+         "rh_min": 21,
          "wind_speed": 5,
          "wind_direction": 153,
-         "cloud_cover": 1
-      },
-      "2024-02-13": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 59,
-         "rh_min": 18,
-         "wind_speed": 6,
-         "wind_direction": 158,
-         "cloud_cover": 4
-      },
-      "2024-02-14": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 17,
-         "rh_max": 66,
-         "rh_min": 17,
-         "wind_speed": 5,
-         "wind_direction": 161,
-         "cloud_cover": 5
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "rice",
       "groundnut",
+      "brinjal",
+      "tomato",
       "onion",
-      "mango",
-      "cow"
+      "cow",
+      "common carp",
+      "chick"
    ],
-   "general_advisory": "The mean maximum daily temperature was 34.1°C and the mean minimum daily temperature was 17.3°C of the Gajapati district during the last week. The district received 0.7 mm of rainfall during the last week. Seedling treatment with 0.2% Chloropyriphos for 10-12 hours to control stemborer in the main field if granular insecticides have not been applied previously in the nursery. Keep bunding water in the main field of rice under late transplanting. Plan for irrigation to summer paddy and other crops observing soil moisture. Carry on intercultural operation, fertilizer, and weedicide application. Continue harvesting matured crops and keep the products in a safe place to protect them from rain. Spray insecticides or pesticides in crops as per requirement. Apply the insecticides in the afternoon hours so that the movement of Honeybees will not be disturbed. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying.",
+   "general_advisory": "The mean maximum daily temperature was 34.7°C and the mean minimum daily temperature was 17.4°C of the Gajapati district during the last week...",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers those who are going for transplanting should apply 35- kg DAP, 30- kg MOP and 8- kg Urea per acre during last puddling. For sandy soil apply 35 kg DAP, 15 kg MOP and 8 kg Urea per acre during last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years.",
-            "Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+            "Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting..."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To control Tikka disease spray Chlorothalonil 75% WP @ 400-gram/ acre or Mancozeb 75% WP @ 600 gram/acre or Hexaconazole 5% E.C @ 300ml/acre."
+            "To manage aphids, and thrips spray Neem Based Pesticide 300 PPM @ 1-litre /acre..."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots..."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "The transplanted tomato crop is at fruit development to maturity (nine to twelve week) stage..."
          ]
       },
       "onion": {
          "advisory": [
-            "To manage purple blotch and Stemphylium leaf blight disease in onion spray Mancozeb 75% WP @ 600gram/acre or Difenoconazole 25% E.C @ 200ml/acre or Tebuconazole 25.9% E.C @ 100ml/acre by mixing in 200 litre of water at 15 days interval. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Due to cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant. To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G @ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. Application of smoke below the plants can also help in reducing the pest population."
+            "The transplanted onion is at vegetative to bulb formation (six to nine week) stage..."
          ]
       },
       "cow": {
          "advisory": [
-            "The space left for ventilation must be closed in night, as the night temperature is expected to fall in coming days. Provide sufficient clean drinking water to animals. Don't feed wet or water soaked straw to cattle. Before feeding dry it well under Sun. Animal’s shed and its floor should not remain wet and cool for longer periods of time. This may expose the animals, especially younger ones, to various ailments like pneumonia, fever, coccidiosis, diarrhea and even death in severe cases. Good ventilation must be ensured during winter. Vaccinate calves above 3 months against Food and Mouth disease."
+            "The space left for ventilation must be closed in night, as the night temperature is expected to fall in coming days..."
+         ]
+      },
+      "common carp": {
+         "advisory": [
+            "In the prevailing winter, there is a possibility of “EUS” (Epizootic vicerative syndrome)..."
+         ]
+      },
+      "chick": {
+         "advisory": [
+            "To protect the poultry from cold, cover the farm with polythene or gunny bag..."
          ]
       }
    },
-   "date": "09-02-2024"
+   "date": "20-02-2024"
 }
