@@ -39,23 +39,33 @@
          "wind_speed": 6,
          "wind_direction": 150,
          "cloud_cover": 1
+      },
+      "2024-02-11": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 15,
+         "rh_max": 66,
+         "rh_min": 21,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
-      "pigeon pea",
+      "pigeon pea (red gram/arhar)",
       "onion"
    ],
-   "general_advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5% urea. Cover the recently planted vegetable crops with paper pockets during night time to protect from low temperature.",
+   "general_advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5% urea. Cover the recently planted vegetable crops with paper pockets during the night time to protect from low temperature.",
    "crops_data": {
       "rice": {
          "advisory": [
             "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5% urea."
          ]
       },
-      "pigeon pea": {
+      "pigeon pea (red gram/arhar)": {
          "advisory": [
-            "To avoid storage pests’ infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
+            "To avoid storage pests' infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
          ]
       },
       "onion": {

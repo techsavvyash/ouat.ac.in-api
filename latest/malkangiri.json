@@ -1,5 +1,45 @@
 {
    "weather_details": {
+      "16-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "17-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "18-02-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "19-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
       "21-02-2024": {
          "rainfall": 0,
          "t_max": 36,
@@ -61,51 +101,49 @@
       "chilli",
       "mango"
    ],
-   "general_advisory": "Farmers are advised for not to burn the residue of kharif crops in the fields because it not only pollute the environment but also causes severe health problems.",
+   "general_advisory": "Farmers are advised not to burn the residue of kharif crops in the fields. Rice crops should be monitored for stem borer. Weeding and disease control measures for groundnut, mustard/toria, green gram, brinjal, tomato, chilli, and mango are recommended.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "In transplanted rice, to control weeds apply Bensulfuron methyl 0.6% + Pretilachlor 6% GR @ 4 kg/acre with 4 kg sand at 5 -8 days after transplanting.",
-            "Due to the rise in temperature, the attack of stem borer has aggravated in rice. Monitor for it, if observe apply granular insecticide Chlorantraniliprole 0.4% GR @ 4kg/acre or Cartap hydrochloride 4G @ 10 kg/acre mixing with sand."
+            "In transplanted rice, apply specific herbicide for weed control.",
+            "Monitor for stem borer and apply granular insecticide if necessary."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Go for weeding after 3 -4 weeks for groundnut, apply well powdered gypsum @ 100 kg/acre close to the base of the plant and incorporate in the soil. After application irrigate the crop.",
-            "To control tikka disease of groundnut spray Chlorothalonil 75% WP @ 2 g/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water.",
-            "Chances of tobacco caterpillar infestation in groundnut, to control it spray Thiamethoxam 12.6% + Lambda -Cyhalothrin 9.5% ZC @ 0.3 ml/litre of water or Profenophos 50% EC @ 2 ml/litre of water."
+            "Weeding after 3-4 weeks with gypsum application.",
+            "Disease control measures with specific fungicides."
          ]
       },
       "mustard/toria": {
          "advisory": [
-            "Chances of aphid infestation, if observed spray Imidacloprid 17.8 % SL @ 0.3 ml/litre of water or Thiomethaxome 25%WG @ 0.2 g/litre of water."
+            "Be aware of aphid infestation and apply insecticides when needed."
          ]
       },
       "green gram": {
          "advisory": [
-            "Chances of YMV infestation in the present crop stage, to control the vector of YMV spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water or Thiamethoxam 25% WG @ 0.2 g/litre of water."
+            "Control YMV vector infestation with specific insecticides."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Shoot and fruit borer may be reported in brinjal field, to control it spray Azadirachtin 1% EC @ 3 ml/litre of water or Emamectin benzoate 5% SG @ 0.4 g/litre of water."
+            "Use appropriate insecticides to control shoot and fruit borer."
          ]
       },
       "tomato": {
          "advisory": [
-            "Chances of late blight infestation in a tomato field, to control it, spray Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/litre of water or Captan 50% WP @ 2.5 g/15 litre of water.",
-            "To control leaf miner in Tomato, spray Thiomethaxome 25%WG @ 0.4 g/litre of water."
+            "Monitor for late blight and use specific fungicides for control.",
+            "Control leaf miner with suitable insecticides."
          ]
       },
       "chilli": {
          "advisory": [
-            "To control thrips in chilli spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC @ 0.3 ml/litre of water or Imidacloprid 17.8% SL @ 0.5 ml/litre of water."
+            "Thrips control with specific insecticides."
          ]
       },
       "mango": {
          "advisory": [
-            "Chances of mango hopper infestation in the present situation, to control it, spray Imidacloprid 17.8% SL @ 3 ml or Thiamethoxam 25% WG @ 2 g in 10 litres of water.",
-            "Spray Alpha Napthyl Acetic Acid 4.5% SL @ 4.5 ml in 10 litres of water when tender fruits are in pea size."
+            "Prevent mango hopper infestation with appropriate insecticide."
          ]
       }
    },

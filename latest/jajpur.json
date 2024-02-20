@@ -60,49 +60,55 @@
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Drain out excess water from paddy field. Regular surveillance work should be done in all crops to know the incidence of various disease pests and initiate control strategies.",
+   "general_advisory": "Drain out excess water from paddy fields. Regular surveillance work for disease pests. Take measures to control blast and thrips. Complete transplanting of summer rice with recommended fertilizers. Collect disease-free setts for sugarcane. Treat sett rot with recommended chemicals. Remove infected plants in ratoon crop. Control pests in blackgram. Manage disease in rapeseed & mustard. Use pesticides in vegetables for pest control. Treat white spot disease in fish. Provide necessary minerals and supplements to animals.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Due to increased difference between daily maximum and minimum temperature, blast infestation may occur. In case of Leaf blast infestation, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 80 g/acre in 200 litres of water. Repeat the spray at 7-10 days interval.",
-            "Utilize available water for puddling the land and complete transplanting of summer rice with basal application of 35 kg DAP, 20 kg MOP & 10 kg ZnSO4 per acre."
+            "Drain out excess water from paddy fields.",
+            "Regular surveillance work for disease pests.",
+            "Control blast and thrips with recommended pesticides.",
+            "Transplant summer rice with recommended fertilizers."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect setts from cane of a 6-8-month-old plant crop free from diseases and insect pests for better sprouting.",
-            "Sett Rot management: Basal drenching with Carbendazim 12% + Mancozeb 63% @ 400 gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400 grams/acre.",
-            "Remove disease & pest infected plants in ratoon crop. Dispose of grassy shoot infected plants. Follow recommended fertilizer application & spraying of Fipronil 5 SC @ 2ml/l of water.",
-            "After harvesting sugarcane, protect the cane hips from termite attack. Spray Bifenthrin @ 30 ml in 15 liters of water."
+            "Collect disease-free setts from healthy plants.",
+            "Treat sett rot with recommended chemicals.",
+            "Remove infected plants in ratoon crop.",
+            "Protect cane hips from termite attack after harvest."
          ]
       },
       "blackgram": {
          "advisory": [
-            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot, spray (Tebuconazole + Sulphur) @ 500g/acre.",
-            "To control aphids, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% WG @ 40 grams/acre or Acetamiprid 17.8% SL @ 60 ml/acre."
+            "Spray pesticides to reduce Powdery mildew, Anthracnose & Stem rot incidence.",
+            "Control aphids with recommended pesticides."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Mustard/Toria crop is at flowering to pod filling stage. Control aphids by spraying Dimethoate 30% EC @ 2 ml/lit.",
-            "To control Mustard Sawfly, Leaf Webber, and Tobacco Caterpillar infestation, spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600 ml/acre."
+            "Manage disease in rapeseed & mustard crops.",
+            "Use pesticides to control pests."
          ]
       },
       "vegetables": {
          "advisory": [
-            "In Cucurbits, spray Acephate @ 250g/acre along with neem oil to minimize damage caused by Red Pumpkin Beetle.",
-            "To manage Epilachna Beetle in cucumber, spray neem-based pesticide (Neem Oil 1500 PPM) Azadiractin @ 600 ml/acre of water.",
-            "For Tomato & Brinjal, start sowing tomato seeds for summer cultivation. Apply Neem or Karanjaa cake to prevent wilting. Provide bamboo or wooden stake for better fruit set and growth. To control sucking insect pests, spray Thiamethoxam or Difenthurian."
+            "Use pesticides to control Red Pumpkin Bettle in cucurbits.",
+            "Manage pests in cucumber with neem-based pesticides.",
+            "Apply fungicide to prevent wilting in tomato & brinjal.",
+            "Provide support for tomato plants' growth.",
+            "Use pesticides to control insect pests in vegetables."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Symptoms of white spot disease in fish include small white rash and excessive mucus secretion. Treat affected fish by bathing in water mixed with salt for 5 minutes. Repeat for 7-10 days."
+            "Treat white spot disease in fish by bathing in saltwater.",
+            "Repeat treatment for 7-10 days."
          ]
       },
       "animal science": {
          "advisory": [
-            "Animals should be given mineral mixture along with salt regularly. Provide wheat grains, jaggery, etc. @ 10%-20% in daily ration during winter season to meet energy requirements."
+            "Provide mineral mixture and supplements to animals regularly.",
+            "Include wheat grains and jaggery in the daily ration during winter."
          ]
       }
    },

@@ -1,56 +1,49 @@
 {
    "weather_details": {
-      "2022-12-01": {
+      "2022-01-01": {
          "rainfall": 5,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 80,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 85,
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 6
+         "cloud_cover": 5
       },
-      "2022-12-02": {
-         "rainfall": 3,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 75,
+      "2022-01-02": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 80,
          "rh_min": 55,
          "wind_speed": 12,
          "wind_direction": 200,
-         "cloud_cover": 5
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
-      "wheat",
-      "corn",
-      "poultry"
+      "maize",
+      "cattle"
    ],
-   "general_advisory": "Planting of crops should be done after checking the weather forecast. Keep poultry indoors during heavy rainfall.",
+   "general_advisory": "Keep an eye on upcoming rains and adjust farming practices accordingly.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Sow seeds after the last frost date.",
-            "Provide sufficient water for proper growth."
+            "Plant rice seedlings on well-prepared wet land.",
+            "Use balanced fertilizers to promote growth during early stages."
          ]
       },
-      "wheat": {
+      "maize": {
          "advisory": [
-            "Plant wheat in well-drained soil.",
-            "Protect from frost during early stages of growth."
+            "Ensure good drainage for maize fields.",
+            "Protect maize crops from birds and pests."
          ]
       },
-      "corn": {
+      "cattle": {
          "advisory": [
-            "Maintain soil moisture for good kernel development.",
-            "Protect from strong winds during pollination."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Ensure proper ventilation in poultry houses.",
-            "Keep feed and water sources clean."
+            "Ensure cattle have access to clean water and shade during hot days.",
+            "Schedule regular veterinary check-ups for cattle health."
          ]
       }
    },

@@ -56,54 +56,70 @@
       "sugarcane",
       "blackgram",
       "rapeseed & mustard",
+      "cucurbits",
+      "tomato & brinjal",
       "vegetables",
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Drain out excess water from paddy field, maintain regular surveillance for disease pests, maintain appropriate planting conditions, follow specific pest control measures for each crop, provide necessary care and treatments for animal health",
+   "general_advisory": "Drain out excess water from paddy field and conduct regular surveillance to monitor disease pests. Take control measures to prevent blast infestation in rice crops. Ensure proper seed treatment and fertilization practices for sugarcane, blackgram, rapeseed & mustard, and vegetables. Monitor fish health for white spot disease symptoms. Provide mineral mixture to animals for better health.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Perform regular surveillance for disease pests and take control strategies",
-            "For blast infestation, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 80 g/acre in water, repeat every 7-10 days",
-            "For Thrips infestation, spray Azadirachtin or Lambda-cyhy alothrin as per instructions"
+            "Drain out excess water from paddy fields",
+            "Monitor disease pests and initiate control strategies",
+            "Combat blast infestation with recommended sprays",
+            "Complete transplanting of summer rice with specified fertilizers"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect disease-free setts from healthy plants, treat before planting",
-            "Manage sett rot disease with recommended drench or spray treatments",
-            "Remove infected plants in ratoon crop, apply recommended fertilizers and spraying"
+            "Collect disease-free setts for planting",
+            "Undertake sett rot management with appropriate treatments",
+            "Remove infected plants in ratoon crop",
+            "Protect cane hips from termite attack after harvest"
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray Tebuconazole + Sulphur to reduce incidence of Powdery mildew, Anthracnose & Stem rot",
-            "Control aphids with Neem Based Pesticide and Thiamethoxam or Acetamiprid as needed"
+            "Spray recommended fungicide for disease control",
+            "Apply pesticides to control aphids"
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control aphids by spraying Dimethoate 30% EC",
-            "Control Mustard Sawfly, Leaf Webber, and Tobacco Caterpillar with Neem Oil and other recommended treatments"
+            "Control aphids with recommended sprays",
+            "Combat infestation of Mustard Sawfly, Leaf Webber, and Tobacco Caterpillar"
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Minimize damage caused by Red Pumpkin Beetle with specified sprays",
+            "Manage Epilachna Beetle in cucumber with neem-based pesticide"
+         ]
+      },
+      "tomato & brinjal": {
+         "advisory": [
+            "Start sowing tomato seeds for summer cultivation",
+            "Prevent wilting in brinjal and tomato with specified treatments",
+            "Provide support structures for tomatoes",
+            "Control sucking insect pests with recommended sprays"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Minimize damage by Red Pumpkin Beetle with Acephate and neem oil formulation",
-            "Control Epilachna Beetle in cucumber with neem-based pesticide or chemical sprays",
-            "Start sowing tomato seeds for summer cultivation, take preventive measures for wilting"
+            "Spray recommended pesticides for Cucurbit vegetables",
+            "Combat leaf eating caterpillars and fruit borers in winter vegetables"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Treat white spot disease in fish by bathing affected fish in saltwater mix",
-            "Provide necessary care for fish health and disease prevention"
+            "Treat white spot disease in fish with specified procedure"
          ]
       },
       "animal science": {
          "advisory": [
-            "Regularly provide mineral mixture and salt to animals, include wheat grains and jaggery in daily ration for energy"
+            "Provide mineral mixture and additional feed to animals during winter"
          ]
       }
    },

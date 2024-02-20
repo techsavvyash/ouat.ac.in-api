@@ -57,11 +57,11 @@
       "tomato",
       "common carp"
    ],
-   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops. Rain is expected in the coming five days.",
+   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
    "crops_data": {
       "green gram": {
          "advisory": [
-            "To control sucking pest infestation in green gram spray Thiamethoxam - 05 gram in 15 lt of water."
+            "To control sucking pest infestation in green gram spray Thiamethoxam - 05 gram IN 15 lt of water."
          ]
       },
       "brinjal": {
