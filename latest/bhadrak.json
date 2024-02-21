@@ -60,45 +60,48 @@
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Drain out excess water from paddy field, maintain regular surveillance to control pests and diseases.",
+   "general_advisory": "Rice: Drain out excess water from paddy field & regular surveillance work should be taken up in all crops. Sugarcane: Collect setts, do sett rot management, remove infected plants, spray after harvesting. Blackgram: Spray to reduce incidence of powdery mildew, anthracnose & stem rot. Rapeseed & Mustard: Spray for controlling pests. Vegetables: Various spraying recommendations for different pests. Pisciculture: Treat white spot disease in fish. Animal science: Provide mineral mixture along with salt regularly.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Increased temperature difference may lead to blast infestation, use appropriate fungicides for control",
-            "Complete transplanting of summer rice with specified basal fertilizer application"
+            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops to control disease pests."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Ensure proper sett treatment before planting",
-            "Manage sett rot disease with recommended chemicals post-planting"
+            "Collect setts from disease-free plants for planting.",
+            "Manage sett rot disease with recommended sprays.",
+            "Remove infected plants in ratoon crop and apply recommended treatments.",
+            "Protect harvested sugarcane from termite attack."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray recommended pesticides to control Powdery mildew, Anthracnose & Stem rot",
-            "Control aphids with specified pesticides during primary stage of infestation"
+            "Spray to reduce incidence of powdery mildew, anthracnose & stem rot.",
+            "Control aphids with recommended sprays."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control aphids with specified insecticides, ensure spraying at appropriate times"
+            "Control pests with recommended sprays."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Use specified pesticides to manage pests in Cucurbits and Tomato & Brinjal crops",
-            "Provide necessary support for Tomato plants for better growth"
+            "Spraying recommendations for Red Pumpkin Beetle, Epilachna Beetle, and other pests in different vegetables.",
+            "Provide support for tomato plants to improve fruit set.",
+            "Spray to control sucking insect pests in nursery and main field."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Treat white spot disease in fish with specified salt-water bath"
+            "Treat white spot disease in fish by bathing affected fish in saltwater."
          ]
       },
       "animal science": {
          "advisory": [
-            "Provide mineral mixture and additional energy sources for animals during winter"
+            "Provide mineral mixture with salt regularly.",
+            "Include wheat grains, jaggery, etc., in the daily ration during winter season for energy requirement."
          ]
       }
    },

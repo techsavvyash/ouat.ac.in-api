@@ -57,58 +57,56 @@
       "blackgram",
       "rapeseed & mustard",
       "vegetables",
+      "cucurbits",
+      "tomato & brinjal",
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Drain out excess water from paddy fields. Regular surveillance work for disease pests. Take measures to control blast and thrips. Complete transplanting of summer rice with recommended fertilizers. Collect disease-free setts for sugarcane. Treat sett rot with recommended chemicals. Remove infected plants in ratoon crop. Control pests in blackgram. Manage disease in rapeseed & mustard. Use pesticides in vegetables for pest control. Treat white spot disease in fish. Provide necessary minerals and supplements to animals.",
+   "general_advisory": "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops...",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Drain out excess water from paddy fields.",
-            "Regular surveillance work for disease pests.",
-            "Control blast and thrips with recommended pesticides.",
-            "Transplant summer rice with recommended fertilizers."
+            "Due to increased difference between daily maximum and minimum temperature favors the infestation of blast in main field as well as nursery..."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect disease-free setts from healthy plants.",
-            "Treat sett rot with recommended chemicals.",
-            "Remove infected plants in ratoon crop.",
-            "Protect cane hips from termite attack after harvest."
+            "Collect setts from the whole cane of a 6 –8-month-old plant crop free from diseases and insect pests..."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray pesticides to reduce Powdery mildew, Anthracnose & Stem rot incidence.",
-            "Control aphids with recommended pesticides."
+            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended..."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Manage disease in rapeseed & mustard crops.",
-            "Use pesticides to control pests."
+            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit..."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Use pesticides to control Red Pumpkin Bettle in cucurbits.",
-            "Manage pests in cucumber with neem-based pesticides.",
-            "Apply fungicide to prevent wilting in tomato & brinjal.",
-            "Provide support for tomato plants' growth.",
-            "Use pesticides to control insect pests in vegetables."
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits..."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits..."
+         ]
+      },
+      "tomato & brinjal": {
+         "advisory": [
+            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed..."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Treat white spot disease in fish by bathing in saltwater.",
-            "Repeat treatment for 7-10 days."
+            "Small white rash appear on the body of fish and feels rough to hand are the symptoms of white spot disease in fish..."
          ]
       },
       "animal science": {
          "advisory": [
-            "Provide mineral mixture and supplements to animals regularly.",
-            "Include wheat grains and jaggery in the daily ration during winter."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals..."
          ]
       }
    },

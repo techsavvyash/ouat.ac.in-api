@@ -2,48 +2,48 @@
    "weather_details": {
       "2022-01-01": {
          "rainfall": 5,
-         "t_max": 28,
+         "t_max": 30,
          "t_min": 20,
-         "rh_max": 85,
+         "rh_max": 80,
          "rh_min": 60,
          "wind_speed": 10,
          "wind_direction": 180,
-         "cloud_cover": 5
+         "cloud_cover": 6
       },
       "2022-01-02": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 80,
+         "rainfall": 3,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
          "rh_min": 55,
          "wind_speed": 12,
          "wind_direction": 200,
-         "cloud_cover": 3
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "rice",
+      "wheat",
       "maize",
-      "cattle"
+      "poultry"
    ],
-   "general_advisory": "Keep an eye on upcoming rains and adjust farming practices accordingly.",
+   "general_advisory": "It is recommended to sow wheat and maize during this period. Ensure proper ventilation for poultry.",
    "crops_data": {
-      "rice": {
+      "wheat": {
          "advisory": [
-            "Plant rice seedlings on well-prepared wet land.",
-            "Use balanced fertilizers to promote growth during early stages."
+            "Sow wheat seeds at the recommended spacing.",
+            "Provide adequate irrigation during the growth period."
          ]
       },
       "maize": {
          "advisory": [
-            "Ensure good drainage for maize fields.",
-            "Protect maize crops from birds and pests."
+            "Prepare the soil by plowing and adding nutrients.",
+            "Monitor for pests and diseases regularly."
          ]
       },
-      "cattle": {
+      "poultry": {
          "advisory": [
-            "Ensure cattle have access to clean water and shade during hot days.",
-            "Schedule regular veterinary check-ups for cattle health."
+            "Keep poultry houses clean and well-ventilated.",
+            "Provide proper nutrition to the poultry for healthy growth."
          ]
       }
    },

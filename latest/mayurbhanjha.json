@@ -1,0 +1,125 @@
+{
+   "weather_details": {
+      "2024-02-21": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 51,
+         "rh_min": 21,
+         "wind_speed": 9,
+         "wind_direction": 244,
+         "cloud_cover": 1
+      },
+      "2024-02-22": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 54,
+         "rh_min": 21,
+         "wind_speed": 12,
+         "wind_direction": 199,
+         "cloud_cover": 3
+      },
+      "2024-02-23": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 68,
+         "rh_min": 26,
+         "wind_speed": 14,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "2024-02-24": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 54,
+         "rh_min": 29,
+         "wind_speed": 12,
+         "wind_direction": 30,
+         "cloud_cover": 7
+      },
+      "2024-02-25": {
+         "rainfall": 2,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 60,
+         "rh_min": 30,
+         "wind_speed": 10,
+         "wind_direction": 117,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "mustard",
+      "brinjal",
+      "onion",
+      "tomato",
+      "marigold",
+      "potato",
+      "cabbage",
+      "chicken"
+   ],
+   "general_advisory": "Havestable produce i.e., matured fruits, vegetables and flowers must be harvested and marketed to avoid deterioration of quality due to chances of occurance of the rain. Apply frequent light irrigation to summer paddy seedlings in nursery if required. Covering the vegetable crops with polythene that must not have a hole, in a way that the polysheet will not touch the crop. Remove the cover in day time. In the event of fog in some places, possible crop damage may occur. Farmers can go for harvest the matured crops. Farmers can do weeding & earthing up operations. High humid conditions favour the increase of diseases & pests. Farmers can take plant protection measures. Apply the insecticides in the afternoon hours so that the movement of Honeybees will not be disturbed. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying. Farmers can adopt plant protection measures. Do not repeat the same insecticide, use any of the insecticides alternately at 15 days-interval.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "The crops are at two to four week stage in nursery. If there is a root disease in the paddy field after the rain, apply 2 g of Metalaxyl+Mancozeb per liter of water and spray it on the root zone.",
+            "Apply light and frequent irrigation to the paddy seedlings in nursery to protect from cold.",
+            "The transplanted paddy seedlings are at establishment stage to one week in main field."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "The mustard crop is at the flowering stage.",
+            "The rainfall received during the last week which results in higher humidity and lower temperature might aggravate Downy Mildew in Mustard.",
+            "High relative humidity also might aggravate white rust."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds.",
+            "To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "The transplanted onion is at vegetative to bulb formation (eight to eleven week) stage.",
+            "Onion being a shallow rooted crop, needs frequent light irrigation to maintain optimum soil moisture for proper growth and bulb development."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "The transplanted tomato crop is at fruit maturity to harvesting (thirteen to sixteen week) stage in main field.",
+            "There are chances of infestation of whiteflies in Tomato Crop.",
+            "To manage this pest in Tomato crop, use yellow sticky traps @ 8- 10/acre to attract and kill the insects."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "There is chance of red mite infestation in the prevailing weather conditions."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "The cut worm pests are nocturnal and they hide below the soil during daytime.",
+            "There are chances of Cut Worm infestation in potato crop."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "The transplanted cabbage is at twelve to fifteen week stage in main field.",
+            "Harvest the matured crop."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "During the summer season, avoid feeding at high environment temperatures in the midday.",
+            "Cleaning and spreading of bleaching powder every alternate day are highly essential for a poultry unit."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

@@ -24,7 +24,7 @@
          "rainfall": 0,
          "t_max": 35,
          "t_min": 22,
-         "rh_max": 89,
+         "rh_max": 69,
          "rh_min": 16,
          "wind_speed": 12,
          "wind_direction": 162,
@@ -34,8 +34,8 @@
          "rainfall": 10,
          "t_max": 32,
          "t_min": 22,
-         "rh_max": 34,
-         "rh_min": 12,
+         "rh_max": 74,
+         "rh_min": 16,
          "wind_speed": 10,
          "wind_direction": 158,
          "cloud_cover": 6
@@ -44,8 +44,8 @@
          "rainfall": 5,
          "t_max": 32,
          "t_min": 20,
-         "rh_max": 34,
-         "rh_min": 9,
+         "rh_max": 89,
+         "rh_min": 34,
          "wind_speed": 10,
          "wind_direction": 90,
          "cloud_cover": 7
@@ -56,75 +56,73 @@
       "cluster bean",
       "pumpkin",
       "cucumber",
-      "watermelon",
       "tomato",
       "paddy",
       "red gram",
       "groundnut",
       "potato",
       "mango",
-      "fishing"
+      "watermelon",
+      "fishery"
    ],
-   "general_advisory": "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in the afternoon to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600, Zineb 75% WP @ 500gram/acre at 7 days interval.",
+   "general_advisory": "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in afternoon hours to avoid high temperature.",
    "crops_data": {
       "cowpea": {
          "advisory": [
-            "To manage sucking pest at an early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @600ml/acre by mixing it in 200-litre of water. To manage these sucking pests chemically spray Thiamethoxam 25% WG @ 40g/acre or Acetamiprid 20% SP @ 50g/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15% EC @ 400ml/acre by mixing it in 200-litre of water."
+            "To manage sucking pest at early stage of infestation spray neem-based pesticide."
          ]
       },
       "cluster bean": {
-         "advisory": [
-            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in the afternoon to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500gram/acre at 7 days interval."
-         ]
+         "advisory": []
       },
       "pumpkin": {
          "advisory": [
-            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in the afternoon to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500gram/acre at 7 days interval."
+            "The main crop is ready for harvest within 75-85 days of planting."
          ]
       },
       "cucumber": {
          "advisory": [
-            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in the afternoon to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 gram/acre or Zineb 75% WP @ 500gram/acre at 7 days interval."
-         ]
-      },
-      "watermelon": {
-         "advisory": [
-            "Present weather condition favorable for watermelon cultivation. Use improved varieties like Sugar baby, Arka manik, Lalsona and hybrid varieties like Madhuri, Maya, Sweet Ruby, Black magic and Sugar pack. For 1 acre planting 400-800 gram of seed is required. Treat the seed with carbendazim @ 1g / kg of seed."
+            "To manage Epilachna Beetle, spray neem-based pesticide at early stage of infestation."
          ]
       },
       "tomato": {
          "advisory": [
-            "To manage stem borer in paddy, broadcast granular insecticide Chlorantraniliprole 0.4 % GR @ 4 kg acre by mixing it with sand at 1:1 ratio or spray Chlorantraniliprole 18.5 % SC @ 60 ml/acre."
+            "To manage early and late leaf blight, spray Mancozeb 75% WP."
          ]
       },
       "paddy": {
          "advisory": [
-            "To manage stem borer in paddy, broadcast granular insecticide Chlorantraniliprole 0.4 % GR @ 4 kg acre by mixing it with sand at 1:1 ratio or spray Chlorantraniliprole 18.5 % SC @ 60 ml/acre."
+            "To manage stem borer, broadcast granular insecticide Chlorantraniliprole 0.4 % GR."
          ]
       },
       "red gram": {
          "advisory": [
-            "To manage pod borer pests at the early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM) @ 600ml/acre by mixing in 200 litre of water."
+            "To manage pod borer pests at early stage of infestation spray neem-based pesticide."
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage Thrips during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre."
+            "To manage Thrips during primary stage of pest infestation."
          ]
       },
       "potato": {
          "advisory": [
-            "The main crop is ready for harvest within 75-85 days of planting depending upon the soil type and variety sown. The crop is ready to harvest when the majority of the leaves turn yellowish brown. Irrigation should be stopped 15 days before harvesting. Keep the harvested tubers in the shed for 48 hours. All damaged and rotten tubers should be removed."
+            "The main crop is ready for harvest within 75-85 days of planting."
          ]
       },
       "mango": {
          "advisory": [
-            "Prevailing weather conditions are congenial for Mealy bug incidence in mango. To control mealy bug, Spray Dimethoate 30 EC @ 2 ml/liter of water during February-March as per requirements."
+            "Prevailing weather conditions are congenial for Mealy bug incidence."
          ]
       },
-      "fishing": {
+      "watermelon": {
          "advisory": [
-            "Small white rash appears on the body of fish and feels rough to hand are the symptoms of white spot disease in fish. Excessive mucus secret from fish body. To treat this disease in fish bath affected fish for 5 minutes in the 200-liter water which is mix with 500gram of salt, then release to the pond. This procedure continues for 7-10 days."
+            "Present weather condition is favorable for watermelon cultivation."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Small white rash on the body of fish is a symptom of white spot disease."
          ]
       }
    },
