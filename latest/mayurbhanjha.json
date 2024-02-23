@@ -62,62 +62,68 @@
       "cabbage",
       "chicken"
    ],
-   "general_advisory": "Havestable produce i.e., matured fruits, vegetables and flowers must be harvested and marketed to avoid deterioration of quality due to chances of occurance of the rain. Apply frequent light irrigation to summer paddy seedlings in nursery if required. Covering the vegetable crops with polythene that must not have a hole, in a way that the polysheet will not touch the crop. Remove the cover in day time. In the event of fog in some places, possible crop damage may occur. Farmers can go for harvest the matured crops. Farmers can do weeding & earthing up operations. High humid conditions favour the increase of diseases & pests. Farmers can take plant protection measures. Apply the insecticides in the afternoon hours so that the movement of Honeybees will not be disturbed. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying. Farmers can adopt plant protection measures. Do not repeat the same insecticide, use any of the insecticides alternately at 15 days-interval.",
+   "general_advisory": "Harvestable produce i.e., matured fruits, vegetables and flowers must be harvested and marketed to avoid deterioration of quality due to chances of occurrence of rain. Apply frequent light irrigation to summer paddy seedlings in the nursery if required. Cover vegetable crops with polythene without holes to protect from the rain. Remove covers during the daytime. Take plant protection measures to prevent diseases and pests. Use insecticides in the afternoon to avoid disturbing Honeybees. Always use flat-fan or flood-jet nozzle for herbicide spraying.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "The crops are at two to four week stage in nursery. If there is a root disease in the paddy field after the rain, apply 2 g of Metalaxyl+Mancozeb per liter of water and spray it on the root zone.",
-            "Apply light and frequent irrigation to the paddy seedlings in nursery to protect from cold.",
-            "The transplanted paddy seedlings are at establishment stage to one week in main field."
+            "Apply Metalaxyl+Mancozeb solution in case of root disease",
+            "Provide light and frequent irrigation to paddy seedlings in the nursery",
+            "Apply specific amount of DAP, MOP, and Urea during transplanting"
          ]
       },
       "mustard": {
          "advisory": [
-            "The mustard crop is at the flowering stage.",
-            "The rainfall received during the last week which results in higher humidity and lower temperature might aggravate Downy Mildew in Mustard.",
-            "High relative humidity also might aggravate white rust."
+            "Manage Downy Mildew and white rust with chemical sprays",
+            "Prevent Mustard sawfly and leaf Webber infestation with suitable insecticides",
+            "Deal with aphid and painted bug infestation using appropriate pesticides"
          ]
       },
       "brinjal": {
          "advisory": [
-            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds.",
-            "To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits."
+            "Control brinjal shoot and fruit borer with necessary interventions",
+            "Use pheromone traps for pest management",
+            "Apply neem-based pesticide during primary stage of infestation"
          ]
       },
       "onion": {
          "advisory": [
-            "The transplanted onion is at vegetative to bulb formation (eight to eleven week) stage.",
-            "Onion being a shallow rooted crop, needs frequent light irrigation to maintain optimum soil moisture for proper growth and bulb development."
+            "Provide frequent light irrigation to maintain soil moisture",
+            "Manage thrips infestation with regular irrigation and interculture operations",
+            "Use neem-based pesticide for pest control"
          ]
       },
       "tomato": {
          "advisory": [
-            "The transplanted tomato crop is at fruit maturity to harvesting (thirteen to sixteen week) stage in main field.",
-            "There are chances of infestation of whiteflies in Tomato Crop.",
-            "To manage this pest in Tomato crop, use yellow sticky traps @ 8- 10/acre to attract and kill the insects."
+            "Control whiteflies infestation in Tomato crop using traps and neem-based sprays",
+            "Deal with fruit borer and other pests using specific insecticides",
+            "Ensure adequate irrigation and proper management practices"
          ]
       },
       "marigold": {
          "advisory": [
-            "There is chance of red mite infestation in the prevailing weather conditions."
+            "Take measures to manage Red Spider Mites in flowers like Marigold",
+            "Use Propargite or Fenpyroximate for effective control"
          ]
       },
       "potato": {
          "advisory": [
-            "The cut worm pests are nocturnal and they hide below the soil during daytime.",
-            "There are chances of Cut Worm infestation in potato crop."
+            "Prevent Cut Worm infestation with suitable insecticide sprays",
+            "Manage sucking pests like Aphids and Jassids using neem-based pesticides",
+            "Control late blight disease with proper fungicides"
          ]
       },
       "cabbage": {
          "advisory": [
-            "The transplanted cabbage is at twelve to fifteen week stage in main field.",
-            "Harvest the matured crop."
+            "Harvest matured cabbage crops",
+            "Monitor and manage Dimond Back Moth and Head Borer infestations",
+            "Apply appropriate chemical sprays for effective pest control"
          ]
       },
       "chicken": {
          "advisory": [
-            "During the summer season, avoid feeding at high environment temperatures in the midday.",
-            "Cleaning and spreading of bleaching powder every alternate day are highly essential for a poultry unit."
+            "Adjust feeding times during high temperatures",
+            "Regularly clean and disinfect poultry units",
+            "Follow hygiene practices to prevent diseases"
          ]
       }
    },

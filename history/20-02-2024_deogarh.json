@@ -55,7 +55,8 @@
       "summer pulses",
       "ragi",
       "paddy",
-      "SRI paddy",
+      "sri paddy",
+      "ragi_2",
       "maize",
       "summer groundnut",
       "wheat",
@@ -70,68 +71,72 @@
    "crops_data": {
       "summer pulses": {
          "advisory": [
-            "National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days)."
+            "Sow Mung varieties IPM -02-14, IPM -02-3, PDM -11, PDM -54, Durga, Samrat, K -851, Sarla, PU -31, PU -30, PU -35, PU -19 etc. at a rate of 25 kg of seeds per hectare."
          ]
       },
       "ragi": {
          "advisory": [
-            "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing. If not tested the soil, apply 24:12:12 kg NPK per acre."
+            "Transplant seedlings in 20cm X 10 cm spacing when they are 3 weeks old."
          ]
       },
       "paddy": {
          "advisory": [
-            "At 3 weeks of paddy, top dress with 16 kg Nitrogen per acre."
+            "Top dress with 16 kg Nitrogen per acre at 3 weeks of growth."
          ]
       },
-      "SRI paddy": {
+      "sri paddy": {
          "advisory": [
-            "Transplant the 10 -12 days old seedling on the main field."
+            "Transplant 10-12 days old seedlings on the main field."
+         ]
+      },
+      "ragi_2": {
+         "advisory": [
+            "Transplant seedlings in 20cm X 10 cm spacing when they are 3 weeks old. Apply 24:12:12 kg NPK per acre."
          ]
       },
       "maize": {
          "advisory": [
-            "When the maize crop is 2 -3 weeks old, go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre."
+            "Go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre at 2-3 weeks old."
          ]
       },
       "summer groundnut": {
          "advisory": [
-            "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
+            "Apply gypsum in lines @ 50kg/acre if not done at sowing."
          ]
       },
       "wheat": {
          "advisory": [
-            "Irrigate the crop at crown root initiation and jointing stage. In late sowing go for intercultivation. In the early sown crop apply 8 kg Nitrogen per acre."
+            "Irrigate at crown root initiation and jointing stage, apply 8 kg Nitrogen per acre for early sown crop."
          ]
       },
       "sunflower": {
          "advisory": [
-            "At 25 to 30 days after sowing the sunflower, apply 6 -8 kg nitrogen per acre. Go for thinning operation. Also complete sowing of summer sunflower in irrigated areas."
+            "Apply 6-8 kg nitrogen per acre at 25-30 days after sowing. Choose good varieties like MSFH 17, KBSH1, Jwalamukhi."
          ]
       },
       "potato": {
          "advisory": [
-            "In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre. Due to weather manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water and repeat it after 12 days of first application."
+            "Apply remaining fertilizer of Nitrogen 30 kg/acre in delayed sown crop. Manage Leaf blight with Mancozeb."
          ]
       },
       "vegetables": {
          "advisory": [
-            "The Brinjal Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre."
+            "Manage Brinjal Foot & Shoot borer with Neem based pesticides."
          ]
       },
       "chilli": {
          "advisory": [
-            "If leaf spot appears in pepper crop, spray leaves with 2 ml of abamectin 9.1 % or 9.1 to 2 ml of ethion per liter of water."
+            "Spray leaves with 2 ml of abamectin 9.1% or ethion per liter of water if leaf spot appears in pepper crop."
          ]
       },
       "animal": {
          "advisory": [
-            "Keep clean and dry the animal shed. Arrange smoke of neem leaves near to animal shed for preventive measures of diseases. Provide need based animal vaccination in consultation with line department. Animals should be given the wheat grains, jaggery and the mixture of mineral with white salt at the daily basis all these may be provided @ 05 -15% in the daily ration basis. Due to forecast of decreasing temperature, cover the animal shed specially in nights."
+            "Keep animal shed clean and dry. Provide vaccination and proper nutrition."
          ]
       },
       "poultry": {
          "advisory": [
-            "Add half a gram of furasil to 1 liter of water for 3 days.",
-            "To control chicken rabies, administer Lasota vaccine within the first 7 days and administer IBT eye drops within 13 -15 days."
+            "Add furasil to water for 3 days. Administer Lasota vaccine within the first 7 days to control chicken rabies."
          ]
       }
    },

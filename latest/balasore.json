@@ -60,42 +60,47 @@
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Rice: Drain out excess water from paddy field & regular surveillance work should be taken up in all crops. Increased difference between daily maximum and minimum temperature favours the infestation of blast. Sugarcane: Collect setts from the whole cane of a 6-8-month-old plant crop. Blackgram: To reduce incidence of Powdery mildew, Anthracnose & Stem rot spray recommended. Rapeseed & Mustard: Mustard/Toria crop is at the flowering to pod filling stage. Vegetables: Cucurbits - Spray Acephate to minimize damage caused by Red Pumpkin Bettle. Pisciculture: Small white rash appear on the body of fish are symptoms of white spot disease. Animal Science: Animals should be given mineral mixture along with salt regularly.",
+   "general_advisory": "Rice Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies. Increased difference between daily maximum and minimum temperature favours the infestation of blast in main field as well as nursery.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops."
+            "Spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 80 g/acre in 200 litres of water for leaf blast infestation",
+            "Utilize available water for puddling and transplant summer rice with basal application of 35 kg DAP, 20 kg MOP & 10 kg ZnSO4/acre"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect setts from the whole cane of a 6-8-month-old plant crop.",
-            "Sett Rot management after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre."
+            "Collect setts from a healthy cane for planting",
+            "Basal drenching with Carbendazim 12% + Mancozeb 63% @ 400 grams/acre for sett rot management"
          ]
       },
       "blackgram": {
          "advisory": [
-            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram, spraying of recommended pesticides is advised."
+            "Spray (Tebuconazole + Sulphur) @ 500g/acre to reduce Powdery mildew, Anthracnose & Stem rot incidence",
+            "Control aphids with Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre"
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "The mustard/Toria crop is at the flowering to pod filling stage."
+            "Spray Dimethoate 30% EC @ 2 ml/lit to control aphids",
+            "Spray Neem Oil 1500 PPM @ 600 ml/acre for Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spraying of Acephate along with neem oil formulation is recommended in Cucurbits to minimize damage caused by Red Pumpkin Bettle."
+            "Spray Acephate @ 250g/acre along with neem oil formulation to minimize damage by Red Pumpkin Beetle in cucurbits",
+            "Start sowing tomato seed for summer cultivation in nursery bed",
+            "Apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to prevent wilting in brinjal and tomato"
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Small white rash appear on the body of fish are symptoms of white spot disease. Treat affected fish accordingly."
+            "Treat white spot disease in fish by bathing affected fish in water mixed with salt for 5 minutes"
          ]
       },
       "animal science": {
          "advisory": [
-            "Animals should be given mineral mixture along with salt regularly to meet energy requirements."
+            "Provide mineral mixture along with salt regularly for animals during winter season"
          ]
       }
    },

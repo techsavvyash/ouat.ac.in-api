@@ -52,11 +52,10 @@
       }
    },
    "names_of_crops": [
-      "summer pulses",
+      "sunner pulses",
       "ragi",
       "paddy",
       "sri paddy",
-      "ragi_2",
       "maize",
       "summer groundnut",
       "wheat",
@@ -69,74 +68,76 @@
    ],
    "general_advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination.",
    "crops_data": {
-      "summer pulses": {
+      "sunner pulses": {
          "advisory": [
-            "Sow Mung varieties IPM -02-14, IPM -02-3, PDM -11, PDM -54, Durga, Samrat, K -851, Sarla, PU -31, PU -30, PU -35, PU -19 etc. at a rate of 25 kg of seeds per hectare."
+            "National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days)."
          ]
       },
       "ragi": {
          "advisory": [
-            "Transplant seedlings in 20cm X 10 cm spacing when they are 3 weeks old."
+            "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing.",
+            "If not tested the soil, apply 24:12:12 kg NPK per acre."
          ]
       },
       "paddy": {
          "advisory": [
-            "Top dress with 16 kg Nitrogen per acre at 3 weeks of growth."
+            "At 3 weeks of paddy, top dress with 16 kg Nitrogen per acre.",
+            "Provide irrigation at critical stages like Jointing, Panicle growth, Anthesis, and Milking stage."
          ]
       },
       "sri paddy": {
          "advisory": [
-            "Transplant 10-12 days old seedlings on the main field."
-         ]
-      },
-      "ragi_2": {
-         "advisory": [
-            "Transplant seedlings in 20cm X 10 cm spacing when they are 3 weeks old. Apply 24:12:12 kg NPK per acre."
+            "Transplant the 10-12 days old seedling on the main field."
          ]
       },
       "maize": {
          "advisory": [
-            "Go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre at 2-3 weeks old."
+            "When the maize crop is 2-3 weeks old, go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre."
          ]
       },
       "summer groundnut": {
          "advisory": [
-            "Apply gypsum in lines @ 50kg/acre if not done at sowing."
+            "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
          ]
       },
       "wheat": {
          "advisory": [
-            "Irrigate at crown root initiation and jointing stage, apply 8 kg Nitrogen per acre for early sown crop."
+            "Irrigate the crop at crown root initiation and jointing stage.",
+            "In late sowing go for intercultivation.",
+            "In the early sown crop apply 8 kg Nitrogen per acre."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Apply 6-8 kg nitrogen per acre at 25-30 days after sowing. Choose good varieties like MSFH 17, KBSH1, Jwalamukhi."
+            "At 25 to 30 days after sowing the sunflower, apply 6-8 kg nitrogen per acre.",
+            "Choose good varieties like MSFH 17, KBSH1, Jwalamukhi @ 2 kg seed per acre."
          ]
       },
       "potato": {
          "advisory": [
-            "Apply remaining fertilizer of Nitrogen 30 kg/acre in delayed sown crop. Manage Leaf blight with Mancozeb."
+            "In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Manage Brinjal Foot & Shoot borer with Neem based pesticides."
+            "The Brinjal Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre."
          ]
       },
       "chilli": {
          "advisory": [
-            "Spray leaves with 2 ml of abamectin 9.1% or ethion per liter of water if leaf spot appears in pepper crop."
+            "If leaf spot appears in pepper crop, spray leaves with 2 ml of abamectin 9.1% or 9.1 to 2 ml of ethion per liter of water."
          ]
       },
       "animal": {
          "advisory": [
-            "Keep animal shed clean and dry. Provide vaccination and proper nutrition."
+            "Keep clean and dry the animal shed.",
+            "Arrange smoke of neem leaves near the animal shed for preventive measures of diseases."
          ]
       },
       "poultry": {
          "advisory": [
-            "Add furasil to water for 3 days. Administer Lasota vaccine within the first 7 days to control chicken rabies."
+            "Add half a gram of furasil to 1 liter of water for 3 days.",
+            "To control chicken rabies, administer Lasota vaccine within the first 7 days."
          ]
       }
    },

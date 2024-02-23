@@ -1,7 +1,7 @@
 {
    "weather_details": {
       "2024-02-07": {
-         "rainfall": 0,
+         "rainfall": 0.0,
          "t_max": 33,
          "t_min": 16,
          "rh_max": 64,
@@ -11,7 +11,7 @@
          "cloud_cover": 1
       },
       "2024-02-08": {
-         "rainfall": 0,
+         "rainfall": 0.0,
          "t_max": 33,
          "t_min": 16,
          "rh_max": 75,
@@ -21,7 +21,7 @@
          "cloud_cover": 0
       },
       "2024-02-09": {
-         "rainfall": 0,
+         "rainfall": 0.0,
          "t_max": 32,
          "t_min": 14,
          "rh_max": 81,
@@ -31,7 +31,7 @@
          "cloud_cover": 1
       },
       "2024-02-10": {
-         "rainfall": 0,
+         "rainfall": 0.0,
          "t_max": 30,
          "t_min": 14,
          "rh_max": 95,
@@ -41,7 +41,7 @@
          "cloud_cover": 1
       },
       "2024-02-11": {
-         "rainfall": 0,
+         "rainfall": 0.0,
          "t_max": 28,
          "t_min": 15,
          "rh_max": 66,
@@ -56,11 +56,11 @@
       "pigeon pea",
       "onion"
    ],
-   "general_advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery , apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea. Cover the recently planted vegetable crops with paper pockets during night time to protect from low temperature.",
+   "general_advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea. Cover the recently planted vegetable crops with paper pockets during night time to protect from low temperature.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery , apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea."
+            "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea."
          ]
       },
       "pigeon pea": {
@@ -70,7 +70,7 @@
       },
       "onion": {
          "advisory": [
-            "Onion Seedlings of 8-weeks old which are 12-15 cm in height should be planted in the main field. Before transplanting apply 10 tonnes of Compost, 52 kg of DAP , 30 kg of Muriate of Potash 20 kg of urea and 20 kg of sulphur and mix it to the soil uniformly . Transplant the seedlings in line by keeping the row to row spacing at 25 cm and plant to plant spacing at 10 cm."
+            "Onion Seedlings of 8-weeks old which are 12-15 cm in height should be planted in the main field. Before transplanting apply 10 tonnes of Compost, 52 kg of DAP, 30 kg of Muriate of Potash 20 kg of urea and 20 kg of sulphur and mix it to the soil uniformly. Transplant the seedlings in line by keeping the row to row spacing at 25 cm and plant to plant spacing at 10 cm."
          ]
       }
    },

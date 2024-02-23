@@ -53,127 +53,98 @@
    },
    "names_of_crops": [
       "paddy",
-      "summer pulses",
-      "oilseed",
-      "vegetables",
       "mustard",
       "til",
       "groundnut",
-      "rabi paira pulses",
       "sugarcane",
+      "mung",
+      "biri",
+      "kulthi",
       "cowpea",
       "cluster bean",
       "pumpkin",
       "cucumber",
       "watermelon",
-      "cashew",
       "potato",
-      "blackgram",
-      "greengram",
+      "black gram",
+      "green gram",
       "brinjal",
       "cole crops"
    ],
-   "general_advisory": "Pre-emergence herbicides for paddy, management of various pests and diseases, ideal sowing and harvesting times for different crops.",
+   "general_advisory": "Given the weather forecast, it is advisable to continue with summer paddy transplanting and sowing of summer pulses, oilseed, and vegetables. Harvesting of mustard, til, and groundnut should be done at the appropriate stage. Various crops have specific management advice mentioned in the advisory.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply 35 kg Urea per acre at 3 weeks after transplanting for high yielding paddy varieties.",
-            "Yellow Stem Borer management with specified chemicals."
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "Sowing in progress."
-         ]
-      },
-      "oilseed": {
-         "advisory": [
-            "Mustard, Til, and Groundnut in harvesting stage."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Transplanting in afternoon to avoid high temperature."
+            "If pre-emergence herbicides were not applied, spray recommended herbicides at specific stages."
          ]
       },
       "mustard": {
          "advisory": [
-            "Harvest as soon as pods turn yellowish-brown and dry seeds properly."
+            "Harvest the mustard crop timely to prevent shattering and losses."
          ]
       },
       "til": {
-         "advisory": [
-            "Harvesting in progress."
-         ]
+         "advisory": []
       },
       "groundnut": {
          "advisory": [
-            "Management of Tobacco Caterpillar pest."
-         ]
-      },
-      "rabi paira pulses": {
-         "advisory": [
-            "Harvesting in progress."
+            "To manage Tobacco Caterpillar pest, proper surveillance and control measures must be implemented."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Sett Rot management with specified chemicals."
+            "Apply Carbendazim 12% + Mancozeb 63% for sett rot disease management."
          ]
+      },
+      "mung": {
+         "advisory": []
+      },
+      "biri": {
+         "advisory": []
+      },
+      "kulthi": {
+         "advisory": []
       },
       "cowpea": {
          "advisory": [
-            "Ideal sowing time in February-March."
+            "February-March is the ideal time for sowing cowpea."
          ]
       },
       "cluster bean": {
-         "advisory": [
-            "Ideal sowing time in February-March."
-         ]
+         "advisory": []
       },
       "pumpkin": {
-         "advisory": [
-            "Ideal sowing time in February-March."
-         ]
+         "advisory": []
       },
       "cucumber": {
-         "advisory": [
-            "Ideal sowing time in February-March."
-         ]
+         "advisory": []
       },
       "watermelon": {
-         "advisory": [
-            "Ideal sowing time in February-March."
-         ]
-      },
-      "cashew": {
-         "advisory": [
-            "Management of stem and root borer."
-         ]
+         "advisory": []
       },
       "potato": {
          "advisory": [
-            "Harvesting guidance."
+            "Harvest potatoes at the appropriate stage and follow post-harvest practices."
          ]
       },
-      "blackgram": {
+      "black gram": {
          "advisory": [
-            "Aphid control recommendation."
+            "To control aphids, spray recommended pesticides at specific stages."
          ]
       },
-      "greengram": {
+      "green gram": {
          "advisory": [
-            "Aphid control recommendation."
+            "To control aphids, spray recommended pesticides at specific stages."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Management of Little Leaf of Brinjal."
+            "To manage little leaf disease, remove infected plants and apply recommended insecticides."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Management of Leaf Webber and Head Borer."
+            "Regular monitoring for leaf webber and head borer pests is essential. Apply recommended pesticides at specific stages."
          ]
       }
    },

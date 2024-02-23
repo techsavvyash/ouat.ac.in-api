@@ -1,9 +1,9 @@
 {
    "weather_details": {
       "2024-02-14": {
-         "rainfall": 0.0,
-         "t_max": 30.0,
-         "t_min": 19.0,
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 19,
          "rh_max": 76,
          "rh_min": 33,
          "wind_speed": 9,
@@ -11,9 +11,9 @@
          "cloud_cover": 2
       },
       "2024-02-15": {
-         "rainfall": 0.0,
-         "t_max": 30.0,
-         "t_min": 20.0,
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 20,
          "rh_max": 64,
          "rh_min": 28,
          "wind_speed": 9,
@@ -21,9 +21,9 @@
          "cloud_cover": 4
       },
       "2024-02-16": {
-         "rainfall": 10.0,
-         "t_max": 29.0,
-         "t_min": 20.0,
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 20,
          "rh_max": 72,
          "rh_min": 25,
          "wind_speed": 7,
@@ -31,9 +31,9 @@
          "cloud_cover": 7
       },
       "2024-02-17": {
-         "rainfall": 15.0,
-         "t_max": 28.0,
-         "t_min": 21.0,
+         "rainfall": 15,
+         "t_max": 28,
+         "t_min": 21,
          "rh_max": 72,
          "rh_min": 30,
          "wind_speed": 6,
@@ -41,9 +41,9 @@
          "cloud_cover": 8
       },
       "2024-02-18": {
-         "rainfall": 0.0,
-         "t_max": 29.0,
-         "t_min": 19.0,
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 19,
          "rh_max": 67,
          "rh_min": 28,
          "wind_speed": 7,
@@ -57,7 +57,7 @@
       "tomato",
       "common carp"
    ],
-   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
+   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops. SMS Advisory: Rain is expected in the coming five days.",
    "crops_data": {
       "green gram": {
          "advisory": [
@@ -66,17 +66,17 @@
       },
       "brinjal": {
          "advisory": [
-            "Rain is expected in the coming five days hence farmers can postpone irrigation in standing crop field. Provide drainage to remove excess rainwater from field."
+            "Rain is expected in the coming five days, hence farmers can postpone irrigation in standing crop fields. Provide drainage to remove excess rainwater from the field."
          ]
       },
       "tomato": {
          "advisory": [
-            "If fruit borer infestation is observed, spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carry out spray operation in clear weather conditions."
+            "If fruit borer infestation is observed, spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carry out the spray operation in clear weather conditions."
          ]
       },
       "common carp": {
          "advisory": [
-            "Common white spots in fishes are called EUS mainly observed in winter. These spots later on turned into wounds which led to the mortality of fishes. To prevent this, apply Aquaneem @1lt/ha or CIF AX @1lt/ha."
+            "Common white spots in fishes are called EUS mainly observed in winter. These spots later turn into wounds which lead to the mortality of fishes. To prevent this, apply Aquaneem @1lt/ha or CIF AX @1lt/ha."
          ]
       }
    },
