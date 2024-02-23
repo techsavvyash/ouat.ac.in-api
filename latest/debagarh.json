@@ -1,0 +1,185 @@
+{
+   "weather_details": {
+      "21/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 46,
+         "rh_min": 18,
+         "wind_speed": 7,
+         "wind_direction": 288,
+         "cloud_cover": 0
+      },
+      "22/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 50,
+         "rh_min": 14,
+         "wind_speed": 9,
+         "wind_direction": 234,
+         "cloud_cover": 2
+      },
+      "23/02/2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 55,
+         "rh_min": 19,
+         "wind_speed": 11,
+         "wind_direction": 236,
+         "cloud_cover": 4
+      },
+      "24/02/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 47,
+         "rh_min": 17,
+         "wind_speed": 11,
+         "wind_direction": 288,
+         "cloud_cover": 5
+      },
+      "25/02/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 21,
+         "wind_speed": 8,
+         "wind_direction": 45,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "oilseeds",
+      "vegetables",
+      "rabi paddy",
+      "ragi",
+      "paddy",
+      "sri paddy",
+      "mung",
+      "blackgram",
+      "maize",
+      "summer groundnut",
+      "wheat",
+      "sunflower",
+      "potato",
+      "brinjal",
+      "chilli",
+      "animal",
+      "poultry"
+   ],
+   "general_advisory": "Due to low temperature, apply thin layer of dry FYM on nursery to maintain the temperature. Start sowing the summer crops when the temperature is conducive for germination. Sunner pulses: National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days), Durga (60 to 65 days), Samrat (65 to 70 days), K -851 (60 to 65 days) and Blackgram varieties – Sarla (65 to 70 days), PU -31 (70 days), PU -30 (65 to 70 days), PU -35 (65 to 70 days), PU -19 (65 to 70 days) etc. collect and sow in the land 25 kg of seeds are required per hectare. Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds seven days before sowing. In the previous night of sowing, treat the seeds with rizobium culture @ 20g per kg of seeds. Sow it in the spacing of 25cm X 10 cm spacing. Ragi: When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing. If not tested the soil, apply 24:12:12 kg NPK per acre. Out of this apply 50% of N along with full dose of phosphorus and Potash as basal dose. Paddy: At 3 weeks of paddy, top dress with 16 kg Nitrogen per acre. After 48 hours of fertilizer application, refill th field with water and maintain 5 cm water. Water management: Paddy needs everyday 1 cm water for its optimum growth.. Provide irrigation at critical stage like Jointing, Panicle growth, Anthesis and Milking stage. At the time of Transplanting keep nail depth water in the field. Maintain 12.5 cm water upto 25 days of transplanting. It will help more number of tillers. Gramin Krishi Mausam Sewa India Meteorological Department Orissa University of Agriculture and Technology , Regional Research & Technology Transfer Sub Station , Kirei, Sundergarh -770073 SRI Paddy : Transplant the 10 -12 days old seedling on the main field. Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation. Maize: When the maize crop is 2-3 weeks old, go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre. Summer groundnut: If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre. Wheat: Irrigate the crop at crown root initiation and jointing stage. In late sowing go for intercultivation. In the early sown crop apply 8 kg Nitrogen per acre. Sunflower: At 25 to 30 days after sowing the sunflower, apply 6-8 kg nitrogen per acre. Go for thinning operation. Also complete sowing of summer sunflower in irrigated areas. Choose good varieties like MSFH 17, KBSH1, Jwalamukhi @ 2 kg seed per acre. The spacing is 60 X 30 cm. Before sowing, soak the seeds overnight for proper germination. For higher oil content, apply gypsum @ 100 kg/acre and 4 kh Borax along with basal dose of fertilizer. Apply the basal dose as 12:32:24 kg NPK per acre. Treat the seeds with 4 g Trichoderma per kilogram seed. Potato: In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre. Due to weather manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water and repeat it after 12 days of first application. Vegetables: The Brinjal Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre. Chilli: If leaf spot appears in pepper crop, spray leaves with 2 ml of abamectin 9.1% or 9.1 to 2 ml of ethion per liter of water. Animal: Keep clean and dry the animal shed. Arrange smoke of neem leaves near to animal shed for preventive measures of diseases. Provide need based animal vaccination in consultation with line department. Animals should be given the wheat grains, jaggery and the mixture of mineral with white salt at the daily basis all thease may be provided @ 05-15% in the daily ration basis. Due to forecast of decreasing temperature, cover the animal shed specially in nights. Poultry: Add half a gram of furasil to 1 liter of water for 3 days. To control chicken rabies, administer Lasota vaccine within the first 7 days and administer IBT eye drops within 13-15 days.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "National crops of pulses with high yield in dry season are: - Mung varieties IPM -02-14 (65 days), IPM -02-3 (65 days), PDM -11 (65 days), PDM -54 (60 to 65 days), Durga (60 to 65 days), Samrat (65 to 70 days), K -851 (60 to 65 days) and Blackgram varieties – Sarla (65 to 70 days), PU -31 (70 days), PU -30 (65 to 70 days), PU -35 (65 to 70 days), PU -19 (65 to 70 days) etc. collect and sow in the land 25 kg of seeds are required per hectare.",
+            "Before sowing treat the seeds with Carbendazim @ 2 g/kg of seeds seven days before sowing.",
+            "In the previous night of sowing, treat the seeds with rizobium culture @ 20g per kg of seeds.",
+            "Sow it in the spacing of 25cm X 10 cm spacing."
+         ]
+      },
+      "oilseeds": {
+         "advisory": []
+      },
+      "vegetables": {
+         "advisory": [
+            "The Brinjal Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre."
+         ]
+      },
+      "rabi paddy": {
+         "advisory": []
+      },
+      "ragi": {
+         "advisory": [
+            "When the seedlings are 3 week old, transplant it in 20cm X 10 cm spacing.",
+            "If not tested the soil, apply 24:12:12 kg NPK per acre.",
+            "Out of this apply 50% of N along with full dose of phosphorus and Potash as basal dose."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "At 3 weeks of paddy, top dress with 16 kg Nitrogen per acre.",
+            "After 48 hours of fertilizer application, refill th field with water and maintain 5 cm water.",
+            "Water management: Paddy needs everyday 1 cm water for its optimum growth.. Provide irrigation at critical stage like Jointing, Panicle growth, Anthesis and Milking stage. At the time of Transplanting keep nail depth water in the field. Maintain 12.5 cm water upto 25 days of transplanting. It will help more number of tillers."
+         ]
+      },
+      "sri paddy": {
+         "advisory": [
+            "Transplant the 10-12 days old seedling on the main field."
+         ]
+      },
+      "mung": {
+         "advisory": [
+            "Applying 200 grams of mustard oil or til oil per quintal to mung blackgram reduces the risk of moth infestation."
+         ]
+      },
+      "blackgram": {
+         "advisory": []
+      },
+      "maize": {
+         "advisory": [
+            "When the maize crop is 2-3 weeks old, go for intercultivation and earthing up work and apply 8 kg Nitrogen per acre."
+         ]
+      },
+      "summer groundnut": {
+         "advisory": [
+            "If gypsum is not applied at sowing, apply it in lines @ 50kg/acre or broadcast 100 kg Gypsum per acre."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Irrigate the crop at crown root initiation and jointing stage.",
+            "In late sowing go for intercultivation.",
+            "In the early sown crop apply 8 kg Nitrogen per acre."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "At 25 to 30 days after sowing the sunflower, apply 6-8 kg nitrogen per acre.",
+            "Go for thinning operation.",
+            "Also complete sowing of summer sunflower in irrigated areas.",
+            "Choose good varieties like MSFH 17, KBSH1, Jwalamukhi @ 2 kg seed per acre.",
+            "The spacing is 60 X 30 cm.",
+            "Before sowing, soak the seeds overnight for proper germination.",
+            "For higher oil content, apply gypsum @ 100 kg/acre and 4 kh Borax along with basal dose of fertilizer.",
+            "Apply the basal dose as 12:32:24 kg NPK per acre.",
+            "Treat the seeds with 4 g Trichoderma per kilogram seed."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "In the delayed sown crop, go for intercultivation and earthing up and apply the remaining fertilizer of Nitrogen 30 kg/acre.",
+            "Due to weather manage the Leaf blight of potato by application of Mancozeb @ 1 g per litre of water and repeat it after 12 days of first application."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "The Brinjal Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "If leaf spot appears in pepper crop, spray leaves with 2 ml of abamectin 9.1% or 9.1 to 2 ml of ethion per liter of water."
+         ]
+      },
+      "animal": {
+         "advisory": [
+            "Keep clean and dry the animal shed.",
+            "Arrange smoke of neem leaves near to animal shed for preventive measures of diseases.",
+            "Provide need based animal vaccination in consultation with line department.",
+            "Animals should be given the wheat grains, jaggery and the mixture of mineral with white salt at the daily basis all these may be provided @ 05-15% in the daily ration basis.",
+            "Due to forecast of decreasing temperature, cover the animal shed specially in nights."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Add half a gram of furasil to 1 liter of water for 3 days.",
+            "To control chicken rabies, administer Lasota vaccine within the first 7 days and administer IBT eye drops within 13-15 days."
+         ]
+      }
+   },
+   "date": "20-02-2024"
+}

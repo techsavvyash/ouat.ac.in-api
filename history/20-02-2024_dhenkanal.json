@@ -18,7 +18,7 @@
          "rh_min": 16,
          "wind_speed": 12,
          "wind_direction": 207,
-         "cloud_cover": 3
+         "cloud_cover": 4
       },
       "23-02-2024": {
          "rainfall": 0,
@@ -28,24 +28,24 @@
          "rh_min": 16,
          "wind_speed": 12,
          "wind_direction": 162,
-         "cloud_cover": 4
+         "cloud_cover": 6
       },
       "24-02-2024": {
          "rainfall": 10,
          "t_max": 32,
          "t_min": 22,
          "rh_max": 74,
-         "rh_min": 16,
+         "rh_min": 10,
          "wind_speed": 10,
          "wind_direction": 158,
-         "cloud_cover": 6
+         "cloud_cover": 7
       },
       "25-02-2024": {
          "rainfall": 5,
          "t_max": 32,
          "t_min": 20,
          "rh_max": 89,
-         "rh_min": 34,
+         "rh_min": 10,
          "wind_speed": 10,
          "wind_direction": 90,
          "cloud_cover": 7
@@ -56,73 +56,63 @@
       "cluster bean",
       "pumpkin",
       "cucumber",
-      "tomato",
+      "watermelon",
       "paddy",
       "red gram",
       "groundnut",
+      "cucurbits",
       "potato",
       "mango",
-      "watermelon",
       "fishery"
    ],
-   "general_advisory": "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in afternoon hours to avoid high temperature.",
+   "general_advisory": "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in the afternoon to avoid high temperatures. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600g or Zineb 75% WP @ 500g per acre at 7 days interval. Use appropriate insecticides as mentioned for different crops.",
    "crops_data": {
       "cowpea": {
          "advisory": [
-            "To manage sucking pest at early stage of infestation spray neem-based pesticide."
+            "To manage sucking pests at an early stage of infestation, spray neem-based pesticide (Neem Oil 1500 PPM @600ml/acre by mixing it in 200-litre of water).",
+            "To manage these sucking pests chemically, spray Thiamethoxam 25% WG @ 40g/acre or Acetamiprid 20% SP @ 50g/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15% EC @ 400ml/acre by mixing it in 200-litre of water."
          ]
       },
       "cluster bean": {
          "advisory": []
       },
       "pumpkin": {
-         "advisory": [
-            "The main crop is ready for harvest within 75-85 days of planting."
-         ]
+         "advisory": []
       },
       "cucumber": {
-         "advisory": [
-            "To manage Epilachna Beetle, spray neem-based pesticide at early stage of infestation."
-         ]
+         "advisory": []
       },
-      "tomato": {
-         "advisory": [
-            "To manage early and late leaf blight, spray Mancozeb 75% WP."
-         ]
+      "watermelon": {
+         "advisory": []
       },
       "paddy": {
-         "advisory": [
-            "To manage stem borer, broadcast granular insecticide Chlorantraniliprole 0.4 % GR."
-         ]
+         "advisory": []
       },
       "red gram": {
-         "advisory": [
-            "To manage pod borer pests at early stage of infestation spray neem-based pesticide."
-         ]
+         "advisory": []
       },
       "groundnut": {
+         "advisory": []
+      },
+      "cucurbits": {
          "advisory": [
-            "To manage Thrips during primary stage of pest infestation."
+            "To manage Epilachna Beetle, spray neem-based pesticide (Neem Oil 1500 PPM) Azadiractin @ 600 ml/acre of water at an early stage of infestation.",
+            "To manage Epilachna Beetle chemically, spray Chlorpyriphos 20% EC @ 400ml/acre or Profenophos 50% EC @400ml/acre by mixing with 200-litre of water."
          ]
       },
       "potato": {
          "advisory": [
-            "The main crop is ready for harvest within 75-85 days of planting."
+            "The main crop is ready for harvest within 75-85 days of planting. Harvest when the majority of leaves turn yellowish brown. Stop irrigation 15 days before harvesting. Store harvested tubers in a shed for 48 hours and remove damaged/rotten tubers."
          ]
       },
       "mango": {
          "advisory": [
-            "Prevailing weather conditions are congenial for Mealy bug incidence."
-         ]
-      },
-      "watermelon": {
-         "advisory": [
-            "Present weather condition is favorable for watermelon cultivation."
+            "Prevailing weather conditions are congenial for Mealy bug incidence in mango. Control Mealy bug by spraying Dimethoate 30 EC @ 2 ml/liter of water during February-March as per requirements."
          ]
       },
       "fishery": {
          "advisory": [
-            "Small white rash on the body of fish is a symptom of white spot disease."
+            "Small white rash appearing on the body of fish and feeling rough to hand are symptoms of white spot disease in fish. To treat, bathe affected fish for 5 minutes in 200 litres of water mixed with 500g of salt and repeat for 7-10 days."
          ]
       }
    },

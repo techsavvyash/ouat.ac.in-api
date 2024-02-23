@@ -53,126 +53,124 @@
    },
    "names_of_crops": [
       "paddy",
-      "cashew",
+      "summer pulses",
+      "oilseed",
+      "vegetables",
+      "mustard",
+      "til",
+      "groundnut",
+      "sugarcane",
       "cowpea",
       "cluster bean",
       "pumpkin",
       "cucumber",
       "watermelon",
-      "vegetables",
-      "mustard",
-      "sugarcane",
-      "mung",
-      "biri",
-      "kulthi",
+      "cashew",
       "potato",
-      "groundnut",
-      "blackgram",
-      "greengram",
+      "black gram",
+      "green gram",
       "brinjal",
       "cole crops"
    ],
-   "general_advisory": "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in afternoon hour to avoid high temperature. Harvest the mustard crop as soon as the pods turn yellowish-brown. The crop is liable to shattering, hence it should be harvested just before the pods open to avoid losses. Harvest the potato crop which are at 75-85 days after planting and when majority of the leaves turn yellowish brown.",
+   "general_advisory": "Dry weather may prevail over the district with light rainfall on Saturday & Sunday. Sowing of specific crops is ideal during February-March. Harvesting guidelines for various crops are provided. Regular pest surveillance and management practices are recommended.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "If pre-emergence herbicides were not applied in paddy, to control weeds spray Bispyribacsodium @ 120 ml /acre at 10-12 DAS or, 2-3 leaf stage of weeds or, Penoxsulum 1.02% + Cyhalofop-butyl 5.1 % @ 800ml/acre at 15-20 DAS in 140 litres of water.",
-            "PADDY (Summer): Fertilizer Application (ActiveTillering) - Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties.",
-            "Yellow Stem Borer management - To manage stem borer in paddy at an early stage of crop, apply Cartap Hydrochloride 4 % G (@ 8-kg/acre or Fipronil 0.3 % GR @ 10-kg/acre or Chlorantraniliprole 0.4 % GR @ 4-kg/acre or Imidacloprid 0.3% GR @ 6-kg/acre by mixing it with sand at 1: 1 ratio."
+            "Apply pre-emergence herbicides if not applied",
+            "Apply recommended fertilizers for high yielding varieties",
+            "Manage stem borer with appropriate chemicals"
          ]
       },
-      "cashew": {
+      "summer pulses": {
          "advisory": [
-            "For controlling stem and root borer in cashew remove the minimum width of the bark (only the damaged or tunneled portions) retaining at least 50% of the bark circumference."
+            "Continue sowing at the appropriate time"
          ]
       },
-      "cowpea": {
+      "oilseed": {
          "advisory": [
-            "February-March is the ideal time for sowing of Cowpea."
-         ]
-      },
-      "cluster bean": {
-         "advisory": [
-            "February-March is the ideal time for sowing of Cluster bean."
-         ]
-      },
-      "pumpkin": {
-         "advisory": [
-            "February-March is the ideal time for sowing of Pumpkin."
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "February-March is the ideal time for sowing of Cucumber."
-         ]
-      },
-      "watermelon": {
-         "advisory": [
-            "February-March is the ideal time for sowing of Watermelon."
+            "Harvest when mature"
          ]
       },
       "vegetables": {
          "advisory": [
-            "Transplanting of vegetables should be done in the afternoon hour to avoid high temperature."
+            "Transplant in the afternoon to avoid high temperatures"
          ]
       },
       "mustard": {
          "advisory": [
-            "Harvest the mustard crop as soon as the pods turn yellowish-brown.",
-            "Harvested crop should be stacked in a threshing floor for 5 days before threshing. After thrashing dry, the seeds in sunlight for a few days to bring the moisture content of seeds up to 8 %."
+            "Harvest at the right maturity to prevent losses"
          ]
       },
-      "sugarcane": {
+      "til": {
          "advisory": [
-            "Planting of Sugarcane is under progress.",
-            "SUGARCANE Sett Rot management - To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water."
-         ]
-      },
-      "mung": {
-         "advisory": [
-            "Harvesting of rabi paira pulses like Mung is continuing."
-         ]
-      },
-      "biri": {
-         "advisory": [
-            "Harvesting of rabi paira pulses like Biri is continuing."
-         ]
-      },
-      "kulthi": {
-         "advisory": [
-            "Harvesting of rabi paira pulses like Kulthi is continuing."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "Harvest the potato crop which are at 75-85 days after planting and when majority of the leaves turn yellowish brown.",
-            "For harvesting stop the irrigation 15 days before. All the harvested tubers should be kept in a shed for 24 hours. Remove all the damaged and rotten tubers."
+            "Harvest at the right maturity"
          ]
       },
       "groundnut": {
          "advisory": [
-            "To manage Tobacco Caterpillar pest in Groundnut, Blackgram, Greengram during primary stages of pest infestation proper surveillance should be done to collect and destroy egg mass and caterpillar of the pest. Monitor the emergence of adult moths by setting up Pheromone traps having Spodolure @ 6-8 nos/acre. Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field."
+            "Manage Tobacco Caterpillar pest"
          ]
       },
-      "blackgram": {
+      "sugarcane": {
          "advisory": [
-            "To control aphids during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+            "Apply appropriate management practices for Sett Rot disease"
          ]
       },
-      "greengram": {
+      "cowpea": {
          "advisory": [
-            "To control aphids during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+            "Ideal sowing time is February-March"
+         ]
+      },
+      "cluster bean": {
+         "advisory": [
+            "Ideal sowing time is February-March"
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Ideal sowing time is February-March"
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Ideal sowing time is February-March"
+         ]
+      },
+      "watermelon": {
+         "advisory": [
+            "Ideal sowing time is February-March"
+         ]
+      },
+      "cashew": {
+         "advisory": [
+            "Control stem and root borer"
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Harvest at the right maturity",
+            "Proper post-harvest handling practices"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Control Aphid infestation"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Control Aphid infestation"
          ]
       },
       "brinjal": {
          "advisory": [
-            "To manage little leaf in brinjal first remove and destroy the infected plant. To manage the vector of the disease spray Thiamethoxam 25 % WG @ 40-gram/acre or Flonicamid 50% WG @ 60-gram/acre or Dinotefuran 20 % SG @ 80-gram/acre."
+            "Manage Little Leaf disease"
          ]
       },
       "cole crops": {
          "advisory": [
-            "To manage leaf webber and head borer pests, regular monitoring of pest infestation should be carried out. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Spray Neem based Pesticide (Azadirachtin) 300 PPM @ 1-litre /acre by mixing in 200-litre of water.",
-            "To manage these pests chemically spray Tolfenpyrad 15 % EC@ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200-litre of water."
+            "Regular monitoring for Leaf Webber and Head Borer pests",
+            "Appropriate chemical management strategies"
          ]
       }
    },

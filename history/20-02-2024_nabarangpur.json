@@ -4,51 +4,51 @@
          "rainfall": 0,
          "t_max": 34,
          "t_min": 17,
-         "cloud_cover": 2,
          "rh_max": 51,
          "rh_min": 17,
          "wind_speed": 10,
-         "wind_direction": 236
+         "wind_direction": 236,
+         "cloud_cover": 2
       },
       "22-02-2024": {
          "rainfall": 0,
          "t_max": 34,
          "t_min": 17,
-         "cloud_cover": 1,
          "rh_max": 57,
          "rh_min": 21,
          "wind_speed": 14,
-         "wind_direction": 243
+         "wind_direction": 243,
+         "cloud_cover": 1
       },
       "23-02-2024": {
          "rainfall": 0,
          "t_max": 34,
          "t_min": 18,
-         "cloud_cover": 1,
          "rh_max": 43,
          "rh_min": 25,
          "wind_speed": 13,
-         "wind_direction": 249
+         "wind_direction": 249,
+         "cloud_cover": 1
       },
       "24-02-2024": {
          "rainfall": 0,
          "t_max": 33,
          "t_min": 18,
-         "cloud_cover": 1,
          "rh_max": 40,
          "rh_min": 21,
          "wind_speed": 8,
-         "wind_direction": 240
+         "wind_direction": 240,
+         "cloud_cover": 1
       },
       "25-02-2024": {
          "rainfall": 5,
          "t_max": 31,
          "t_min": 20,
-         "cloud_cover": 7,
          "rh_max": 35,
          "rh_min": 15,
          "wind_speed": 9,
-         "wind_direction": 68
+         "wind_direction": 68,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
@@ -61,24 +61,24 @@
       "chilli",
       "mango"
    ],
-   "general_advisory": "Farmers are advised for not to burn the residue of kharif crops in the fields because it not only pollute the environment but also causes the severe health problems.",
+   "general_advisory": "Farmers are advised for not to burn the residue of kharif crops in the fields because it not only pollutes the environment but also causes severe health problems.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "In transplanted rice, to control weeds apply Bensulfuron methyl 0.6% + Pretilachlor 6% GR @ 4 kg/acre with 4 kg sand at 5-8 days after transplanting.",
-            "Due to rise in temperature, the attack of stem borer has aggravated in rice. Monitor for it, if observe apply granular insecticide Chlorantraniliprole 0.4% GR @ 4kg/acre or Cartap hydrochloride 4G @ 10 kg/acre mixing with sand."
+            "In transplanted rice, to control weeds apply Bensulfuron methyl 0.6% + Pretilachlor 6% GR @ 4 kg/acre with 4 kg sand at 5 -8 days after transplanting.",
+            "Due to rise in temperature, the attack of stem borer has aggravated in rice. Monitor for it, if observed apply granular insecticide Chlorantraniliprole 0.4% GR @ 4kg/acre or Cartap hydrochloride 4G @ 10 kg/acre mixing with sand."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Go for weeding after 3-4 weeks for groundnut, apply well powdered gypsum @ 100 kg/acre close to the base of the plant and incorporate in the soil. After application irrigate the crop.",
+            "Go for weeding after 3 -4 weeks for groundnut, apply well powdered gypsum @ 100 kg/acre close to the base of the plant and incorporate in the soil. After application irrigate the crop.",
             "To control tikka disease of groundnut spray Chlorothalonil 75% WP @ 2 g/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water.",
-            "Chances of tobacco caterpillar infestation in groundnut, to control it spray Thiamethoxam 12.6% + Lambda-Cyhalothrin 9.5% ZC @ 0.3 ml/litre of water or Profenophos 50% EC @ 2 ml/litre of water."
+            "Chances of tobacco caterpillar infestation in groundnut, to control it spray Thiamethoxam 12.6% + Lambda -Cyhalothrin 9.5% ZC @ 0.3 ml/litre of water or Profenophos 50% EC @ 2 ml/litre of water."
          ]
       },
       "mustard/toria": {
          "advisory": [
-            "Chances of aphid infestation, if observe spray Imidacloprid 17.8 % SL @ 0.3 ml/litre of water or Thiomethaxome 25%WG @ 0.2 g/litre of water."
+            "Chances of aphid infestation, if observed spray Imidacloprid 17.8 % SL @ 0.3 ml/litre of water or Thiomethaxome 25%WG @ 0.2 g/litre of water."
          ]
       },
       "green gram": {

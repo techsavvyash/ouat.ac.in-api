@@ -56,21 +56,21 @@
       "goat",
       "common fish"
    ],
-   "general_advisory": "Current weather allows planting of pine apple. Grow variety Que, Queen, Simachalan and Maritius. Climate and weather allows planting papaya up to March. Grow variety Honey dew, Kurg honey dew, Coembatore-1, Coembatore-2, Pusa delicious, Pusa majestic, Pusa dwarf and Pusa giant.",
+   "general_advisory": "Current weather allows planting of pineapple. Grow varieties Que, Queen, Simachalan, and Mauritius. Climate and weather allow planting papaya up to March. Grow varieties Honeydew, Kur G Honeydew, Coembatore-1, Coembatore-2, Pusa Delicious, Pusa Majestic, Pusa Dwarf, and Pusa Giant. Do not go for application of any pesticide on Thursday, Friday, Saturday.",
    "crops_data": {
       "green gram": {
          "advisory": [
-            "Green gram crop is at pod formation to mature stage. Due to the high regular dew fall and prevailing dry weather the Powdery mildew disease is going to aggravate in coming days. So go for foliar application of Sulphur 80% WP/Litre of water. (Do not go for application of any fungicide on Thursday, Friday, Saturday.)"
+            "Green gram crop is at pod formation to mature stage. Due to the high regular dew fall and prevailing dry weather, the Powdery mildew disease is going to aggravate in the coming days. So go for foliar application of Sulphur 80% WP per litre of water. (Do not go for application of any fungicide on Thursday, Friday, Saturday.)"
          ]
       },
       "goat": {
          "advisory": [
-            "Do vaccination of goat within three months to control P.P.R disease, and in case goats are affected give them antibiotics like Siproplafaxin, Eneroflaxin."
+            "Do vaccination of goat within three months to control P.P.R disease, and in case goats are affected, give them antibiotics like Siproplafaxin, Eneroflaxin, and other multivitamins."
          ]
       },
       "common fish": {
          "advisory": [
-            "To prevent any disease/mortality problems, the water quality parameters should be maintained in the range of pH-7.5 to 8.5, Dissolved oxygen -5.0ppm, Temperature- 25-30°C, total alkalinity- 75-175ppm, total hardness- 75-150ppm. Use of CIF ABROOD of 3-5 mm diameter sinking pellet type and fed @ 3-5% body weight per day for two months prior to breeding for better growth & survival of the spawn and try as well as for early maturation and spawning of brooders."
+            "To prevent any disease/mortality problems, the water quality parameters should be maintained in the range of pH 7.5 to 8.5, Dissolved oxygen 5.0ppm, Temperature 25-30°C, total alkalinity 75-175ppm, total hardness 75-150ppm. Use CIF ABROOD of 3-5 mm diameter sinking pellet type and feed at 3-5% body weight per day for two months prior to breeding for better growth and survival of the spawn and try as well as for early maturation and spawning of brooders."
          ]
       }
    },

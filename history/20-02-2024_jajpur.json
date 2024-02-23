@@ -57,56 +57,55 @@
       "blackgram",
       "rapeseed & mustard",
       "vegetables",
-      "cucurbits",
-      "tomato & brinjal",
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops...",
+   "general_advisory": "Dry weather for 2 days & light rain for 3 days with clear sky to generally cloudy sky. The wind speed is likely to remain within 11-17km/h. Maximum temperature expected to be 30-34°C and minimum temperature 21-23°C for the next five days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Due to increased difference between daily maximum and minimum temperature favors the infestation of blast in main field as well as nursery..."
+            "Drain out excess water from paddy field & conduct regular surveillance work to control various pests and diseases.",
+            "Spray Tebuconazole 50% + Trifloxystrobin 25% WG for leaf blast infestation and Azadirachtin or Lambda-cyhalothrin for Thrips infestation."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect setts from the whole cane of a 6 –8-month-old plant crop free from diseases and insect pests..."
+            "Collect healthy setts and treat them before planting.",
+            "Manage sett rot disease with appropriate treatments.",
+            "Remove infected plants in ratoon crop and apply recommended fertilizers.",
+            "Protect cane hips from termite attack post-harvest."
          ]
       },
       "blackgram": {
          "advisory": [
-            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended..."
+            "Spray Tebuconazole + Sulphur to reduce incidence of various diseases.",
+            "Control aphids with Neem Based Pesticide and Thiamethoxam or Acetamiprid."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit..."
+            "Spray Dimethoate for aphid control.",
+            "Manage Mustard Sawfly, Leaf Webber, and Tobacco Caterpillar infestation with Neem-based pesticide.",
+            "Ensure spraying is done in the afternoon to protect beneficial insects."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits..."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits..."
-         ]
-      },
-      "tomato & brinjal": {
-         "advisory": [
-            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed..."
+            "Use Acephate and neem oil to minimize damage by Red Pumpkin Beetle in cucurbits.",
+            "Control pests in cucumber with neem-based pesticide or chlorpyriphos.",
+            "Apply fungicide and provide support for tomato plants.",
+            "Minimize infestation of sucking insects with appropriate sprays."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Small white rash appear on the body of fish and feels rough to hand are the symptoms of white spot disease in fish..."
+            "Treat white spot disease in fish with salt bath for 5 minutes in a specific concentration for 7-10 days."
          ]
       },
       "animal science": {
          "advisory": [
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals..."
+            "Provide mineral mixture along with salt regularly to animals for energy requirements.",
+            "Include wheat grains and jaggery in daily ration during winter season."
          ]
       }
    },

@@ -60,48 +60,41 @@
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Rice: Drain out excess water from paddy field & regular surveillance work should be taken up in all crops. Sugarcane: Collect setts, do sett rot management, remove infected plants, spray after harvesting. Blackgram: Spray to reduce incidence of powdery mildew, anthracnose & stem rot. Rapeseed & Mustard: Spray for controlling pests. Vegetables: Various spraying recommendations for different pests. Pisciculture: Treat white spot disease in fish. Animal science: Provide mineral mixture along with salt regularly.",
+   "general_advisory": "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies. Due to increased difference between daily maximum and minimum temperature favors the infestation of blast in main field as well as nursery.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops to control disease pests."
+            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect setts from disease-free plants for planting.",
-            "Manage sett rot disease with recommended sprays.",
-            "Remove infected plants in ratoon crop and apply recommended treatments.",
-            "Protect harvested sugarcane from termite attack."
+            "Collect setts from the whole cane of a 6–8-monthold plant crop free from diseases and insect pests. Select the upper 1/3rd of cane if seeds are collected from 8-12-month-old crop for better sprouting."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray to reduce incidence of powdery mildew, anthracnose & stem rot.",
-            "Control aphids with recommended sprays."
+            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control pests with recommended sprays."
+            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spraying recommendations for Red Pumpkin Beetle, Epilachna Beetle, and other pests in different vegetables.",
-            "Provide support for tomato plants to improve fruit set.",
-            "Spray to control sucking insect pests in nursery and main field."
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Treat white spot disease in fish by bathing affected fish in saltwater."
+            "Small white rash appear on the body of fish and feels rough to hand are the symptoms of white spot disease in fish. Excessive mucus secret from fish body."
          ]
       },
       "animal science": {
          "advisory": [
-            "Provide mineral mixture with salt regularly.",
-            "Include wheat grains, jaggery, etc., in the daily ration during winter season for energy requirement."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },
