@@ -1,3 +1,120 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "21-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 80,
+         "rh_min": 18,
+         "wind_speed": 9,
+         "wind_direction": 225,
+         "cloud_cover": 1
+      },
+      "22-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 77,
+         "rh_min": 16,
+         "wind_speed": 12,
+         "wind_direction": 207,
+         "cloud_cover": 4
+      },
+      "23-02-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 22,
+         "rh_max": 69,
+         "rh_min": 16,
+         "wind_speed": 12,
+         "wind_direction": 162,
+         "cloud_cover": 3
+      },
+      "24-02-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 74,
+         "rh_min": 16,
+         "wind_speed": 10,
+         "wind_direction": 158,
+         "cloud_cover": 6
+      },
+      "25-02-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 20,
+         "rh_max": 89,
+         "rh_min": 34,
+         "wind_speed": 10,
+         "wind_direction": 90,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "cowpea",
+      "cluster bean",
+      "pumpkin",
+      "cucumber",
+      "watermelon",
+      "paddy",
+      "red gram",
+      "groundnut",
+      "sugarcane",
+      "little leaf of brinjal"
+   ],
+   "general_advisory": "February- March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval.",
+   "crops_data": {
+      "cowpea": {
+         "advisory": [
+            "To manage sucking pest at an early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @600ml/acre by mixing it in 200-litre of water. To manage these sucking pests chemically spray Thiamethoxam 25 % WG @ 40g/acre or Acetamiprid 20 % SP @ 50g/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15 % EC @ 400ml/acre by mixing it in 200-litre of water."
+         ]
+      },
+      "cluster bean": {
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
+      },
+      "watermelon": {
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Due to the rise in temperature, there are chances of an increase in stem borer infestation in the paddy crop. To manage stem borer in paddy, broadcast granular insecticide Chlorantraniliprole 0.4 % GR @ 4 kg acre by mixing it with sand at a 1:1 ratio or spray Chlorantraniliprole 18.5 % SC @ 60 ml/acre."
+         ]
+      },
+      "red gram": {
+         "advisory": [
+            "To manage pod borer pests at an early stage of infestation spray neem 1500 PPM @ 600ml/acre by mixing in 200 Bacillus thuringiensis @ 400g/acre by mixing in 200. For chemical control, spray Chlorpyriphos 5 0 % + Cypermethrin 5%EC @ 400ml/acre or Profenophos  50%EC @ 400 ml/acre or Emamectin benzoate 5 %"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage Thrips during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage chemically spray Thiamethoxam 25% W.G. @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g mixing in 200 litres of water."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To manage SUGARCANE Sett Rot management, use Chlorpyriphos 5 0 % + Cypermethrin 5%EC @ 400ml/acre or Profenophos  50%EC @ 400 ml/acre. "
+         ]
+      },
+      "little leaf of brinjal": {
+         "advisory": [
+            "To manage Little Leaf of Brinjal, follow the specific advisory for this sub-group."
+         ]
+      }
+   },
+   "date": "20-02-2024"
 }

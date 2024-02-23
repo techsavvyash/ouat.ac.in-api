@@ -60,53 +60,41 @@
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Rice: Drain out excess water from paddy field & regular surveillance work should be taken up in all crops. Sugarcane: Collect healthy setts for planting. Blackgram: Spray recommended pesticides to control diseases and pests. Rapeseed & Mustard: Control aphids and other pests. Vegetables: Implement pest management practices. Pisciculture: Treat white spot disease in fish. Animal Science: Provide minerals and adequate nutrition to animals.",
+   "general_advisory": "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies. Due to increased difference between daily maximum and minimum temperature favors the infestation of blast in main field as well as nursery.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Drain out excess water from paddy field.",
-            "Regular surveillance work should be taken up in order to know the incidence of various disease pests and control strategies."
+            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect healthy setts from a disease-free source.",
-            "Conduct sett rot management to prevent diseases after planting.",
-            "Remove disease and pest-infected plants in ratoon crop."
+            "Collect setts from the whole cane of a 6–8-monthold plant crop free from diseases and insect pests. Select the upper 1/3rd of cane if seeds are collected from 8-12-month-old crop for better sprouting."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray recommended pesticides to reduce disease incidence.",
-            "Control aphids during primary stage with neem-based pesticides.",
-            "Use appropriate chemical sprays to manage pests."
+            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control aphids with recommended insecticides.",
-            "Spray neem-based pesticide to prevent infestation."
+            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Implement pest management practices for Cucurbits.",
-            "Spray neem-based pesticide for Epilachna Beetle in cucumber.",
-            "Start sowing tomato seeds for summer cultivation.",
-            "Apply appropriate treatments to prevent wilting in brinjal and tomato.",
-            "Provide support for better growth of tomato plants.",
-            "Use insecticides to minimize pest infestation."
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Treat white spot disease in fish by bathing affected fish in salt-water mix."
+            "Small white rash appear on the body of fish and feels rough to hand are the symptoms of white spot disease in fish. Excessive mucus secret from fish body."
          ]
       },
       "animal science": {
          "advisory": [
-            "Regularly provide mineral mixture and salt to animals.",
-            "Include wheat grains and jaggery in daily ration for energy requirement."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },

@@ -57,52 +57,51 @@
       "blackgram",
       "rapeseed & mustard",
       "vegetables",
+      "tomato & brinjal",
       "pisciculture",
-      "animal husbandry"
+      "animal science"
    ],
-   "general_advisory": "Dry weather for 2 days & light rain for 3 days with clear to generally cloudy sky. Maximum temperature 30-34°C and minimum temperature 21-23°C. Wind speed expected to be 11-17 kmph.",
+   "general_advisory": "District Jajpur likely to receive dry weather for 2 days & light rain for 3 days with clear sky to generally cloudy sky. Maximum temp 30-34°C, minimum temp 21-23°C. Wind speed 11-17km/h.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Drain out excess water from paddy field & monitor for disease pests.",
-            "Take measures to prevent blast infestation.",
-            "Complete transplanting of summer rice with specified basal application."
+            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect healthy setts for planting and treat them properly.",
-            "Manage sett rot disease through specified drenching or foliar spray.",
-            "Remove infected plants in ratoon crop and apply recommended substances."
+            "Collect setts from the whole cane of a 6-8 month-old plant crop free from diseases and insect pests.",
+            "Sett Rot management - To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray to reduce incidence of diseases.",
-            "Control aphids with specified pesticides."
+            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @ 500g/acre recommended."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control pests with specific insecticides.",
-            "Prevent infestation at early stages."
+            "The mustard/Toria crop is at the flowering to pod filling stage."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spray to minimize damage from Red Pumpkin Beetle and other pests.",
-            "Apply specified measures to prevent wilting in tomato & brinjal.",
-            "Provide support for tomato plants for better growth."
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits."
+         ]
+      },
+      "tomato & brinjal": {
+         "advisory": [
+            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Identify and treat symptoms of white spot disease in fish."
+            "Small white rash appear on the body of fish and feels rough to hand are the symptoms of white spot disease in fish."
          ]
       },
-      "animal husbandry": {
+      "animal science": {
          "advisory": [
-            "Provide necessary mineral mixture and feed for animals during winter."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },

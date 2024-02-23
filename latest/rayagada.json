@@ -1,7 +1,7 @@
 {
    "weather_details": {
       "2024-02-07": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 33,
          "t_min": 16,
          "rh_max": 64,
@@ -11,7 +11,7 @@
          "cloud_cover": 1
       },
       "2024-02-08": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 33,
          "t_min": 16,
          "rh_max": 75,
@@ -21,7 +21,7 @@
          "cloud_cover": 0
       },
       "2024-02-09": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 32,
          "t_min": 14,
          "rh_max": 81,
@@ -31,7 +31,7 @@
          "cloud_cover": 1
       },
       "2024-02-10": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 30,
          "t_min": 14,
          "rh_max": 95,
@@ -41,7 +41,7 @@
          "cloud_cover": 1
       },
       "2024-02-11": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 28,
          "t_min": 15,
          "rh_max": 66,
@@ -63,9 +63,9 @@
             "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea."
          ]
       },
-      "pigeon pea": {
+      "pigeon pea (red gram/arhar)": {
          "advisory": [
-            "To avoid storage pests’ infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
+            "To avoid storage pests' infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
          ]
       },
       "onion": {

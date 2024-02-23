@@ -54,150 +54,50 @@
    "names_of_crops": [
       "paddy",
       "summer pulses",
-      "oilseed",
       "mustard",
-      "til",
       "groundnut",
-      "rab i paira pulses",
       "sugarcane",
-      "cowpea",
-      "cluster bean",
-      "pumpkin",
-      "cucumber",
-      "watermelon",
-      "cashew",
-      "potato",
-      "tobacco caterpillar pest",
-      "blackgram",
-      "greengram",
-      "stem borer",
-      "sett rot",
-      "aphid",
-      "little leaf of brinjal",
-      "leaf webber",
-      "head borer"
+      "brinjal",
+      "cole crops"
    ],
-   "general_advisory": "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. Harvesting guidelines for mustard and potato crops. Management practices for various pests including stem borer, sett rot, aphid, little leaf of brinjal, leaf webber, and head borer.",
+   "general_advisory": "The mean maximum daily temperature was 30.1°C and the mean minimum daily temperature was 21.4°C in Jagatsinghpur district during the last week. The district received no rainfall in the last seven days. Therefore, continue transplanting summer paddy and sow summer pulses, oilseed, and vegetables. Harvest mustard, til, and groundnut. Crop coverage is 86% of the total program area with a normal overall crop condition. Forecast for the next 5 days includes light rainfall on Saturday & Sunday, clear to generally cloudy sky conditions, and wind speeds within 12-30 km/h.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Apply pre-emergence herbicides if not already done.",
-            "Follow Yellow Stem Borer management methods."
+            "If pre-emergence herbicides were not applied in paddy, controlling weeds by spraying Bispyribacsodium @ 120 ml /acre, Penoxsulum 1.02% + Cyhalofop-butyl 5.1 %, etc.",
+            "To manage Bacterial Leaf Blight in paddy, spray Copper Hydroxide 53.8% DF, CopperOxy Chloride 50% WP, etc.",
+            "Fertilizer Application (Active Tillering) - Apply 35 kg Urea per acre at 3 weeks after transplanting",
+            "Yellow Stem Borer management - Apply Cartap Hydrochloride 4 % G, Fipronil 0.3 % GR, etc."
          ]
       },
       "summer pulses": {
          "advisory": [
-            "Follow general planting and care practices for summer pulses."
-         ]
-      },
-      "oilseed": {
-         "advisory": [
-            "Harvest Mustard, Til, and Groundnut when ready."
+            "February-March is the ideal time for sowing of Cowpe a and Cluster bean"
          ]
       },
       "mustard": {
          "advisory": [
-            "Harvest mustard crop as per guidelines provided."
-         ]
-      },
-      "til": {
-         "advisory": [
-            "Harvest Til crop as per guidelines provided."
+            "Harvest the mustard crop as soon as the pods turn yellowish-brown"
          ]
       },
       "groundnut": {
          "advisory": [
-            "Follow the guidelines for managing stem and root borer in cashew."
-         ]
-      },
-      "rab i paira pulses": {
-         "advisory": [
-            "Continue harvesting rab i paira pulses like Mung, Biri, and Kulthi."
+            "To manage Tobacco Caterpillar pest in Groundnut, Blackgram, Greengram, surveil and destroy egg mass and caterpillar of the pest"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Follow guidelines for planting and managing Sugarcane."
+            "SUGARCANE Sett Rot management - Basal drenching with Carbendazim 12% + Mancozeb 63%, foliar spray with Metalaxyl 8% + Mancozeb 64% WP"
          ]
       },
-      "cowpea": {
+      "brinjal": {
          "advisory": [
-            "Sow Cowpea during February-March."
+            "Little Leaf of Brinjal - To manage little leaf in brinjal, remove and destroy infected plants, and spray Thiamethoxam 25% WG, Flonicamid 50% WG, etc."
          ]
       },
-      "cluster bean": {
+      "cole crops": {
          "advisory": [
-            "Sow Cluster bean during February-March."
-         ]
-      },
-      "pumpkin": {
-         "advisory": [
-            "Sow Pumpkin during February-March."
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "Sow Cucumber during February-March."
-         ]
-      },
-      "watermelon": {
-         "advisory": [
-            "Sow Watermelon during February-March."
-         ]
-      },
-      "cashew": {
-         "advisory": [
-            "Follow guidelines for managing stem and root borer in cashew."
-         ]
-      },
-      "potato": {
-         "advisory": [
-            "Follow guidelines for managing Potato crop."
-         ]
-      },
-      "tobacco caterpillar pest": {
-         "advisory": [
-            "Implement surveillance and control measures for Tobacco Caterpillar pest."
-         ]
-      },
-      "blackgram": {
-         "advisory": [
-            "Implement control measures for aphids in Blackgram."
-         ]
-      },
-      "greengram": {
-         "advisory": [
-            "Implement control measures for aphids in Greengram."
-         ]
-      },
-      "stem borer": {
-         "advisory": [
-            "Follow stem borer management methods in paddy."
-         ]
-      },
-      "sett rot": {
-         "advisory": [
-            "Implement management practices for sett rot in Sugarcane."
-         ]
-      },
-      "aphid": {
-         "advisory": [
-            "Implement control measures for aphids in various crops."
-         ]
-      },
-      "little leaf of brinjal": {
-         "advisory": [
-            "Implement management practices for Little Leaf of Brinjal."
-         ]
-      },
-      "leaf webber": {
-         "advisory": [
-            "Implement management practices for Leaf Webber in cole crops."
-         ]
-      },
-      "head borer": {
-         "advisory": [
-            "Implement management practices for Head Borer in cole crops."
+            "Leaf Webber and Head Borer management - Regular monitoring of pest infestation, collect and destroy caterpillars, and spray Neem based Pesticide, Tolfenpyrad 15 % EC, etc."
          ]
       }
    },

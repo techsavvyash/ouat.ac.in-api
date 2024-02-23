@@ -57,26 +57,26 @@
       "tomato",
       "common carp"
    ],
-   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops. SMS Advisory: Rain is expected in the coming five days.",
+   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
    "crops_data": {
       "green gram": {
          "advisory": [
-            "To control sucking pest infestation in green gram, spray Thiamethoxam - 05 gram in 15 lt of water."
+            "To control sucking pest infestation in green gram spray Thiamethoxam - 05 gram IN 15 lt of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Rain is expected in the coming five days, hence farmers can postpone irrigation in standing crop fields. Provide drainage to remove excess rainwater from the field."
+            "Rain is expected in the coming five days hence farmers can postpone irrigation in standing crop field. Provide drainage to remove excess rainwater from field."
          ]
       },
       "tomato": {
          "advisory": [
-            "If fruit borer infestation is observed, spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carry out the spray operation in clear weather conditions."
+            "If fruit borer infestation is observed, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carried out spray operation in clear weather conditions."
          ]
       },
       "common carp": {
          "advisory": [
-            "Common white spots in fishes are called EUS mainly observed in winter. These spots later turn into wounds which lead to the mortality of fishes. To prevent this, apply Aquaneem @1lt/ha or CIF AX @1lt/ha."
+            "Common white spots in fishes are called EUS mainly observed in winter. These spots later on turned into wounds which led to the mortality of fishes. To prevent this, apply Aquaneem @1lt/ha or CIF AX @1lt/ha."
          ]
       }
    },

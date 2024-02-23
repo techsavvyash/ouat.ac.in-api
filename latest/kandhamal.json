@@ -59,7 +59,7 @@
       "tomato",
       "fisheries"
    ],
-   "general_advisory": "Farmers should follow the specific crop advisories provided for better yield and pest management. Use OUAT KALINGA products for improved agricultural benefits.",
+   "general_advisory": "Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties. To control mango hoppers spray midacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G@ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. Onion Seedlings of 8 -weeks old which are 12 -15 cm in height should be planted in the main field. To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200 -litre of water. In Rice, Zinc-deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G@ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. To control aphids and thrips in chilli during primary stage of pest infestations pray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200-litre of water. In Zinc-deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Farmers should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties. During primary stage of whitefly infestation spray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200-liter of water. To manage this pest chemically spray Thiamethoxam 25% WG @ 40-gram/acre or Pyriproxyfen 10% EC @ 200 -ml/acre or Spiromesifen 22.9% SC @ 250 -ml/acre by mixing in 200 -liter of water. At the stage of early flowering in Tomato, if fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5%SC @ 80 ml/acre or Flubendiamide 39.5 % M/MS.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use pheromone trap 20@acre. In winter, common white spots called EUS are found in fishes which later turn into wounds leading to mortality. To prevent this, apply Aquaneem @ 1lt/ha or CIFAX @ 1lt/ha.",
    "crops_data": {
       "mango": {
          "advisory": [
@@ -69,7 +69,7 @@
       },
       "chilli": {
          "advisory": [
-            "To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water."
+            "To control aphids and thrips in chili during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200-litre of water."
          ]
       },
       "rice": {
@@ -81,19 +81,18 @@
       "brinjal": {
          "advisory": [
             "During primary stage of whitefly infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water.",
-            "To manage this pest chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Pyriproxyfen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250-ml/acre by mixing in 200-liter of water."
+            "To manage this pest chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Pyriproxyfen 10% EC @ 200 -ml/acre or Spiromesifen 22.9% SC @ 250 -ml/acre by mixing in 200 -liter of water."
          ]
       },
       "tomato": {
          "advisory": [
-            "If fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/ M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre.",
+            "If fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/MS.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre.",
             "Use pheromone trap 20@acre."
          ]
       },
       "fisheries": {
          "advisory": [
-            "In winter, common white spots are found in fishes called EUS. These spots later on turned into wounds which led to the mortality of fishes.",
-            "To prevent this, apply Aquaneem @ 1lt/ha or CIFAX @ 1lt/ha."
+            "In winter, common white spots are found in fishes called EUS. Apply Aquaneem @ 1lt/ha or CIFAX @ 1lt/ha to prevent the spots."
          ]
       }
    },
