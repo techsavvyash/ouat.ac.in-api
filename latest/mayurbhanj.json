@@ -1,114 +1,153 @@
 {
    "weather_details": {
-      "2024-02-21": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 51,
-         "rh_min": 21,
-         "wind_speed": 9,
-         "wind_direction": 244,
-         "cloud_cover": 1
-      },
-      "2024-02-22": {
+      "27-03-2024": {
          "rainfall": 0,
          "t_max": 34,
+         "t_min": 20,
+         "rh_max": 59,
+         "rh_min": 22,
+         "wind_speed": 12,
+         "wind_direction": 207,
+         "cloud_cover": 0
+      },
+      "28-03-2024": {
+         "rainfall": 0,
+         "t_max": 35,
          "t_min": 21,
-         "rh_max": 54,
-         "rh_min": 21,
+         "rh_max": 63,
+         "rh_min": 17,
          "wind_speed": 12,
          "wind_direction": 199,
-         "cloud_cover": 3
+         "cloud_cover": 0
       },
-      "2024-02-23": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 22,
-         "rh_max": 68,
-         "rh_min": 26,
+      "29-03-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 23,
+         "rh_max": 56,
+         "rh_min": 15,
+         "wind_speed": 11,
+         "wind_direction": 200,
+         "cloud_cover": 0
+      },
+      "30-03-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 23,
+         "rh_max": 63,
+         "rh_min": 18,
          "wind_speed": 14,
-         "wind_direction": 207,
+         "wind_direction": 201,
          "cloud_cover": 6
       },
-      "2024-02-24": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 54,
-         "rh_min": 29,
+      "31-03-2024": {
+         "rainfall": 10,
+         "t_max": 38,
+         "t_min": 23,
+         "rh_max": 53,
+         "rh_min": 20,
          "wind_speed": 12,
-         "wind_direction": 30,
-         "cloud_cover": 7
-      },
-      "2024-02-25": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 60,
-         "rh_min": 30,
-         "wind_speed": 10,
-         "wind_direction": 117,
-         "cloud_cover": 6
+         "wind_direction": 214,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
-      "rice",
+      "chickpea",
+      "linseed",
       "mustard",
+      "cauliflower",
+      "cucumber",
       "brinjal",
-      "onion",
+      "chilli",
       "tomato",
-      "marigold",
-      "potato",
-      "cabbage",
-      "chicken"
+      "mango",
+      "banana",
+      "cow",
+      "poultry"
    ],
-   "general_advisory": "The district is likely to receive light rainfall with mainly cloudy to generally cloudy sky. Harvestable produce i.e., matured fruits, vegetables and flowers must be harvested and marketed to avoid deterioration of quality due to chances of occurrence of the rain. Apply frequent light irrigation to summer paddy seedlings in nursery if required. Covering the vegetable crops with polythene that must not have a hole, in a way that the polysheet will not touch the crop. Remove the cover in daytime. In the event of fog in some places, possible crop damage may occur. Farmers can go for harvest the matured crops. Farmers can do weeding & earthing up operations. High humid conditions favor the increase of diseases & pests. Farmers can take plant protection measures. Apply the insecticides in the afternoon hours so that the movement of Honeybees will not be disturbed. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying. Farmers can adopt plant protection measures. Do not repeat the same insecticide, use any of the insecticides alternately at 15 days-interval.",
+   "general_advisory": "Harvest the matured crops from the field. Irrigate the field if necessary. Use celphos tablets to keep away the insects during storage. Monitor the field for pests and disease infestation.",
    "crops_data": {
-      "rice": {
+      "chickpea": {
          "advisory": [
-            "The crops are at two to four-week stage in the nursery. If there is a root disease in the paddy field after the rain, apply 2 g of Metalaxyl+Mancozeb per liter of water and spray it on the root zone. Apply light and frequent irrigation to the paddy seedlings in the nursery to protect from the cold. The transplanted paddy seedlings are at the establishment stage to one week in the main field. Farmers those who are going for transplanting should apply 35- kg DAP, 30-kg MOP, and 8-kg Urea per acre during the last puddling. For sandy soil, apply 35 kg DAP, 15 kg MOP, and 8 kg Urea per acre during the last puddling. In Zinc deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Transplanting of 25-30 days old seedlings should be done at a spacing of 20 x15 cm, plant 2-3 seedlings per hill for high yielding varieties."
+            "Harvest the matured chickpea.",
+            "Check for the disease and pest infestation.",
+            "To reduce the borer infestation in chickpea, apply Neem oil @ 12.5 lt/ha or spray Triazophos 40 EC @ 2 ml/lt.",
+            "Chickpea plant can be sold at market during fruiting time to fetch good return."
+         ]
+      },
+      "linseed": {
+         "advisory": [
+            "Harvest the matured linseed.",
+            "Separate seeds at clean floor surface.",
+            "Store the linseed at safe places."
          ]
       },
       "mustard": {
          "advisory": [
-            "The mustard crop is at the flowering stage. The rainfall received during the last week which results in higher humidity and lower temperature might aggravate Downy Mildew in Mustard. High relative humidity also might aggravate white rust. After rain, to manage Downy Mildew & white rust chemically spray 3.5 ml Metalaxyl-M 31.8% ES or 2.5g Metalaxyl M 4 % + Mancozeb 64 % WP per liter of water. There are chances of Leaf Webber and Mustard sawfly infestation in mustard crop. To manage Mustard sawfly and leaf Webber spray Ethofenprox 10 % EC @ 200-ml/acre or Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 liters of water. There are chances of aphid and painted bug infestation in mustard crop. During the primary stage of infestation of Aphid and Painted Bug, spray Neem Based Pesticide 1500 PPM @ 600-ml/acre. To manage Aphids and Painted Bug chemically spray Thiomethoxam 25% W. G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml acre by mixing in 200 liters of water. Apply the insecticides in the afternoon hours so that the movement of Honeybees will not be disturbed."
+            "Harvest the mustard and sun dry it to reduce the moisture content.",
+            "Seeds can be sold at market to get good return."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Harvest the matured cauliflower and sell it near the market to fetch good return.",
+            "To manage cutworms in cabbage, apply Chloropyriphos @ 2 ml/lt."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Irrigate the crop regularly.",
+            "Apply FYM and vermicompost.",
+            "For controlling downy mildew, spray Mancozeb 2 g/lt at an interval of 10 days."
          ]
       },
       "brinjal": {
          "advisory": [
-            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves, and shedding of flower buds. To manage the pest, remove the affected terminal shoot showing boreholes and the affected fruits. To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Go for chemical control if there is 4% withering of the terminal shoot or 14% fruits infested with borers. For chemical control spray Spinosad 45 % SC @ 75- ml/acre or Emamectin Benzoate 5% SG @ 80-gram/ acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. Do not repeat the same insecticide. Use any of the above insecticides alternately at 15-days interval."
+            "Harvest the matured brinjal.",
+            "Irrigate the plants regularly.",
+            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10 lt of water."
          ]
       },
-      "onion": {
+      "chilli": {
          "advisory": [
-            "The transplanted onion is at vegetative to bulb formation (eight to eleven-week) stage. Onion being a shallow-rooted crop, needs frequent light irrigation to maintain optimum soil moisture for proper growth and bulb development. Rabi crop needs 10-15 irrigations at 7-10 days interval depending upon the soil moisture condition. There are chances of infestation of thrips in onion crop. To manage thrips Interculture operation and irrigation should be done at regular interval. To manage thrips during the primary stage of pest infestation spray Neem Based Pesticide 1500 PPM @ 600 ml/acre. To manage this pest chemically in onion chemically spray Thiomethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre by mixing in 200 liters of water. Add a spreader or sticker for retention and spread of spray fluid on erect leaves of onion."
+            "Harvest the chilli regularly and provide irrigation to the crop.",
+            "Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water."
          ]
       },
       "tomato": {
          "advisory": [
-            "The transplanted tomato crop is at fruit maturity to harvesting (thirteen to sixteen-week) stage in the main field. There are chances of infestation of whiteflies in Tomato Crop. Both nymphs and adults of whiteflies cause direct damage by sucking sap from the underside of the plant. The damage symptoms of whiteflies in tomato are chlorotic spots, yellowing of leaves, upward curling, and finally drying of leaves. Whiteflies are also a vector of viral diseases which can result in total crop losses. To manage this pest in Tomato crop, use yellow sticky traps @ 8-10/acre to attract and kill the insects. During the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. To manage this pest chemically spray Thiomethoxam 25 % WG @ 40-gram/acre or Pyriproxifen 10% EC @ 200-ml/acre or Spiromesifen 22.9% SC @ 250-ml/acre by mixing in 200-litre of water. To manage fruit borer in tomato first collect and destroy the affected fruits and grown-up larvae. Set up 20 nos. of pheromone trap having Helilure per acre. During the primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Go for spraying of insecticide if there are 10% fruits infested with borer. For chemical control spray Chlorantraniliprole 18.5% S.C @ 80 -ml/acre or Flubendiamide 39.5 % M/M S.C @ 40-ml/acre or Indoxacarb 14.5% S.C. @ 200-ml/acre. For spraying of insecticides 200 liters of water per acre is required. Use any of the above insecticides alternately at 15 days interval."
+            "Staking of tomato plant is necessary.",
+            "Don’t let touch the tomato fruit to the soil. Rotting can occur.",
+            "Harvest the Tomato when it is half ripen to store it for more time.",
+            "For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
          ]
       },
-      "marigold": {
+      "mango": {
          "advisory": [
-            "There is a chance of red mite infestation in the prevailing weather conditions. To manage Red Spider Mites in flower-like Marigold and rose spray Propargite 57 % EC @ 2-ml/litre of water or Fenpyroximate 5 % EC @ 2-ml/litre of water."
+            "Remove the diseased plant parts from the tree.",
+            "Irrigate the tree regularly.",
+            "Spraying of Thiomethoxam @ 0.5 g/lt can help in managing mango mealy bug.",
+            "Spray Planofix @ 0.4 ml/lt to reduce the flower drop in mango."
          ]
       },
-      "potato": {
+      "banana": {
          "advisory": [
-            "The cut worm pests are nocturnal and they hide below the soil during daytime. There are chances of Cut Worm infestation in the potato crop. In the early stages of the crop, the Cut worm larvae cut the stem portion of the young plants near the ground and feed on the shoots and leaves at night. After tuber formation, they bore and nibble into the tubers affecting both tuber yield and market value. To manage cut worm in the potato crop spray Chlorpyriphos 50% + Cypermethrin 5 % E.C @ 400 ml/acre by mixing it in 200 liters of water. Cut Worm pest is nocturnal so insecticide spray should be done at evening hours. Dusting of Chlorpyriphos 1.5% DP@ 10-kg/acre should be done across the bund. There are chances of infestation of sucking pests like Aphid and Jassids in the potato crop. To manage Aphids and Jassids during the primary stage of pest infestation spray Neem Based Pesticide 1500 PPM @ 600-ml/acre. To manage these pests chemically, spray Thiomethoxam 25% W.G @ 40-gram/acre or Dinotefuran 20 % SG @ 80-gram/acre or Flonicamide 50 % WG @ 60-gram/acre by mixing in 200 liters of water. Current weather situation is favorable for leaf blight disease incidence in the potato crop. To manage late blight in the potato spray Metalaxyl 8% + Mancozeb 64% W.P @ 400-gram/acre at 10 days interval. The main crop of potato is ready for harvest within 75-85 days of planting depending upon the soil type and variety sown in our climatic condition. The crop is ready to harvest when the majority of the leaves turn yellowish brown. Irrigation should be stopped 15 days before harvesting. Keep the harvested tubers in the shed for 24 hours. All damaged and rotten tubers should be removed."
+            "Sigatoka leaf spot in Banana can be managed by spraying Carbendazim @ 1 g/lt at 15 days interval.",
+            "Provide irrigation to the plant regularly."
          ]
       },
-      "cabbage": {
+      "cow": {
          "advisory": [
-            "The transplanted cabbage is at twelve to fifteen-week stage in the main field. Harvest the matured crop. There are chances of infestation of Diamond Back Moth and Head Borer in Cabbage crops. Regular monitoring of pest infestation should be carried out. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Spray Neem based Pesticide 300 PPM @ 1-liter /acre by mixing in 200-litre of water. To manage these pests chemically spray Tolfenpyrad 15 % EC @ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200-litre of water."
+            "Provide clean drinking water regularly.",
+            "Keep the shed clean and disinfectant."
          ]
       },
-      "chicken": {
+      "poultry": {
          "advisory": [
-            "During the summer season, avoid feeding at high environment temperatures in the midday. Birds should be fed in the morning and evening time. Cleaning and spreading of bleaching powder every alternate day are highly essential for a poultry unit."
+            "Vaccinate the poultry birds within the first week with Lasota and administer IBT within first two weeks.",
+            "Clean drinking water should be provided regularly to the poultry birds."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }

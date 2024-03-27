@@ -3,7 +3,7 @@ name: Download OAUT Files
 on:
   push:
     branches:
-      - main
+      - non-existent-branch
 
 jobs:
   run:

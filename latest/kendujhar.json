@@ -1,161 +1,139 @@
 {
    "weather_details": {
-      "21-02-2024": {
+      "27-03-2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 18,
-         "rh_max": 60,
-         "rh_min": 23,
-         "wind_speed": 7,
-         "wind_direction": 208,
-         "cloud_cover": 1
-      },
-      "22-02-2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 19,
-         "rh_max": 59,
-         "rh_min": 18,
-         "wind_speed": 11,
-         "wind_direction": 234,
-         "cloud_cover": 2
-      },
-      "23-02-2024": {
-         "rainfall": 3,
-         "t_max": 31,
-         "t_min": 19,
-         "rh_max": 73,
-         "rh_min": 28,
-         "wind_speed": 12,
-         "wind_direction": 225,
-         "cloud_cover": 5
-      },
-      "24-02-2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 55,
-         "rh_min": 23,
-         "wind_speed": 11,
-         "wind_direction": 56,
-         "cloud_cover": 7
-      },
-      "25-02-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 18,
-         "rh_max": 71,
-         "rh_min": 30,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 63,
+         "rh_min": 24,
          "wind_speed": 9,
-         "wind_direction": 90,
-         "cloud_cover": 7
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "28-03-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 67,
+         "rh_min": 17,
+         "wind_speed": 8,
+         "wind_direction": 180,
+         "cloud_cover": 0
+      },
+      "29-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 22,
+         "rh_max": 60,
+         "rh_min": 15,
+         "wind_speed": 8,
+         "wind_direction": 158,
+         "cloud_cover": 0
+      },
+      "30-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 22,
+         "rh_max": 67,
+         "rh_min": 17,
+         "wind_speed": 10,
+         "wind_direction": 171,
+         "cloud_cover": 0
+      },
+      "31-03-2024": {
+         "rainfall": 10,
+         "t_max": 37,
+         "t_min": 22,
+         "rh_max": 51,
+         "rh_min": 18,
+         "wind_speed": 9,
+         "wind_direction": 248,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
+      "chickpea",
       "linseed",
       "mustard",
-      "chickpea",
-      "banana",
-      "papaya",
-      "cucurbits",
-      "onion",
+      "cauliflower",
+      "cucumber",
       "brinjal",
       "chilli",
       "tomato",
-      "cauliflower",
-      "marigold",
-      "poultry"
+      "mango",
+      "banana"
    ],
-   "general_advisory": "According to IMD, no to light rainfall over the Keonjhar district is forecasted. Monitor the field for disease and pests regularly. Harvest the matured crops and store them in safe storage. Apply fertilizers and irrigate the field accordingly. If excess rainfall occurs, remove the water through proper drainage.",
+   "general_advisory": "Harvest the matured crops from the field. Irrigate the field if necessary. Use celphos tablets to keep away the insects during storage. Monitor the field for pests and disease infestation.",
    "crops_data": {
+      "chickpea": {
+         "advisory": [
+            "Harvest the matured chickpea.",
+            "Check for the disease and pest infestation.",
+            "To reduce the borer infestation in chickpea, apply Neem oil @ 12.5 lt/ha or spray Triazophos 40 EC @ 2 ml/lt.",
+            "Chickpea plant can be sold at market during fruiting time to fetch good return."
+         ]
+      },
       "linseed": {
          "advisory": [
-            "Linseed are in flowering and pod formation stage.",
-            "If top dressing of Urea is not done, apply fertilizer in flowering stage.",
-            "Aphids in Linseed can be managed by spraying of Imidachloprid @ 2 g/lt of water"
+            "Harvest the matured linseed.",
+            "Separate seeds at clean floor surface.",
+            "Store the linseed at safe places."
          ]
       },
       "mustard": {
          "advisory": [
-            "One irrigation can be applied in flowering stage along with top dressing of Urea.",
-            "Mustard are in flowering and pod filling stage.",
-            "Carefully monitor the field for white rust.",
-            "Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit."
+            "Harvest the mustard and sun dry it to reduce the moisture content.",
+            "Seeds can be sold at market to get good return."
          ]
       },
-      "chickpea": {
+      "cauliflower": {
          "advisory": [
-            "Keep the field weed free.",
-            "Irrigation can be done to avoid heat stress.",
-            "If only one irrigation is available apply it in pod formation stage.",
-            "To control powdery mildew disease in chickpea spray with Dithane - M 45 @ 2.5 g/lt of water."
+            "Harvest the matured cauliflower and sell it near the market to fetch good return.",
+            "To manage cutworms in cabbage, apply Chloropyriphos @ 2 ml/lt."
          ]
       },
-      "banana": {
+      "cucumber": {
          "advisory": [
-            "Irrigate the banana crop regularly.",
-            "Make the surrounding of the plant weed free.",
-            "Yellow sigatoka diseases in Banana can be managed by spraying Carbendazim and Propiconazole @ 0.1% in 10 -15 days interval."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "To manage Papaya ring spot virus, remove or rogue out the plants and burn it away from the field.",
-            "Papaya leaf curl virus can be controlled by spraying Imidachloprid or Acephate @ 2g/lt of water."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "Spray neem oil @ 600 ml/acre to control red pumpkin beetle in cucurbits.",
-            "Sulphur powder can be used to treat powdery mildew disease in cucurbits."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "To control cutworm in onion, drench the soil with Chloropyriphos @ 2 ml/lt of water.",
-            "Spray Mancozeb or Copper oxychloride @ 2 g/lt of water to manage leaf spot in Onion."
+            "Irrigate the crop regularly.",
+            "Apply FYM and vermicompost.",
+            "For controlling downy mildew, spray Mancozeb 2 g/lt at an interval of 10 days."
          ]
       },
       "brinjal": {
          "advisory": [
-            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10lt of water.",
-            "Little leaf in brinjal can be controlled by spraying Methyl demeton 30 EC @ 1 ml/lt of water to control the vectors."
+            "Harvest the matured brinjal.",
+            "Irrigate the plants regularly.",
+            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10 lt of water."
          ]
       },
       "chilli": {
          "advisory": [
+            "Harvest the chilli regularly and provide irrigation to the crop.",
             "Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water."
          ]
       },
       "tomato": {
          "advisory": [
-            "Remove the disease affected leaves and twigs.",
-            "Make the field clean and remove the weeds.",
+            "Staking of tomato plant is necessary.",
+            "Don’t let touch the tomato fruit to the soil. Rotting can occur.",
+            "Harvest the Tomato when it is half ripen to store it for more time.",
             "For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
          ]
       },
-      "cauliflower": {
+      "mango": {
          "advisory": [
-            "Alternaria leaf spot can be managed by spraying Mancozeb 75% WP @ 600 g/acre.",
-            "Diamond back moth in cauliflower can be managed by spraying Cartap hydrochloride @ 1 g/lt of water.",
-            "Fall army worm or head borer can be controlled by spraying Emamectin benzoate 5% SG @ 4-5 g/10lt of water.",
-            "Aphids in Cauliflower can be controlled by spraying Thiomethoxam 25% W.G @ 80g or Acetamiprid 20% S.P @ 30g per acre in 200 lt of water."
+            "Remove the diseased plant parts from the tree.",
+            "Irrigate the tree regularly.",
+            "Spraying of Thiomethoxam @ 0.5 g/lt can help in managing mango mealy bug.",
+            "Spray Planofix @ 0.4 ml/lt to reduce the flower drop in mango."
          ]
       },
-      "marigold": {
+      "banana": {
          "advisory": [
-            "Pluck the flowers regularly and sell it in the market for fetching good return.",
-            "Irrigate the crop regularly.",
-            "Mealy bug in marigold can be controlled by spraying Fish oil or resin soap @ 25 g/lt.",
-            "In severe infestation, spray Dimethoate or Prophenophos @ 2 ml/lt."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Vaccinate the poultry birds within the first week with Lasota and administer IBT within first two weeks.",
-            "Clean drinking water should be provided regularly to the poultry birds."
+            "Sigatoka leaf spot in Banana can be managed by spraying Carbendazim @ 1 g/lt at 15 days interval.",
+            "Provide irrigation to the plant regularly."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }

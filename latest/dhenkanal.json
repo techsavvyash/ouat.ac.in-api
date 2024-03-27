@@ -1,120 +1,111 @@
 {
    "weather_details": {
-      "21-02-2024": {
+      "27-03-2024": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 21,
-         "rh_max": 80,
-         "rh_min": 18,
-         "wind_speed": 9,
-         "wind_direction": 225,
-         "cloud_cover": 1
-      },
-      "22-02-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 21,
-         "rh_max": 77,
-         "rh_min": 16,
+         "t_max": 36,
+         "t_min": 22,
+         "rh_max": 64,
+         "rh_min": 20,
          "wind_speed": 12,
-         "wind_direction": 207,
+         "wind_direction": 171,
+         "cloud_cover": 0
+      },
+      "28-03-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 22,
+         "rh_max": 73,
+         "rh_min": 16,
+         "wind_speed": 11,
+         "wind_direction": 171,
+         "cloud_cover": 0
+      },
+      "29-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 23,
+         "rh_max": 69,
+         "rh_min": 15,
+         "wind_speed": 11,
+         "wind_direction": 158,
+         "cloud_cover": 0
+      },
+      "30-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 23,
+         "rh_max": 73,
+         "rh_min": 17,
+         "wind_speed": 12,
+         "wind_direction": 163,
          "cloud_cover": 4
       },
-      "23-02-2024": {
+      "31-03-2024": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 22,
-         "rh_max": 69,
-         "rh_min": 16,
+         "t_max": 37,
+         "t_min": 23,
+         "rh_max": 71,
+         "rh_min": 19,
          "wind_speed": 12,
-         "wind_direction": 162,
-         "cloud_cover": 3
-      },
-      "24-02-2024": {
-         "rainfall": 10,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 74,
-         "rh_min": 16,
-         "wind_speed": 10,
-         "wind_direction": 158,
+         "wind_direction": 165,
          "cloud_cover": 6
-      },
-      "25-02-2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 20,
-         "rh_max": 89,
-         "rh_min": 34,
-         "wind_speed": 10,
-         "wind_direction": 90,
-         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "cowpea",
-      "cluster bean",
-      "pumpkin",
-      "cucumber",
-      "watermelon",
       "paddy",
-      "red gram",
-      "groundnut",
       "sugarcane",
-      "little leaf of brinjal"
+      "groundnut",
+      "green gram",
+      "tomato and brinjal",
+      "cucurbits",
+      "mango",
+      "banana"
    ],
-   "general_advisory": "February- March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval.",
+   "general_advisory": "Complete the sowing of summer vegetables like cucurb its after the subsequent week to utilize the soil moisture effectively. There are chances of incidence of both fungal and bacterial diseases like leaf blight, wilt, and rot in different standing crops.",
    "crops_data": {
-      "cowpea": {
-         "advisory": [
-            "To manage sucking pest at an early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @600ml/acre by mixing it in 200-litre of water. To manage these sucking pests chemically spray Thiamethoxam 25 % WG @ 40g/acre or Acetamiprid 20 % SP @ 50g/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15 % EC @ 400ml/acre by mixing it in 200-litre of water."
-         ]
-      },
-      "cluster bean": {
-         "advisory": [
-            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
-         ]
-      },
-      "pumpkin": {
-         "advisory": [
-            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
-         ]
-      },
-      "watermelon": {
-         "advisory": [
-            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
-         ]
-      },
       "paddy": {
          "advisory": [
-            "Due to the rise in temperature, there are chances of an increase in stem borer infestation in the paddy crop. To manage stem borer in paddy, broadcast granular insecticide Chlorantraniliprole 0.4 % GR @ 4 kg acre by mixing it with sand at a 1:1 ratio or spray Chlorantraniliprole 18.5 % SC @ 60 ml/acre."
-         ]
-      },
-      "red gram": {
-         "advisory": [
-            "To manage pod borer pests at an early stage of infestation spray neem 1500 PPM @ 600ml/acre by mixing in 200 Bacillus thuringiensis @ 400g/acre by mixing in 200. For chemical control, spray Chlorpyriphos 5 0 % + Cypermethrin 5%EC @ 400ml/acre or Profenophos  50%EC @ 400 ml/acre or Emamectin benzoate 5 %"
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "To manage Thrips during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage chemically spray Thiamethoxam 25% W.G. @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g mixing in 200 litres of water."
+            "If bacterial Leaf blight disease incidence seen then drain out water from the paddy field. Remove the weeds and keep the field clean. Avoid excess use of 'Nitrogenous' Fertilizer.",
+            "Apply MOP @ 6-8kg/acre. Spray Copper Hydroxide 53.8% DF @ 600g/acre or 200g Plantomycin along with CopperOxy Chloride 50% WP @ 600g/acre.",
+            "Prevailing weather conditions are congenial for Leaf folder pest incidence in Paddy. To control Leaf Folder spray Fipronil 5% SC @ 400ml/acre or Chlorantraniliprole 18.5% SC @ 60ml/acre."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "To manage SUGARCANE Sett Rot management, use Chlorpyriphos 5 0 % + Cypermethrin 5%EC @ 400ml/acre or Profenophos  50%EC @ 400 ml/acre. "
+            "In case of severe infestation spray Fipronil 5 % SC @ 600ml/acre or Profenophos 50% EC @ 400ml/acre or Chlorantraniliprole 18.5 % SC @ 150ml/acre."
          ]
       },
-      "little leaf of brinjal": {
+      "groundnut": {
          "advisory": [
-            "To manage Little Leaf of Brinjal, follow the specific advisory for this sub-group."
+            "There is a chance of Tobacco caterpillar in Groundnut. To control this spray Profenophos 50% EC @ 400 ml/acre or Flubendiamide 480 SC @ 40 ml/acre with 200 litre of water.",
+            "To control Tikka diseases spray Chlorothalonil 75% WP @ 400 g/acre or Mancozeb WP @ 600 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To control powdery mildew disease in Greengram crop spray Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200 ml/acre or Penconazole 10% EC @ 100 ml/acre by mixing in 200 litre of water."
+         ]
+      },
+      "tomato and brinjal": {
+         "advisory": [
+            "After rainfall there are chances of wilt disease in brinjal and Tomato crop. To manage wilt disease in brinjal and chilli first uproot affected plants and destroy it away from the field. Drench the root zone of the plant with 200-ml of Tebuconazole mixed with 20-gram of Streptocycline per acre. Use 200-litre of water per acre for spraying."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "After cessation of rain, downy mildew disease will appear in cucurbits. To control it, go for alternate spray of Metalaxyl+Mancozeb @ 2g/litre and Azoxystrobin+Tebuconazole @0.6g/litre of water at 10 days interval."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3ml/15litre of water or Acetamiprid 20% S.P. @ 4g /15litre of water. Application of smoke below the plants can also help in reducing the pest population."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To control sigatoka leaf spot disease spray carbendazim @10g/10 litre of water or chlorothalonil @30g/10 litre of water for two to three times in one month interval."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }

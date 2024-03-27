@@ -1,91 +1,103 @@
 {
    "weather_details": {
-      "21/02/2024": {
+      "27/03/2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 76,
-         "rh_min": 37,
-         "wind_speed": 27,
-         "wind_direction": 207,
+         "t_max": 35,
+         "t_min": 22,
+         "rh_max": 75,
+         "rh_min": 33,
+         "wind_speed": 23,
+         "wind_direction": 202,
          "cloud_cover": 0
       },
-      "22/02/2024": {
+      "28/03/2024": {
          "rainfall": 0,
-         "t_max": 34,
-         "t_min": 21,
-         "rh_max": 76,
-         "rh_min": 35,
-         "wind_speed": 26,
-         "wind_direction": 202,
-         "cloud_cover": 2
-      },
-      "23/02/2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 82,
-         "rh_min": 45,
-         "wind_speed": 16,
-         "wind_direction": 204,
-         "cloud_cover": 5
-      },
-      "24/02/2024": {
-         "rainfall": 15,
-         "t_max": 31,
+         "t_max": 35,
          "t_min": 22,
-         "rh_max": 82,
-         "rh_min": 43,
-         "wind_speed": 12,
+         "rh_max": 81,
+         "rh_min": 37,
+         "wind_speed": 25,
          "wind_direction": 202,
-         "cloud_cover": 7
+         "cloud_cover": 0
       },
-      "25/02/2024": {
-         "rainfall": 5,
-         "t_max": 31,
-         "t_min": 20,
-         "rh_max": 88,
-         "rh_min": 53,
-         "wind_speed": 7,
-         "wind_direction": 90,
-         "cloud_cover": 7
+      "29/03/2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 35,
+         "wind_speed": 27,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "30/03/2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 41,
+         "wind_speed": 27,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "31/03/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 24,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 9,
+         "wind_direction": 207,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
+      "black gram",
+      "green gram",
       "sugarcane",
       "brinjal",
-      "cole crops",
-      "blackgram & greengram"
+      "okra",
+      "mango"
    ],
-   "general_advisory": "Transplanting of summer paddy, sowing of summer pulses, oilseed, and vegetables are in progress. Mustard, Til, and Groundnut are in harvesting stage. Harvesting of rabi paira pulses continues. Planting of Sugarcane is in progress.",
+   "general_advisory": "Overall crop condition is Normal. Dry weather may prevail over Kendrapara district for the next five days. The sky condition may remain clear to partly cloudy. Wind speed will be within 09-27 km/h. Daily maximum temperatures are expected to be 35-37°C and minimum temperatures 22-24°C.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Fertilizer Application (ActiveTillering) - Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties.",
-            "Yellow Stem Borer management - To manage stem borer in paddy at early stage of crop, apply Cartap Hydrochloride 4 % G (@ 8-kg/acre or Fipronil 0.3 % GR @ 10-kg/acre or Chlorantraniliprole 0.4 % GR @ 4-kg/acre or Imidacloprid 0.3% GR @ 6-kg/acre by mixing it with sand at 1: 1 ratio."
+            "Yellow stem borer management - Due to rise in temperature, there are chances of increase in stem borer infestation in paddy crop. To manage Yellow Stem Borer in paddy, spray Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre.",
+            "Blast Disease Management - To manage blast disease, spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Tobacco Caterpillar Management - Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field. For chemical control, spray Novaluron 5.25 %+ Indoxacarb 4.25 % @ 400-ml/acre or Lambda Cyhalothrin 4.9 CS @ 300 ml or Flubendiamide 20 % WG @ 120 gram"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Tobacco Caterpillar Management - Check the migration of caterpillars by dusting with Chlorpyriphos 1.5 % D @ 10 kg around the field. For chemical control, spray Novaluron 5.25 %+ Indoxacarb 4.25 % @ 400-ml/acre or Lambda Cyhalothrin 4.9 CS @ 300 ml or Flubendiamide 20 % WG @ 120 gram"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Sett Rot management - To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water."
+            "Early Shoot Borer - In case of severe infestation, spray Fipronil 5 % SC @ 600ml/acre or Profenophos 50% EC @ 400ml/acre or Chlorantraniliprole 18.5 % SC @ 150-ml/acre by mixing it in 200-litre of water"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Little Leaf of Brinjal - To manage little leaf in brinjal first remove and destroy the infected plant. To manage the vector of the disease spray Thiamethoxam 25 % WG @ 40-gram/acre or Flonicamid 50% WG @ 60-gram/acre or Dinotefuran 20 % SG @ 80-gram/acre."
+            "Brinjal shoot and fruit borer - To manage this insect, install 20 nos. of pheromone trap having Leucin Lure per acre. During primary stage of pest infestation, spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. Go for chemical control if there is 4% withering of terminal shoot or 14% fruits infested with borers. For chemical control, spray Spinosad 45 % SC @ 75-ml/acre or Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. Do not repeat the same insecticide. Use any of the above insecticides alternately at 15-days interval"
          ]
       },
-      "cole crops": {
+      "okra": {
          "advisory": [
-            "Leaf Webber and Head Borer management - To manage leaf webber and head borer pests, regular monitoring of pest infestation should be carried out. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Spray Neem based Pesticide (Azadirachtin) 300 PPM @ 1-litre/acre by mixing in 200-litre of water. To manage these pests chemically spray Tolfenpyrad 15 % EC@ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200-litre of water."
+            "Yellow mosaic viral disease (YMV) - To manage this disease, whitefly management should be done. Diseased plants should be rogued out to prevent further spread of the disease. To manage whitefly infestation at the early stage of the crop, spray Neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe then go for chemical pesticide like Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50-gram/acre by mixing in 200-litre of water"
          ]
       },
-      "blackgram & greengram": {
+      "mango": {
          "advisory": [
-            "Aphid - To control aphids during primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 litres of water."
+            "Mango hopper - To control mango hoppers, spray Imidacloprid 17.8% SL @ 5 ml/15 litres of water or Thiamethoxam 25% W.G @ 3ml/15 litres of water or Acetamiprid 20% S.P. @ 4g /15 litres of water. Application of smoke below the plants can also help in reducing the pest population"
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }
