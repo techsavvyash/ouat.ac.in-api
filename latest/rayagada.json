@@ -1,78 +1,102 @@
 {
    "weather_details": {
-      "2024-02-07": {
+      "27-03-2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 16,
-         "rh_max": 64,
-         "rh_min": 24,
-         "wind_speed": 6,
-         "wind_direction": 210,
-         "cloud_cover": 1
-      },
-      "2024-02-08": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 16,
-         "rh_max": 75,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 61,
          "rh_min": 20,
          "wind_speed": 7,
-         "wind_direction": 154,
+         "wind_direction": 171,
          "cloud_cover": 0
       },
-      "2024-02-09": {
+      "28-03-2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 14,
-         "rh_max": 81,
-         "rh_min": 22,
-         "wind_speed": 6,
-         "wind_direction": 112,
-         "cloud_cover": 1
+         "t_max": 36,
+         "t_min": 23,
+         "rh_max": 61,
+         "rh_min": 17,
+         "wind_speed": 7,
+         "wind_direction": 165,
+         "cloud_cover": 0
       },
-      "2024-02-10": {
+      "29-03-2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 14,
-         "rh_max": 95,
-         "rh_min": 18,
-         "wind_speed": 6,
-         "wind_direction": 150,
-         "cloud_cover": 1
+         "t_max": 38,
+         "t_min": 24,
+         "rh_max": 63,
+         "rh_min": 16,
+         "wind_speed": 7,
+         "wind_direction": 161,
+         "cloud_cover": 0
       },
-      "2024-02-11": {
+      "30-03-2024": {
          "rainfall": 0,
-         "t_max": 28,
-         "t_min": 15,
+         "t_max": 38,
+         "t_min": 24,
          "rh_max": 66,
-         "rh_min": 21,
-         "wind_speed": 6,
-         "wind_direction": 135,
-         "cloud_cover": 3
+         "rh_min": 19,
+         "wind_speed": 8,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "31-03-2024": {
+         "rainfall": 2,
+         "t_max": 38,
+         "t_min": 24,
+         "rh_max": 65,
+         "rh_min": 25,
+         "wind_speed": 8,
+         "wind_direction": 214,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "rice",
-      "pigeon pea",
-      "onion"
+      "sun flower",
+      "tomato",
+      "groundnut",
+      "brinjal",
+      "chicken"
    ],
-   "general_advisory": "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea. Cover the recently planted vegetable crops with paper pockets during night time to protect from low temperature.",
+   "general_advisory": "Farmers are advised to resume their field works which were restricted due to previous week rain and windy condition. Spraying of chemicals can be resumed. If some crops at nursery stage was damaged due to heavy rain fall, then make provision for gap filling. Cattle and chickens should be protected from heat scorching and high temperature.",
    "crops_data": {
-      "rice": {
+      "sun flower": {
          "advisory": [
-            "If the nutrient deficiency symptoms (yellowing) and browning of leaf tips appear in rice nursery, apply foliar spray of mixed solution of 0.5% zinc sulphate + 2.5 % urea."
+            "Stage - Alternaria blight",
+            "Spray Mancozeb 0.3% four times at an interval of 10 days to control the disease."
          ]
       },
-      "pigeon pea (red gram/arhar)": {
+      "tomato": {
          "advisory": [
-            "To avoid storage pests' infestation during storage smearing of seeds should be done with edible oil @ 250 ml/ Quintal of seeds. Dried leaves of either Begonia or Neem @ 1 kg/Bag should be kept inside the storage bag to minimize storage pest load. Camphor tablets @ 1-tablet/kg of seeds can also be kept inside the storage bag to avoid storage pests."
+            "Stage - fruiting/Harvesting",
+            "Insect - fruit borer",
+            "Collect and destroy infected fruits and caterpillars.",
+            "Spray Azadirachtin 1.0% EC (10000 ppm) 2.0ml/lt or apply Bacillus thuringiensis 2g/lt during evening hours."
          ]
       },
-      "onion": {
+      "groundnut": {
          "advisory": [
-            "Onion Seedlings of 8-weeks old which are 12-15 cm in height should be planted in the main field. Before transplanting apply 10 tonnes of Compost, 52 kg of DAP, 30 kg of Muriate of Potash 20 kg of urea and 20 kg of sulphur and mix it to the soil uniformly. Transplant the seedlings in line by keeping the row to row spacing at 25 cm and plant to plant spacing at 10 cm."
+            "Stage - vegetative/ flowering initiation",
+            "Disease - Tikka",
+            "Pick and destroy infected plants and dispose them.",
+            "Tebuconazole (0.1%) or Carbendazim @0.1% can be applied for best control"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Stage - Fruiting/Harvesting",
+            "Insect - fruit and shoot borer",
+            "Remove the affected terminal shoots showing bore holes.",
+            "Install pheromone trap@12/ha",
+            "Spray NSKE 5% or Dimethoate 30 % EC @7.0ml/10lt or Quinalphos 20% 1.7 ml/lt."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Depth of litter should be 2 -3 inches and 10% extra space should be provided in summer.",
+            "Shifting, transportation, debeaking and vaccination should take place at night to reduce the shock of summer heat."
          ]
       }
    },
-   "date": "06-02-2024"
+   "date": "26-03-2024"
 }

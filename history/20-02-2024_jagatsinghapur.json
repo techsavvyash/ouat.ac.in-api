@@ -53,43 +53,51 @@
    },
    "names_of_crops": [
       "paddy",
+      "summer pulses",
+      "mustard",
+      "groundnut",
       "sugarcane",
-      "black gram",
-      "green gram",
       "brinjal",
       "cole crops"
    ],
-   "general_advisory": "February-March is the ideal time for sowing of cowpea, cluster bean, pumpkin, cucumber, and watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. Harvest the mustard crop as soon as the pods turn yellowish-brown. Harvest the potato crop when the majority of the leaves turn yellowish-brown.",
+   "general_advisory": "The mean maximum daily temperature was 30.1°C and the mean minimum daily temperature was 21.4°C in Jagatsinghpur district during the last week. The district received no rainfall in the last seven days. Therefore, continue transplanting summer paddy and sow summer pulses, oilseed, and vegetables. Harvest mustard, til, and groundnut. Crop coverage is 86% of the total program area with a normal overall crop condition. Forecast for the next 5 days includes light rainfall on Saturday & Sunday, clear to generally cloudy sky conditions, and wind speeds within 12-30 km/h.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "If pre-emergence herbicides were not applied in paddy, to control weeds spray Bispyribacsodium @ 120 ml /acre at 10-12 DAS or, 2-3 leaf stage of weeds or, Penoxsulum 1.02% + Cyhalofop-butyl 5.1 % @ 800ml/acre at 15-20 DAS in 140 litres of water.",
-            "Yellow Stem Borer management: To manage stem borer in paddy at an early stage of the crop, apply Cartap Hydrochloride 4 % G (@ 8-kg/acre or Fipronil 0.3 % GR @ 10-kg/acre or Chlorantraniliprole 0.4 % GR @ 4-kg/acre or Imidacloprid 0.3% GR @ 6-kg/acre by mixing it with sand at 1: 1 ratio."
+            "If pre-emergence herbicides were not applied in paddy, controlling weeds by spraying Bispyribacsodium @ 120 ml /acre, Penoxsulum 1.02% + Cyhalofop-butyl 5.1 %, etc.",
+            "To manage Bacterial Leaf Blight in paddy, spray Copper Hydroxide 53.8% DF, CopperOxy Chloride 50% WP, etc.",
+            "Fertilizer Application (Active Tillering) - Apply 35 kg Urea per acre at 3 weeks after transplanting",
+            "Yellow Stem Borer management - Apply Cartap Hydrochloride 4 % G, Fipronil 0.3 % GR, etc."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "February-March is the ideal time for sowing of Cowpe a and Cluster bean"
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Harvest the mustard crop as soon as the pods turn yellowish-brown"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage Tobacco Caterpillar pest in Groundnut, Blackgram, Greengram, surveil and destroy egg mass and caterpillar of the pest"
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Sett Rot management: To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Aphids: To control aphids during the primary stage of pest infestation spray Neem-Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Aphid: To control aphids during the primary stage of pest infestation spray Neem-Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 gram/acre or Imidacloprid 17.8% SL @ 60-ml/acre by mixing in 200 liters of water."
+            "SUGARCANE Sett Rot management - Basal drenching with Carbendazim 12% + Mancozeb 63%, foliar spray with Metalaxyl 8% + Mancozeb 64% WP"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Little Leaf of Brinjal: To manage little leaf in brinjal first remove and destroy the infected plant. To manage the vector of the disease spray Thiamethoxam 25 % WG @ 40-gram/acre or Flonicamid 50% WG @ 60-gram/acre or Dinotefuran 20 % SG @ 80-gram/acre."
+            "Little Leaf of Brinjal - To manage little leaf in brinjal, remove and destroy infected plants, and spray Thiamethoxam 25% WG, Flonicamid 50% WG, etc."
          ]
       },
       "cole crops": {
          "advisory": [
-            "Leaf Webber and Head Borer management: To manage leaf webber and head borer pests, regular monitoring of pest infestation should be carried out. Collect and destroy the caterpillars and egg masses in the early stages of pest attack. Spray Neem-Based Pesticide (Azadirachtin) 300 PPM @ 1-liter /acre by mixing in 200-liter of water. To manage these pests chemically spray Tolfenpyrad 15 % EC@ 400-ml/acre or Flubendiamide 20 % WG @ 20-gram/acre or Chlorfenapyr 10 % SC @ 400-ml/acre or Spinosad 45 % SC @ 75-ml/acre by mixing in 200-liter of water."
+            "Leaf Webber and Head Borer management - Regular monitoring of pest infestation, collect and destroy caterpillars, and spray Neem based Pesticide, Tolfenpyrad 15 % EC, etc."
          ]
       }
    },

@@ -1,0 +1,98 @@
+{
+   "weather_details": {
+      "27/03/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 66,
+         "rh_min": 23,
+         "wind_speed": 16,
+         "wind_direction": 201,
+         "cloud_cover": 0
+      },
+      "28/03/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 23,
+         "rh_max": 74,
+         "rh_min": 22,
+         "wind_speed": 16,
+         "wind_direction": 201,
+         "cloud_cover": 0
+      },
+      "29/03/2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 71,
+         "rh_min": 20,
+         "wind_speed": 16,
+         "wind_direction": 198,
+         "cloud_cover": 0
+      },
+      "30/03/2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 25,
+         "wind_speed": 18,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "31/03/2024": {
+         "rainfall": 2,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 26,
+         "wind_speed": 16,
+         "wind_direction": 204,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "black gram & green gram",
+      "sugarcane",
+      "brinjal",
+      "okra",
+      "mango"
+   ],
+   "general_advisory": "Weather forecast suggests dry weather with light rainfall on Sunday with clear to overcast sky conditions. Wind speed ranges between 16-18 km/h. Maximum and minimum temperatures expected to be between 35-38°C and 23-25°C respectively. Crop coverage is at 98% with normal conditions.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Yellow stem borer management - Apply Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre for stem borer infestation.",
+            "Blast Disease Management - Use Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre for blast disease."
+         ]
+      },
+      "black gram & green gram": {
+         "advisory": [
+            "Tobacco Caterpillar Management - Dust with Chlorpyriphos 1.5 % D @ 10 kg or spray Novaluron 5.25 %+ Indoxacarb 4.25 % @ 400-ml/acre or Lambda Cyhalothrin 4.9 CS @ 300 ml or Flubendiamide 20 % WG @ 120 gram for caterpillars.",
+            "For spraying 200 litre of water per acre is required."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Early Shoot Borer - Spray Fipronil 5 % SC @ 600ml/acre or Profenophos 50% EC  @ 400ml/acre or Chlorantraniliprole 18.5 % SC @ 150-ml/acre for shoot borer."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Brinjal shoot and fruit borer - Install pheromone traps with Leucin Lure per acre and spray neem-based pesticide for pest management. Use chemical control for severe infestations."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Yellow mosaic viral disease (YMV) - Manage whitefly infestation and rogue out diseased plants. Use Neem based pesticide or chemical pesticides for control."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Mango hopper - Spray Imidacloprid 17.8% SL or Thiamethoxam 25% W.G or Acetamiprid 20% S.P for hopper control."
+         ]
+      }
+   },
+   "date": "26-03-2024"
+}

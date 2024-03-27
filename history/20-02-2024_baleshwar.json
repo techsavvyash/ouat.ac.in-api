@@ -56,49 +56,51 @@
       "sugarcane",
       "blackgram",
       "rapeseed & mustard",
-      "vegetables",
+      "cucurbits",
+      "tomato & brinjal",
       "pisciculture",
       "animal science"
    ],
-   "general_advisory": "Rice: Drain out excess water from paddy fields and monitor for disease pests. Sugarcane: Collect setts and manage sett rot. Blackgram: Spray to reduce incidence of diseases. Rapeseed & Mustard: Control pests. Vegetables: Specific spraying recommendations. Pisciculture: Symptoms of white spot disease and treatment. Animal Science: Dietary recommendations for animals.",
+   "general_advisory": "Rice: Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies. Increased difference between daily maximum and minimum temperature favours the infestation of blast in the main field as well as nursery. Sugarcane: Collect setts from the whole cane and proceed with necessary treatments. Blackgram: To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) recommended. Rapeseed & Mustard: Mustard and Toria can be controlled by spraying Dimethoate. Vegetables: Cucurbits & Tomato require specific control measures.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Drain out excess water from paddy field & regular surveillance work for disease pests.",
-            "Increase difference between daily max and min temperatures favors blast infestation."
+            "Increased difference between daily maximum and minimum temperature favours the infestation of blast in main field as well as nursery. In-case of Leaf blast infestation, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 80 g/acre in 200 litres of water. Repeat the spray at 7-10 days’ interval. If infestation of Thrips is noticed in rice, spray Azadirachtin 0.15% neem seed kernel based EC formulation @ 800 ml/acre or Lambda-cyhalothrin 5% EC @ 200 ml/acre. Utilizing the available water (Rainfall/Irrigation) puddle the land & complete the transplanting of summer rice with basal application of 35 kg DAP, 20 kg MOP & 10 kg ZnSO4/acre."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect setts and treat before planting.",
-            "Manage sett rot disease after planting."
+            "Collect setts from the whole cane of a 6-8-month-old plant crop free from diseases and insect pests. Select the upper 1/3rd of cane if seeds are collected from 8-12-month-old crop for better sprouting. Do not use seeds of ratoon crops. Sugarcane Sett treatment is a necessary procedure before planting. Sett Rot management-To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre or foliar spray with Metalaxyl 8% + Mancozeb 64% WP @ 400-gram/acre by mixing in 200-litre of water. In Ratoon crop of sugarcane remove the disease & pest infected plants and dispose the grassy shoot infected plant followed by recommended fertilizer application & spraying of Fipronil 5 Sc @2ml/l of water recommended."
          ]
       },
       "blackgram": {
          "advisory": [
-            "Spray to reduce incidence of powdery mildew, anthracnose, and stem rot.",
-            "Control aphids during primary stage of pest infestation."
+            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended. To control aphids during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. Then spray Thiamethoxam 25% W.G @ 40 gram/acre or Acetamiprid 20% S.P. @ 50 17.8% SL @ 60-ml/acre or Imidacloprid by mixing in 200 litres of water."
          ]
       },
       "rapeseed & mustard": {
          "advisory": [
-            "Control pests like mustard sawfly, leaf webber, and tobacco caterpillar.",
-            "Spray at early stage to prevent infestations."
+            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit. To control Mustard Sawfly, Leaf Webber and Tobacco Caterpillar infestation in mustard crop at the early stage spray Neem-based pesticide (Neem Oil 1500 PPM) @ 600-ml/acre by mixing in 200-litre of water. Spraying of Insecticide should be done at the afternoon hours to protect the honeybees & other beneficial insects."
          ]
       },
-      "vegetables": {
+      "cucurbits": {
          "advisory": [
-            "Specific spraying recommendations for cucurbits, tomato, brinjal, and winter vegetables."
+            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits. To manage Epilachna Beetle in cucumber, spray neem-based pesticide (Neem Oil 1500 PPM) Azadiractin @ 600 ml/acre of water at an early stage of infestation."
          ]
       },
-      "pisciculture": {
+      "tomato & brinjal": {
          "advisory": [
-            "Symptoms and treatment of white spot disease in fish."
+            "Farmers should start sowing of tomato seed for summer cultivation in the nursery bed because the prevailing temperature is suitable for the germination of seed. To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base. Provide bamboo or wooden stake for better fruit set and growth of Tomato plants. For minimizing the infestation of sucking insect pests like whitefly, leafhopper, thirps, and aphid in vegetables nursery and main field, spray Thiamethoxam @ 0.4g/litre of water or Difenthurian @1g/l of water. To control leaf-eating caterpillar and fruit borer in winter vegetables like Brinjal, Cole crops, Chilly & tomato apply 0.5g Emamectin benzoate or Spinosad 0.4 ml/ liter of water."
+         ]
+      },
+      "pisculture": {
+         "advisory": [
+            "Small white rash appears on the body of fish and feels rough to hand are the symptoms of white spot disease in fish. Excessive mucus secreted from fish body. To treat this disease in fish bath affected fish for 5 minutes in the 200 liter water which is mix with 500 grams of salt, then release to the pond. This procedure continues for 7-10 days."
          ]
       },
       "animal science": {
          "advisory": [
-            "Provide mineral mixture and additional feed during winter season for animals."
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during the winter season to meet the energy requirement of the animals."
          ]
       }
    },

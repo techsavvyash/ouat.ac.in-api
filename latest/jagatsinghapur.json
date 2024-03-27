@@ -1,105 +1,133 @@
 {
    "weather_details": {
-      "21/02/2024": {
+      "27/03/2024": {
          "rainfall": 0,
-         "t_max": 31,
+         "t_max": 33,
          "t_min": 25,
-         "rh_max": 78,
-         "rh_min": 50,
-         "wind_speed": 25,
-         "wind_direction": 204,
-         "cloud_cover": 0
-      },
-      "22/02/2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 80,
-         "rh_min": 50,
-         "wind_speed": 30,
-         "wind_direction": 202,
-         "cloud_cover": 1
-      },
-      "23/02/2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 26,
-         "rh_max": 85,
-         "rh_min": 58,
+         "rh_max": 73,
+         "rh_min": 45,
          "wind_speed": 26,
          "wind_direction": 202,
-         "cloud_cover": 2
+         "cloud_cover": 0
       },
-      "24/02/2024": {
-         "rainfall": 10,
-         "t_max": 31,
-         "t_min": 26,
-         "rh_max": 83,
-         "rh_min": 56,
-         "wind_speed": 20,
+      "28/03/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 80,
+         "rh_min": 48,
+         "wind_speed": 26,
          "wind_direction": 202,
-         "cloud_cover": 6
+         "cloud_cover": 0
       },
-      "25/02/2024": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 24,
-         "rh_max": 90,
-         "rh_min": 59,
-         "wind_speed": 12,
-         "wind_direction": 112,
-         "cloud_cover": 7
+      "29/03/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 47,
+         "wind_speed": 27,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "30/03/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 52,
+         "wind_speed": 30,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "31/03/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 56,
+         "wind_speed": 30,
+         "wind_direction": 204,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
       "paddy",
-      "summer pulses",
-      "mustard",
-      "groundnut",
+      "pointed gourd",
+      "onion",
+      "chilli",
+      "summer sunflower",
+      "tobacco",
+      "okra",
+      "black gram",
+      "green gram",
       "sugarcane",
       "brinjal",
-      "cole crops"
+      "mango"
    ],
-   "general_advisory": "The mean maximum daily temperature was 30.1°C and the mean minimum daily temperature was 21.4°C in Jagatsinghpur district during the last week. The district received no rainfall in the last seven days. Therefore, continue transplanting summer paddy and sow summer pulses, oilseed, and vegetables. Harvest mustard, til, and groundnut. Crop coverage is 86% of the total program area with a normal overall crop condition. Forecast for the next 5 days includes light rainfall on Saturday & Sunday, clear to generally cloudy sky conditions, and wind speeds within 12-30 km/h.",
+   "general_advisory": "Dry weather may prevail over Jagatsinghpur district for the next five days. The sky condition may remain clear to partly cloudy. Wind speed will be within 26-30 km/h. Daily temperatures are likely to be 33-34°C for maximum and 25-26°C for minimum.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "If pre-emergence herbicides were not applied in paddy, controlling weeds by spraying Bispyribacsodium @ 120 ml /acre, Penoxsulum 1.02% + Cyhalofop-butyl 5.1 %, etc.",
-            "To manage Bacterial Leaf Blight in paddy, spray Copper Hydroxide 53.8% DF, CopperOxy Chloride 50% WP, etc.",
-            "Fertilizer Application (Active Tillering) - Apply 35 kg Urea per acre at 3 weeks after transplanting",
-            "Yellow Stem Borer management - Apply Cartap Hydrochloride 4 % G, Fipronil 0.3 % GR, etc."
+            "Yellow stem borer management - Spray appropriate pesticide to manage stem borer infestation.",
+            "Blast Disease Management - Spray appropriate fungicide to manage blast disease."
          ]
       },
-      "summer pulses": {
+      "pointed gourd": {
          "advisory": [
-            "February-March is the ideal time for sowing of Cowpe a and Cluster bean"
+            "Avoid weeding during flowering and fruiting stage."
          ]
       },
-      "mustard": {
+      "onion": {
          "advisory": [
-            "Harvest the mustard crop as soon as the pods turn yellowish-brown"
+            "After harvesting, cut tops above bulb and dry in well-ventilated room for storage."
          ]
       },
-      "groundnut": {
+      "chilli": {
          "advisory": [
-            "To manage Tobacco Caterpillar pest in Groundnut, Blackgram, Greengram, surveil and destroy egg mass and caterpillar of the pest"
+            "For long-term storage, sun dry and reduce moisture content before storing."
+         ]
+      },
+      "summer sunflower": {
+         "advisory": [
+            "Spray Borax for pre-flowering stage."
+         ]
+      },
+      "tobacco": {
+         "advisory": [
+            "Monitor Tobacco Caterpillar with pheromone traps."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Check migration of Tobacco Caterpillar and spray appropriate insecticide."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Check migration of Tobacco Caterpillar and spray appropriate insecticide."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "SUGARCANE Sett Rot management - Basal drenching with Carbendazim 12% + Mancozeb 63%, foliar spray with Metalaxyl 8% + Mancozeb 64% WP"
+            "Spray appropriate pesticide for Early Shoot Borer infestation."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Little Leaf of Brinjal - To manage little leaf in brinjal, remove and destroy infected plants, and spray Thiamethoxam 25% WG, Flonicamid 50% WG, etc."
+            "Install pheromone traps and use neem-based pesticide for pest control."
          ]
       },
-      "cole crops": {
+      "mango": {
          "advisory": [
-            "Leaf Webber and Head Borer management - Regular monitoring of pest infestation, collect and destroy caterpillars, and spray Neem based Pesticide, Tolfenpyrad 15 % EC, etc."
+            "Spray appropriate insecticides to control mango hopper."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }

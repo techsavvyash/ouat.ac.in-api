@@ -1,109 +1,99 @@
 {
    "weather_details": {
-      "21-02-2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 79,
-         "rh_min": 20,
-         "wind_speed": 12,
-         "wind_direction": 248,
-         "cloud_cover": 0
-      },
-      "22-02-2024": {
+      "27-03-2024": {
          "rainfall": 0,
          "t_max": 34,
          "t_min": 22,
-         "rh_max": 69,
-         "rh_min": 17,
-         "wind_speed": 17,
-         "wind_direction": 207,
-         "cloud_cover": 3
+         "rh_max": 68,
+         "rh_min": 21,
+         "wind_speed": 15,
+         "wind_direction": 202,
+         "cloud_cover": 0
       },
-      "23-02-2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "28-03-2024": {
+         "rainfall": 0,
+         "t_max": 35,
          "t_min": 22,
-         "rh_max": 82,
-         "rh_min": 31,
+         "rh_max": 79,
+         "rh_min": 19,
+         "wind_speed": 15,
+         "wind_direction": 206,
+         "cloud_cover": 0
+      },
+      "29-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 24,
+         "rh_max": 77,
+         "rh_min": 18,
+         "wind_speed": 15,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "30-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 24,
+         "rh_max": 77,
+         "rh_min": 22,
+         "wind_speed": 18,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "31-03-2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 24,
+         "rh_max": 76,
+         "rh_min": 23,
          "wind_speed": 17,
-         "wind_direction": 225,
-         "cloud_cover": 5
-      },
-      "24-02-2024": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 82,
-         "rh_min": 20,
-         "wind_speed": 12,
-         "wind_direction": 158,
-         "cloud_cover": 7
-      },
-      "25-02-2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 23,
-         "rh_max": 85,
-         "rh_min": 38,
-         "wind_speed": 11,
-         "wind_direction": 105,
-         "cloud_cover": 6
+         "wind_direction": 212,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "rice",
+      "summer rice",
+      "sunflower",
       "sugarcane",
-      "blackgram",
-      "rapeseed & mustard",
+      "greengram",
       "vegetables",
-      "tomato & brinjal",
-      "pisciculture",
-      "animal science"
+      "fruit"
    ],
-   "general_advisory": "District Jajpur likely to receive dry weather for 2 days & light rain for 3 days with clear sky to generally cloudy sky. Maximum temp 30-34°C, minimum temp 21-23°C. Wind speed 11-17km/h.",
+   "general_advisory": "As per IMD forecast, Dry weather is expected for the next 4 days and Very Light rain on the last day. Farmers are advised to apply fertilizer after draining out excess water under water-logged conditions and continue spraying operations during that period. Prevailing weather conditions are favorable for pest and disease incidence. Farmers are advised to monitor the fields regularly. Avoid grazing/feeding of cattle during noon hours due to an expected increase in maximum temperature in the upcoming days.",
    "crops_data": {
-      "rice": {
+      "summer rice": {
          "advisory": [
-            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops."
+            "Farmers are advised to apply top dressing of urea fertilizer in rice plants after draining out excess water.",
+            "In summer rice, high infestation of stem borer is observed. Farmers are advised to monitor the activity of stem borer and apply necessary treatments."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Remove the collar rot-infected plants from the field.",
+            "Need-based drenching of recommended pesticides is advised to control stem rot & collar rot."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect setts from the whole cane of a 6-8 month-old plant crop free from diseases and insect pests.",
-            "Sett Rot management - To manage sett rot disease after planting basal drenching with Carbendazim 12% + Mancozeb 63% @ 400-gram/acre."
+            "To control early shot borer in sugarcane, foliar spray of Fipronil 5SC is advised."
          ]
       },
-      "blackgram": {
+      "greengram": {
          "advisory": [
-            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @ 500g/acre recommended."
-         ]
-      },
-      "rapeseed & mustard": {
-         "advisory": [
-            "The mustard/Toria crop is at the flowering to pod filling stage."
+            "Prevailing weather conditions may lead to population buildup & infestation of hairy caterpillar & Tobacco caterpillar. To minimize infestation, place vegetative traps and apply recommended pesticides."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits."
+            "To control various pests and diseases in different vegetables, specific pesticide sprays are recommended."
          ]
       },
-      "tomato & brinjal": {
+      "fruit": {
          "advisory": [
-            "Farmers should start sowing of tomato seed for summer cultivation in nursery bed because prevailing temperature suitable for germination of seed."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "Small white rash appear on the body of fish and feels rough to hand are the symptoms of white spot disease in fish."
-         ]
-      },
-      "animal science": {
-         "advisory": [
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+            "To increase fruit size in mustard and prevent fruit drop in mango, specific treatments are recommended.",
+            "Livestock should be given a mineral mixture along with salt regularly."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }

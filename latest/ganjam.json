@@ -1,84 +1,104 @@
 {
    "weather_details": {
-      "2024-02-14": {
+      "27/03/2024": {
          "rainfall": 0,
-         "t_max": 30,
-         "t_min": 19,
-         "rh_max": 76,
-         "rh_min": 33,
-         "wind_speed": 9,
-         "wind_direction": 180,
-         "cloud_cover": 2
-      },
-      "2024-02-15": {
-         "rainfall": 0,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 64,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 59,
          "rh_min": 28,
-         "wind_speed": 9,
-         "wind_direction": 193,
+         "wind_speed": 12,
+         "wind_direction": 201,
+         "cloud_cover": 0
+      },
+      "28/03/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 63,
+         "rh_min": 29,
+         "wind_speed": 13,
+         "wind_direction": 198,
+         "cloud_cover": 0
+      },
+      "29/03/2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 63,
+         "rh_min": 27,
+         "wind_speed": 13,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "30/03/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 66,
+         "rh_min": 29,
+         "wind_speed": 14,
+         "wind_direction": 198,
          "cloud_cover": 4
       },
-      "2024-02-16": {
-         "rainfall": 10,
-         "t_max": 29,
-         "t_min": 20,
-         "rh_max": 72,
-         "rh_min": 25,
-         "wind_speed": 7,
-         "wind_direction": 167,
-         "cloud_cover": 7
-      },
-      "2024-02-17": {
-         "rainfall": 15,
-         "t_max": 28,
-         "t_min": 21,
-         "rh_max": 72,
-         "rh_min": 30,
-         "wind_speed": 6,
-         "wind_direction": 135,
-         "cloud_cover": 8
-      },
-      "2024-02-18": {
+      "31/03/2024": {
          "rainfall": 0,
-         "t_max": 29,
-         "t_min": 19,
-         "rh_max": 67,
-         "rh_min": 28,
-         "wind_speed": 7,
-         "wind_direction": 161,
-         "cloud_cover": 2
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 64,
+         "rh_min": 37,
+         "wind_speed": 13,
+         "wind_direction": 207,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "green gram",
-      "brinjal",
-      "tomato",
-      "common carp"
+      "paddy",
+      "onion",
+      "chilli",
+      "sunflower",
+      "tobacco caterpillar",
+      "okra",
+      "mango"
    ],
-   "general_advisory": "Rain is expected in the coming five days. Farmers may postpone irrigation in standing crops.",
+   "general_advisory": "In case of brown spot incidence in the paddy field, apply Carbendazim 12% + Mancozeb 63% WP @ 300g/acre in 200 litres of water. Pointed gourd is at flowering and fruiting stage. Don’t go for weeding. Grasses and weeds will help in maintaining the humidity. After harvesting of onion, cut the tops leaving 2.0-2.5 cm above bulb for longer storage. Summer sunflower crop is at pre-flowering stage. Monitor the emergence of Tobacco Caterpillar adult moths. To prevent whitefly infestation in okra seeds should be treated with Imidacloprid. Manage Yellow Stem Borer in paddy. Manage Blast Disease. For Tobacco Caterpillar Management in black gram and green gram. Manage early Shoot Borer in sugarcane. Manage Brinjal shoot and fruit borer. Manage Yellow mosaic viral disease in okra. Control Mango hopper in mango.",
    "crops_data": {
-      "green gram": {
+      "paddy": {
          "advisory": [
-            "To control sucking pest infestation in green gram spray Thiamethoxam - 05 gram IN 15 lt of water."
+            "Yellow Stem Borer management with Fipronil 5%SC @ 400ml/acre",
+            "Blast Disease Management with Hexaconazole 5 % SC @ 400-ml/acre"
          ]
       },
-      "brinjal": {
+      "onion": {
          "advisory": [
-            "Rain is expected in the coming five days hence farmers can postpone irrigation in standing crop field. Provide drainage to remove excess rainwater from field."
+            "After harvesting, cut tops leaving 2.0-2.5 cm above bulb for storage"
          ]
       },
-      "tomato": {
+      "chilli": {
          "advisory": [
-            "If fruit borer infestation is observed, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/M S.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Carried out spray operation in clear weather conditions."
+            "For long term storage, pick ripe fruits and store in gunny bag"
          ]
       },
-      "common carp": {
+      "sunflower": {
          "advisory": [
-            "Common white spots in fishes are called EUS mainly observed in winter. These spots later on turned into wounds which led to the mortality of fishes. To prevent this, apply Aquaneem @1lt/ha or CIF AX @1lt/ha."
+            "Summer sunflower crop is at pre-flowering stage. Spray 2-3 g Borax per litre water"
+         ]
+      },
+      "tobacco caterpillar": {
+         "advisory": [
+            "Monitor the emergence of Tobacco Caterpillar adult moths"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "To prevent whitefly infestation, treat seeds with Imidacloprid",
+            "Manage Yellow mosaic viral disease with whitefly management"
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control Mango hopper by spraying recommended pesticides"
          ]
       }
    },
-   "date": "13-02-2024"
+   "date": "26-03-2024"
 }

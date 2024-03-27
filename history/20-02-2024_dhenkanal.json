@@ -28,24 +28,24 @@
          "rh_min": 16,
          "wind_speed": 12,
          "wind_direction": 162,
-         "cloud_cover": 6
+         "cloud_cover": 3
       },
       "24-02-2024": {
          "rainfall": 10,
          "t_max": 32,
          "t_min": 22,
          "rh_max": 74,
-         "rh_min": 10,
+         "rh_min": 16,
          "wind_speed": 10,
          "wind_direction": 158,
-         "cloud_cover": 7
+         "cloud_cover": 6
       },
       "25-02-2024": {
          "rainfall": 5,
          "t_max": 32,
          "t_min": 20,
          "rh_max": 89,
-         "rh_min": 10,
+         "rh_min": 34,
          "wind_speed": 10,
          "wind_direction": 90,
          "cloud_cover": 7
@@ -60,59 +60,59 @@
       "paddy",
       "red gram",
       "groundnut",
-      "cucurbits",
-      "potato",
-      "mango",
-      "fishery"
+      "sugarcane",
+      "little leaf of brinjal"
    ],
-   "general_advisory": "February-March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber. Transplanting of vegetables should be done in the afternoon to avoid high temperatures. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600g or Zineb 75% WP @ 500g per acre at 7 days interval. Use appropriate insecticides as mentioned for different crops.",
+   "general_advisory": "February- March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval.",
    "crops_data": {
       "cowpea": {
          "advisory": [
-            "To manage sucking pests at an early stage of infestation, spray neem-based pesticide (Neem Oil 1500 PPM @600ml/acre by mixing it in 200-litre of water).",
-            "To manage these sucking pests chemically, spray Thiamethoxam 25% WG @ 40g/acre or Acetamiprid 20% SP @ 50g/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15% EC @ 400ml/acre by mixing it in 200-litre of water."
+            "To manage sucking pest at an early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @600ml/acre by mixing it in 200-litre of water. To manage these sucking pests chemically spray Thiamethoxam 25 % WG @ 40g/acre or Acetamiprid 20 % SP @ 50g/acre or Fenobucarb @ 400-ml/acre or Tolfenpyrad 15 % EC @ 400ml/acre by mixing it in 200-litre of water."
          ]
       },
       "cluster bean": {
-         "advisory": []
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
       },
       "pumpkin": {
-         "advisory": []
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
       },
       "cucumber": {
-         "advisory": []
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
       },
       "watermelon": {
-         "advisory": []
+         "advisory": [
+            "March is the ideal time for sowing of Cowpea, Cluster bean, Pumpkin, Cucumber, and Watermelon. Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. To manage early and late leaf blight in tomato, spray Mancozeb 75% WP @ 600 Zineb 75% WP @ 500gram/acre at 7 days interval."
+         ]
       },
       "paddy": {
-         "advisory": []
+         "advisory": [
+            "Due to the rise in temperature, there are chances of an increase in stem borer infestation in the paddy crop. To manage stem borer in paddy, broadcast granular insecticide Chlorantraniliprole 0.4 % GR @ 4 kg acre by mixing it with sand at a 1:1 ratio or spray Chlorantraniliprole 18.5 % SC @ 60 ml/acre."
+         ]
       },
       "red gram": {
-         "advisory": []
+         "advisory": [
+            "To manage pod borer pests at an early stage of infestation spray neem 1500 PPM @ 600ml/acre by mixing in 200 Bacillus thuringiensis @ 400g/acre by mixing in 200. For chemical control, spray Chlorpyriphos 5 0 % + Cypermethrin 5%EC @ 400ml/acre or Profenophos  50%EC @ 400 ml/acre or Emamectin benzoate 5 %"
+         ]
       },
       "groundnut": {
-         "advisory": []
-      },
-      "cucurbits": {
          "advisory": [
-            "To manage Epilachna Beetle, spray neem-based pesticide (Neem Oil 1500 PPM) Azadiractin @ 600 ml/acre of water at an early stage of infestation.",
-            "To manage Epilachna Beetle chemically, spray Chlorpyriphos 20% EC @ 400ml/acre or Profenophos 50% EC @400ml/acre by mixing with 200-litre of water."
+            "To manage Thrips during the primary stage of pest infestation spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 600 ml/acre. To manage chemically spray Thiamethoxam 25% W.G. @ 40 g/acre or Acetamiprid 20% S.P. @ 50 g mixing in 200 litres of water."
          ]
       },
-      "potato": {
+      "sugarcane": {
          "advisory": [
-            "The main crop is ready for harvest within 75-85 days of planting. Harvest when the majority of leaves turn yellowish brown. Stop irrigation 15 days before harvesting. Store harvested tubers in a shed for 48 hours and remove damaged/rotten tubers."
+            "To manage SUGARCANE Sett Rot management, use Chlorpyriphos 5 0 % + Cypermethrin 5%EC @ 400ml/acre or Profenophos  50%EC @ 400 ml/acre. "
          ]
       },
-      "mango": {
+      "little leaf of brinjal": {
          "advisory": [
-            "Prevailing weather conditions are congenial for Mealy bug incidence in mango. Control Mealy bug by spraying Dimethoate 30 EC @ 2 ml/liter of water during February-March as per requirements."
-         ]
-      },
-      "fishery": {
-         "advisory": [
-            "Small white rash appearing on the body of fish and feeling rough to hand are symptoms of white spot disease in fish. To treat, bathe affected fish for 5 minutes in 200 litres of water mixed with 500g of salt and repeat for 7-10 days."
+            "To manage Little Leaf of Brinjal, follow the specific advisory for this sub-group."
          ]
       }
    },

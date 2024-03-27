@@ -1,100 +1,102 @@
 {
    "weather_details": {
-      "21-02-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 16,
-         "rh_max": 60,
-         "rh_min": 18,
-         "wind_speed": 8,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "22-02-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 16,
-         "rh_max": 65,
-         "rh_min": 17,
-         "wind_speed": 9,
-         "wind_direction": 212,
-         "cloud_cover": 1
-      },
-      "23-02-2024": {
+      "27-03-2024": {
          "rainfall": 0,
          "t_max": 33,
-         "t_min": 16,
-         "rh_max": 72,
-         "rh_min": 24,
-         "wind_speed": 9,
-         "wind_direction": 208,
-         "cloud_cover": 3
+         "t_min": 20,
+         "rh_max": 52,
+         "rh_min": 21,
+         "wind_speed": 7,
+         "wind_direction": 214,
+         "cloud_cover": 0
       },
-      "24-02-2024": {
-         "rainfall": 15,
-         "t_max": 31,
-         "t_min": 17,
-         "rh_max": 49,
-         "rh_min": 19,
-         "wind_speed": 6,
-         "wind_direction": 240,
-         "cloud_cover": 7
+      "28-03-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 55,
+         "rh_min": 17,
+         "wind_speed": 7,
+         "wind_direction": 214,
+         "cloud_cover": 0
       },
-      "25-02-2024": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 17,
-         "rh_max": 85,
-         "rh_min": 15,
-         "wind_speed": 6,
-         "wind_direction": 112,
-         "cloud_cover": 7
+      "29-03-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 55,
+         "rh_min": 16,
+         "wind_speed": 7,
+         "wind_direction": 205,
+         "cloud_cover": 0
+      },
+      "30-03-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 56,
+         "rh_min": 18,
+         "wind_speed": 8,
+         "wind_direction": 212,
+         "cloud_cover": 4
+      },
+      "31-03-2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 55,
+         "rh_min": 27,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "mango",
-      "chilli",
-      "rice",
-      "brinjal",
+      "sun flower",
       "tomato",
-      "fisheries"
+      "groundnut",
+      "brinjal",
+      "chicken"
    ],
-   "general_advisory": "Farmers those who have already transplanted should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties. To control mango hoppers spray midacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G@ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. Onion Seedlings of 8 -weeks old which are 12 -15 cm in height should be planted in the main field. To control aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200 -litre of water. In Rice, Zinc-deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G@ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water. First spray should be done at the time of panicle emergence and second spray two weeks after first spray. To control aphids and thrips in chilli during primary stage of pest infestations pray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200-litre of water. In Zinc-deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years. Farmers should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties. During primary stage of whitefly infestation spray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200-liter of water. To manage this pest chemically spray Thiamethoxam 25% WG @ 40-gram/acre or Pyriproxyfen 10% EC @ 200 -ml/acre or Spiromesifen 22.9% SC @ 250 -ml/acre by mixing in 200 -liter of water. At the stage of early flowering in Tomato, if fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5%SC @ 80 ml/acre or Flubendiamide 39.5 % M/MS.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre. Use pheromone trap 20@acre. In winter, common white spots called EUS are found in fishes which later turn into wounds leading to mortality. To prevent this, apply Aquaneem @ 1lt/ha or CIFAX @ 1lt/ha.",
+   "general_advisory": "Farmers are advised to resume their field works which were restricted due to previous week rain and windy conditions. Spraying of chemicals can be resumed. If some crops at nursery stage were damaged due to heavy rainfall, then make provision for gap filling. Cattle and chickens should be protected from heat scorching and high temperature.",
    "crops_data": {
-      "mango": {
+      "sun flower": {
          "advisory": [
-            "To control mango hoppers spray Imidacloprid 17.8% SL @ 5ml/15litre of water or Thiamethoxam 25% W.G@ 3 ml/15litre of water or Acetamiprid 20% S.P. @ 4gram /15litre of water.",
-            "First spray should be done at the time of panicle emergence and second spray two weeks after first spray."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "To control aphids and thrips in chili during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600 -ml/acre by mixing in 200-litre of water."
-         ]
-      },
-      "rice": {
-         "advisory": [
-            "In Zinc-deficient soil apply Zinc Sulphate (21%) @ 10 kg/acre at every three years.",
-            "Farmers should apply 35 kg Urea per acre at 3 weeks after transplanting at active tillering stage for high yielding paddy varieties."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "During primary stage of whitefly infestation spray neem-based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-liter of water.",
-            "To manage this pest chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Pyriproxyfen 10% EC @ 200 -ml/acre or Spiromesifen 22.9% SC @ 250 -ml/acre by mixing in 200 -liter of water."
+            "Stage - Alternaria blight",
+            "Spray Mancozeb 0.3% four times at an interval of 10 days to control the disease."
          ]
       },
       "tomato": {
          "advisory": [
-            "If fruit borer infestation prevails, Spray any one of the insecticides Chlorantraniliprole 18.5% S.C @ 80 ml/acre or Flubendiamide 39.5 % M/MS.C @ 40 ml/acre or Indoxacarb 14.5% S.C. @ 200 ml/acre.",
-            "Use pheromone trap 20@acre."
+            "Stage - fruiting/Harvesting",
+            "Insect - fruit borer",
+            "Collect and destroy infected fruits and caterpillars.",
+            "Spray Azadirachtin 1.0% EC (10000 ppm) 2.0 ml/lt or apply Bacillus thuringiensis 2g/lt during evening hours."
          ]
       },
-      "fisheries": {
+      "groundnut": {
          "advisory": [
-            "In winter, common white spots are found in fishes called EUS. Apply Aquaneem @ 1lt/ha or CIFAX @ 1lt/ha to prevent the spots."
+            "Stage - vegetative/flowering initiation",
+            "Disease - Tikka",
+            "Pick and destroy infected plants and dispose them.",
+            "Tebuconazole (0.1%) or Carbendazim @0.1% can be applied for best control"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Stage - Fruiting/Harvesting",
+            "Insect - fruit and shoot borer",
+            "Remove the affected terminal shoots showing bore holes.",
+            "Install pheromone trap@12/ha",
+            "Spray NSKE 5% or Dimethoate 30% EC @7.0ml/10lt or Quinalphos 20% 1.7 ml/lt."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Depth of litter should be 2-3 inches and 10% extra space should be provided in summer.",
+            "Shifting, transportation, debeaking and vaccination should take place at night to reduce the shock of summer heat."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }

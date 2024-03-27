@@ -1,102 +1,107 @@
 {
    "weather_details": {
-      "21-02-2024": {
+      "27-03-2024": {
          "rainfall": 0,
          "t_max": 35,
-         "t_min": 23,
-         "rh_max": 75,
-         "rh_min": 25,
-         "wind_speed": 16,
-         "wind_direction": 243,
+         "t_min": 24,
+         "rh_max": 72,
+         "rh_min": 24,
+         "wind_speed": 17,
+         "wind_direction": 204,
          "cloud_cover": 0
       },
-      "22-02-2024": {
+      "28-03-2024": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 23,
-         "rh_max": 67,
-         "rh_min": 22,
-         "wind_speed": 22,
-         "wind_direction": 207,
+         "t_max": 37,
+         "t_min": 24,
+         "rh_max": 80,
+         "rh_min": 25,
+         "wind_speed": 19,
+         "wind_direction": 202,
+         "cloud_cover": 0
+      },
+      "29-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 23,
+         "wind_speed": 20,
+         "wind_direction": 202,
          "cloud_cover": 2
       },
-      "23-02-2024": {
-         "rainfall": 5,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 79,
-         "rh_min": 35,
-         "wind_speed": 21,
+      "30-03-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 78,
+         "rh_min": 28,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "31-03-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 73,
+         "rh_min": 30,
+         "wind_speed": 22,
          "wind_direction": 207,
          "cloud_cover": 6
-      },
-      "24-02-2024": {
-         "rainfall": 15,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 79,
-         "rh_min": 35,
-         "wind_speed": 15,
-         "wind_direction": 191,
-         "cloud_cover": 7
-      },
-      "25-02-2024": {
-         "rainfall": 10,
-         "t_max": 31,
-         "t_min": 24,
-         "rh_max": 82,
-         "rh_min": 42,
-         "wind_speed": 13,
-         "wind_direction": 45,
-         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "rice",
+      "summer rice",
+      "sunflower",
       "sugarcane",
-      "blackgram",
-      "rapeseed & mustard",
+      "greengram",
       "vegetables",
-      "pisciculture",
-      "animal science"
+      "mustard/pea",
+      "mango"
    ],
-   "general_advisory": "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies. Due to increased difference between daily maximum and minimum temperature favors the infestation of blast in main field as well as nursery.",
+   "general_advisory": "As per IMD forecast, Dry weather is expected for next 5 days. As there is a chance of dry weather condition along with an increase in maximum temperature expected during upcoming days, farmers are advised to apply fertilizer after draining out excess water under waterlogged conditions and continue spraying operations during that period. Prevailing weather conditions are favorable for pest and disease incidence, so farmers are advised to monitor the fields regularly. Avoid grazing/feeding of cattle during noon hours due to an expected increase in maximum temperature.",
    "crops_data": {
-      "rice": {
+      "summer rice": {
          "advisory": [
-            "Drain out excess water from paddy field & regular surveillance work should be taken up in all crops in order to know the incidence of various disease pests and initiate the control strategies."
+            "Farmers are advised to apply top dressing of urea fertilizer in rice plants after draining out excess water.",
+            "In summer rice, high infestation of stem borer is observed, so farmers are advised to monitor the activity of stem borer and apply appropriate treatments.",
+            "To manage sheath blight & blast disease in paddy, specific sprays are recommended.",
+            "In some places in rice fields, brown leafhopper infestation is noticed, applying control measures is recommended."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Remove the collar rot infected plants from the field.",
+            "Need-based drenching is advised to control stem rot & collar rot."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Collect setts from the whole cane of a 6–8-monthold plant crop free from diseases and insect pests. Select the upper 1/3rd of cane if seeds are collected from 8-12-month-old crop for better sprouting."
+            "To control early shot borer in sugarcane, foliar spray of Fipronil is advised."
          ]
       },
-      "blackgram": {
+      "greengram": {
          "advisory": [
-            "To reduce incidence of Powdery mildew, Anthracnose & Stem rot in blackgram spraying of (Tebuconazole + Sulphur) @500g/acre recommended."
-         ]
-      },
-      "rapeseed & mustard": {
-         "advisory": [
-            "The mustard/Toria crop is at the flowering to pod filling stage. Aphids in Mustard and Toria can be controlled by spraying Dimethoate 30% EC @ 2 ml/lit."
+            "Prevailing weather conditions may lead to population buildup & infestation of hairy caterpillar & tobacco caterpillar, specific controls are recommended."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Spraying Of Acephate @250g/acre along with neem oil formulation 600ml/acre to minimize damage caused by Red Pumpkin Bettle in cucurbits."
+            "Various sprays are recommended to control pests and diseases in vegetables."
          ]
       },
-      "pisciculture": {
+      "mustard/pea": {
          "advisory": [
-            "Small white rash appear on the body of fish and feels rough to hand are the symptoms of white spot disease in fish. Excessive mucus secret from fish body."
+            "Specific treatments are advised to increase fruit size and prevent fruit drop in mustard and pea crops.",
+            "Control measures for pests like mealy bug & mango hopper are recommended."
          ]
       },
-      "animal science": {
+      "mango": {
          "advisory": [
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
+            "Specific spray recommendations to control pests in mango trees."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }

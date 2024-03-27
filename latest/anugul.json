@@ -1,78 +1,116 @@
 {
    "weather_details": {
-      "2024-02-21": {
+      "27-03-2024": {
          "rainfall": 0,
-         "t_max": 36,
-         "t_min": 19,
-         "rh_max": 52,
-         "rh_min": 17,
-         "wind_speed": 7,
-         "wind_direction": 180,
+         "t_max": 37,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
          "cloud_cover": 0
       },
-      "2024-02-22": {
+      "28-03-2024": {
          "rainfall": 0,
-         "t_max": 36,
-         "t_min": 19,
-         "rh_max": 53,
-         "rh_min": 15,
-         "wind_speed": 10,
-         "wind_direction": 234,
-         "cloud_cover": 2
+         "t_max": 37,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       },
-      "2024-02-23": {
+      "29-03-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 22,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "30-03-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 22,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "31-03-2024": {
          "rainfall": 2,
-         "t_max": 34,
-         "t_min": 20,
-         "rh_max": 52,
-         "rh_min": 22,
-         "wind_speed": 11,
-         "wind_direction": 242,
-         "cloud_cover": 4
-      },
-      "2024-02-24": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 20,
-         "rh_max": 48,
-         "rh_min": 16,
-         "wind_speed": 10,
-         "wind_direction": 292,
-         "cloud_cover": 6
-      },
-      "2024-02-25": {
-         "rainfall": 6,
-         "t_max": 34,
-         "t_min": 20,
-         "rh_max": 84,
-         "rh_min": 24,
-         "wind_speed": 8,
-         "wind_direction": 105,
-         "cloud_cover": 6
+         "t_max": 39,
+         "t_min": 22,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
       }
    },
    "names_of_crops": [
+      "paddy",
+      "groundnut",
       "green gram",
-      "goat",
-      "common fish"
+      "tomato",
+      "brinjal",
+      "cucurbits",
+      "mango",
+      "banana"
    ],
-   "general_advisory": "Current weather allows planting of pineapple. Grow varieties Que, Queen, Simachalan, and Mauritius. Climate and weather allow planting papaya up to March. Grow varieties Honeydew, Kur G Honeydew, Coembatore-1, Coembatore-2, Pusa Delicious, Pusa Majestic, Pusa Dwarf, and Pusa Giant. Do not go for application of any pesticide on Thursday, Friday, Saturday.",
+   "general_advisory": "Complete the sowing of summer vegetables like cucurb its after the subsequent week to utilize the soil moisture effectively. There are chances of incidence of both fungal and bacterial diseases like leaf blight, wilt, and rot in different standing crops.",
    "crops_data": {
+      "paddy": {
+         "advisory": [
+            "If bacterial Leaf blight disease incidence seen then drain out water from the paddy field.",
+            "Remove the weeds and keep the field clean.",
+            "Avoid excess use of \"Nitrogenous\" Fertilizer.",
+            "Apply MOP @ 6-8kg/acre.",
+            "Spray Copper Hydroxide 53.8% DF @ 600g/acre or 200g Plantomycin along with CopperOxy Chloride 50% WP @ 600g/acre.",
+            "Prevailing weather conditions are congenial for Leaf folder pest incidence in Paddy. To control Leaf Folder spray Fipronil 5% SC ml/acre or Chlorantranil iprole 18.5% SC @ 60"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "There is a chance of Tobacco caterpillar in Groundnut. To control this spray Profenophos 50% EC @ 400 ml/acre or Flubendiamide 480 SC @ 40 ml/acre with 200 litre of water.",
+            "To control Tikka diseases spray Chlorothalonil 75% WP @ 400 g/acre or Mancozeb 75% WP @ 600 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+         ]
+      },
       "green gram": {
          "advisory": [
-            "Green gram crop is at pod formation to mature stage. Due to the high regular dew fall and prevailing dry weather, the Powdery mildew disease is going to aggravate in the coming days. So go for foliar application of Sulphur 80% WP per litre of water. (Do not go for application of any fungicide on Thursday, Friday, Saturday.)"
+            "To control powdery mildew disease in Green gram crop spray Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200 ml/acre or Penconazole 10% EC @ 100 ml/acre by mixing in 200 litre of water."
          ]
       },
-      "goat": {
+      "tomato": {
          "advisory": [
-            "Do vaccination of goat within three months to control P.P.R disease, and in case goats are affected, give them antibiotics like Siproplafaxin, Eneroflaxin, and other multivitamins."
+            "After rainfall there are chances of wilt disease in brinjal and Tomato crop. To manage wilt disease in brinjal and chilli first uproot affected plants and destroy it away from the field.",
+            "Drench the root zone of the plant with 200-ml of Tebuconazole mixed with 20-gram of Streptocycline per acre. Use 200-litre of water per acre for spraying."
          ]
       },
-      "common fish": {
+      "brinjal": {
          "advisory": [
-            "To prevent any disease/mortality problems, the water quality parameters should be maintained in the range of pH 7.5 to 8.5, Dissolved oxygen 5.0ppm, Temperature 25-30°C, total alkalinity 75-175ppm, total hardness 75-150ppm. Use CIF ABROOD of 3-5 mm diameter sinking pellet type and feed at 3-5% body weight per day for two months prior to breeding for better growth and survival of the spawn and try as well as for early maturation and spawning of brooders."
+            "After rainfall there are chances of wilt disease in brinjal and Tomato crop. To manage wilt disease in brinjal and chilli first uproot affected plants and destroy it away from the field.",
+            "Drench the root zone of the plant with 200-ml of Tebuconazole mixed with 20-gram of Streptocycline per acre. Use 200-litre of water per acre for spraying."
+         ]
+      },
+      "cucurbits": {
+         "advisory": [
+            "After cessation of rain, downy mildew disease will appear in cucurbits. To control it, go for alternate spray of Metalaxyl+Mancozeb @ 2g/litre and Azoxystrobin+Tebuconazole @0.6g/litre of water at 10 days interval."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3ml/15litre of water or Acetamiprid 20% S.P. @ 4g/15litre of water. Application of smoke below the plants can also help in reducing the pest population."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To control sigatoka leaf spot disease spray carbendazim @10g /10 litre of water or chlorothalonil @30g /10 litre of water for two to three times in one month interval."
          ]
       }
    },
-   "date": "20-02-2024"
+   "date": "26-03-2024"
 }
