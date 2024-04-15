@@ -1,116 +1,78 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 20,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "28-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 20,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 22,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 22,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "31-03-2024": {
+      "2024-04-13": {
          "rainfall": 2,
-         "t_max": 39,
-         "t_min": 22,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 47,
+         "rh_min": 25,
+         "wind_speed": 6,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "2024-04-14": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 19,
+         "rh_max": 43,
+         "rh_min": 18,
+         "wind_speed": 7,
+         "wind_direction": 270,
+         "cloud_cover": 3
+      },
+      "2024-04-15": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 20,
+         "rh_max": 44,
+         "rh_min": 20,
+         "wind_speed": 5,
+         "wind_direction": 169,
+         "cloud_cover": 2
+      },
+      "2024-04-16": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 24,
+         "rh_max": 49,
+         "rh_min": 19,
+         "wind_speed": 6,
+         "wind_direction": 288,
+         "cloud_cover": 2
+      },
+      "2024-04-17": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 24,
+         "rh_max": 52,
+         "rh_min": 18,
+         "wind_speed": 6,
+         "wind_direction": 146,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "paddy",
-      "groundnut",
-      "green gram",
-      "tomato",
-      "brinjal",
-      "cucurbits",
-      "mango",
-      "banana"
+      "cucumber",
+      "pointed gourd",
+      "cow"
    ],
-   "general_advisory": "Complete the sowing of summer vegetables like cucurb its after the subsequent week to utilize the soil moisture effectively. There are chances of incidence of both fungal and bacterial diseases like leaf blight, wilt, and rot in different standing crops.",
+   "general_advisory": "Transplanting of vegetables should be done in the afternoon hour to avoid high temperature",
    "crops_data": {
-      "paddy": {
+      "cucumber": {
          "advisory": [
-            "If bacterial Leaf blight disease incidence seen then drain out water from the paddy field.",
-            "Remove the weeds and keep the field clean.",
-            "Avoid excess use of \"Nitrogenous\" Fertilizer.",
-            "Apply MOP @ 6-8kg/acre.",
-            "Spray Copper Hydroxide 53.8% DF @ 600g/acre or 200g Plantomycin along with CopperOxy Chloride 50% WP @ 600g/acre.",
-            "Prevailing weather conditions are congenial for Leaf folder pest incidence in Paddy. To control Leaf Folder spray Fipronil 5% SC ml/acre or Chlorantranil iprole 18.5% SC @ 60"
+            "Heat wave condition has been forecasted for the district on Monday and Tuesday, the weather condition will lead to flower and fruit drop in cucurbitaceous crop, so go for application of Light and frequent irrigation to avoid flower and fruit drop."
          ]
       },
-      "groundnut": {
+      "pointed gourd": {
          "advisory": [
-            "There is a chance of Tobacco caterpillar in Groundnut. To control this spray Profenophos 50% EC @ 400 ml/acre or Flubendiamide 480 SC @ 40 ml/acre with 200 litre of water.",
-            "To control Tikka diseases spray Chlorothalonil 75% WP @ 400 g/acre or Mancozeb 75% WP @ 600 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+            "As the temperature is going to increase in coming days pointed gourd might be affected by fungal wilt, Soil drenching of 1.5gram Carbendazim or 1 gram Metalaxyl and Mancozeb mixture to control the wilt."
          ]
       },
-      "green gram": {
+      "cow": {
          "advisory": [
-            "To control powdery mildew disease in Green gram crop spray Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200 ml/acre or Penconazole 10% EC @ 100 ml/acre by mixing in 200 litre of water."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "After rainfall there are chances of wilt disease in brinjal and Tomato crop. To manage wilt disease in brinjal and chilli first uproot affected plants and destroy it away from the field.",
-            "Drench the root zone of the plant with 200-ml of Tebuconazole mixed with 20-gram of Streptocycline per acre. Use 200-litre of water per acre for spraying."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "After rainfall there are chances of wilt disease in brinjal and Tomato crop. To manage wilt disease in brinjal and chilli first uproot affected plants and destroy it away from the field.",
-            "Drench the root zone of the plant with 200-ml of Tebuconazole mixed with 20-gram of Streptocycline per acre. Use 200-litre of water per acre for spraying."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "After cessation of rain, downy mildew disease will appear in cucurbits. To control it, go for alternate spray of Metalaxyl+Mancozeb @ 2g/litre and Azoxystrobin+Tebuconazole @0.6g/litre of water at 10 days interval."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3ml/15litre of water or Acetamiprid 20% S.P. @ 4g/15litre of water. Application of smoke below the plants can also help in reducing the pest population."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "To control sigatoka leaf spot disease spray carbendazim @10g /10 litre of water or chlorothalonil @30g /10 litre of water for two to three times in one month interval."
+            "Heat wave condition has been forecasted for the district on Monday and Tuesday, the cattle's must not be allowed to graze outside during mid-day hour. The space left for ventilation must be covered with wet gunny bags. Provision for adequate clean drinking water."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

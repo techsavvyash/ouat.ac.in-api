@@ -1,147 +1,95 @@
 {
    "weather_details": {
-      "22.03.2024": {
+      "13-04-2024": {
          "rainfall": 0,
-         "t_max": 37,
-         "t_min": 19,
-         "rh_max": 53,
-         "rh_min": 15,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "23.03.2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 24,
-         "rh_max": 53,
-         "rh_min": 15,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "24.03.2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 23,
-         "rh_max": 53,
-         "rh_min": 15,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "25.03.2024": {
-         "rainfall": 0,
-         "t_max": 38,
+         "t_max": 30,
          "t_min": 25,
-         "rh_max": 69,
-         "rh_min": 29,
-         "wind_speed": 7,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "26-03-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 56,
+         "rh_max": 48,
          "rh_min": 15,
-         "wind_speed": 7,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 55,
-         "rh_min": 15,
-         "wind_speed": 7,
-         "wind_direction": 206,
-         "cloud_cover": 0
-      },
-      "28-03-2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 25,
-         "rh_max": 53,
-         "rh_min": 15,
-         "wind_speed": 7,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 25,
-         "rh_max": 62,
-         "rh_min": 16,
-         "wind_speed": 8,
-         "wind_direction": 225,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 26,
-         "rh_max": 69,
-         "rh_min": 29,
          "wind_speed": 6,
-         "wind_direction": 214,
-         "cloud_cover": 2
+         "wind_direction": 288,
+         "cloud_cover": 4
+      },
+      "14-04-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 68,
+         "rh_min": 23,
+         "wind_speed": 6,
+         "wind_direction": 112,
+         "cloud_cover": 3
+      },
+      "15-04-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 61,
+         "rh_min": 26,
+         "wind_speed": 5,
+         "wind_direction": 225,
+         "cloud_cover": 1
+      },
+      "16-04-2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 27,
+         "rh_max": 58,
+         "rh_min": 20,
+         "wind_speed": 6,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "17-04-2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 62,
+         "rh_min": 22,
+         "wind_speed": 5,
+         "wind_direction": 207,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "rice",
       "groundnut",
-      "maize",
-      "green gram",
-      "tomato & brinjal",
-      "chilli",
-      "cucurbits"
+      "vegetables",
+      "mango",
+      "livestock"
    ],
    "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Present weather may cause blast infestation in rice, to control it spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water or  Azoxystrobin 16.7% + Tricyclazole 33.3% SC @ 1 ml/litre of water when weather becomes clear and dry.",
-            "Cloudy weather and rainfall may cause bacterial leaf blight and bacterial leaf streak disease in paddy, to control it spray Copper oxycloride 50% WP @ 30 g and Streptomycin + Tetracycline (90+10) @ 1.5 g in 10 litres of water when sky becomes clear."
+            "If blast infestation found in rice, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water in clear and dry weather.",
+            "Due to rise in temperature, the attack of stem borer has aggravated in rice. Three pheromone traps/acre may be installed in the rice field, whenever the number of male moths/trap reaches 4 -5/day, spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Fipronil 5% SC @ 2 ml/litre of water.",
+            "Bacterial leaf blight may reported in rice field, spray Plantomycin @ 1 g + Copper oxychloride 50% WP @ 3 g/litre of water. If necessary repeat at 15 days later."
          ]
       },
       "groundnut": {
          "advisory": [
-            "After rainfall chances of tobacco caterpillar and red hairy caterpillar infestation in groundnut, to control these spray Profenophos 50% EC @ 2 ml/litre of water or Flubendiamide 39.35 % SC @ 0.2 ml/litre of water when weather becomes clear and dry.",
-            "Expected weather may cause rust and tikka disease in groundnut, to control these spray Chlorothalonil 75% WP @ 2 g/litre of water or Tebuconazole 25.9% EC @ 1 ml/litre of water  when weather becomes clear and dry.",
-            "Expected weather may cause stem rot in groundnut, if observe spray Metalaxyl 8% + Mancozeb 64% WP @ 2 g/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water  when weather becomes clear and dry."
+            "Tikka disease may observe in field, to control it spray Chlorothalonil 75% WP @ 2 g or Carbendazim 50% WP @ 2 g per litre of water.",
+            "Chances of tobacco caterpillar infestation in groundnut, to control it spray Thiamethoxam 12.6% + Lambda -Cyhalothrin 9.5% ZC @ 0.3 ml or Profenophos 50% EC @ 2 ml per litre of water."
          ]
       },
-      "maize": {
+      "vegetables": {
          "advisory": [
-            "Present weather may cause root and stalk rot in maize, to control it spray Validamycin 3% L @ 2 ml/litre of water or Carbendazim 50% WP @ 1.5 g/litre of water when weather becomes clear and dry."
+            "White fly infestation may occur at this stage of tomato, to control it spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water or Thiomethaxome 25%WG @ 0.4 g/litre of water.",
+            "To control fruit and shoot borer in brinjal spray Spinosad 45% SC @ 70 ml/acre and Thiodicarb 75% WP @ 250 g/acre at 15 days interval."
          ]
       },
-      "green gram": {
+      "mango": {
          "advisory": [
-            "Present weather may cause rust infestation in green gram, to control it spray Chlorothalonil 75% WP @ 2 g/litre of water or Difenoconazole 25% EC @ 1 ml/litre of water  when weather becomes clear and dry."
+            "Chances of mango hopper infestation may occur, to control it spray Buprofezin 25% SC @ 1 -2 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water.",
+            "Spray Alpha Napthyl Acetic Acid 4.5% SL (Planofix) @ 4.5 ml in 10 litre of water when tender fruits are in pea size and go for second spray when fruits are in marble size."
          ]
       },
-      "tomato & brinjal": {
+      "livestock": {
          "advisory": [
-            "Present weather may cause wilting in tomato and brinjal field, to control it drenching with Copper oxychloride 50% WP @ 25 g and Streptomycin + Tetracycline (90+10) @ 1.5 g in 10 litres of water when weather becomes clear and dry.",
-            "Chances of late blight infestation in tomato field, to control it spray Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/litre  of water or Captan 50% WP @ 2.5 g/15 litre of water  when weather becomes clear and dry."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "To control thrips in chilli spray Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC @ 0.3 ml/litre of water or Imidacloprid 17.8% SL @ 0.5 ml/litre of water  when weather becomes clear and dry."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "Present weather may cause downy mildew in Cucurbitaceous crops. If observe spray Metalaxyl 8% + Mancozeb 64% WP @ 2 g/litre of water or Zineb 75% WP @ 2.5 g/litre of water  when weather becomes clear and dry.",
-            "Chances of red pumpkin beetle infestation in cucurbitaceous crops like cucumber, bottle gourd and watermelon. To control it spray two times with Azadirachtin 0.03% (300 ppm) @ 5 -10 ml/litre of water or Azadirachtin 5% @ 0.5 ml/litre of water or Cyantraniliprole 10.26% OD @ 1.8 ml/litre of water at 10 days interval."
+            "Temperature is rising; animals may preferably be grazed during early morning to avoid exposure to extreme hot conditions. Proper ventilation should be maintained for free circulation of air in the sheds."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

@@ -1,102 +1,90 @@
 {
    "weather_details": {
-      "27-03-2024": {
+      "13-04-2024": {
+         "rainfall": 6,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 48,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 198,
+         "cloud_cover": 7
+      },
+      "14-04-2024": {
          "rainfall": 0,
-         "t_max": 33,
-         "t_min": 20,
+         "t_max": 32,
+         "t_min": 19,
          "rh_max": 52,
-         "rh_min": 21,
-         "wind_speed": 7,
-         "wind_direction": 214,
-         "cloud_cover": 0
-      },
-      "28-03-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 20,
-         "rh_max": 55,
-         "rh_min": 17,
-         "wind_speed": 7,
-         "wind_direction": 214,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 21,
-         "rh_max": 55,
-         "rh_min": 16,
-         "wind_speed": 7,
-         "wind_direction": 205,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 21,
-         "rh_max": 56,
          "rh_min": 18,
-         "wind_speed": 8,
-         "wind_direction": 212,
-         "cloud_cover": 4
+         "wind_speed": 6,
+         "wind_direction": 248,
+         "cloud_cover": 6
       },
-      "31-03-2024": {
+      "15-04-2024": {
          "rainfall": 0,
          "t_max": 35,
-         "t_min": 21,
-         "rh_max": 55,
-         "rh_min": 27,
-         "wind_speed": 8,
+         "t_min": 20,
+         "rh_max": 51,
+         "rh_min": 21,
+         "wind_speed": 5,
          "wind_direction": 225,
-         "cloud_cover": 4
+         "cloud_cover": 3
+      },
+      "16-04-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 22,
+         "rh_max": 54,
+         "rh_min": 20,
+         "wind_speed": 6,
+         "wind_direction": 225,
+         "cloud_cover": 2
+      },
+      "17-04-2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 24,
+         "rh_max": 51,
+         "rh_min": 19,
+         "wind_speed": 6,
+         "wind_direction": 205,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "sun flower",
-      "tomato",
-      "groundnut",
-      "brinjal",
-      "chicken"
+      "sunflower",
+      "maize",
+      "rice",
+      "chilli",
+      "poultry"
    ],
-   "general_advisory": "Farmers are advised to resume their field works which were restricted due to previous week rain and windy conditions. Spraying of chemicals can be resumed. If some crops at nursery stage were damaged due to heavy rainfall, then make provision for gap filling. Cattle and chickens should be protected from heat scorching and high temperature.",
+   "general_advisory": "To protect fruits from hail storm, harvest matured fruits and sell it in market and protect young fruits in mango Litchi by netting the tree. Make the bunds wide and with more height to conserve rain water to mitigate summer condition. Drain out excess of water in non-paddy crops to avoid fungal and bacterial diseases. Provide sufficient drinking water to tolerate heat condition in poultry birds.",
    "crops_data": {
-      "sun flower": {
+      "sunflower": {
          "advisory": [
-            "Stage - Alternaria blight",
-            "Spray Mancozeb 0.3% four times at an interval of 10 days to control the disease."
+            "Stage - Seed setting. For good seed filling, apply 2 -3 g of Borax/liter of water. If fruit borer attacks, then go for spraying Bioinsecticide NPV @ 250 LE mixed in 200 Liters of water."
          ]
       },
-      "tomato": {
+      "maize": {
          "advisory": [
-            "Stage - fruiting/Harvesting",
-            "Insect - fruit borer",
-            "Collect and destroy infected fruits and caterpillars.",
-            "Spray Azadirachtin 1.0% EC (10000 ppm) 2.0 ml/lt or apply Bacillus thuringiensis 2g/lt during evening hours."
+            "Insect - FAW. Spray azadirachtin 1500 ppm @ 2.5 lit/ha or Chlorantraniliprole 18.5 SC @ 200ml/ha (or) Flubendiamide 480SC@ 250ml/ha at early stage (15 - 20 DAE)."
          ]
       },
-      "groundnut": {
+      "rice": {
          "advisory": [
-            "Stage - vegetative/flowering initiation",
-            "Disease - Tikka",
-            "Pick and destroy infected plants and dispose them.",
-            "Tebuconazole (0.1%) or Carbendazim @0.1% can be applied for best control"
+            "Blast -disease. To manage this disease spray Hexaconazole 5% SC @ 400 -ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C@ 200 -ml/acre."
          ]
       },
-      "brinjal": {
+      "chilli": {
          "advisory": [
-            "Stage - Fruiting/Harvesting",
-            "Insect - fruit and shoot borer",
-            "Remove the affected terminal shoots showing bore holes.",
-            "Install pheromone trap@12/ha",
-            "Spray NSKE 5% or Dimethoate 30% EC @7.0ml/10lt or Quinalphos 20% 1.7 ml/lt."
+            "Disease - Fusarium Wilt. Disease symptoms are characterized by an initial slight yellowing of the foliage and wilting of the upper leaves that progress in a few days into a permanent wilt with the leaves still attached. Drenching with 1% Bordeaux mixture or blue copper or Fytolan 0.25% may give protection."
          ]
       },
-      "chicken": {
+      "poultry": {
          "advisory": [
-            "Depth of litter should be 2-3 inches and 10% extra space should be provided in summer.",
-            "Shifting, transportation, debeaking and vaccination should take place at night to reduce the shock of summer heat."
+            "Provide sufficient drinking water to tolerate heat condition. Provision for extra space in summer season and frequent turning of litter."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

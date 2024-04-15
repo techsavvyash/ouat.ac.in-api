@@ -1,90 +1,51 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 23,
-         "rh_max": 38,
-         "rh_min": 13,
-         "wind_speed": 10,
-         "wind_direction": 281,
-         "cloud_cover": 0
-      },
-      "28-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 23,
-         "rh_max": 40,
-         "rh_min": 16,
-         "wind_speed": 10,
-         "wind_direction": 225,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 24,
-         "rh_max": 39,
-         "rh_min": 14,
-         "wind_speed": 10,
-         "wind_direction": 244,
-         "cloud_cover": 4
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 24,
-         "rh_max": 39,
-         "rh_min": 18,
-         "wind_speed": 12,
-         "wind_direction": 225,
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 180,
          "cloud_cover": 6
       },
-      "31-03-2024": {
+      "2022-01-02": {
          "rainfall": 2,
-         "t_max": 40,
-         "t_min": 21,
-         "rh_max": 39,
-         "rh_min": 18,
-         "wind_speed": 13,
-         "wind_direction": 225,
-         "cloud_cover": 8
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "green gram",
+      "rice",
       "maize",
-      "mango",
-      "vegetable crops"
+      "cattle"
    ],
-   "general_advisory": "As there is a chance of dry weather condition along with increase maximum temperature is expected during upcoming week so farmers are advised to apply need based irrigation in crop field and conduct fertilizer application and spraying operations during that period. There is a chance of occurrence of cloudy weather along with very light rain after three days of upcoming week and beginning of next week so farmers are advised to take proper care during spraying operations. Mulching should be done with crop residue, straw / polythene to conserve soil moisture as well as maintain soil temperature. Prevailing weather condition is favorable for increasing the population of different diseases and insects in crop field so its regular monitoring should be advised. Avoid grazing / feeding of cattle during noon hours because there is a chance of increase in maximum temperature in upcoming days.",
+   "general_advisory": "Sow rice and maize crops early due to expected heavy rainfall next week. Ensure proper care and shelter for cattle during monsoon.",
    "crops_data": {
-      "green gram": {
+      "rice": {
          "advisory": [
-            "To control aphids attack in pulse crop, spraying of imidacloroprid @ 0.3 ml or Thiamethoxam @ 0.3 g per liter of water and for yellow mosaic virus (transmitted through white fly) spraying of Acetamiprid 20% SP @ 40 g/acre in 200-250 liters of water should be advised under clear weather."
+            "Plant rice in well-drained fields to avoid waterlogging",
+            "Apply appropriate fertilizers and pest control measures as per schedule"
          ]
       },
       "maize": {
          "advisory": [
-            "Looking to the past rainfall event, farmers are advised to drain out excess water from field and fertilizer application should be done under proper moisture condition at this stage.",
-            "To control stem borer in Maize field, spraying of Fipronil 5% SC or Profenophos 50% EC @ 2ml and for fall army worm, Emamectin Benzoate @ 0.4 g per liter of water should be advised."
+            "Ensure adequate spacing between maize plants for proper growth",
+            "Monitor maize crop regularly for any signs of pests or diseases"
          ]
       },
-      "mango": {
+      "cattle": {
          "advisory": [
-            "To control mango hopper in Mango tree, spraying of insecticides like Acephate (1g/L) or Chloropyriphos (0.5 ml/L) or Thiomethoxam (0.3-0.4 g/L) and for powdery mildew disease, spraying of soluble sulphur (2 g/ L) should be advised under clear weather condition.",
-            "To increase fruit size KNO3 2% at mustard size fruit stage should be applied. Spraying of Planofix @ 1ml/4.5 liters of water should be advised at Mango with pea size fruit stage to reduce fruit drops.",
-            "Farmers shouldn’t apply hormone and insecticide at same time. There should be at least one week gap between their applications."
-         ]
-      },
-      "vegetable crops": {
-         "advisory": [
-            "Proper monitoring against root and fruit rot disease infestation in vegetable crops should be advised.",
-            "To control leaf eating caterpillar and fruit borer/ shoot and fruit borer in Tomato and Brinjal, spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised under clear weather.",
-            "Early (Alternaria) blight infection is observed in some tomato  fields so spraying of Tebuconazole 50% + Trifloxystrobin 25%@ 0.4g per liter water should be advised.",
-            "Spraying of Tebuconazole 50% + Trifloxystrobin 25%@ 0.4g per liter water should be advised to control purple blotch disease in Onion  and in case of thrips attack, spraying of imidacloroprid @ 0.3 ml or Thiamethoxam @ 0.3 g per liter of water or Acetamiprid 20% SP @ 1g per 4 liters of water should be advised."
+            "Provide shelter for cattle during heavy rainfall to prevent illness",
+            "Ensure cattle have access to clean water and nutritious feed"
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

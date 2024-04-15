@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 72,
-         "rh_min": 24,
-         "wind_speed": 17,
-         "wind_direction": 204,
-         "cloud_cover": 0
-      },
-      "28-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 24,
-         "rh_max": 80,
-         "rh_min": 25,
-         "wind_speed": 19,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
+      "13-04-2024": {
+         "rainfall": 2,
+         "t_max": 36,
          "t_min": 25,
-         "rh_max": 79,
+         "rh_max": 48,
          "rh_min": 23,
-         "wind_speed": 20,
-         "wind_direction": 202,
-         "cloud_cover": 2
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 5
       },
-      "30-03-2024": {
+      "14-04-2024": {
          "rainfall": 0,
          "t_max": 37,
-         "t_min": 25,
-         "rh_max": 78,
-         "rh_min": 28,
-         "wind_speed": 23,
-         "wind_direction": 202,
-         "cloud_cover": 4
+         "t_min": 26,
+         "rh_max": 66,
+         "rh_min": 23,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 3
       },
-      "31-03-2024": {
+      "15-04-2024": {
          "rainfall": 0,
          "t_max": 38,
-         "t_min": 25,
-         "rh_max": 73,
-         "rh_min": 30,
-         "wind_speed": 22,
+         "t_min": 26,
+         "rh_max": 64,
+         "rh_min": 22,
+         "wind_speed": 13,
+         "wind_direction": 202,
+         "cloud_cover": 1
+      },
+      "16-04-2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 27,
+         "rh_max": 69,
+         "rh_min": 24,
+         "wind_speed": 15,
+         "wind_direction": 202,
+         "cloud_cover": 1
+      },
+      "17-04-2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 25,
+         "wind_speed": 16,
          "wind_direction": 207,
-         "cloud_cover": 6
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
@@ -57,51 +57,48 @@
       "sugarcane",
       "greengram",
       "vegetables",
-      "mustard/pea",
-      "mango"
+      "fruit"
    ],
-   "general_advisory": "As per IMD forecast, Dry weather is expected for next 5 days. As there is a chance of dry weather condition along with an increase in maximum temperature expected during upcoming days, farmers are advised to apply fertilizer after draining out excess water under waterlogged conditions and continue spraying operations during that period. Prevailing weather conditions are favorable for pest and disease incidence, so farmers are advised to monitor the fields regularly. Avoid grazing/feeding of cattle during noon hours due to an expected increase in maximum temperature.",
+   "general_advisory": "According to medium range weather forecast, increase irrigation frequency, practice mulching, avoid grazing animals during noon, pollination enhancement, and observe pest and disease incidence.",
    "crops_data": {
       "summer rice": {
          "advisory": [
-            "Farmers are advised to apply top dressing of urea fertilizer in rice plants after draining out excess water.",
-            "In summer rice, high infestation of stem borer is observed, so farmers are advised to monitor the activity of stem borer and apply appropriate treatments.",
-            "To manage sheath blight & blast disease in paddy, specific sprays are recommended.",
-            "In some places in rice fields, brown leafhopper infestation is noticed, applying control measures is recommended."
+            "Maintain optimum moisture level at critical growth stages like PI & Flowering in paddy field.",
+            "Apply 35 kg Urea & 10 kg MOP/ha as final top dressing in PI stage.",
+            "Monitor stem borer activity and apply appropriate insecticides.",
+            "Spray recommended fungicides to manage Blast disease."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Remove the collar rot infected plants from the field.",
-            "Need-based drenching is advised to control stem rot & collar rot."
+            "Harvest mature sunflowers.",
+            "Prevent parrot menace during seed filling stage."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "To control early shot borer in sugarcane, foliar spray of Fipronil is advised."
+            "Keep weed free up to 4 months, irrigate timely, and mulch with sugarcane trash.",
+            "Apply foliar spray of Fipronil 5SC for early shot borer control."
          ]
       },
       "greengram": {
          "advisory": [
-            "Prevailing weather conditions may lead to population buildup & infestation of hairy caterpillar & tobacco caterpillar, specific controls are recommended."
+            "Provide light irrigation to maintain moisture.",
+            "Use recommended insecticides for pod borer management."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Various sprays are recommended to control pests and diseases in vegetables."
+            "Provide frequent light irrigation to protect against dry weather and heat wave.",
+            "Spray recommended pesticides to control pests and diseases."
          ]
       },
-      "mustard/pea": {
+      "fruit": {
          "advisory": [
-            "Specific treatments are advised to increase fruit size and prevent fruit drop in mustard and pea crops.",
-            "Control measures for pests like mealy bug & mango hopper are recommended."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Specific spray recommendations to control pests in mango trees."
+            "Advise weekly irrigation during summer season for mango.",
+            "Spray recommended pesticides for Mealy bug & Mango hopper control."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

@@ -1,99 +1,78 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 22,
-         "rh_max": 68,
-         "rh_min": 21,
-         "wind_speed": 15,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "28-03-2024": {
-         "rainfall": 0,
+      "13-04-2024": {
+         "rainfall": 4,
          "t_max": 35,
-         "t_min": 22,
-         "rh_max": 79,
-         "rh_min": 19,
-         "wind_speed": 15,
-         "wind_direction": 206,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 24,
-         "rh_max": 77,
-         "rh_min": 18,
-         "wind_speed": 15,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 24,
-         "rh_max": 77,
+         "t_min": 23,
+         "rh_max": 43,
          "rh_min": 22,
-         "wind_speed": 18,
-         "wind_direction": 202,
+         "wind_speed": 11,
+         "wind_direction": 283,
+         "cloud_cover": 6
+      },
+      "14-04-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 24,
+         "rh_max": 63,
+         "rh_min": 19,
+         "wind_speed": 11,
+         "wind_direction": 210,
          "cloud_cover": 4
       },
-      "31-03-2024": {
-         "rainfall": 2,
-         "t_max": 37,
+      "15-04-2024": {
+         "rainfall": 0,
+         "t_max": 38,
          "t_min": 24,
-         "rh_max": 76,
-         "rh_min": 23,
-         "wind_speed": 17,
-         "wind_direction": 212,
-         "cloud_cover": 4
+         "rh_max": 62,
+         "rh_min": 19,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 3
+      },
+      "16-04-2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 25,
+         "rh_max": 65,
+         "rh_min": 20,
+         "wind_speed": 12,
+         "wind_direction": 205,
+         "cloud_cover": 1
+      },
+      "17-04-2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 20,
+         "wind_speed": 12,
+         "wind_direction": 202,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "summer rice",
-      "sunflower",
-      "sugarcane",
-      "greengram",
-      "vegetables",
-      "fruit"
+      "vegetables"
    ],
-   "general_advisory": "As per IMD forecast, Dry weather is expected for the next 4 days and Very Light rain on the last day. Farmers are advised to apply fertilizer after draining out excess water under water-logged conditions and continue spraying operations during that period. Prevailing weather conditions are favorable for pest and disease incidence. Farmers are advised to monitor the fields regularly. Avoid grazing/feeding of cattle during noon hours due to an expected increase in maximum temperature in the upcoming days.",
+   "general_advisory": "According to medium range weather forecast of IMD, MC, Bhubaneswar, Maximum temperature very likely to rise. Increase frequency of irrigation at critical growth stages. Follow mulching practices for soil moisture conservation. Avoid grazing animals during noon hours. Provide Boron for pollination in crops. Monitor pest and disease incidence and spray insecticide and pesticide if infestation is high.",
    "crops_data": {
       "summer rice": {
          "advisory": [
-            "Farmers are advised to apply top dressing of urea fertilizer in rice plants after draining out excess water.",
-            "In summer rice, high infestation of stem borer is observed. Farmers are advised to monitor the activity of stem borer and apply necessary treatments."
-         ]
-      },
-      "sunflower": {
-         "advisory": [
-            "Remove the collar rot-infected plants from the field.",
-            "Need-based drenching of recommended pesticides is advised to control stem rot & collar rot."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "To control early shot borer in sugarcane, foliar spray of Fipronil 5SC is advised."
-         ]
-      },
-      "greengram": {
-         "advisory": [
-            "Prevailing weather conditions may lead to population buildup & infestation of hairy caterpillar & Tobacco caterpillar. To minimize infestation, place vegetative traps and apply recommended pesticides."
+            "Maintain optimum moisture level at critical growth stages like PI & Flowering in paddy field.",
+            "Apply 35 kg Urea & 10 kg MOP/ha as final top dressing in PI stage.",
+            "Monitor stem borer activity and apply appropriate pesticides.",
+            "Spray Tebuconazole 50%+ Trifloxystrobin 25 % WG @80g/acre for Blast disease management."
          ]
       },
       "vegetables": {
          "advisory": [
-            "To control various pests and diseases in different vegetables, specific pesticide sprays are recommended."
-         ]
-      },
-      "fruit": {
-         "advisory": [
-            "To increase fruit size in mustard and prevent fruit drop in mango, specific treatments are recommended.",
-            "Livestock should be given a mineral mixture along with salt regularly."
+            "Provide frequent light irrigation in vegetable field to protect crops from heat wave condition.",
+            "Spray Neem based pesticide for Fruit and shoot borer control.",
+            "Apply Neem or Karanjaa cake and spray fungicide to prevent wilting in brinjal and tomato.",
+            "Use Flonicamid for little leaf control in bitter guard and other viral diseases of cucurbits."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

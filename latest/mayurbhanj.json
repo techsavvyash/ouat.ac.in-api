@@ -1,153 +1,127 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 20,
-         "rh_max": 59,
-         "rh_min": 22,
-         "wind_speed": 12,
-         "wind_direction": 207,
-         "cloud_cover": 0
-      },
-      "28-03-2024": {
-         "rainfall": 0,
+      "2024-04-13": {
+         "rainfall": 5,
          "t_max": 35,
-         "t_min": 21,
-         "rh_max": 63,
-         "rh_min": 17,
-         "wind_speed": 12,
-         "wind_direction": 199,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 36,
          "t_min": 23,
-         "rh_max": 56,
-         "rh_min": 15,
-         "wind_speed": 11,
-         "wind_direction": 200,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 23,
-         "rh_max": 63,
-         "rh_min": 18,
-         "wind_speed": 14,
-         "wind_direction": 201,
+         "rh_max": 43,
+         "rh_min": 20,
+         "wind_speed": 9,
+         "wind_direction": 238,
          "cloud_cover": 6
       },
-      "31-03-2024": {
-         "rainfall": 10,
+      "2024-04-14": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 24,
+         "rh_max": 43,
+         "rh_min": 17,
+         "wind_speed": 10,
+         "wind_direction": 208,
+         "cloud_cover": 3
+      },
+      "2024-04-15": {
+         "rainfall": 0,
          "t_max": 38,
-         "t_min": 23,
-         "rh_max": 53,
-         "rh_min": 20,
-         "wind_speed": 12,
+         "t_min": 24,
+         "rh_max": 46,
+         "rh_min": 21,
+         "wind_speed": 10,
          "wind_direction": 214,
-         "cloud_cover": 8
+         "cloud_cover": 2
+      },
+      "2024-04-16": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 24,
+         "rh_max": 49,
+         "rh_min": 20,
+         "wind_speed": 11,
+         "wind_direction": 212,
+         "cloud_cover": 1
+      },
+      "2024-04-17": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 24,
+         "rh_max": 51,
+         "rh_min": 19,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
-      "chickpea",
-      "linseed",
-      "mustard",
-      "cauliflower",
-      "cucumber",
+      "rice",
+      "groundnut",
+      "okra/ladyfinger",
       "brinjal",
-      "chilli",
       "tomato",
+      "cucumber",
       "mango",
-      "banana",
       "cow",
-      "poultry"
+      "fresh water",
+      "chicken"
    ],
-   "general_advisory": "Harvest the matured crops from the field. Irrigate the field if necessary. Use celphos tablets to keep away the insects during storage. Monitor the field for pests and disease infestation.",
+   "general_advisory": "Provide sufficient irrigation to crops to reduce excess temperature. Keep paddy fields ponded...",
    "crops_data": {
-      "chickpea": {
+      "rice": {
          "advisory": [
-            "Harvest the matured chickpea.",
-            "Check for the disease and pest infestation.",
-            "To reduce the borer infestation in chickpea, apply Neem oil @ 12.5 lt/ha or spray Triazophos 40 EC @ 2 ml/lt.",
-            "Chickpea plant can be sold at market during fruiting time to fetch good return."
+            "The transplanted paddy is at flowering to maturity (ten to thirteen week) stage...",
+            "Due to differential day and night temperature, there are chances of blast disease incidence...",
+            "Due to rise in temperature there are chances of increase in stem borer infestation..."
          ]
       },
-      "linseed": {
+      "groundnut": {
          "advisory": [
-            "Harvest the matured linseed.",
-            "Separate seeds at clean floor surface.",
-            "Store the linseed at safe places."
+            "Due to rise in atmospheric temperature there are chances of infestation of thrips and aphids...",
+            "There may be chances of incidence of tikka disease in groundnut..."
          ]
       },
-      "mustard": {
+      "okra/ladyfinger": {
          "advisory": [
-            "Harvest the mustard and sun dry it to reduce the moisture content.",
-            "Seeds can be sold at market to get good return."
-         ]
-      },
-      "cauliflower": {
-         "advisory": [
-            "Harvest the matured cauliflower and sell it near the market to fetch good return.",
-            "To manage cutworms in cabbage, apply Chloropyriphos @ 2 ml/lt."
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "Irrigate the crop regularly.",
-            "Apply FYM and vermicompost.",
-            "For controlling downy mildew, spray Mancozeb 2 g/lt at an interval of 10 days."
+            "Farmer should apply 15-kg of Urea per acre for High yielding varieties and 20-kg of Urea per acre for hybrids...",
+            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra..."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Harvest the matured brinjal.",
-            "Irrigate the plants regularly.",
-            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10 lt of water."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Harvest the chilli regularly and provide irrigation to the crop.",
-            "Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water."
+            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots...",
+            "The mango hoppers multiply rapidly in cloudy weather..."
          ]
       },
       "tomato": {
          "advisory": [
-            "Staking of tomato plant is necessary.",
-            "Don’t let touch the tomato fruit to the soil. Rotting can occur.",
-            "Harvest the Tomato when it is half ripen to store it for more time.",
-            "For managing fruit borer in tomato, spray Flubendiamide 5g/10 lt of water."
+            "The transplanted tomato crop is at fruit maturity to harvesting (thirteen to sixteen week) stage...",
+            "There are chances of infestation of whiteflies in Tomato Crop..."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "There are chances of infestation of fruit fly in cucurbit vegetables...",
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion..."
          ]
       },
       "mango": {
          "advisory": [
-            "Remove the diseased plant parts from the tree.",
-            "Irrigate the tree regularly.",
-            "Spraying of Thiomethoxam @ 0.5 g/lt can help in managing mango mealy bug.",
-            "Spray Planofix @ 0.4 ml/lt to reduce the flower drop in mango."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Sigatoka leaf spot in Banana can be managed by spraying Carbendazim @ 1 g/lt at 15 days interval.",
-            "Provide irrigation to the plant regularly."
+            "Due to hot and cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant..."
          ]
       },
       "cow": {
          "advisory": [
-            "Provide clean drinking water regularly.",
-            "Keep the shed clean and disinfectant."
+            "Do not allow the cattle to graze in open fields during day hours..."
          ]
       },
-      "poultry": {
+      "fresh water": {
          "advisory": [
-            "Vaccinate the poultry birds within the first week with Lasota and administer IBT within first two weeks.",
-            "Clean drinking water should be provided regularly to the poultry birds."
+            "Fish farmers, in case, have stocked fingerlings in the pond for fish culture..."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "The chicks and birds may suffer from heatstroke..."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

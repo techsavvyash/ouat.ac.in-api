@@ -1,126 +1,122 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 36,
+      "13-04-2024": {
+         "rainfall": 5,
+         "t_max": 28,
          "t_min": 23,
-         "rh_max": 52,
-         "rh_min": 18,
-         "wind_speed": 8,
-         "wind_direction": 161,
-         "cloud_cover": 0
+         "rh_max": 46,
+         "rh_min": 25,
+         "wind_speed": 6,
+         "wind_direction": 198,
+         "cloud_cover": 7
       },
-      "28-03-2024": {
+      "14-04-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 52,
+         "rh_min": 21,
+         "wind_speed": 6,
+         "wind_direction": 158,
+         "cloud_cover": 4
+      },
+      "15-04-2024": {
          "rainfall": 0,
          "t_max": 38,
-         "t_min": 23,
-         "rh_max": 51,
-         "rh_min": 15,
-         "wind_speed": 8,
-         "wind_direction": 195,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 24,
-         "rh_max": 50,
-         "rh_min": 14,
-         "wind_speed": 9,
-         "wind_direction": 169,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 24,
-         "rh_max": 53,
-         "rh_min": 17,
-         "wind_speed": 9,
+         "t_min": 25,
+         "rh_max": 49,
+         "rh_min": 22,
+         "wind_speed": 6,
          "wind_direction": 240,
-         "cloud_cover": 6
+         "cloud_cover": 3
       },
-      "31-03-2024": {
-         "rainfall": 2,
+      "16-04-2024": {
+         "rainfall": 0,
          "t_max": 40,
          "t_min": 25,
-         "rh_max": 56,
-         "rh_min": 20,
-         "wind_speed": 10,
-         "wind_direction": 225,
-         "cloud_cover": 6
+         "rh_max": 48,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 180,
+         "cloud_cover": 2
+      },
+      "17-04-2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 25,
+         "rh_max": 44,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 210,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "summer paddy",
+      "green gram/black gram",
       "groundnut",
-      "hybrid maize",
-      "tomato",
-      "chilli",
-      "brinjal",
+      "okra",
+      "cucurbits",
       "onion",
-      "mango",
       "cattle & buffalo",
       "goat & sheep",
       "poultry"
    ],
-   "general_advisory": "Keeping in view of dry and sunny weather during the next five days, farmers are advised to resume fertilizer and pesticide application, where it is required. There is a possibility of aphid outbreak in summer vegetable crops. Regular monitoring of crop field is advisable for incidence of insects and diseases. Farmers are advised to keep crop fields free from weeds and do mulching in vegetables to control weed population. Livestock should be kept under shade with provisions for sufficient clean water during the day.",
+   "general_advisory": "As per extended range of forecast received from IMD, Maximum temperature likely to be above normal by 3 to 5°C over the districts of Odisha during week -1 (12th to 18th April 2024). Farmers are advised to plan for farming activities accordingly. Considering the weather forecast, it is advised to resume application of plant protection chemicals & fertilizer from day after tomorrow. Farmers are advised to undertake weeding and hoeing operation in the standing crops and vegetables to protect them from weeds by utilizing available soil moisture. Use light trap to monitor insect population.",
    "crops_data": {
       "summer paddy": {
          "advisory": [
-            "Disease and Insect Management: Blast, Stem borer/Leaf folder, Brown spot, Thrips"
+            "Sheath Blight: Apply Azoxystrobin 11% + Tebuconazole 18.3% @ 1.5 ml/ltr of water for effective control.",
+            "Bacterial Blight: Apply Copper oxychloride 50% WP @ 3 g/liter of water.",
+            "Blast: If infestation of blast disease is noticed, spray Carbendazim 50 WP @ 1g/ltr of water or Trifloxystrobin 25% + Tebuconazole 50% @ 4 g /10 ltrs of water or Edifenphos 50 EC @ 1 ml/ltr of water.",
+            "Stem borer/Leaf folder: Apply Cartap hydrochloride 4G @ 10 kg/acre mixing with sand at 1:1 ratio or spray Chlorantraniliprole 18.5% SC @ 3ml or Flubendiamide 39.35% M/M SC @ 1ml by mixing with 10 liters of water to control stem borer/leaf folder infestation."
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "Harvest pods at 70-80% maturity and sundry to bring moisture content to 8-10% of the seed.",
+            "Store harvested produce by mixing with Mustard oil @ 2ml/kg seeds to protect from stored grain pests."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Disease & Insect Management: Leaf miner, Tobacco Caterpillar, Tikka"
+            "Provide a light irrigation just before harvest to facilitate easier removal of matured pods from the soil.",
+            "Leave pods along with plants for drying for 5-7 days after uprooting to improve grain weight."
          ]
       },
-      "hybrid maize": {
+      "okra": {
          "advisory": [
-            "Insect Management: Stem Borer, FAW"
+            "Powdery mildew: Apply Sulphur 80% WP @ 4g/ltr of water if symptoms are noticed."
          ]
       },
-      "tomato": {
+      "cucurbits": {
          "advisory": [
-            "Disease and Insect Management: Fruit & Shoot borer, Leaf blight"
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Disease and Insect Management: Thrips/Leaf curl virus, Fruit Borer"
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Insect Management: Fruit and Shoot borer"
+            "Powdery mildew: Apply Carbendazim 50% WP @ 0.5g/ltr of water if symptoms are noticed."
          ]
       },
       "onion": {
          "advisory": [
-            "Disease and Insect Management: Purple blotch, Thrips"
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "For control of fruit drop in mango orchards, spraying of Karathane is advisable."
+            "Avoid moisture stress during bulb formation stage.",
+            "Stop irrigating the crop 15 days before harvest. Store harvested onion in a well-ventilated room to prevent sprouting.",
+            "Purple blotch: Spray Difenoconazole 25% EC or Tebuconazole 25.9% EC or Kitazin 48% EC @ 1g/ltr of water.",
+            "Thrips: Install blue sticky traps @ 8/acre at vegetative stage. For chemical control, spray Thiomethoxam 25 WG @ 1g/5 liters of water or Acetamiprid 20% SP @ 1g/4 liters of water."
          ]
       },
       "cattle & buffalo": {
          "advisory": [
-            "It is beneficial to add 5-10% of fat in the diet of high yielding cattle by reducing the fiber. Sprinkle water over dairy cattle & buffalo to reduce body temperature."
+            "Do not allow draught animals to work in the sun after 10 AM. Allow grazing after 4 PM. Provide clean and cool water."
          ]
       },
       "goat & sheep": {
          "advisory": [
-            "Allow the goats & sheeps to graze only during specific times in the morning and evening."
+            "Allow grazing only from 7-10 AM and 4-7 PM. Keep the shed curtains closed during the day and open at night for air passage."
          ]
       },
       "poultry": {
          "advisory": [
-            "Keep curtains of poultry shed closed during daytime and sprinkle water over them for cooling effect."
+            "Keep the poultry shed cool during rising temperatures. Sprinkle water for cooling effect if necessary. Provide optimal feed and water to avoid heat stress. Keep the curtains closed during the day."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

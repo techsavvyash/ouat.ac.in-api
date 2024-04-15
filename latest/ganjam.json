@@ -1,104 +1,90 @@
 {
    "weather_details": {
-      "27/03/2024": {
-         "rainfall": 0,
-         "t_max": 33,
+      "2024-04-10": {
+         "rainfall": 5,
+         "t_max": 36,
          "t_min": 24,
-         "rh_max": 59,
+         "rh_max": 58,
          "rh_min": 28,
-         "wind_speed": 12,
-         "wind_direction": 201,
-         "cloud_cover": 0
+         "wind_speed": 10,
+         "wind_direction": 169,
+         "cloud_cover": 7
       },
-      "28/03/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 63,
-         "rh_min": 29,
-         "wind_speed": 13,
-         "wind_direction": 198,
-         "cloud_cover": 0
-      },
-      "29/03/2024": {
-         "rainfall": 0,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 63,
-         "rh_min": 27,
-         "wind_speed": 13,
-         "wind_direction": 202,
-         "cloud_cover": 0
-      },
-      "30/03/2024": {
-         "rainfall": 0,
-         "t_max": 34,
+      "2024-04-11": {
+         "rainfall": 4,
+         "t_max": 37,
          "t_min": 25,
-         "rh_max": 66,
+         "rh_max": 57,
          "rh_min": 29,
-         "wind_speed": 14,
+         "wind_speed": 8,
+         "wind_direction": 169,
+         "cloud_cover": 6
+      },
+      "2024-04-12": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 71,
+         "rh_min": 33,
+         "wind_speed": 7,
+         "wind_direction": 124,
+         "cloud_cover": 5
+      },
+      "2024-04-13": {
+         "rainfall": 1,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 63,
+         "rh_min": 30,
+         "wind_speed": 9,
          "wind_direction": 198,
          "cloud_cover": 4
       },
-      "31/03/2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 64,
-         "rh_min": 37,
-         "wind_speed": 13,
-         "wind_direction": 207,
+      "2024-04-14": {
+         "rainfall": 1,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 56,
+         "rh_min": 28,
+         "wind_speed": 8,
+         "wind_direction": 240,
          "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "paddy",
-      "onion",
-      "chilli",
-      "sunflower",
-      "tobacco caterpillar",
-      "okra",
-      "mango"
+      "sesame",
+      "pumpkin",
+      "okra/ladyfinger",
+      "brinjal",
+      "cow"
    ],
-   "general_advisory": "In case of brown spot incidence in the paddy field, apply Carbendazim 12% + Mancozeb 63% WP @ 300g/acre in 200 litres of water. Pointed gourd is at flowering and fruiting stage. Don’t go for weeding. Grasses and weeds will help in maintaining the humidity. After harvesting of onion, cut the tops leaving 2.0-2.5 cm above bulb for longer storage. Summer sunflower crop is at pre-flowering stage. Monitor the emergence of Tobacco Caterpillar adult moths. To prevent whitefly infestation in okra seeds should be treated with Imidacloprid. Manage Yellow Stem Borer in paddy. Manage Blast Disease. For Tobacco Caterpillar Management in black gram and green gram. Manage early Shoot Borer in sugarcane. Manage Brinjal shoot and fruit borer. Manage Yellow mosaic viral disease in okra. Control Mango hopper in mango.",
+   "general_advisory": "According to the weather forecast, a partly to fully cloudy sky with dry weather to light rainfall is expected in the coming five days. The minimum and maximum temperatures range between 24.0-26.0 and 33.0-37.0 Deg. C. The minimum and maximum relative humidity ranges are estimated to be between 28-33% and 56-71%. Light rainfall at isolated places with lightning & winds at isolated places is expected in the coming five days. Postpone the fertiliser application and spray operation in the standing crop field.",
    "crops_data": {
-      "paddy": {
+      "sesame": {
          "advisory": [
-            "Yellow Stem Borer management with Fipronil 5%SC @ 400ml/acre",
-            "Blast Disease Management with Hexaconazole 5 % SC @ 400-ml/acre"
+            "With suitable moisture conditions, farmers can go for sowing of sesame and fertilizer application."
          ]
       },
-      "onion": {
+      "pumpkin": {
          "advisory": [
-            "After harvesting, cut tops leaving 2.0-2.5 cm above bulb for storage"
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion or DDVP in 4-litre of water."
          ]
       },
-      "chilli": {
+      "okra/ladyfinger": {
          "advisory": [
-            "For long term storage, pick ripe fruits and store in gunny bag"
+            "There are chances of sucking pests like aphids, Jassids, thrips, and whiteflies in Okra. To manage these pests at an early stage of infestation spray neem-based pesticide (Neem Oil) 1500 PPM @600 ml/acre by mixing it in 200 litres of water. Then spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20 % SP @ 50 g/acre or Tolfenpyrad 15 % EC @ 400ml/acre by mixing it in 200 litres of water."
          ]
       },
-      "sunflower": {
+      "brinjal": {
          "advisory": [
-            "Summer sunflower crop is at pre-flowering stage. Spray 2-3 g Borax per litre water"
+            "There are chances of incidence of both fungal and bacterial diseases like leaf blight, wilt, and rot in different standing crops. To manage these diseases, spray Metalaxyl+ Mancozeb @ 2g/litre of water or Carbendazim+ Mancozeb @ 2gr/litre of water along with Plantomycin @ 1g/ litre of water."
          ]
       },
-      "tobacco caterpillar": {
+      "cow": {
          "advisory": [
-            "Monitor the emergence of Tobacco Caterpillar adult moths"
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "To prevent whitefly infestation, treat seeds with Imidacloprid",
-            "Manage Yellow mosaic viral disease with whitefly management"
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Control Mango hopper by spraying recommended pesticides"
+            "Due to increasing temperature and drinking of infected water, diarrhoea is more prevalent during this time, care should be taken for the animals and provide enough drinking water."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "09-04-2024"
 }

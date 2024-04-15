@@ -1,111 +1,120 @@
 {
    "weather_details": {
-      "23/03/2024": {
+      "13/04/2024": {
          "rainfall": 0,
          "t_max": 32,
-         "t_min": 20,
-         "rh_max": 39,
-         "rh_min": 16,
-         "wind_speed": 7,
-         "wind_direction": 288,
-         "cloud_cover": 0
+         "t_min": 21,
+         "rh_max": 51,
+         "rh_min": 25,
+         "wind_speed": 6,
+         "wind_direction": 234,
+         "cloud_cover": 4
       },
-      "24/03/2024": {
+      "14/04/2024": {
          "rainfall": 0,
          "t_max": 34,
          "t_min": 22,
-         "rh_max": 71,
-         "rh_min": 13,
+         "rh_max": 43,
+         "rh_min": 19,
          "wind_speed": 7,
-         "wind_direction": 117,
-         "cloud_cover": 0
+         "wind_direction": 285,
+         "cloud_cover": 3
       },
-      "25/03/2024": {
+      "15/04/2024": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 22,
-         "rh_max": 75,
-         "rh_min": 11,
-         "wind_speed": 7,
-         "wind_direction": 124,
-         "cloud_cover": 4
-      },
-      "26/03/2024": {
-         "rainfall": 0,
-         "t_max": 35,
+         "t_max": 36,
          "t_min": 24,
-         "rh_max": 71,
-         "rh_min": 13,
-         "wind_speed": 6,
-         "wind_direction": 124,
-         "cloud_cover": 4
-      },
-      "27/03/2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 56,
-         "rh_min": 13,
-         "wind_speed": 7,
-         "wind_direction": 120,
+         "rh_max": 42,
+         "rh_min": 22,
+         "wind_speed": 5,
+         "wind_direction": 112,
          "cloud_cover": 2
+      },
+      "16/04/2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 24,
+         "rh_max": 48,
+         "rh_min": 19,
+         "wind_speed": 6,
+         "wind_direction": 292,
+         "cloud_cover": 1
+      },
+      "17/04/2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 53,
+         "rh_min": 18,
+         "wind_speed": 5,
+         "wind_direction": 158,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "summer paddy",
       "sri paddy",
       "summer pulses",
-      "maize",
+      "ginger",
       "summer groundnut",
       "ragi",
+      "animal",
       "vegetables",
-      "pisciculture"
+      "pisciculture",
+      "onion"
    ],
-   "general_advisory": "Start sowing the summer crops when the temperature is conducive for germination.",
+   "general_advisory": "In case of shortage of water, go for alternative row irrigation method for better utilization of water which saves around 50% water. Also the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature.",
    "crops_data": {
       "summer paddy": {
          "advisory": [
-            "Due to diurnal variation in temperature, there is a chance of Blast in Rice, to manage this apply Tricyclazole 0.6 g/liter of water.",
-            "Due to rise in temperature, provide irrigation 5 cm water up to 25 days of transplanting. It will help more number of tillers."
+            "Tillering stage - Due to rise in temperature, the BPH attack may be seen, to manage this, make alleys in each meter gap for effective sunlight at the base of the plant, chemically spray Ethofenfrox @ 1 ml per liter of water above ETL."
          ]
       },
       "sri paddy": {
          "advisory": [
-            "Due to rise in temperature, provide irrigation when thin hair-like cracks form in the field. Run cono weeder to control the weeds."
+            "PI stage - Leaf folder may attack, go for spraying Lambdacyalothrin @ 1 ml per liter of water."
          ]
       },
       "summer pulses": {
          "advisory": [
-            "Due to weather survey, the infestation of YMV disease may be there, and to manage this apply Ridomil MZ @ 2g/liter of water."
+            "Branching - Due to weather survey the infestation of YMV disease and to manage this apply Ridomil MZ @ 2g/liter of water."
          ]
       },
-      "maize": {
+      "ginger": {
          "advisory": [
-            "Due to rise in temperature, provide irrigation at critical stages of Knee height stage.",
-            "To manage the Stem borer release T. Chilonis card @ 30,000/ac and repeat it after 10 days of the first release."
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6-8 q/ac. Each piece should be 20 g and contain 2-3 eyes. Treat the seeds before planting in the field."
          ]
       },
       "summer groundnut": {
          "advisory": [
-            "Provide irrigation due to the rise in temperature for easing Peg penetration and pod development.",
-            "After flowering, do not start inter cultivation work again, because from this time, the flower buds and its pods penetrate and set fruit."
+            "Pod Development - Provide irrigation due to rise in temperature at pod development."
          ]
       },
       "ragi": {
          "advisory": [
-            "Due to a diurnal variation in temperature, After 3-4 weeks of planting finger millet, apply 12 kg of molasses per acre."
+            "Tillering stage - Due to diurnal variation in temperature, after 3-4 weeks of planting finger millet, apply 12 kg of molasses per acre."
+         ]
+      },
+      "animal": {
+         "advisory": [
+            "Due to rise in temperature provide the animal clean and sufficient drinking water."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Due to temperature effect in brinjal Foot & Shoot borer can be managed by application of Neem-based pesticides 330 ppm @ 1 liter per acre."
+            "Vegetative growth - Due to temperature effect in brinjal foot & shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Due to the rise in temperature, survey for oxygen deficit may be there."
+            "Growth stage - Due to rise in temperature, survey for oxygen deficit may be there."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Harvesting stage - Harvest the onion leaving 2-3 cm from the neck and cut all the roots and dry it under shed during high temperature."
          ]
       }
    },
-   "date": "22-03-2024"
+   "date": "12-04-2024"
 }
