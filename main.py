@@ -6,12 +6,13 @@ import tempfile
 import os
 import shutil
 import time
-from bs4 import BeautifulSoup
 from openai import AsyncOpenAI
 from PyPDF2 import PdfReader
 import prompt
 import logging
 from dotenv import load_dotenv
+from datetime import datetime
+from utils import *
 
 load_dotenv()
 
@@ -29,20 +30,22 @@ async def save_response(results,districts_data,temp_dir):
                 raise ValidationError("Number of items in 'names_of_crops' does not match the number of crops in 'crops_data'")
         except ValidationError as e:
             inconsistent.append([district,response,str(e)])
+        
+        response = await remove_empty_crops(response)
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
-
     if len(inconsistent)>0:
         print("Going again for inconsistent json for",[a[0] for a in inconsistent])
         return await refine_response(inconsistent)                    
 
-    return 0
+    return []
     
 async def refine_response(inconsistent):
     tasks = [retry_response(district_data[0], district_data[1], district_data[2]) for district_data in inconsistent]
         
     results = await asyncio.gather(*tasks)
+    inconsistent_districts=[]
     for district, response in results:
         counter=0
         try:
@@ -52,11 +55,14 @@ async def refine_response(inconsistent):
         except Exception as e:
             counter+=1
             response={"ERROR":"Not getting consistent data."}
+            inconsistent_districts.append(district)
+        
+        response = await remove_empty_crops(response)
             
         with open(f"latest/{district}.json", "w") as f:
             json.dump(response, f, ensure_ascii=False, indent=3)
         
-    return counter
+    return inconsistent_districts
 
 async def retry_response(district,response,e):
     try:
@@ -90,7 +96,6 @@ async def retry_response(district,response,e):
     return district,response
 
     
-
 async def process_pdf(district_data, temp_dir):
     district_name = district_data['district_name']
     date = district_data['date'].replace('/', '-')
@@ -132,70 +137,14 @@ async def process_pdf(district_data, temp_dir):
 
     return district_name, response
 
-
-def download_pdf(url, temp_dir):
-    try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            temp_file = tempfile.NamedTemporaryFile(delete=False, dir=temp_dir, suffix=".pdf")
-            with open(temp_file.name, 'wb') as f:
-                f.write(response.content)
-            return temp_file.name
-        else:
-            logging.error(f"Failed to download PDF from {url}")
-            return None
-    except Exception as e:
-        logging.error(f"Error downloading PDF: {e}")
-        return None
-
-
-def scraper():
-    url = 'https://ouat.ac.in/quick-links/agro-advisory-services/'
-    try:
-        response = requests.get(url)
-        soup = BeautifulSoup(response.text, 'html.parser')
-
-        data = []
-        districts = soup.find_all('div', class_='hide1')
-        for district in districts:
-            district_name = district.get('id')[:-1]
-            data_dict = {'district_name': district_name}
-            table = district.find('table').find('tbody')
-            if len(table.select('tr')) > 0:
-                rows = table.select('tr')[0]
-            else:
-                continue
-            columns = rows.find_all('td')
-            date = columns[1].text.strip()
-            data_dict['date'] = date
-            english_link = columns[2].find('a')['href']
-            odia_link = columns[3].find('a')['href']
-            link_dict = {'english': english_link, 'odia': odia_link}
-            data_dict['link'] = link_dict
-            data.append(data_dict)
-
-        return data
-
-    except Exception as e:
-        logging.error(f"Error scraping website: {e}")
-        return []
-    
-
-def move_json_to_history(source_dir, dest_dir):
-    os.makedirs(dest_dir, exist_ok=True)
-    os.makedirs(source_dir, exist_ok=True)
-
-    for filename in os.listdir(source_dir):
-        if filename.endswith(".json"):
-            source_path = os.path.join(source_dir, filename)
-            with open(source_path, 'r') as json_file:
-                data = json.load(json_file)
-                date = data.get('date')
-                district_name = filename.split('.')[0]
-                history_filename = f"{date}_{district_name}.json"
-                dest_path = os.path.join(dest_dir, history_filename)
-                shutil.move(source_path, dest_path)
-                print(f"Moved {filename} to {dest_path}")
+async def remove_empty_crops(response):
+    if 'crops_data' in response:
+        for crop, data in list(response['crops_data'].items()):
+            if not data.get('advisory'):
+                response['crops_data'].pop(crop)
+                if crop in response.get('names_of_crops', []):
+                    response['names_of_crops'].remove(crop)
+    return response
 
 async def main():
     temp_dir = tempfile.mkdtemp()
@@ -213,17 +162,50 @@ async def main():
         print("error moving latest to history",e)
 
 
-
+    #Inititiating tasks
     tasks = [process_pdf(district_data, temp_dir) for district_data in districts_data]
     results = await asyncio.gather(*tasks)
 
-    counter=await save_response(results,districts_data,temp_dir)
+    inconsistent_districts=await save_response(results,districts_data,temp_dir)
+    retry=1
     
+    # Iterating again on inconsistent districts
+    while retry<=3 and len(inconsistent_districts)!=0:
+        new_data=[district_data for district_data in districts_data if district_data["district_name"] in inconsistent_districts]
+        fallback_tasks = [process_pdf(district_data, temp_dir) for district_data in new_data]
+        results = await asyncio.gather(*fallback_tasks)
+        inconsistent_districts=await save_response(results,districts_data,temp_dir)
+        retry+=1
+    
+    counter=len(inconsistent_districts)
     total_districts = len(districts_data)
+
+    # Sending update through webhook
+    try:
+        webhook_url="https://discord.com/api/webhooks/1229418219316445278/Dkj1rrqHZsQ39SoMagqd2xNV4W4HwBA-xnrk6QqAnOrBV0qQ36KpMLf06EPSAgGAZdVf"
+        data={
+            "disctricts_done":f"{total_districts-counter}",
+            "inconsistent_districts":str(counter),
+            "inconsistent_districts_name":inconsistent_districts,
+            "time":str(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+        }
+        formatted_string = json.dumps(data, indent=4)
+        payload={
+            "content":str(formatted_string)
+        }
+        response = requests.post(webhook_url, json=payload)
+        response.raise_for_status()
+        print("Webhook notification sent successfully.")
+    except requests.exceptions.RequestException as e:
+        print("Error sending webhook notification:", e)        
+
+    #Saving metadata    
     metadata = f"District_done: {total_districts - counter}, Total_district: {total_districts}"
     with open("meta_data.txt", "w") as meta_file:
         json.dump(metadata, meta_file, indent=4)
 
+
+    # Removing temp dir
     try:
         shutil.rmtree(temp_dir)
     except Exception as e:

@@ -1,53 +1,53 @@
 {
    "weather_details": {
-      "23/03/2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 18,
-         "rh_max": 39,
-         "rh_min": 16,
+      "13/04/2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 49,
+         "rh_min": 21,
          "wind_speed": 8,
-         "wind_direction": 72,
-         "cloud_cover": 0
-      },
-      "24/03/2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 18,
-         "rh_max": 46,
-         "rh_min": 13,
-         "wind_speed": 8,
-         "wind_direction": 180,
-         "cloud_cover": 0
-      },
-      "25/03/2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 19,
-         "rh_max": 37,
-         "rh_min": 10,
-         "wind_speed": 7,
-         "wind_direction": 90,
-         "cloud_cover": 4
-      },
-      "26/03/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 19,
-         "rh_max": 46,
-         "rh_min": 12,
-         "wind_speed": 6,
-         "wind_direction": 202,
+         "wind_direction": 208,
          "cloud_cover": 6
       },
-      "27/03/2024": {
+      "14/04/2024": {
          "rainfall": 0,
-         "t_max": 37,
-         "t_min": 20,
-         "rh_max": 39,
-         "rh_min": 12,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 45,
+         "rh_min": 20,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 3
+      },
+      "15/04/2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 23,
+         "rh_max": 41,
+         "rh_min": 22,
          "wind_speed": 6,
-         "wind_direction": 116,
+         "wind_direction": 216,
+         "cloud_cover": 2
+      },
+      "16/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 25,
+         "rh_max": 38,
+         "rh_min": 20,
+         "wind_speed": 7,
+         "wind_direction": 162,
+         "cloud_cover": 1
+      },
+      "17/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 25,
+         "rh_max": 39,
+         "rh_min": 17,
+         "wind_speed": 6,
+         "wind_direction": 210,
          "cloud_cover": 1
       }
    },
@@ -55,71 +55,36 @@
       "summer paddy",
       "sri paddy",
       "summer pulses",
-      "maize",
       "summer groundnut",
-      "sunflower",
-      "ragi",
-      "animal",
-      "vegetables",
-      "pisciculture"
+      "sunflower"
    ],
-   "general_advisory": "Start sowing the summer crops when the temperature is conducive for germination.",
+   "general_advisory": "In case of shortage of water, go for alternative row irrigation method for better utilization of water which saves around 50% water. Also the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature.",
    "crops_data": {
       "summer paddy": {
          "advisory": [
-            "Due to diurnal variation in temperature, there is a chance of Blast in Rice, manage this by applying Tricyclazole 0.6 g/liter of water.",
-            "Postpone/provide irrigation to promote more tillers."
+            "Due to rise in temperature, the BPH attack may be seen, to manage this, make alleys in every meter gap for effective sunlight at the base of the plant, chemically spray in case of above ETL Thiomethoxam @ 3 g per 15 liters of water."
          ]
       },
       "sri paddy": {
          "advisory": [
-            "Due to rise in temperature, provide irrigation when thin hair-like carakes form in the field. Run cono weeder to control the weeds."
+            "Leaf folder may attack, go for spraying Lambdacyalothrin @ 1ml per liter of water."
          ]
       },
       "summer pulses": {
          "advisory": [
-            "Due to weather survey, there may be infestation of YMV disease. Manage this by applying Ridomil MZ @ 2g/liter of water."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Due to rise in temperature, provide irrigation at critical stages of Knee height stage.",
-            "To manage the Stem borer, release T. Chilonis card @ 20,000/ac and repeat it after 10 days of first release."
+            "Due to weather survey the infestation of YMV disease and to manage this apply Ridomil MZ @ 2g/liter of water. Provide irrigation at flowering stage."
          ]
       },
       "summer groundnut": {
          "advisory": [
-            "Provide irrigation due to rise in temperature for easing Peg penetration and pod development.",
-            "After flowering, do not practice intercultivation work."
+            "Provide irrigation due to rise in temperature at pod development stage."
          ]
       },
       "sunflower": {
          "advisory": [
-            "For good seed filling, apply 2-3 g of Borax/liter of water."
-         ]
-      },
-      "ragi": {
-         "advisory": [
-            "Due to diurnal variation in temperature, after 3-4 weeks of planting finger millet, apply 8 kg of Nitrogen per acre."
-         ]
-      },
-      "animal": {
-         "advisory": [
-            "Due to rise in temperature, provide the animal shed clean and sufficient drinking water.",
-            "Maintain cleanliness in the animal shed."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre.",
-            "Due to weather, there may be an attack of Mites, manage this by spraying Dicofol @ 3 ml/liter of water."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "Due to rise in temperature, survey for oxygen deficit may be there."
+            "For good seed filling, apply 2-3 g of Borax/liter of water. Early sown crop."
          ]
       }
    },
-   "date": "22-03-2024"
+   "date": "12-04-2024"
 }

@@ -1,102 +1,90 @@
 {
    "weather_details": {
-      "27-03-2024": {
+      "2024-04-06": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 23,
-         "rh_max": 61,
-         "rh_min": 20,
-         "wind_speed": 7,
-         "wind_direction": 171,
-         "cloud_cover": 0
+         "t_max": 40,
+         "t_min": 25,
+         "rh_max": 42,
+         "rh_min": 13,
+         "wind_speed": 9,
+         "wind_direction": 202,
+         "cloud_cover": 1
       },
-      "28-03-2024": {
+      "2024-04-07": {
          "rainfall": 0,
-         "t_max": 36,
-         "t_min": 23,
-         "rh_max": 61,
-         "rh_min": 17,
-         "wind_speed": 7,
-         "wind_direction": 165,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 38,
+         "t_max": 40,
          "t_min": 24,
-         "rh_max": 63,
-         "rh_min": 16,
-         "wind_speed": 7,
-         "wind_direction": 161,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 24,
-         "rh_max": 66,
-         "rh_min": 19,
+         "rh_max": 35,
+         "rh_min": 10,
          "wind_speed": 8,
-         "wind_direction": 180,
-         "cloud_cover": 4
+         "wind_direction": 225,
+         "cloud_cover": 2
       },
-      "31-03-2024": {
+      "2024-04-08": {
          "rainfall": 2,
          "t_max": 38,
-         "t_min": 24,
-         "rh_max": 65,
-         "rh_min": 25,
-         "wind_speed": 8,
-         "wind_direction": 214,
+         "t_min": 22,
+         "rh_max": 38,
+         "rh_min": 13,
+         "wind_speed": 7,
+         "wind_direction": 79,
          "cloud_cover": 6
+      },
+      "2024-04-09": {
+         "rainfall": 15,
+         "t_max": 37,
+         "t_min": 22,
+         "rh_max": 69,
+         "rh_min": 20,
+         "wind_speed": 9,
+         "wind_direction": 281,
+         "cloud_cover": 7
+      },
+      "2024-04-10": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 21,
+         "rh_max": 64,
+         "rh_min": 24,
+         "wind_speed": 6,
+         "wind_direction": 135,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
-      "sun flower",
-      "tomato",
-      "groundnut",
+      "rice",
+      "maize",
+      "sunflower",
       "brinjal",
-      "chicken"
+      "okra/ladyfinger"
    ],
-   "general_advisory": "Farmers are advised to resume their field works which were restricted due to previous week rain and windy condition. Spraying of chemicals can be resumed. If some crops at nursery stage was damaged due to heavy rain fall, then make provision for gap filling. Cattle and chickens should be protected from heat scorching and high temperature.",
+   "general_advisory": "To manage mango hoppers spray Imidacloprid 17.8% SL @ 5- ml/15-litre of water or Thiamethoxam 25% W.G @ 3-ml/15-litre of water or Acetamiprid 20% S.P@ 4-gram /15-litre of water . Application of smoke below the plants can also help in reducing the pest population.",
    "crops_data": {
-      "sun flower": {
+      "rice": {
          "advisory": [
-            "Stage - Alternaria blight",
-            "Spray Mancozeb 0.3% four times at an interval of 10 days to control the disease."
+            "Blast: Spray Carbendazim 50% WP @ 1.5g/litre or Hexaconazole 4 % WP + Zineb 6.8% WP @ 2.0 g / litre or Tricyclazole 18% + Mancozeb 62% WP @ 2.0g / litre or Edifenphos 50% EC @ 1.0 ml/litre."
          ]
       },
-      "tomato": {
+      "maize": {
          "advisory": [
-            "Stage - fruiting/Harvesting",
-            "Insect - fruit borer",
-            "Collect and destroy infected fruits and caterpillars.",
-            "Spray Azadirachtin 1.0% EC (10000 ppm) 2.0ml/lt or apply Bacillus thuringiensis 2g/lt during evening hours."
+            "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water ."
          ]
       },
-      "groundnut": {
+      "sunflower": {
          "advisory": [
-            "Stage - vegetative/ flowering initiation",
-            "Disease - Tikka",
-            "Pick and destroy infected plants and dispose them.",
-            "Tebuconazole (0.1%) or Carbendazim @0.1% can be applied for best control"
+            "To manage Black headed Caterpillar spray Lambda-cyhalothrin 5% EC @ 2ml or Chlorpyrifos 50%+Cypermethrin 5% EC @ 2ml or Profenophos 50% EC @ 2ml per litre of water per acre. Late sown crop is at 40-45 days, apply4/5/24, 3:29 PM District Advisory"
          ]
       },
       "brinjal": {
          "advisory": [
-            "Stage - Fruiting/Harvesting",
-            "Insect - fruit and shoot borer",
-            "Remove the affected terminal shoots showing bore holes.",
-            "Install pheromone trap@12/ha",
-            "Spray NSKE 5% or Dimethoate 30 % EC @7.0ml/10lt or Quinalphos 20% 1.7 ml/lt."
+            "Bacterial wilt has been noticed in brinjal. Soil drench with Copper oxychloride 50 WP @ 600 gm + plantomycin @ 200 gm in 200 liter of water per acre to control wilting in brinjal."
          ]
       },
-      "chicken": {
+      "okra/ladyfinger": {
          "advisory": [
-            "Depth of litter should be 2 -3 inches and 10% extra space should be provided in summer.",
-            "Shifting, transportation, debeaking and vaccination should take place at night to reduce the shock of summer heat."
+            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra due to present weather condition. To manage these pests at early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @600- ml/acre by mixing it in 200- litre of water . To manage these sucking pests chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP  @ 30-gram/acre or Tolfenpyrad 15 % EC @ 400-ml/acre by mixing it in 200-litre of water ."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "05-04-2024"
 }

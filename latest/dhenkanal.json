@@ -1,111 +1,129 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 36,
+      "13-04-2024": {
+         "rainfall": 2,
+         "t_max": 30,
          "t_min": 22,
-         "rh_max": 64,
-         "rh_min": 20,
-         "wind_speed": 12,
-         "wind_direction": 171,
-         "cloud_cover": 0
+         "rh_max": 43,
+         "rh_min": 23,
+         "wind_speed": 8,
+         "wind_direction": 270,
+         "cloud_cover": 5
       },
-      "28-03-2024": {
+      "14-04-2024": {
          "rainfall": 0,
-         "t_max": 36,
+         "t_max": 34,
          "t_min": 22,
-         "rh_max": 73,
-         "rh_min": 16,
-         "wind_speed": 11,
-         "wind_direction": 171,
-         "cloud_cover": 0
-      },
-      "29-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 23,
-         "rh_max": 69,
-         "rh_min": 15,
-         "wind_speed": 11,
-         "wind_direction": 158,
-         "cloud_cover": 0
-      },
-      "30-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 23,
-         "rh_max": 73,
-         "rh_min": 17,
-         "wind_speed": 12,
-         "wind_direction": 163,
-         "cloud_cover": 4
-      },
-      "31-03-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 23,
-         "rh_max": 71,
+         "rh_max": 53,
          "rh_min": 19,
-         "wind_speed": 12,
-         "wind_direction": 165,
-         "cloud_cover": 6
+         "wind_speed": 9,
+         "wind_direction": 281,
+         "cloud_cover": 3
+      },
+      "15-04-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 24,
+         "rh_max": 56,
+         "rh_min": 19,
+         "wind_speed": 7,
+         "wind_direction": 169,
+         "cloud_cover": 2
+      },
+      "16-04-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 24,
+         "rh_max": 59,
+         "rh_min": 19,
+         "wind_speed": 9,
+         "wind_direction": 202,
+         "cloud_cover": 1
+      },
+      "17-04-2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 69,
+         "rh_min": 19,
+         "wind_speed": 9,
+         "wind_direction": 158,
+         "cloud_cover": 1
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
+      "maize",
       "groundnut",
-      "green gram",
-      "tomato and brinjal",
+      "sugarcane",
       "cucurbits",
-      "mango",
-      "banana"
+      "brinjal",
+      "tomato",
+      "chilli",
+      "okra"
    ],
-   "general_advisory": "Complete the sowing of summer vegetables like cucurb its after the subsequent week to utilize the soil moisture effectively. There are chances of incidence of both fungal and bacterial diseases like leaf blight, wilt, and rot in different standing crops.",
+   "general_advisory": "Initiate summer ploughing with the availability of soil moisture. Harvest the matured Green gram, Black gram and Groundnut crop. After harvesting of Green gram, Black gram and Groundnut, dry the seeds until the optimum moisture content is attained. Clean the entire surface where the storage is to be done.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "If bacterial Leaf blight disease incidence seen then drain out water from the paddy field. Remove the weeds and keep the field clean. Avoid excess use of 'Nitrogenous' Fertilizer.",
-            "Apply MOP @ 6-8kg/acre. Spray Copper Hydroxide 53.8% DF @ 600g/acre or 200g Plantomycin along with CopperOxy Chloride 50% WP @ 600g/acre.",
-            "Prevailing weather conditions are congenial for Leaf folder pest incidence in Paddy. To control Leaf Folder spray Fipronil 5% SC @ 400ml/acre or Chlorantraniliprole 18.5% SC @ 60ml/acre."
+            "PADDY (Summer) - Milking/Booting"
          ]
       },
-      "sugarcane": {
+      "maize": {
          "advisory": [
-            "In case of severe infestation spray Fipronil 5 % SC @ 600ml/acre or Profenophos 50% EC @ 400ml/acre or Chlorantraniliprole 18.5 % SC @ 150ml/acre."
+            "Maize - Tasseling"
          ]
       },
       "groundnut": {
          "advisory": [
-            "There is a chance of Tobacco caterpillar in Groundnut. To control this spray Profenophos 50% EC @ 400 ml/acre or Flubendiamide 480 SC @ 40 ml/acre with 200 litre of water.",
-            "To control Tikka diseases spray Chlorothalonil 75% WP @ 400 g/acre or Mancozeb WP @ 600 g/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+            "Groundnut - Post-harvesting"
          ]
       },
-      "green gram": {
+      "sugarcane": {
          "advisory": [
-            "To control powdery mildew disease in Greengram crop spray Hexaconazole 5% E.C @ 300 ml/acre or Propiconazole 25% EC @ 200 ml/acre or Penconazole 10% EC @ 100 ml/acre by mixing in 200 litre of water."
-         ]
-      },
-      "tomato and brinjal": {
-         "advisory": [
-            "After rainfall there are chances of wilt disease in brinjal and Tomato crop. To manage wilt disease in brinjal and chilli first uproot affected plants and destroy it away from the field. Drench the root zone of the plant with 200-ml of Tebuconazole mixed with 20-gram of Streptocycline per acre. Use 200-litre of water per acre for spraying."
+            "SUGARCANE - Vegetative"
          ]
       },
       "cucurbits": {
          "advisory": [
-            "After cessation of rain, downy mildew disease will appear in cucurbits. To control it, go for alternate spray of Metalaxyl+Mancozeb @ 2g/litre and Azoxystrobin+Tebuconazole @0.6g/litre of water at 10 days interval."
+            "CUCURBITS - Flowering to Fruiting",
+            "To manage Fruit fly in cucurbits, prepare a poison bait by mixing 400 g of Jaggery and 8 ml Malathion or DDVP in 4 litre of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
          ]
       },
-      "mango": {
+      "brinjal": {
          "advisory": [
-            "To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3ml/15litre of water or Acetamiprid 20% S.P. @ 4g /15litre of water. Application of smoke below the plants can also help in reducing the pest population."
+            "BRINJAL/TOMATO - Vegetative to Flowering/Fruiting",
+            "To control Bacterial wilt, First of all select bacterial wilt resistant variety for cultivation.",
+            "Cultivate pulses, oilseeds, marigold etc. in the same field instead cultivating Brinjal, Tomato, Chilli repeatedly.",
+            "Summer cultivation can be done and cover the soil with thin transparent polythene for 45 days.",
+            "Seed treatment can be done with Plantomycin @ 1.5 gm or Streptocycin @ 150 mg with Copper Oxychloride @ 2gm/liter of water and soak them for 10 minutes, dry them in shade and then sow in the nursery.",
+            "Before transplanting in the main land, add Plantomycin @ 1gm/liter or Streptocycin @ 100 mg/liter of water and soak the seedling roots in it for 15 minutes.",
+            "Drenching the soil with Streptocycine @ 1.5 g or Phantomycin @ 15 g with Copper Oxychloride @ 30 g/ 10 liters of water."
          ]
       },
-      "banana": {
+      "tomato": {
          "advisory": [
-            "To control sigatoka leaf spot disease spray carbendazim @10g/10 litre of water or chlorothalonil @30g/10 litre of water for two to three times in one month interval."
+            "BRINJAL/TOMATO - Vegetative to Flowering/Fruiting",
+            "To control Bacterial wilt, First of all select bacterial wilt resistant variety for cultivation.",
+            "Cultivate pulses, oilseeds, marigold etc. in the same field instead cultivating Brinjal, Tomato, Chilli repeatedly.",
+            "Summer cultivation can be done and cover the soil with thin transparent polythene for 45 days.",
+            "Seed treatment can be done with Plantomycin @ 1.5 gm or Streptocycin @ 150 mg with Copper Oxychloride @ 2gm/liter of water and soak them for 10 minutes, dry them in shade and then sow in the nursery.",
+            "Before transplanting in the main land, add Plantomycin @ 1gm/liter or Streptocycin @ 100 mg/liter of water and soak the seedling roots in it for 15 minutes.",
+            "Drenching the soil with Streptocycine @ 1.5 g or Phantomycin @ 15 g with Copper Oxychloride @ 30 g/ 10 liters of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "CHILLI - Flowering to Fruiting",
+            "There are chances of Fruit rot and die back disease incidence in Chilli crop. To manage these diseases spray Propineb 70% WP @ 500 gram/acre or Difenoconazole 25% EC @ 100-ml/acre or Azoxystrobin 23% SC @ 200-ml/acre. The fungicide should be sprayed first just before flowering and second at fruit formation stage."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "OKRA - Flowering to Fruiting",
+            "To control YMV disease whitefly management should be done. Diseased plants should be rogued out to prevent further spread of the disease. To manage whitefly infestation at the early stage of the crop, spray Neem based pesticide 1500 PPM @ 600 ml/acre by mixing in 200 liters of water. If the infestation is severe, then go for chemical pesticide like Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50 g/acre by mixing in 200 liters of water."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }

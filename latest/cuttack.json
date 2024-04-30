@@ -1,98 +1,138 @@
 {
    "weather_details": {
-      "27/03/2024": {
+      "03/04/2024": {
          "rainfall": 0,
-         "t_max": 35,
-         "t_min": 23,
-         "rh_max": 66,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 57,
+         "rh_min": 13,
+         "wind_speed": 12,
+         "wind_direction": 205,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 15,
+         "wind_speed": 11,
+         "wind_direction": 180,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 70,
          "rh_min": 23,
-         "wind_speed": 16,
-         "wind_direction": 201,
+         "wind_speed": 15,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 67,
+         "rh_min": 15,
+         "wind_speed": 13,
+         "wind_direction": 210,
          "cloud_cover": 0
       },
-      "28/03/2024": {
+      "07/04/2024": {
          "rainfall": 0,
-         "t_max": 37,
-         "t_min": 23,
-         "rh_max": 74,
-         "rh_min": 22,
-         "wind_speed": 16,
-         "wind_direction": 201,
-         "cloud_cover": 0
-      },
-      "29/03/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 71,
-         "rh_min": 20,
-         "wind_speed": 16,
-         "wind_direction": 198,
-         "cloud_cover": 0
-      },
-      "30/03/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 75,
-         "rh_min": 25,
-         "wind_speed": 18,
-         "wind_direction": 202,
-         "cloud_cover": 6
-      },
-      "31/03/2024": {
-         "rainfall": 2,
-         "t_max": 38,
-         "t_min": 25,
-         "rh_max": 72,
-         "rh_min": 26,
-         "wind_speed": 16,
-         "wind_direction": 204,
-         "cloud_cover": 8
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 55,
+         "rh_min": 10,
+         "wind_speed": 12,
+         "wind_direction": 242,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
-      "black gram & green gram",
       "sugarcane",
+      "maize",
+      "tomato",
       "brinjal",
+      "coconut",
+      "vegetable seedlings",
+      "fingerlings",
+      "black gram",
+      "green gram",
       "okra",
+      "onion",
       "mango"
    ],
-   "general_advisory": "Weather forecast suggests dry weather with light rainfall on Sunday with clear to overcast sky conditions. Wind speed ranges between 16-18 km/h. Maximum and minimum temperatures expected to be between 35-38°C and 23-25°C respectively. Crop coverage is at 98% with normal conditions.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. In these stages water scarcity or deficit of water causes comparatively greater reduction in yields. Hence, water deficit during these stages should be avoided. Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect crop from water scarcity during summer. Apply sprinkler irrigation to bring down the heat effect. Conserving upto 50% water by irrigating alternate rows. The high temperature increases the water requirement of maize crop. Irrigate the crop. Never allow water to remain stagnant for more than six hours in the field. Spread polythene in irrigation channels to save water wastage during irrigation in sandy and loamy soil. High temperature in day hours may lead to wilting in tomato and brinjal. Apply 1g Streptocyclin in 10 liter water in root zone. Mulch coconut leaves 1.8m around a coconut tree to reduce water loss. Cover with paper caps on the newly planted vegetable seedlings during the daytime. In shallow ponds, harvest fingerlings if water temperature rises to 30 degrees Celsius. Ensure enough water depth before introducing fingerlings in a pond.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management - Apply Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre for stem borer infestation.",
-            "Blast Disease Management - Use Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre for blast disease."
-         ]
-      },
-      "black gram & green gram": {
-         "advisory": [
-            "Tobacco Caterpillar Management - Dust with Chlorpyriphos 1.5 % D @ 10 kg or spray Novaluron 5.25 %+ Indoxacarb 4.25 % @ 400-ml/acre or Lambda Cyhalothrin 4.9 CS @ 300 ml or Flubendiamide 20 % WG @ 120 gram for caterpillars.",
-            "For spraying 200 litre of water per acre is required."
+            "Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Water deficit during these stages should be avoided."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "Early Shoot Borer - Spray Fipronil 5 % SC @ 600ml/acre or Profenophos 50% EC  @ 400ml/acre or Chlorantraniliprole 18.5 % SC @ 150-ml/acre for shoot borer."
+            "Cover the rows with dry leaves in Sugarcane. Top-dress with 4% potassium to protect crop from water scarcity during summer."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "High temperature increases the water requirement of maize crop. Never allow water to remain stagnant for more than six hours in the field."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "High temperature in day hours may lead to wilting in tomato. Apply 1g Streptocyclin in 10 liter water in root zone."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Brinjal shoot and fruit borer - Install pheromone traps with Leucin Lure per acre and spray neem-based pesticide for pest management. Use chemical control for severe infestations."
+            "Cover with paper caps on the newly planted vegetable seedlings during the daytime."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves 1.8m around a coconut tree to reduce water loss."
+         ]
+      },
+      "vegetable seedlings": {
+         "advisory": [
+            "Cover with paper caps on the newly planted vegetable seedlings during the daytime."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "In shallow ponds, harvest fingerlings if water temperature rises to 30 degrees Celsius. Ensure enough water depth before introducing fingerlings in a pond."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Check the migration of caterpillars in Black Gram by dusting with Chlorpyriphos. For chemical control spray Novaluron 5.25% + Indoxacarb 4.25% or Lambda Cyhalothrin 4.9 CS. For spraying of insecticides, 200 liters of water per acre is required."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Check the migration of caterpillars in Green Gram by dusting with Chlorpyriphos. For chemical control spray Novaluron 5.25% + Indoxacarb 4.25% or Lambda Cyhalothrin 4.9 CS. For spraying of insecticides, 200 liters of water per acre is required."
          ]
       },
       "okra": {
          "advisory": [
-            "Yellow mosaic viral disease (YMV) - Manage whitefly infestation and rogue out diseased plants. Use Neem based pesticide or chemical pesticides for control."
+            "To prevent whitefly infestation in Okra, treat seeds with Imidacloprid before sowing. Install yellow sticky traps starting from the 2-3 leaf stage of the crop."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "After harvesting of onion, cut the tops leaving 2.0-2.5 cm above bulb. Dry harvested bulbs in well-ventilated concrete floored room."
          ]
       },
       "mango": {
          "advisory": [
-            "Mango hopper - Spray Imidacloprid 17.8% SL or Thiamethoxam 25% W.G or Acetamiprid 20% S.P for hopper control."
+            "To control mango hoppers, spray Imidacloprid, Thiamethoxam or Acetamiprid. Application of smoke below the plants can also help in reducing the pest population."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "02-04-2024"
 }

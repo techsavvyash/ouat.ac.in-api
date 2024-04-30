@@ -1,115 +1,156 @@
 {
    "weather_details": {
-      "27/03/2024": {
+      "03/04/2024": {
          "rainfall": 0,
-         "t_max": 38,
-         "t_min": 23,
-         "rh_max": 60,
-         "rh_min": 22,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 46,
+         "rh_min": 11,
          "wind_speed": 8,
-         "wind_direction": 198,
+         "wind_direction": 288,
          "cloud_cover": 0
       },
-      "28/03/2024": {
+      "04/04/2024": {
          "rainfall": 0,
-         "t_max": 38,
-         "t_min": 23,
-         "rh_max": 64,
-         "rh_min": 18,
-         "wind_speed": 9,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 63,
+         "rh_min": 10,
+         "wind_speed": 7,
          "wind_direction": 198,
-         "cloud_cover": 0
+         "cloud_cover": 1
       },
-      "29/03/2024": {
+      "05/04/2024": {
          "rainfall": 0,
-         "t_max": 39,
-         "t_min": 24,
-         "rh_max": 60,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 53,
          "rh_min": 16,
          "wind_speed": 9,
-         "wind_direction": 198,
-         "cloud_cover": 0
-      },
-      "30/03/2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 24,
-         "rh_max": 65,
-         "rh_min": 19,
-         "wind_speed": 9,
-         "wind_direction": 180,
-         "cloud_cover": 0
-      },
-      "31/03/2024": {
-         "rainfall": 2,
-         "t_max": 39,
-         "t_min": 24,
-         "rh_max": 60,
-         "rh_min": 23,
-         "wind_speed": 9,
          "wind_direction": 207,
-         "cloud_cover": 6
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 51,
+         "rh_min": 12,
+         "wind_speed": 9,
+         "wind_direction": 165,
+         "cloud_cover": 1
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 35,
+         "rh_min": 8,
+         "wind_speed": 10,
+         "wind_direction": 202,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
       "paddy",
-      "pointed gourd",
-      "onion",
-      "chilli",
-      "summer sunflower",
+      "sugarcane",
+      "maize",
+      "tomato",
+      "brinjal",
+      "coconut",
+      "vegetables",
+      "fingerlings",
+      "black gram",
+      "green gram",
       "tobacco caterpillar",
-      "whitefly infestation in okra",
-      "yellow mosaic viral disease",
+      "early shoot borer",
+      "okra seeds",
+      "onion",
+      "mango",
       "mango hopper"
    ],
-   "general_advisory": "Dry weather may prevail over the district of Nayagarh for the next five days except very light rainfall on Sunday. The sky condition may remain clear to generally cloudy for the next five days. In the next 5 days, the wind speed will remain within 08-09 km/h. The daily maximum and minimum temperature are likely to remain 38-39°C and 23-24°C respectively for the next five days.",
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Yellow stem borer management - Due to rise in temperature there are chances of increase in stem borer infestation in paddy crop. To manage Yellow Stem Borer in paddy spray Fipronil 5%SC @ 400ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre.",
-            "Blast Disease Management  - To manage blast disease spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre."
+            "Water deficit during critical stages should be avoided."
          ]
       },
-      "pointed gourd": {
+      "sugarcane": {
          "advisory": [
-            "Pointed gourd is at flowering and fruiting stage. Don’t go for weeding. Grasses and weeds will help in maintaining the humidity and it is safe for creeping of the vines and does not allow the fruit to come in contact with soil and avoid fruit rot."
+            "Top-dress with 4% potassium to protect crop from water scarcity during summer."
          ]
       },
-      "onion": {
+      "maize": {
          "advisory": [
-            "After harvesting of onion, cut the tops leaving 2.0-2.5 cm above bulb. The harvested bulb should be dried in well ventilated concrete floored room. Well dried bulbs can be stored for longer period."
+            "Irrigate the crop to meet increased water requirements."
          ]
       },
-      "chilli": {
+      "tomato": {
          "advisory": [
-            "For long term storage of chilli, first pick the ripened chilli fruits from plants and shade dry for 3 to 4 days. In this process we can get uniform colour fruits. Again, sundry the fruits for 3 to 4 days and reduce 10% of moisture content from it. Store it in a gunny bag without any contact to wall and floor."
+            "Apply 1g Streptocyclin in 10 liter water in root zone to prevent wilting."
          ]
       },
-      "summer sunflower": {
+      "brinjal": {
          "advisory": [
-            "Summer sunflower crop is at pre-flowering stage. Spray 2-3 g Borax per litre water."
+            "Mulch coconut leaves around a coconut tree to reduce water loss."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves around a coconut tree to reduce water loss."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover with paper caps on the newly planted vegetable seedlings during daytime."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Harvest fingerlings from shallow ponds if water temperature rises to 30 degrees Celsius."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Check the migration of caterpillars for tobacco caterpillar management."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Check the migration of caterpillars for tobacco caterpillar management."
          ]
       },
       "tobacco caterpillar": {
          "advisory": [
-            "Monitor the emergence of Tobacco Caterpillar adult moths by setting up Pheromone traps having Spodolure @ 6-8 nos/acre in green gram and black gram."
+            "Check the migration of caterpillars for tobacco caterpillar management."
          ]
       },
-      "whitefly infestation in okra": {
+      "early shoot borer": {
          "advisory": [
-            "To prevent whitefly infestation in okra seeds should be treated with Imidacloprid @ 7-gram/kg of seeds before sowing. Install 8-10 nos of yellow sticky traps starting from 2-3 leaf stage of the crop."
+            "Irrigate the crop frequently during hot months to manage early shoot borer."
          ]
       },
-      "yellow mosaic viral disease": {
+      "okra seeds": {
          "advisory": [
-            "Yellow mosaic viral disease (YMV)  - To manage this disease whitefly management should be done. Diseased plants should be rogued out to prevent further spread of the disease. To manage whitefly infestation at early stage of crop spray Neem based pesticide 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. If the infestation is severe than go for chemical pesticide like Thiamethoxam @ 40- gram/acre or Acetamiprid @ 50-gram/acre by mixing in 200-litre of water."
+            "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "After harvesting, dry the harvested bulbs in a well-ventilated room for storage."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Spray insecticides to control mango hoppers."
          ]
       },
       "mango hopper": {
          "advisory": [
-            "Mango hopper  -To control mango hoppers spray Imidacloprid 17.8% SL @ 5 ml/15 litre of water or Thiamethoxam 25% W.G @ 3ml/15 litre of water or Acetamiprid 20% S.P. @ 4g /15litre of water. Application of smoke below the plants can also help in reducing the pest population."
+            "Spray Imidacloprid or Thiamethoxam or Acetamiprid to control mango hoppers."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "02-04-2024"
 }

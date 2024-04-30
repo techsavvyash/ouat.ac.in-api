@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "27-03-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 22,
-         "rh_max": 70,
-         "rh_min": 32,
-         "wind_speed": 19,
-         "wind_direction": 202,
-         "cloud_cover": 4
-      },
-      "28-03-2024": {
-         "rainfall": 0,
+      "13-04-2024": {
+         "rainfall": 4,
          "t_max": 36,
          "t_min": 24,
-         "rh_max": 75,
-         "rh_min": 33,
-         "wind_speed": 20,
-         "wind_direction": 201,
-         "cloud_cover": 2
+         "rh_max": 53,
+         "rh_min": 30,
+         "wind_speed": 12,
+         "wind_direction": 212,
+         "cloud_cover": 3
       },
-      "29-03-2024": {
+      "14-04-2024": {
          "rainfall": 0,
          "t_max": 36,
          "t_min": 25,
-         "rh_max": 73,
-         "rh_min": 31,
-         "wind_speed": 20,
-         "wind_direction": 202,
+         "rh_max": 54,
+         "rh_min": 28,
+         "wind_speed": 14,
+         "wind_direction": 240,
          "cloud_cover": 2
       },
-      "30-03-2024": {
+      "15-04-2024": {
          "rainfall": 0,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 75,
-         "rh_min": 34,
-         "wind_speed": 22,
-         "wind_direction": 202,
-         "cloud_cover": 6
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 59,
+         "rh_min": 31,
+         "wind_speed": 13,
+         "wind_direction": 225,
+         "cloud_cover": 1
       },
-      "31-03-2024": {
-         "rainfall": 10,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 73,
-         "rh_min": 38,
-         "wind_speed": 20,
-         "wind_direction": 204,
-         "cloud_cover": 8
+      "16-04-2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 61,
+         "rh_min": 31,
+         "wind_speed": 16,
+         "wind_direction": 214,
+         "cloud_cover": 1
+      },
+      "17-04-2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 27,
+         "rh_max": 68,
+         "rh_min": 34,
+         "wind_speed": 16,
+         "wind_direction": 212,
+         "cloud_cover": 2
       }
    },
    "names_of_crops": [
@@ -57,51 +57,55 @@
       "sugarcane",
       "greengram",
       "vegetables",
-      "fruit"
+      "fruit",
+      "livestock"
    ],
-   "general_advisory": "As per IMD forecast, Dry weather is expected for the next 4 days and light rain on the last day (31st). As there is a chance of dry weather conditions along with an increase in maximum temperature, farmers are advised to apply fertilizer after draining out excess water under waterlogged conditions and continue spraying operations during that period. Prevailing weather conditions are favorable for pest and disease incidence. Farmers are advised to monitor the fields regularly. Avoid grazing/feeding of cattle during noon hours due to an expected increase in maximum temperature in upcoming days.",
+   "general_advisory": "According to medium range weather forecast of IMD, MC, Bhubaneswar , Maximum temperature (Day Temperature) very likely to rise by 2 to 3°C over the district during next 4 days (mainly dry weather forecasted ), farmers are advised to give light and frequent irrigation to the standing crops, increase the frequency of irrigation at critical growth stages, irrigate only during the evening or early morning. For soil moisture conservation and avoid evaporation losses mulching practices should be followed. Avoid grazing of animal during noon hours in open place because there is a chance of increase in maximum temperature in upcoming days. To Enhance pollination in crops, provide 20% Boron @300gm/acre by mixing 200 l of water. Farmers should observe the pest and disease incidence on their field and if the infestation is above economic threshold level (ETL) then spraying of insecticide and pesticide should be done in morning hours.",
    "crops_data": {
       "summer rice": {
          "advisory": [
-            "Farmers are advised to apply top dressing of urea fertilizer in rice plant after draining out excess water.",
-            "In summer rice, high infestation of stem borer is observed. Farmers are advised to monitor the activity of stem borer by installing light trap/Pheromone trap and apply appropriate pesticides.",
-            "To manage sheath blight & Blast disease in paddy, spray recommended fungicides at the specified rates.",
-            "In some places in rice field, BLB infestation noticed so to control this disease apply the specified substances."
+            "Maintain optimum moisture level at critical growth stages like PI & Flowering in paddy field because hot and humid weather condition is expected in upcoming days.",
+            "If the rice crop is in PI stage, apply 35 kg Urea & 10 kg MOP/ha as final top dressing.",
+            "In summer rice high infestation of stem borer is observed so farmers are advised to monitor the activity of stem borer by installing light trap /Pheromone trap and apply To manage Yellow stem Borer apply 4 kg Rynaxypyr 0.4 G or Flubendiamide 0.7 G @5 kg/acre 8 kg Fipronil 0.3G per acre by keeping 2 -3 cm of water level in Rice field.",
+            "To manage Blast disease in paddy spray (Tebuconazole 50%+ Trifloxystrobin 25 % WG)@80g/acre recommended."
          ]
       },
       "sunflower": {
          "advisory": [
-            "Remove the collar rot infected plants from the field.",
-            "Need-based drenching of specified fungicides is advised to control stem rot & collar rot."
+            "Harvest the sunflower if the flower head is mature & dry it under sun.",
+            "If the crop is in seed filling stage, adopt community approach to prevent the parrot menace."
          ]
       },
       "sugarcane": {
          "advisory": [
-            "To control early shot borer in sugarcane, foliar spray of Fipronil is advised."
+            "Sugarcane crop should be kept weed free up to 4 months of planting by weeding and hoeing. As the summer season has started crop should be given irrigation at proper time intervals. Irrigate alternate rows and apply sugarcane trash as mulching. To control early shot borer in sugarcane foliar spray of Fipronil 5SC @400 ml/acre is advised."
          ]
       },
       "greengram": {
          "advisory": [
-            "Prevailing weather conditions may lead to population buildup & infestation of hairy caterpillar & Tobacco caterpillar. To minimize infestation place vegetative traps near the field bund & need-based spray of specified insecticides is recommended.",
-            "In summer greengram for the management of Spodoptera litura & pod borer spraying of specified substances is recommended."
+            "Looking to the dry weather condition in upcoming days, a light irrigation should be advised at this stage to maintain adequate moisture in field.",
+            "In summer greengram for the management of pod borer complex spraying of Emamectin benzoate @80g per acre or profenophos @400 ml per acre is recommended."
          ]
       },
       "vegetables": {
          "advisory": [
-            "To control Fruit and shoot borer in Brinjal, spray Neem-based pesticide at the specified rate.",
-            "To prevent from wilting or partial wilting in brinjal and tomato apply specified products and spray specified fungicides.",
-            "To control Epilachna beetle in brinjal crop, spray specified substances at specified rates.",
-            "Spraying of specified substances to minimize damage caused by Red Pumpkin Beetle & Epilachna beetle in cucurbits.",
-            "To control little leaf in bitter gourd & other viral diseases of cucurbits uproot the infected plants & spray specified product is recommended."
+            "As dry weather is forecasted along with the chance of heat wave condition is expected in upcoming days so farmers are advised to provide frequent light irrigation either during morning or evening hours in vegetable field to protect the crop.",
+            "To control Fruit and shoot borer in Brinjal , Tomato & Okra Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80 -100g/acre & Thiachloprid@250ml/l of water.",
+            "To prevent from wilting or partial wilting in brinjal and tomato apply Neem or Karanjaa cake and spray Tebuconazole fungicide @ 1ml/liter to plant and plant base.",
+            "To control the little leaf in bitter guard & other viral diseases of cucurbits uproot the infected plants &spray Flonicamid @60g/acre is recommended."
          ]
       },
       "fruit": {
          "advisory": [
-            "To increase fruit size specific actions should be taken.",
-            "Spraying of specified substances is recommended to prevent specific pest infestation.",
-            "Farmers shouldn’t apply hormone and insecticide at the same time. There should be at least one week gap between their applications."
+            "Irrigation should be advised at weekly interval during summer season.",
+            "If infestation of Mealy bug & Mango hopper incidence in mango observed ETL, to control these pests, Spraying of Thiamethoxam 0.4 g/l of water or Lambda Cyahalothrin 4.9CS @1.25 ml/l of water recommended."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Under the prevailing hot & humid weather condition cattle & goat should be kept at shaded places & provide them cool, clean and pure water. Cover the shed roof with straw, paint it white or plaster with dung -mud to reduce temperature. In extreme heat condition, spray water and take the animal to a water body to cool off."
          ]
       }
    },
-   "date": "26-03-2024"
+   "date": "12-04-2024"
 }
