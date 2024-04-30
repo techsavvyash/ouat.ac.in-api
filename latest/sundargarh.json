@@ -1,90 +1,90 @@
 {
-   "weather_details": {
-      "13/04/2024": {
-         "rainfall": 4,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 49,
-         "rh_min": 21,
-         "wind_speed": 8,
-         "wind_direction": 208,
-         "cloud_cover": 6
-      },
-      "14/04/2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 23,
-         "rh_max": 45,
-         "rh_min": 20,
-         "wind_speed": 8,
-         "wind_direction": 248,
-         "cloud_cover": 3
-      },
-      "15/04/2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 23,
-         "rh_max": 41,
-         "rh_min": 22,
-         "wind_speed": 6,
-         "wind_direction": 216,
-         "cloud_cover": 2
-      },
-      "16/04/2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 25,
-         "rh_max": 38,
-         "rh_min": 20,
-         "wind_speed": 7,
-         "wind_direction": 162,
-         "cloud_cover": 1
-      },
-      "17/04/2024": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 25,
-         "rh_max": 39,
-         "rh_min": 17,
-         "wind_speed": 6,
-         "wind_direction": 210,
-         "cloud_cover": 1
-      }
-   },
-   "names_of_crops": [
-      "summer paddy",
-      "sri paddy",
-      "summer pulses",
-      "summer groundnut",
-      "sunflower"
-   ],
-   "general_advisory": "In case of shortage of water, go for alternative row irrigation method for better utilization of water which saves around 50% water. Also the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature.",
-   "crops_data": {
-      "summer paddy": {
-         "advisory": [
-            "Due to rise in temperature, the BPH attack may be seen, to manage this, make alleys in every meter gap for effective sunlight at the base of the plant, chemically spray in case of above ETL Thiomethoxam @ 3 g per 15 liters of water."
-         ]
-      },
-      "sri paddy": {
-         "advisory": [
-            "Leaf folder may attack, go for spraying Lambdacyalothrin @ 1ml per liter of water."
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "Due to weather survey the infestation of YMV disease and to manage this apply Ridomil MZ @ 2g/liter of water. Provide irrigation at flowering stage."
-         ]
-      },
-      "summer groundnut": {
-         "advisory": [
-            "Provide irrigation due to rise in temperature at pod development stage."
-         ]
-      },
-      "sunflower": {
-         "advisory": [
-            "For good seed filling, apply 2-3 g of Borax/liter of water. Early sown crop."
-         ]
-      }
-   },
-   "date": "12-04-2024"
+    "weather_details": {
+        "13/04/2024": {
+            "rainfall": "4 mm",
+            "t_max": "32 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "49 %",
+            "rh_min": "21 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "208 deg",
+            "cloud_cover": "6 okta"
+        },
+        "14/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "45 %",
+            "rh_min": "20 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "248 deg",
+            "cloud_cover": "3 okta"
+        },
+        "15/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "38 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "41 %",
+            "rh_min": "22 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "216 deg",
+            "cloud_cover": "2 okta"
+        },
+        "16/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "38 %",
+            "rh_min": "20 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "162 deg",
+            "cloud_cover": "1 okta"
+        },
+        "17/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "41 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "39 %",
+            "rh_min": "17 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "210 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "summer paddy",
+        "sri paddy",
+        "summer pulses",
+        "summer groundnut",
+        "sunflower"
+    ],
+    "general_advisory": "In case of shortage of water, go for alternative row irrigation method for better utilization of water which saves around 50% water. Also the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature.",
+    "crops_data": {
+        "summer paddy": {
+            "advisory": [
+                "Due to rise in temperature, the BPH attack may be seen, to manage this, make alleys in every meter gap for effective sunlight at the base of the plant, chemically spray in case of above ETL Thiomethoxam @ 3 g per 15 liters of water."
+            ]
+        },
+        "sri paddy": {
+            "advisory": [
+                "Leaf folder may attack, go for spraying Lambdacyalothrin @ 1ml per liter of water."
+            ]
+        },
+        "summer pulses": {
+            "advisory": [
+                "Due to weather survey the infestation of YMV disease and to manage this apply Ridomil MZ @ 2g/liter of water. Provide irrigation at flowering stage."
+            ]
+        },
+        "summer groundnut": {
+            "advisory": [
+                "Provide irrigation due to rise in temperature at pod development stage."
+            ]
+        },
+        "sunflower": {
+            "advisory": [
+                "For good seed filling, apply 2-3 g of Borax/liter of water. Early sown crop."
+            ]
+        }
+    },
+    "date": "12-04-2024"
 }

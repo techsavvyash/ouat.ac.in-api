@@ -1,90 +1,90 @@
 {
-   "weather_details": {
-      "2024-04-10": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 24,
-         "rh_max": 58,
-         "rh_min": 28,
-         "wind_speed": 10,
-         "wind_direction": 169,
-         "cloud_cover": 7
-      },
-      "2024-04-11": {
-         "rainfall": 4,
-         "t_max": 37,
-         "t_min": 25,
-         "rh_max": 57,
-         "rh_min": 29,
-         "wind_speed": 8,
-         "wind_direction": 169,
-         "cloud_cover": 6
-      },
-      "2024-04-12": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 71,
-         "rh_min": 33,
-         "wind_speed": 7,
-         "wind_direction": 124,
-         "cloud_cover": 5
-      },
-      "2024-04-13": {
-         "rainfall": 1,
-         "t_max": 37,
-         "t_min": 26,
-         "rh_max": 63,
-         "rh_min": 30,
-         "wind_speed": 9,
-         "wind_direction": 198,
-         "cloud_cover": 4
-      },
-      "2024-04-14": {
-         "rainfall": 1,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 56,
-         "rh_min": 28,
-         "wind_speed": 8,
-         "wind_direction": 240,
-         "cloud_cover": 4
-      }
-   },
-   "names_of_crops": [
-      "sesame",
-      "pumpkin",
-      "okra/ladyfinger",
-      "brinjal",
-      "cow"
-   ],
-   "general_advisory": "According to the weather forecast, a partly to fully cloudy sky with dry weather to light rainfall is expected in the coming five days. The minimum and maximum temperatures range between 24.0-26.0 and 33.0-37.0 Deg. C. The minimum and maximum relative humidity ranges are estimated to be between 28-33% and 56-71%. Light rainfall at isolated places with lightning & winds at isolated places is expected in the coming five days. Postpone the fertiliser application and spray operation in the standing crop field.",
-   "crops_data": {
-      "sesame": {
-         "advisory": [
-            "With suitable moisture conditions, farmers can go for sowing of sesame and fertilizer application."
-         ]
-      },
-      "pumpkin": {
-         "advisory": [
-            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion or DDVP in 4-litre of water."
-         ]
-      },
-      "okra/ladyfinger": {
-         "advisory": [
-            "There are chances of sucking pests like aphids, Jassids, thrips, and whiteflies in Okra. To manage these pests at an early stage of infestation spray neem-based pesticide (Neem Oil) 1500 PPM @600 ml/acre by mixing it in 200 litres of water. Then spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20 % SP @ 50 g/acre or Tolfenpyrad 15 % EC @ 400ml/acre by mixing it in 200 litres of water."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "There are chances of incidence of both fungal and bacterial diseases like leaf blight, wilt, and rot in different standing crops. To manage these diseases, spray Metalaxyl+ Mancozeb @ 2g/litre of water or Carbendazim+ Mancozeb @ 2gr/litre of water along with Plantomycin @ 1g/ litre of water."
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "Due to increasing temperature and drinking of infected water, diarrhoea is more prevalent during this time, care should be taken for the animals and provide enough drinking water."
-         ]
-      }
-   },
-   "date": "09-04-2024"
+    "weather_details": {
+        "2024-04-10": {
+            "rainfall": "5 mm",
+            "t_max": "36 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "58 %",
+            "rh_min": "28 %",
+            "wind_speed": "10 kmph",
+            "wind_direction": "169 deg",
+            "cloud_cover": "7 okta"
+        },
+        "2024-04-11": {
+            "rainfall": "4 mm",
+            "t_max": "37 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "57 %",
+            "rh_min": "29 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "169 deg",
+            "cloud_cover": "6 okta"
+        },
+        "2024-04-12": {
+            "rainfall": "2 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "71 %",
+            "rh_min": "33 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "124 deg",
+            "cloud_cover": "5 okta"
+        },
+        "2024-04-13": {
+            "rainfall": "1 mm",
+            "t_max": "37 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "63 %",
+            "rh_min": "30 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "198 deg",
+            "cloud_cover": "4 okta"
+        },
+        "2024-04-14": {
+            "rainfall": "1 mm",
+            "t_max": "33 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "56 %",
+            "rh_min": "28 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "240 deg",
+            "cloud_cover": "4 okta"
+        }
+    },
+    "names_of_crops": [
+        "sesame",
+        "pumpkin",
+        "okra/ladyfinger",
+        "brinjal",
+        "cow"
+    ],
+    "general_advisory": "According to the weather forecast, a partly to fully cloudy sky with dry weather to light rainfall is expected in the coming five days. The minimum and maximum temperatures range between 24.0-26.0 and 33.0-37.0 Deg. C. The minimum and maximum relative humidity ranges are estimated to be between 28-33% and 56-71%. Light rainfall at isolated places with lightning & winds at isolated places is expected in the coming five days. Postpone the fertiliser application and spray operation in the standing crop field.",
+    "crops_data": {
+        "sesame": {
+            "advisory": [
+                "With suitable moisture conditions, farmers can go for sowing of sesame and fertilizer application."
+            ]
+        },
+        "pumpkin": {
+            "advisory": [
+                "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion or DDVP in 4-litre of water."
+            ]
+        },
+        "okra/ladyfinger": {
+            "advisory": [
+                "There are chances of sucking pests like aphids, Jassids, thrips, and whiteflies in Okra. To manage these pests at an early stage of infestation spray neem-based pesticide (Neem Oil) 1500 PPM @600 ml/acre by mixing it in 200 litres of water. Then spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20 % SP @ 50 g/acre or Tolfenpyrad 15 % EC @ 400ml/acre by mixing it in 200 litres of water."
+            ]
+        },
+        "brinjal": {
+            "advisory": [
+                "There are chances of incidence of both fungal and bacterial diseases like leaf blight, wilt, and rot in different standing crops. To manage these diseases, spray Metalaxyl+ Mancozeb @ 2g/litre of water or Carbendazim+ Mancozeb @ 2gr/litre of water along with Plantomycin @ 1g/ litre of water."
+            ]
+        },
+        "cow": {
+            "advisory": [
+                "Due to increasing temperature and drinking of infected water, diarrhoea is more prevalent during this time, care should be taken for the animals and provide enough drinking water."
+            ]
+        }
+    },
+    "date": "09-04-2024"
 }

@@ -1,156 +1,156 @@
 {
-   "weather_details": {
-      "03/04/2024": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 46,
-         "rh_min": 11,
-         "wind_speed": 8,
-         "wind_direction": 288,
-         "cloud_cover": 0
-      },
-      "04/04/2024": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 63,
-         "rh_min": 10,
-         "wind_speed": 7,
-         "wind_direction": 198,
-         "cloud_cover": 1
-      },
-      "05/04/2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 27,
-         "rh_max": 53,
-         "rh_min": 16,
-         "wind_speed": 9,
-         "wind_direction": 207,
-         "cloud_cover": 1
-      },
-      "06/04/2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 27,
-         "rh_max": 51,
-         "rh_min": 12,
-         "wind_speed": 9,
-         "wind_direction": 165,
-         "cloud_cover": 1
-      },
-      "07/04/2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 27,
-         "rh_max": 35,
-         "rh_min": 8,
-         "wind_speed": 10,
-         "wind_direction": 202,
-         "cloud_cover": 2
-      }
-   },
-   "names_of_crops": [
-      "paddy",
-      "sugarcane",
-      "maize",
-      "tomato",
-      "brinjal",
-      "coconut",
-      "vegetables",
-      "fingerlings",
-      "black gram",
-      "green gram",
-      "tobacco caterpillar",
-      "early shoot borer",
-      "okra seeds",
-      "onion",
-      "mango",
-      "mango hopper"
-   ],
-   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect.",
-   "crops_data": {
-      "paddy": {
-         "advisory": [
-            "Water deficit during critical stages should be avoided."
-         ]
-      },
-      "sugarcane": {
-         "advisory": [
-            "Top-dress with 4% potassium to protect crop from water scarcity during summer."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Irrigate the crop to meet increased water requirements."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Apply 1g Streptocyclin in 10 liter water in root zone to prevent wilting."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Mulch coconut leaves around a coconut tree to reduce water loss."
-         ]
-      },
-      "coconut": {
-         "advisory": [
-            "Mulch coconut leaves around a coconut tree to reduce water loss."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Cover with paper caps on the newly planted vegetable seedlings during daytime."
-         ]
-      },
-      "fingerlings": {
-         "advisory": [
-            "Harvest fingerlings from shallow ponds if water temperature rises to 30 degrees Celsius."
-         ]
-      },
-      "black gram": {
-         "advisory": [
-            "Check the migration of caterpillars for tobacco caterpillar management."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Check the migration of caterpillars for tobacco caterpillar management."
-         ]
-      },
-      "tobacco caterpillar": {
-         "advisory": [
-            "Check the migration of caterpillars for tobacco caterpillar management."
-         ]
-      },
-      "early shoot borer": {
-         "advisory": [
-            "Irrigate the crop frequently during hot months to manage early shoot borer."
-         ]
-      },
-      "okra seeds": {
-         "advisory": [
-            "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "After harvesting, dry the harvested bulbs in a well-ventilated room for storage."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Spray insecticides to control mango hoppers."
-         ]
-      },
-      "mango hopper": {
-         "advisory": [
-            "Spray Imidacloprid or Thiamethoxam or Acetamiprid to control mango hoppers."
-         ]
-      }
-   },
-   "date": "02-04-2024"
+    "weather_details": {
+        "03/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "41 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "46 %",
+            "rh_min": "11 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "288 deg",
+            "cloud_cover": "0 okta"
+        },
+        "04/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "41 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "63 %",
+            "rh_min": "10 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "198 deg",
+            "cloud_cover": "1 okta"
+        },
+        "05/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "42 \u00b0C",
+            "t_min": "27 \u00b0C",
+            "rh_max": "53 %",
+            "rh_min": "16 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "207 deg",
+            "cloud_cover": "1 okta"
+        },
+        "06/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "42 \u00b0C",
+            "t_min": "27 \u00b0C",
+            "rh_max": "51 %",
+            "rh_min": "12 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "165 deg",
+            "cloud_cover": "1 okta"
+        },
+        "07/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "42 \u00b0C",
+            "t_min": "27 \u00b0C",
+            "rh_max": "35 %",
+            "rh_min": "8 %",
+            "wind_speed": "10 kmph",
+            "wind_direction": "202 deg",
+            "cloud_cover": "2 okta"
+        }
+    },
+    "names_of_crops": [
+        "paddy",
+        "sugarcane",
+        "maize",
+        "tomato",
+        "brinjal",
+        "coconut",
+        "vegetables",
+        "fingerlings",
+        "black gram",
+        "green gram",
+        "tobacco caterpillar",
+        "early shoot borer",
+        "okra seeds",
+        "onion",
+        "mango",
+        "mango hopper"
+    ],
+    "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering, and milking stages are the critical stages. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect.",
+    "crops_data": {
+        "paddy": {
+            "advisory": [
+                "Water deficit during critical stages should be avoided."
+            ]
+        },
+        "sugarcane": {
+            "advisory": [
+                "Top-dress with 4% potassium to protect crop from water scarcity during summer."
+            ]
+        },
+        "maize": {
+            "advisory": [
+                "Irrigate the crop to meet increased water requirements."
+            ]
+        },
+        "tomato": {
+            "advisory": [
+                "Apply 1g Streptocyclin in 10 liter water in root zone to prevent wilting."
+            ]
+        },
+        "brinjal": {
+            "advisory": [
+                "Mulch coconut leaves around a coconut tree to reduce water loss."
+            ]
+        },
+        "coconut": {
+            "advisory": [
+                "Mulch coconut leaves around a coconut tree to reduce water loss."
+            ]
+        },
+        "vegetables": {
+            "advisory": [
+                "Cover with paper caps on the newly planted vegetable seedlings during daytime."
+            ]
+        },
+        "fingerlings": {
+            "advisory": [
+                "Harvest fingerlings from shallow ponds if water temperature rises to 30 degrees Celsius."
+            ]
+        },
+        "black gram": {
+            "advisory": [
+                "Check the migration of caterpillars for tobacco caterpillar management."
+            ]
+        },
+        "green gram": {
+            "advisory": [
+                "Check the migration of caterpillars for tobacco caterpillar management."
+            ]
+        },
+        "tobacco caterpillar": {
+            "advisory": [
+                "Check the migration of caterpillars for tobacco caterpillar management."
+            ]
+        },
+        "early shoot borer": {
+            "advisory": [
+                "Irrigate the crop frequently during hot months to manage early shoot borer."
+            ]
+        },
+        "okra seeds": {
+            "advisory": [
+                "Treat okra seeds with Imidacloprid before sowing to prevent whitefly infestation."
+            ]
+        },
+        "onion": {
+            "advisory": [
+                "After harvesting, dry the harvested bulbs in a well-ventilated room for storage."
+            ]
+        },
+        "mango": {
+            "advisory": [
+                "Spray insecticides to control mango hoppers."
+            ]
+        },
+        "mango hopper": {
+            "advisory": [
+                "Spray Imidacloprid or Thiamethoxam or Acetamiprid to control mango hoppers."
+            ]
+        }
+    },
+    "date": "02-04-2024"
 }

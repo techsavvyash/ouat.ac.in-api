@@ -1,51 +1,51 @@
 {
-   "weather_details": {
-      "2022-01-01": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 90,
-         "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 180,
-         "cloud_cover": 6
-      },
-      "2022-01-02": {
-         "rainfall": 2,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 55,
-         "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 5
-      }
-   },
-   "names_of_crops": [
-      "rice",
-      "maize",
-      "cattle"
-   ],
-   "general_advisory": "Sow rice and maize crops early due to expected heavy rainfall next week. Ensure proper care and shelter for cattle during monsoon.",
-   "crops_data": {
-      "rice": {
-         "advisory": [
-            "Plant rice in well-drained fields to avoid waterlogging",
-            "Apply appropriate fertilizers and pest control measures as per schedule"
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Ensure adequate spacing between maize plants for proper growth",
-            "Monitor maize crop regularly for any signs of pests or diseases"
-         ]
-      },
-      "cattle": {
-         "advisory": [
-            "Provide shelter for cattle during heavy rainfall to prevent illness",
-            "Ensure cattle have access to clean water and nutritious feed"
-         ]
-      }
-   },
-   "date": "12-04-2024"
+    "weather_details": {
+        "2022-01-01": {
+            "rainfall": "5 mm",
+            "t_max": "30 \u00b0C",
+            "t_min": "20 \u00b0C",
+            "rh_max": "90 %",
+            "rh_min": "60 %",
+            "wind_speed": "15 kmph",
+            "wind_direction": "180 deg",
+            "cloud_cover": "6 okta"
+        },
+        "2022-01-02": {
+            "rainfall": "2 mm",
+            "t_max": "28 \u00b0C",
+            "t_min": "18 \u00b0C",
+            "rh_max": "85 %",
+            "rh_min": "55 %",
+            "wind_speed": "12 kmph",
+            "wind_direction": "200 deg",
+            "cloud_cover": "5 okta"
+        }
+    },
+    "names_of_crops": [
+        "rice",
+        "maize",
+        "cattle"
+    ],
+    "general_advisory": "Sow rice and maize crops early due to expected heavy rainfall next week. Ensure proper care and shelter for cattle during monsoon.",
+    "crops_data": {
+        "rice": {
+            "advisory": [
+                "Plant rice in well-drained fields to avoid waterlogging",
+                "Apply appropriate fertilizers and pest control measures as per schedule"
+            ]
+        },
+        "maize": {
+            "advisory": [
+                "Ensure adequate spacing between maize plants for proper growth",
+                "Monitor maize crop regularly for any signs of pests or diseases"
+            ]
+        },
+        "cattle": {
+            "advisory": [
+                "Provide shelter for cattle during heavy rainfall to prevent illness",
+                "Ensure cattle have access to clean water and nutritious feed"
+            ]
+        }
+    },
+    "date": "12-04-2024"
 }
