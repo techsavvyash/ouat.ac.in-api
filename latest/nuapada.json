@@ -1,128 +1,128 @@
 {
-   "weather_details": {
-      "13-04-2024": {
-         "rainfall": 4,
-         "t_max": 29,
-         "t_min": 20,
-         "rh_max": 50,
-         "rh_min": 31,
-         "wind_speed": 6,
-         "wind_direction": 210,
-         "cloud_cover": 6
-      },
-      "14-04-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 51,
-         "rh_min": 26,
-         "wind_speed": 8,
-         "wind_direction": 279,
-         "cloud_cover": 2
-      },
-      "15-04-2024": {
-         "rainfall": 0,
-         "t_max": 36,
-         "t_min": 24,
-         "rh_max": 42,
-         "rh_min": 26,
-         "wind_speed": 6,
-         "wind_direction": 252,
-         "cloud_cover": 1
-      },
-      "16-04-2024": {
-         "rainfall": 0,
-         "t_max": 39,
-         "t_min": 25,
-         "rh_max": 35,
-         "rh_min": 22,
-         "wind_speed": 6,
-         "wind_direction": 252,
-         "cloud_cover": 1
-      },
-      "17-04-2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 25,
-         "rh_max": 37,
-         "rh_min": 18,
-         "wind_speed": 7,
-         "wind_direction": 255,
-         "cloud_cover": 1
-      }
-   },
-   "names_of_crops": [
-      "summer paddy",
-      "green gram",
-      "groundnut",
-      "okra",
-      "cucurbits",
-      "onion",
-      "cattle & buffalo",
-      "goat & sheep",
-      "poultry",
-      "pisciculture"
-   ],
-   "general_advisory": "As per extended range of forecast received from IMD, Maximum temperature likely to be above normal by 3 to 5°C over the districts of Odisha during week -1 (12th to 18th April 2024). Farmers are advised to plan for farming activities accordingly. Considering the weather forecast, it is advised to resume application of plant protection chemicals & fertilizer from day after tomorrow. Farmers are advised to undertake weeding and hoeing operation in the standing crops and vegetables to protect them from weeds by utilizing available soil moisture. Use light trap to monitor insect population.",
-   "crops_data": {
-      "summer paddy": {
-         "advisory": [
-            "Disease and Insect Management: Sheath Blight infestation is noticed in paddy fields. Apply Azoxystrobin 11% + Tebuconazole 18.3% @ 1.5 ml/l tr of water for effective control.",
-            "Disease and Insect Management: Bacterial blight is noticed under prevailing weather condition. Apply Copper oxychloride 50% WP @ 3 g/liter of water."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Post-Harvest Management: Pods should be harvested at 70-80% of the pods are matured and that should be sundried to bring the moisture content up to 8-10 percent of the seed.",
-            "Store the harvested produce in a safe place by mixing with Mustard oil @ 2ml/kg seeds to protect from stored grain pest.",
-            "After harvesting of pods the plant should be mixed with the soil by ploughing, which enhances soil fertility."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Pod Development/Pod Maturity: If soil moisture is not available, provide a light irrigation just before harvest. It will help to remove matured pods from the soil easily."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "Disease Management: Powdery mildew: Under prevailing weather condition, okra may be affected by Powdery mildew. Apply Sulphur 80% WP @ 4g/ltr of water if symptom is noticed."
-         ]
-      },
-      "cucurbits": {
-         "advisory": [
-            "Disease Management: Powdery mildew: Under prevailing weather condition, cucurbits may be affected by Powdery mildew. Apply Carbendazim 50% WP @ 0.5g/ltr of water if symptom is noticed."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Disease and Insect Management: Purple blotch: Spray Difenoconazole 25% EC or Tebuconazole 25.9% EC or Kitazin 48% EC @ 1g/ltr of water.",
-            "Disease and Insect Management: Thrips: Prevailing weather condition favors thrips infestation. Install blue sticky trap @ 8/acre at vegetative stage. For chemical control, spray Thiomethoxam 25 WG @ 1g/5 liters of water or Acetamiprid 20% SP @ 1g/4 liters of water."
-         ]
-      },
-      "cattle & buffalo": {
-         "advisory": [
-            "As day temperature is rising, don't allow the draught animals to work in the scorching sun. Don't let loose the animals to outside after 10 AM. Again, allow them to graze after 4 PM.",
-            "It is essential to provide clean and cool water to the animals."
-         ]
-      },
-      "goat & sheep": {
-         "advisory": [
-            "Under prevailing weather condition, allow the goats & sheep to graze only from 7-10 AM in the morning & 4-7 PM in the evening. Keep the curtain of the shed close during day time & open it during night for easy passage of air."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "In view of rising day temperature farmers are advised to keep the poultry shed cool as far as possible. If required, sprinkle water over them during day time for cooling effect.",
-            "Provide the optimum quantity of feed and water to avoid excessive heat stress.",
-            "Keep the curtains of poultry shed close during day time."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "For yearling production select the pond where there will be water of 4-5 feet depth during summer and provision for providing water either from bore well or other source.",
-            "For yearling production 2 lakh fry should be used in one acre pond in ratio of 20% catla, 50% rohu and 30% mirigal."
-         ]
-      }
-   },
-   "date": "12-04-2024"
+    "weather_details": {
+        "13-04-2024": {
+            "rainfall": "4 mm",
+            "t_max": "29 \u00b0C",
+            "t_min": "20 \u00b0C",
+            "rh_max": "50 %",
+            "rh_min": "31 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "210 deg",
+            "cloud_cover": "6 okta"
+        },
+        "14-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "32 \u00b0C",
+            "t_min": "22 \u00b0C",
+            "rh_max": "51 %",
+            "rh_min": "26 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "279 deg",
+            "cloud_cover": "2 okta"
+        },
+        "15-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "36 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "42 %",
+            "rh_min": "26 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "252 deg",
+            "cloud_cover": "1 okta"
+        },
+        "16-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "39 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "35 %",
+            "rh_min": "22 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "252 deg",
+            "cloud_cover": "1 okta"
+        },
+        "17-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "37 %",
+            "rh_min": "18 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "255 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "summer paddy",
+        "green gram",
+        "groundnut",
+        "okra",
+        "cucurbits",
+        "onion",
+        "cattle & buffalo",
+        "goat & sheep",
+        "poultry",
+        "pisciculture"
+    ],
+    "general_advisory": "As per extended range of forecast received from IMD, Maximum temperature likely to be above normal by 3 to 5\u00b0C over the districts of Odisha during week -1 (12th to 18th April 2024). Farmers are advised to plan for farming activities accordingly. Considering the weather forecast, it is advised to resume application of plant protection chemicals & fertilizer from day after tomorrow. Farmers are advised to undertake weeding and hoeing operation in the standing crops and vegetables to protect them from weeds by utilizing available soil moisture. Use light trap to monitor insect population.",
+    "crops_data": {
+        "summer paddy": {
+            "advisory": [
+                "Disease and Insect Management: Sheath Blight infestation is noticed in paddy fields. Apply Azoxystrobin 11% + Tebuconazole 18.3% @ 1.5 ml/l tr of water for effective control.",
+                "Disease and Insect Management: Bacterial blight is noticed under prevailing weather condition. Apply Copper oxychloride 50% WP @ 3 g/liter of water."
+            ]
+        },
+        "green gram": {
+            "advisory": [
+                "Post-Harvest Management: Pods should be harvested at 70-80% of the pods are matured and that should be sundried to bring the moisture content up to 8-10 percent of the seed.",
+                "Store the harvested produce in a safe place by mixing with Mustard oil @ 2ml/kg seeds to protect from stored grain pest.",
+                "After harvesting of pods the plant should be mixed with the soil by ploughing, which enhances soil fertility."
+            ]
+        },
+        "groundnut": {
+            "advisory": [
+                "Pod Development/Pod Maturity: If soil moisture is not available, provide a light irrigation just before harvest. It will help to remove matured pods from the soil easily."
+            ]
+        },
+        "okra": {
+            "advisory": [
+                "Disease Management: Powdery mildew: Under prevailing weather condition, okra may be affected by Powdery mildew. Apply Sulphur 80% WP @ 4g/ltr of water if symptom is noticed."
+            ]
+        },
+        "cucurbits": {
+            "advisory": [
+                "Disease Management: Powdery mildew: Under prevailing weather condition, cucurbits may be affected by Powdery mildew. Apply Carbendazim 50% WP @ 0.5g/ltr of water if symptom is noticed."
+            ]
+        },
+        "onion": {
+            "advisory": [
+                "Disease and Insect Management: Purple blotch: Spray Difenoconazole 25% EC or Tebuconazole 25.9% EC or Kitazin 48% EC @ 1g/ltr of water.",
+                "Disease and Insect Management: Thrips: Prevailing weather condition favors thrips infestation. Install blue sticky trap @ 8/acre at vegetative stage. For chemical control, spray Thiomethoxam 25 WG @ 1g/5 liters of water or Acetamiprid 20% SP @ 1g/4 liters of water."
+            ]
+        },
+        "cattle & buffalo": {
+            "advisory": [
+                "As day temperature is rising, don't allow the draught animals to work in the scorching sun. Don't let loose the animals to outside after 10 AM. Again, allow them to graze after 4 PM.",
+                "It is essential to provide clean and cool water to the animals."
+            ]
+        },
+        "goat & sheep": {
+            "advisory": [
+                "Under prevailing weather condition, allow the goats & sheep to graze only from 7-10 AM in the morning & 4-7 PM in the evening. Keep the curtain of the shed close during day time & open it during night for easy passage of air."
+            ]
+        },
+        "poultry": {
+            "advisory": [
+                "In view of rising day temperature farmers are advised to keep the poultry shed cool as far as possible. If required, sprinkle water over them during day time for cooling effect.",
+                "Provide the optimum quantity of feed and water to avoid excessive heat stress.",
+                "Keep the curtains of poultry shed close during day time."
+            ]
+        },
+        "pisciculture": {
+            "advisory": [
+                "For yearling production select the pond where there will be water of 4-5 feet depth during summer and provision for providing water either from bore well or other source.",
+                "For yearling production 2 lakh fry should be used in one acre pond in ratio of 20% catla, 50% rohu and 30% mirigal."
+            ]
+        }
+    },
+    "date": "12-04-2024"
 }

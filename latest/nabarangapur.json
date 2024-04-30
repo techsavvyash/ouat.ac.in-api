@@ -1,95 +1,95 @@
 {
-   "weather_details": {
-      "13-04-2024": {
-         "rainfall": 3,
-         "t_max": 33,
-         "t_min": 20,
-         "rh_max": 47,
-         "rh_min": 34,
-         "wind_speed": 7,
-         "wind_direction": 124,
-         "cloud_cover": 6
-      },
-      "14-04-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 21,
-         "rh_max": 57,
-         "rh_min": 27,
-         "wind_speed": 8,
-         "wind_direction": 289,
-         "cloud_cover": 3
-      },
-      "15-04-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 22,
-         "rh_max": 48,
-         "rh_min": 26,
-         "wind_speed": 7,
-         "wind_direction": 248,
-         "cloud_cover": 3
-      },
-      "16-04-2024": {
-         "rainfall": 0,
-         "t_max": 37,
-         "t_min": 24,
-         "rh_max": 43,
-         "rh_min": 22,
-         "wind_speed": 9,
-         "wind_direction": 243,
-         "cloud_cover": 2
-      },
-      "17-04-2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 24,
-         "rh_max": 47,
-         "rh_min": 23,
-         "wind_speed": 8,
-         "wind_direction": 270,
-         "cloud_cover": 2
-      }
-   },
-   "names_of_crops": [
-      "rice",
-      "groundnut",
-      "vegetables",
-      "mango",
-      "livestock"
-   ],
-   "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
-   "crops_data": {
-      "rice": {
-         "advisory": [
-            "If blast infestation found in rice, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water in clear and dry weather.",
-            "Due to rise in temperature, the attack of stem borer has aggravated in rice. Three pheromone traps/acre may be installed in the rice field, whenever the number of male moths/trap reaches 4 -5/day, spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Fipronil 5% SC @ 2 ml/litre of water.",
-            "Bacterial leaf blight may reported in rice field, spray Plantomycin @ 1 g + Copper oxychloride 50% WP @ 3 g/litre of water. If necessary repeat at 15 days later."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Tikka disease may observe in field, to control it spray Chlorothalonil 75% WP @ 2 g or Carbendazim 50% WP @ 2 g per litre of water.",
-            "Chances of tobacco caterpillar infestation in groundnut, to control it spray Thiamethoxam 12.6% + Lambda -Cyhalothrin 9.5% ZC @ 0.3 ml or Profenophos 50% EC @ 2 ml per litre of water."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "White fly infestation may occur at this stage of tomato, to control it spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water or Thiomethaxome 25%WG @ 0.4 g/litre of water.",
-            "To control fruit and shoot borer in brinjal spray Spinosad 45% SC @ 70 ml/acre and Thiodicarb 75% WP @ 250 g/acre at 15 days interval."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Chances of mango hopper infestation may occur, to control it spray Buprofezin 25% SC @ 1 -2 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water.",
-            "Spray Alpha Napthyl Acetic Acid 4.5% SL (Planofix) @ 4.5 ml in 10 litre of water when tender fruits are in pea size and go for second spray when fruits are in marble size."
-         ]
-      },
-      "livestock": {
-         "advisory": [
-            "Temperature is rising; animals may preferably be grazed during early morning to avoid exposure to extreme hot conditions. Proper ventilation should be maintained for free circulation of air in the sheds."
-         ]
-      }
-   },
-   "date": "12-04-2024"
+    "weather_details": {
+        "13-04-2024": {
+            "rainfall": "3 mm",
+            "t_max": "33 \u00b0C",
+            "t_min": "20 \u00b0C",
+            "rh_max": "47 %",
+            "rh_min": "34 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "124 deg",
+            "cloud_cover": "6 okta"
+        },
+        "14-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "21 \u00b0C",
+            "rh_max": "57 %",
+            "rh_min": "27 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "289 deg",
+            "cloud_cover": "3 okta"
+        },
+        "15-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "37 \u00b0C",
+            "t_min": "22 \u00b0C",
+            "rh_max": "48 %",
+            "rh_min": "26 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "248 deg",
+            "cloud_cover": "3 okta"
+        },
+        "16-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "37 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "43 %",
+            "rh_min": "22 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "243 deg",
+            "cloud_cover": "2 okta"
+        },
+        "17-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "47 %",
+            "rh_min": "23 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "270 deg",
+            "cloud_cover": "2 okta"
+        }
+    },
+    "names_of_crops": [
+        "rice",
+        "groundnut",
+        "vegetables",
+        "mango",
+        "livestock"
+    ],
+    "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
+    "crops_data": {
+        "rice": {
+            "advisory": [
+                "If blast infestation found in rice, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water in clear and dry weather.",
+                "Due to rise in temperature, the attack of stem borer has aggravated in rice. Three pheromone traps/acre may be installed in the rice field, whenever the number of male moths/trap reaches 4 -5/day, spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Fipronil 5% SC @ 2 ml/litre of water.",
+                "Bacterial leaf blight may reported in rice field, spray Plantomycin @ 1 g + Copper oxychloride 50% WP @ 3 g/litre of water. If necessary repeat at 15 days later."
+            ]
+        },
+        "groundnut": {
+            "advisory": [
+                "Tikka disease may observe in field, to control it spray Chlorothalonil 75% WP @ 2 g or Carbendazim 50% WP @ 2 g per litre of water.",
+                "Chances of tobacco caterpillar infestation in groundnut, to control it spray Thiamethoxam 12.6% + Lambda -Cyhalothrin 9.5% ZC @ 0.3 ml or Profenophos 50% EC @ 2 ml per litre of water."
+            ]
+        },
+        "vegetables": {
+            "advisory": [
+                "White fly infestation may occur at this stage of tomato, to control it spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water or Thiomethaxome 25%WG @ 0.4 g/litre of water.",
+                "To control fruit and shoot borer in brinjal spray Spinosad 45% SC @ 70 ml/acre and Thiodicarb 75% WP @ 250 g/acre at 15 days interval."
+            ]
+        },
+        "mango": {
+            "advisory": [
+                "Chances of mango hopper infestation may occur, to control it spray Buprofezin 25% SC @ 1 -2 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water.",
+                "Spray Alpha Napthyl Acetic Acid 4.5% SL (Planofix) @ 4.5 ml in 10 litre of water when tender fruits are in pea size and go for second spray when fruits are in marble size."
+            ]
+        },
+        "livestock": {
+            "advisory": [
+                "Temperature is rising; animals may preferably be grazed during early morning to avoid exposure to extreme hot conditions. Proper ventilation should be maintained for free circulation of air in the sheds."
+            ]
+        }
+    },
+    "date": "12-04-2024"
 }

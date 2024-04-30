@@ -1,127 +1,127 @@
 {
-   "weather_details": {
-      "2024-04-13": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 23,
-         "rh_max": 43,
-         "rh_min": 20,
-         "wind_speed": 9,
-         "wind_direction": 238,
-         "cloud_cover": 6
-      },
-      "2024-04-14": {
-         "rainfall": 2,
-         "t_max": 36,
-         "t_min": 24,
-         "rh_max": 43,
-         "rh_min": 17,
-         "wind_speed": 10,
-         "wind_direction": 208,
-         "cloud_cover": 3
-      },
-      "2024-04-15": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 24,
-         "rh_max": 46,
-         "rh_min": 21,
-         "wind_speed": 10,
-         "wind_direction": 214,
-         "cloud_cover": 2
-      },
-      "2024-04-16": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 24,
-         "rh_max": 49,
-         "rh_min": 20,
-         "wind_speed": 11,
-         "wind_direction": 212,
-         "cloud_cover": 1
-      },
-      "2024-04-17": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 24,
-         "rh_max": 51,
-         "rh_min": 19,
-         "wind_speed": 10,
-         "wind_direction": 248,
-         "cloud_cover": 1
-      }
-   },
-   "names_of_crops": [
-      "rice",
-      "groundnut",
-      "okra/ladyfinger",
-      "brinjal",
-      "tomato",
-      "cucumber",
-      "mango",
-      "cow",
-      "fresh water",
-      "chicken"
-   ],
-   "general_advisory": "Provide sufficient irrigation to crops to reduce excess temperature. Keep paddy fields ponded...",
-   "crops_data": {
-      "rice": {
-         "advisory": [
-            "The transplanted paddy is at flowering to maturity (ten to thirteen week) stage...",
-            "Due to differential day and night temperature, there are chances of blast disease incidence...",
-            "Due to rise in temperature there are chances of increase in stem borer infestation..."
-         ]
-      },
-      "groundnut": {
-         "advisory": [
-            "Due to rise in atmospheric temperature there are chances of infestation of thrips and aphids...",
-            "There may be chances of incidence of tikka disease in groundnut..."
-         ]
-      },
-      "okra/ladyfinger": {
-         "advisory": [
-            "Farmer should apply 15-kg of Urea per acre for High yielding varieties and 20-kg of Urea per acre for hybrids...",
-            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra..."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots...",
-            "The mango hoppers multiply rapidly in cloudy weather..."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "The transplanted tomato crop is at fruit maturity to harvesting (thirteen to sixteen week) stage...",
-            "There are chances of infestation of whiteflies in Tomato Crop..."
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "There are chances of infestation of fruit fly in cucurbit vegetables...",
-            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion..."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Due to hot and cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant..."
-         ]
-      },
-      "cow": {
-         "advisory": [
-            "Do not allow the cattle to graze in open fields during day hours..."
-         ]
-      },
-      "fresh water": {
-         "advisory": [
-            "Fish farmers, in case, have stocked fingerlings in the pond for fish culture..."
-         ]
-      },
-      "chicken": {
-         "advisory": [
-            "The chicks and birds may suffer from heatstroke..."
-         ]
-      }
-   },
-   "date": "12-04-2024"
+    "weather_details": {
+        "2024-04-13": {
+            "rainfall": "5 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "43 %",
+            "rh_min": "20 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "238 deg",
+            "cloud_cover": "6 okta"
+        },
+        "2024-04-14": {
+            "rainfall": "2 mm",
+            "t_max": "36 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "43 %",
+            "rh_min": "17 %",
+            "wind_speed": "10 kmph",
+            "wind_direction": "208 deg",
+            "cloud_cover": "3 okta"
+        },
+        "2024-04-15": {
+            "rainfall": "0 mm",
+            "t_max": "38 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "46 %",
+            "rh_min": "21 %",
+            "wind_speed": "10 kmph",
+            "wind_direction": "214 deg",
+            "cloud_cover": "2 okta"
+        },
+        "2024-04-16": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "49 %",
+            "rh_min": "20 %",
+            "wind_speed": "11 kmph",
+            "wind_direction": "212 deg",
+            "cloud_cover": "1 okta"
+        },
+        "2024-04-17": {
+            "rainfall": "0 mm",
+            "t_max": "41 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "51 %",
+            "rh_min": "19 %",
+            "wind_speed": "10 kmph",
+            "wind_direction": "248 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "rice",
+        "groundnut",
+        "okra/ladyfinger",
+        "brinjal",
+        "tomato",
+        "cucumber",
+        "mango",
+        "cow",
+        "fresh water",
+        "chicken"
+    ],
+    "general_advisory": "Provide sufficient irrigation to crops to reduce excess temperature. Keep paddy fields ponded...",
+    "crops_data": {
+        "rice": {
+            "advisory": [
+                "The transplanted paddy is at flowering to maturity (ten to thirteen week) stage...",
+                "Due to differential day and night temperature, there are chances of blast disease incidence...",
+                "Due to rise in temperature there are chances of increase in stem borer infestation..."
+            ]
+        },
+        "groundnut": {
+            "advisory": [
+                "Due to rise in atmospheric temperature there are chances of infestation of thrips and aphids...",
+                "There may be chances of incidence of tikka disease in groundnut..."
+            ]
+        },
+        "okra/ladyfinger": {
+            "advisory": [
+                "Farmer should apply 15-kg of Urea per acre for High yielding varieties and 20-kg of Urea per acre for hybrids...",
+                "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra..."
+            ]
+        },
+        "brinjal": {
+            "advisory": [
+                "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots...",
+                "The mango hoppers multiply rapidly in cloudy weather..."
+            ]
+        },
+        "tomato": {
+            "advisory": [
+                "The transplanted tomato crop is at fruit maturity to harvesting (thirteen to sixteen week) stage...",
+                "There are chances of infestation of whiteflies in Tomato Crop..."
+            ]
+        },
+        "cucumber": {
+            "advisory": [
+                "There are chances of infestation of fruit fly in cucurbit vegetables...",
+                "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion..."
+            ]
+        },
+        "mango": {
+            "advisory": [
+                "Due to hot and cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant..."
+            ]
+        },
+        "cow": {
+            "advisory": [
+                "Do not allow the cattle to graze in open fields during day hours..."
+            ]
+        },
+        "fresh water": {
+            "advisory": [
+                "Fish farmers, in case, have stocked fingerlings in the pond for fish culture..."
+            ]
+        },
+        "chicken": {
+            "advisory": [
+                "The chicks and birds may suffer from heatstroke..."
+            ]
+        }
+    },
+    "date": "12-04-2024"
 }

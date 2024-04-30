@@ -1,115 +1,115 @@
 {
-   "weather_details": {
-      "13-04-2024": {
-         "rainfall": 2,
-         "t_max": 31,
-         "t_min": 22,
-         "rh_max": 50,
-         "rh_min": 25,
-         "wind_speed": 9,
-         "wind_direction": 202,
-         "cloud_cover": 6
-      },
-      "14-04-2024": {
-         "rainfall": 0,
-         "t_max": 35,
-         "t_min": 22,
-         "rh_max": 46,
-         "rh_min": 23,
-         "wind_speed": 10,
-         "wind_direction": 252,
-         "cloud_cover": 3
-      },
-      "15-04-2024": {
-         "rainfall": 0,
-         "t_max": 38,
-         "t_min": 23,
-         "rh_max": 39,
-         "rh_min": 22,
-         "wind_speed": 8,
-         "wind_direction": 245,
-         "cloud_cover": 2
-      },
-      "16-04-2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 23,
-         "rh_max": 33,
-         "rh_min": 21,
-         "wind_speed": 7,
-         "wind_direction": 165,
-         "cloud_cover": 1
-      },
-      "17-04-2024": {
-         "rainfall": 0,
-         "t_max": 42,
-         "t_min": 25,
-         "rh_max": 35,
-         "rh_min": 18,
-         "wind_speed": 7,
-         "wind_direction": 120,
-         "cloud_cover": 1
-      }
-   },
-   "names_of_crops": [
-      "rice",
-      "green gram",
-      "maize",
-      "ground nut",
-      "mango",
-      "vegetable crops",
-      "cow/buffalo"
-   ],
-   "general_advisory": "There is a chance of increase in temperature after one day, so farmer should take precaution accordingly. Apply light and frequent irrigation to the standing crops, increase the frequency of irrigation at critical growth stages, irrigate only during the evening or early morning and use sprinkler irrigation if possible. Mulching should be done with crop residue, straw/polythene to conserve soil moisture as well as maintain soil temperature. Avoid grazing of animals during noon hours in open place because there is a chance of increase in maximum temperature in upcoming days. Past weather condition is favourable for increasing the population of various insects and diseases in both field as well as vegetable crops so its regular monitoring should be advised.",
-   "crops_data": {
-      "rice": {
-         "advisory": [
-            "Farmers are advised to maintain adequate moisture in paddy field at this stage and apply final top dressing of nitrogen fertilizer after draining out excess water from field.",
-            "To control yellow stem borer, spraying of Chlorantraniliprole 18.5% SC @ 0.3ml or Fipronil 5% @ 2.5ml per liter of water should be advised under clear sky.",
-            "For BLB control, farmer should spray Plantomycin @ 1g/liter of water using 200 liters of water per acre or Streptocycline (150 mg) + Copper oxychloride 1g/litre of water twice at an interval of 8 days."
-         ]
-      },
-      "green gram": {
-         "advisory": [
-            "Looking to the previous rainfall condition, farmers are advised to drain out excess water from crop field.",
-            "To control aphids attack in pulse crop, spraying of imidacloroprid @ 0.3 ml or Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather.",
-            "For pod borer attack, spraying of Chlorantraniliprole 18.5% SC @ 0.3ml or Emamectin Benzoate @ 0.4 g or Prophenofos @ 2ml per liter of water should be advised when the sky is clear."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Farmers should apply top dressing of nitrogen fertilizer under proper soil moisture condition at this stage.",
-            "To control stem borer in Maize field, spraying of Fipronil 5% SC or Profenophos 50% EC @ 2ml and for fall army worm, Emamectin Benzoate @ 0.4 g per liter of water should be advised."
-         ]
-      },
-      "ground nut": {
-         "advisory": [
-            "Application of Gypsum @ 200 kg per acre should be advised at flowering stage on soil surface near to the base of the plant after the occurrence of rainfall under adequate moisture condition so that calcium is picked up by the peg and the developing pods."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "To control mango hopper in Mango tree, spraying of insecticides like Acephate (1g/L) or Chloropyriphos (0.5 ml/L) or Thiomethoxam (0.3 - 0.4 g/L) and for powdery mildew disease, spraying of soluble sulphur (2 g/ L) should be advised under clear weather condition.",
-            "Spraying of Planofix @ 1ml / 4.5 liters of water should be advised at Mango with pea size fruit stage to reduce fruit drops.",
-            "Farmers shouldn’t apply hormone and insecticide at the same time. There should be at least one week gap between their applications.",
-            "Waterlogged condition should be avoided in Mango orchard, for this proper drainage of excess water from the field should be recommended."
-         ]
-      },
-      "vegetable crops": {
-         "advisory": [
-            "Looking to the previous rainfall condition, farmers are advised to drain out excess water from the vegetable field to avoid waterlogged condition which may lead to root rot and fruit rot diseases.",
-            "To control leaf eating caterpillar and fruit borer / shoot and fruit borer in Tomato, Brinjal, and Okra spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised under clear weather.",
-            "Spraying of Tebuconazole 50% + Trifloxystrobin 25%@ 0.4g per liter water should be advised to control purple blotch disease in Onion and in case of thrips attack, spraying of imidacloroprid @ 0.3 ml or Thiamethoxam @ 0.3 g per liter of water or Acetamiprid 20% SP @ 1g per 4 liters of water should be advised."
-         ]
-      },
-      "cow/buffalo": {
-         "advisory": [
-            "There is a chance of increase in temperature in the upcoming week so to protect the animal from heat, farmers should make provision to provide fresh clean and cold drinking water to the animal along with green grass, protein-fat bypass supplement, mineral mixture, and salt because the temperature is expected to be increased after some days.",
-            "Keep animals in shade and don’t make them work between 11 am to 4 pm.",
-            "Cover the shed roof with straw, paint it white or plaster with dung-mud to reduce temperature. In extreme heat condition, spray water and take the animal to a water body to cool off.",
-            "Make them graze during cooler hours."
-         ]
-      }
-   },
-   "date": "12-04-2024"
+    "weather_details": {
+        "13-04-2024": {
+            "rainfall": "2 mm",
+            "t_max": "31 \u00b0C",
+            "t_min": "22 \u00b0C",
+            "rh_max": "50 %",
+            "rh_min": "25 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "202 deg",
+            "cloud_cover": "6 okta"
+        },
+        "14-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "22 \u00b0C",
+            "rh_max": "46 %",
+            "rh_min": "23 %",
+            "wind_speed": "10 kmph",
+            "wind_direction": "252 deg",
+            "cloud_cover": "3 okta"
+        },
+        "15-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "38 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "39 %",
+            "rh_min": "22 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "245 deg",
+            "cloud_cover": "2 okta"
+        },
+        "16-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "33 %",
+            "rh_min": "21 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "165 deg",
+            "cloud_cover": "1 okta"
+        },
+        "17-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "42 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "35 %",
+            "rh_min": "18 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "120 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "rice",
+        "green gram",
+        "maize",
+        "ground nut",
+        "mango",
+        "vegetable crops",
+        "cow/buffalo"
+    ],
+    "general_advisory": "There is a chance of increase in temperature after one day, so farmer should take precaution accordingly. Apply light and frequent irrigation to the standing crops, increase the frequency of irrigation at critical growth stages, irrigate only during the evening or early morning and use sprinkler irrigation if possible. Mulching should be done with crop residue, straw/polythene to conserve soil moisture as well as maintain soil temperature. Avoid grazing of animals during noon hours in open place because there is a chance of increase in maximum temperature in upcoming days. Past weather condition is favourable for increasing the population of various insects and diseases in both field as well as vegetable crops so its regular monitoring should be advised.",
+    "crops_data": {
+        "rice": {
+            "advisory": [
+                "Farmers are advised to maintain adequate moisture in paddy field at this stage and apply final top dressing of nitrogen fertilizer after draining out excess water from field.",
+                "To control yellow stem borer, spraying of Chlorantraniliprole 18.5% SC @ 0.3ml or Fipronil 5% @ 2.5ml per liter of water should be advised under clear sky.",
+                "For BLB control, farmer should spray Plantomycin @ 1g/liter of water using 200 liters of water per acre or Streptocycline (150 mg) + Copper oxychloride 1g/litre of water twice at an interval of 8 days."
+            ]
+        },
+        "green gram": {
+            "advisory": [
+                "Looking to the previous rainfall condition, farmers are advised to drain out excess water from crop field.",
+                "To control aphids attack in pulse crop, spraying of imidacloroprid @ 0.3 ml or Thiamethoxam @ 0.3 g per liter of water should be advised under clear weather.",
+                "For pod borer attack, spraying of Chlorantraniliprole 18.5% SC @ 0.3ml or Emamectin Benzoate @ 0.4 g or Prophenofos @ 2ml per liter of water should be advised when the sky is clear."
+            ]
+        },
+        "maize": {
+            "advisory": [
+                "Farmers should apply top dressing of nitrogen fertilizer under proper soil moisture condition at this stage.",
+                "To control stem borer in Maize field, spraying of Fipronil 5% SC or Profenophos 50% EC @ 2ml and for fall army worm, Emamectin Benzoate @ 0.4 g per liter of water should be advised."
+            ]
+        },
+        "ground nut": {
+            "advisory": [
+                "Application of Gypsum @ 200 kg per acre should be advised at flowering stage on soil surface near to the base of the plant after the occurrence of rainfall under adequate moisture condition so that calcium is picked up by the peg and the developing pods."
+            ]
+        },
+        "mango": {
+            "advisory": [
+                "To control mango hopper in Mango tree, spraying of insecticides like Acephate (1g/L) or Chloropyriphos (0.5 ml/L) or Thiomethoxam (0.3 - 0.4 g/L) and for powdery mildew disease, spraying of soluble sulphur (2 g/ L) should be advised under clear weather condition.",
+                "Spraying of Planofix @ 1ml / 4.5 liters of water should be advised at Mango with pea size fruit stage to reduce fruit drops.",
+                "Farmers shouldn\u2019t apply hormone and insecticide at the same time. There should be at least one week gap between their applications.",
+                "Waterlogged condition should be avoided in Mango orchard, for this proper drainage of excess water from the field should be recommended."
+            ]
+        },
+        "vegetable crops": {
+            "advisory": [
+                "Looking to the previous rainfall condition, farmers are advised to drain out excess water from the vegetable field to avoid waterlogged condition which may lead to root rot and fruit rot diseases.",
+                "To control leaf eating caterpillar and fruit borer / shoot and fruit borer in Tomato, Brinjal, and Okra spraying of Emamectin Benzoate @ 0.4 g per liter of water should be advised under clear weather.",
+                "Spraying of Tebuconazole 50% + Trifloxystrobin 25%@ 0.4g per liter water should be advised to control purple blotch disease in Onion and in case of thrips attack, spraying of imidacloroprid @ 0.3 ml or Thiamethoxam @ 0.3 g per liter of water or Acetamiprid 20% SP @ 1g per 4 liters of water should be advised."
+            ]
+        },
+        "cow/buffalo": {
+            "advisory": [
+                "There is a chance of increase in temperature in the upcoming week so to protect the animal from heat, farmers should make provision to provide fresh clean and cold drinking water to the animal along with green grass, protein-fat bypass supplement, mineral mixture, and salt because the temperature is expected to be increased after some days.",
+                "Keep animals in shade and don\u2019t make them work between 11 am to 4 pm.",
+                "Cover the shed roof with straw, paint it white or plaster with dung-mud to reduce temperature. In extreme heat condition, spray water and take the animal to a water body to cool off.",
+                "Make them graze during cooler hours."
+            ]
+        }
+    },
+    "date": "12-04-2024"
 }
