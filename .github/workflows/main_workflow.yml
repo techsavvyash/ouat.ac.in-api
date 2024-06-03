@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - non-existent-branch
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */10 * *'  # Runs every 10 days
 
 jobs:
   run:

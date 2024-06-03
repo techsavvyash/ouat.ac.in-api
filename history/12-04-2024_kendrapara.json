@@ -1,0 +1,91 @@
+{
+    "weather_details": {
+        "13/04/2024": {
+            "rainfall": "2 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "57 %",
+            "rh_min": "29 %",
+            "wind_speed": "16 kmph",
+            "wind_direction": "243 deg",
+            "cloud_cover": "3 okta"
+        },
+        "14/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "36 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "74 %",
+            "rh_min": "29 %",
+            "wind_speed": "16 kmph",
+            "wind_direction": "238 deg",
+            "cloud_cover": "2 okta"
+        },
+        "15/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "38 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "70 %",
+            "rh_min": "29 %",
+            "wind_speed": "19 kmph",
+            "wind_direction": "214 deg",
+            "cloud_cover": "1 okta"
+        },
+        "16/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "78 %",
+            "rh_min": "32 %",
+            "wind_speed": "21 kmph",
+            "wind_direction": "204 deg",
+            "cloud_cover": "1 okta"
+        },
+        "17/04/2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "81 %",
+            "rh_min": "33 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "201 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "paddy",
+        "groundnut",
+        "cucurbits",
+        "chilli",
+        "mango"
+    ],
+    "general_advisory": "Transplanting of vegetables should be done in the afternoon hour to avoid high temperature. In case of ear cutting caterpillar incidence in paddy, spray Quinalphos 25EC or Chlorpyriphos 20EC. After harvesting, dry the seeds until the optimum moisture content is attained. At the time of harvesting groundnut pods, usually have moisture content around 40-50% and hence need to be dried under direct sunlight. Apply sprinkler irrigation to bring down the heat effect.",
+    "crops_data": {
+        "paddy": {
+            "advisory": [
+                "To manage Gundi Bug, spray Chlorpyriphos or Malathion by mixing in water.",
+                "If infestation of BPH and WBPH occur, spray Neem Based Pesticide."
+            ]
+        },
+        "groundnut": {
+            "advisory": [
+                "Groundnut should be stored in polythene lined gunny bags with desiccant."
+            ]
+        },
+        "cucurbits": {
+            "advisory": [
+                "To manage Downy Mildew disease, spray Copper Hydroxide or Fosetyl -AL."
+            ]
+        },
+        "chilli": {
+            "advisory": [
+                "To manage fruit rot and die back disease, spray Propineb or Difenoconazole or Azoxystrobin."
+            ]
+        },
+        "mango": {
+            "advisory": [
+                "To control mango hoppers, spray Imidacloprid or Thiamethoxam or Acetamiprid."
+            ]
+        }
+    },
+    "date": "12-04-2024"
+}

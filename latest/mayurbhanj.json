@@ -1,127 +1,120 @@
 {
-    "weather_details": {
-        "2024-04-13": {
-            "rainfall": "5 mm",
-            "t_max": "35 \u00b0C",
-            "t_min": "23 \u00b0C",
-            "rh_max": "43 %",
-            "rh_min": "20 %",
-            "wind_speed": "9 kmph",
-            "wind_direction": "238 deg",
-            "cloud_cover": "6 okta"
-        },
-        "2024-04-14": {
-            "rainfall": "2 mm",
-            "t_max": "36 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "43 %",
-            "rh_min": "17 %",
-            "wind_speed": "10 kmph",
-            "wind_direction": "208 deg",
-            "cloud_cover": "3 okta"
-        },
-        "2024-04-15": {
-            "rainfall": "0 mm",
-            "t_max": "38 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "46 %",
-            "rh_min": "21 %",
-            "wind_speed": "10 kmph",
-            "wind_direction": "214 deg",
-            "cloud_cover": "2 okta"
-        },
-        "2024-04-16": {
-            "rainfall": "0 mm",
-            "t_max": "40 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "49 %",
-            "rh_min": "20 %",
-            "wind_speed": "11 kmph",
-            "wind_direction": "212 deg",
-            "cloud_cover": "1 okta"
-        },
-        "2024-04-17": {
-            "rainfall": "0 mm",
-            "t_max": "41 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "51 %",
-            "rh_min": "19 %",
-            "wind_speed": "10 kmph",
-            "wind_direction": "248 deg",
-            "cloud_cover": "1 okta"
-        }
-    },
-    "names_of_crops": [
-        "rice",
-        "groundnut",
-        "okra/ladyfinger",
-        "brinjal",
-        "tomato",
-        "cucumber",
-        "mango",
-        "cow",
-        "fresh water",
-        "chicken"
-    ],
-    "general_advisory": "Provide sufficient irrigation to crops to reduce excess temperature. Keep paddy fields ponded...",
-    "crops_data": {
-        "rice": {
-            "advisory": [
-                "The transplanted paddy is at flowering to maturity (ten to thirteen week) stage...",
-                "Due to differential day and night temperature, there are chances of blast disease incidence...",
-                "Due to rise in temperature there are chances of increase in stem borer infestation..."
-            ]
-        },
-        "groundnut": {
-            "advisory": [
-                "Due to rise in atmospheric temperature there are chances of infestation of thrips and aphids...",
-                "There may be chances of incidence of tikka disease in groundnut..."
-            ]
-        },
-        "okra/ladyfinger": {
-            "advisory": [
-                "Farmer should apply 15-kg of Urea per acre for High yielding varieties and 20-kg of Urea per acre for hybrids...",
-                "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra..."
-            ]
-        },
-        "brinjal": {
-            "advisory": [
-                "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots...",
-                "The mango hoppers multiply rapidly in cloudy weather..."
-            ]
-        },
-        "tomato": {
-            "advisory": [
-                "The transplanted tomato crop is at fruit maturity to harvesting (thirteen to sixteen week) stage...",
-                "There are chances of infestation of whiteflies in Tomato Crop..."
-            ]
-        },
-        "cucumber": {
-            "advisory": [
-                "There are chances of infestation of fruit fly in cucurbit vegetables...",
-                "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400-gram Jaggery and 8-ml Malathion..."
-            ]
-        },
-        "mango": {
-            "advisory": [
-                "Due to hot and cloudy weather there are chances of infestation of sucking pest like Mango Hoppers in Mango plant..."
-            ]
-        },
-        "cow": {
-            "advisory": [
-                "Do not allow the cattle to graze in open fields during day hours..."
-            ]
-        },
-        "fresh water": {
-            "advisory": [
-                "Fish farmers, in case, have stocked fingerlings in the pond for fish culture..."
-            ]
-        },
-        "chicken": {
-            "advisory": [
-                "The chicks and birds may suffer from heatstroke..."
-            ]
-        }
-    },
-    "date": "12-04-2024"
+   "weather_details": {
+      "2024-05-29": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 78,
+         "rh_min": 26,
+         "wind_speed": 17,
+         "wind_direction": 201,
+         "cloud_cover": 4
+      },
+      "2024-05-30": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 28,
+         "rh_max": 73,
+         "rh_min": 19,
+         "wind_speed": 14,
+         "wind_direction": 160,
+         "cloud_cover": 5
+      },
+      "2024-05-31": {
+         "rainfall": 2,
+         "t_max": 39,
+         "t_min": 28,
+         "rh_max": 85,
+         "rh_min": 41,
+         "wind_speed": 13,
+         "wind_direction": 153,
+         "cloud_cover": 5
+      },
+      "2024-06-01": {
+         "rainfall": 5,
+         "t_max": 39,
+         "t_min": 27,
+         "rh_max": 86,
+         "rh_min": 54,
+         "wind_speed": 13,
+         "wind_direction": 161,
+         "cloud_cover": 6
+      },
+      "2024-06-02": {
+         "rainfall": 6,
+         "t_max": 38,
+         "t_min": 27,
+         "rh_max": 81,
+         "rh_min": 36,
+         "wind_speed": 16,
+         "wind_direction": 167,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "okra/ladyfinger",
+      "mango",
+      "brinjal",
+      "pumpkin",
+      "cow",
+      "fresh water",
+      "chicken",
+      "land preparation",
+      "soil testing",
+      "general advice"
+   ],
+   "general_advisory": "Go for planting vegetables immediately after rain for better utilization of rain water. Harvest the matured produce before the deterioration of quality. Staking should be given in case of banana plants to avoid lodging. Protect the mango in trees by netting from thunderstorm and heavy wind. Keep the harvested paddy and non-paddy crops in a safer and waterproof place to avoid rainfall and high wind speed. Cover the freshly prepared vegetable nursery with polythene or with straw to avoid high temperature. Sesbania (Dhaincha) seeds @ 10 kg/acre should be sown as Green Manuring crop after summer ploughing. Apply mulches to maintain high moisture status in the soil.",
+   "crops_data": {
+      "okra/ladyfinger": {
+         "advisory": [
+            "Due to increased temperature and humidity, there are chances of sucking pests like aphids, Jassids, thrips, and whiteflies in Okra. To manage these pests at the early stage of infestation, spray a neem-based pesticide (Neem Oil 1500 PPM @ 600-ml/acre by mixing it in 200-litre of water). To manage these sucking pests chemically, spray Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50-gram/acre."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Spray carbendazim 50WP @ 1.0g/l or Chlorothalonil 75WP @ 2.0g/l to manage anthracnose. Use a fruit fly trap to manage mango fruit fly. Spray copper oxychloride 50WP @ 2g/l + Streptomycin @ 0.3g/l to manage bacterial canker. Spraying borax @ 2.0g/l to manage physiological disorders."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "The larvae of brinjal shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves, and shedding of flower buds. To manage the pest, remove the affected terminal shoot showing bore holes and the affected fruits. To manage this insect, install 8 nos. of pheromone trap having Leucin Lure per acre. Use chemical control if there is 4% withering of the terminal shoot or 14% fruits infested with borers. For chemical control spray Emamectin Benzoate 5% SG @ 80-gram/acre or Chlorantraniliprole 18.5 % SC @ 80-ml/acre or Spinetoram 11.7 % SC @ 200-ml /acre. There should be a gap of 7-10 days between pesticide application and harvest. Use any of the above insecticides alternately at 15-days interval."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "To manage fruit fly in cucurbits, prepare a poison bait by mixing 400 g of Jaggery and 8 ml Malathion or DDVP in 4 liters of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits. For chemical control spray Malathion 50% EC @ 2 ml/lit or Chlorantraniliprole 18.5% @ 0.25 ml/lit."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Repair the sheds before rainfall, keep feed for 3-5 days, in case of any emergency, keep fodder at a safe place to avoid spoilage from rainfall, keep animals indoor."
+         ]
+      },
+      "fresh water": {
+         "advisory": [
+            "To prepare a fish pond for the month of May, Lime application of 80-100 kg/acre, after 1-2 weeks apply cow dung 2000kg (for old pond) and 3000 kg (for new pond), then After another two weeks apply Ammonium Sulphate or Calcium ammonium nitrate@ five(5) kg and Single Super Phosphate @ five(5) kg."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "For protection against scorching heat, provide shade by covering the mat on the poultry house. Sprinkle water on the shed at regular intervals to control high temperature. Provide clean and adequate water to the poultry."
+         ]
+      },
+      "land preparation": {
+         "advisory": [
+            "Summer Ploughing is ploughing the field across the slope during hot summer with the help of specialized tools with the objective of opening of the soil crust and overturning of the soil underneath to disinfect it. It is performed with the pre-monsoon showers during May month to recharge the soil profile. This off-season tillage increases the water content of soils and reduces runoff. This tillage practice improves the soil aeration and helps in decomposition of organic matter. Due to overturning of the soil in summer ploughing the sharp rays of sun enters the soil and kills the eggs, larvae, and pupae of soil-borne insects and pests, thereby the hazards of insects and pests on the subsequent crop are reduced. Deep ploughing and overturning uproot the weeds. Consequently, the roots and stems of the weeds get desiccated and die. As a result, weed control and less application of weedicide is one of the major advantages of summer ploughing. Because of competition between the crops and weeds for the same plant nutrients is reduced, thereby the productivity increases. After summer ploughing Sesbania (Dhaincha) seeds @ 10 kg/acre should be sown as Green Manuring crop. Apply the basal fertilizer (single super phosphate) required for the paddy crop as per recommendation during Sesbania Sowing."
+         ]
+      },
+      "soil testing": {
+         "advisory": [
+            "The soil samples should be collected before ploughing the field with appropriate weather condition. For 1 acre of land soil samples are collected from 6-7 places by cleaning the grasses, dried leaves, and twigs. Dig the field of about 15 cm depth in V shaped with the help of hoe (Phauda). Collect the soil from top to bottom of about 1-inch slice. Likewise collect soils from 6- 7 places. Break the clods of soils and spread over a clean place under shade. Then mix all the soil and make a heap. Divide the heap of soil into four parts. Keep two opposite parts of soil and discard the other two. Follow this procedure until you get 500 grams of soil sample. Keep the soil in a polythene bag. Label this bag with land details, address and send it to the soil testing laboratory. Remember don’t collect soil sample from the boundary of fields, from a composting area, from shades of trees or the base of a tree and from a standing crop field."
+         ]
+      },
+      "general advice": {
+         "advisory": [
+            "When the pH of the soil is below 6.5 it is called acidic soil. The soil of Uplands, Red soil, brown forest soil, and mixed red and black soil are acidic. The acidic soil has more iron, manganese, and aluminum which causes toxicity to plants. Acid soil has lesser nitrogen, potassium, calcium, magnesium, and available phosphorus content. Acid soil has lesser carbon content which leads to low water-holding capacity. To manage acidic soil following operations should be carried out. 1. Apply 5-6 cart load of well-decomposed farmyard manure before each crop season. 2. Growing green manure crops like Sesbania, Cowpea, Guar, and Sun hemp. Apply Lime or Paper mill Sludge four weeks before sowing as per soil testing report. If lime is not available apply rock phosphate along with single super phosphate per acre at the last plowing."
+         ]
+      }
+   },
+   "date": "28-05-2024"
 }

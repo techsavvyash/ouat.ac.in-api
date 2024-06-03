@@ -1,0 +1,78 @@
+{
+    "weather_details": {
+        "13-04-2024": {
+            "rainfall": "4 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "43 %",
+            "rh_min": "22 %",
+            "wind_speed": "11 kmph",
+            "wind_direction": "283 deg",
+            "cloud_cover": "6 okta"
+        },
+        "14-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "36 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "63 %",
+            "rh_min": "19 %",
+            "wind_speed": "11 kmph",
+            "wind_direction": "210 deg",
+            "cloud_cover": "4 okta"
+        },
+        "15-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "38 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "62 %",
+            "rh_min": "19 %",
+            "wind_speed": "10 kmph",
+            "wind_direction": "225 deg",
+            "cloud_cover": "3 okta"
+        },
+        "16-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "65 %",
+            "rh_min": "20 %",
+            "wind_speed": "12 kmph",
+            "wind_direction": "205 deg",
+            "cloud_cover": "1 okta"
+        },
+        "17-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "75 %",
+            "rh_min": "20 %",
+            "wind_speed": "12 kmph",
+            "wind_direction": "202 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "summer rice",
+        "vegetables"
+    ],
+    "general_advisory": "According to medium range weather forecast of IMD, MC, Bhubaneswar, Maximum temperature very likely to rise. Increase frequency of irrigation at critical growth stages. Follow mulching practices for soil moisture conservation. Avoid grazing animals during noon hours. Provide Boron for pollination in crops. Monitor pest and disease incidence and spray insecticide and pesticide if infestation is high.",
+    "crops_data": {
+        "summer rice": {
+            "advisory": [
+                "Maintain optimum moisture level at critical growth stages like PI & Flowering in paddy field.",
+                "Apply 35 kg Urea & 10 kg MOP/ha as final top dressing in PI stage.",
+                "Monitor stem borer activity and apply appropriate pesticides.",
+                "Spray Tebuconazole 50%+ Trifloxystrobin 25 % WG @80g/acre for Blast disease management."
+            ]
+        },
+        "vegetables": {
+            "advisory": [
+                "Provide frequent light irrigation in vegetable field to protect crops from heat wave condition.",
+                "Spray Neem based pesticide for Fruit and shoot borer control.",
+                "Apply Neem or Karanjaa cake and spray fungicide to prevent wilting in brinjal and tomato.",
+                "Use Flonicamid for little leaf control in bitter guard and other viral diseases of cucurbits."
+            ]
+        }
+    },
+    "date": "12-04-2024"
+}

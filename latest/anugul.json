@@ -1,78 +1,72 @@
 {
-    "weather_details": {
-        "2024-04-13": {
-            "rainfall": "2 mm",
-            "t_max": "33 \u00b0C",
-            "t_min": "19 \u00b0C",
-            "rh_max": "47 %",
-            "rh_min": "25 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "202 deg",
-            "cloud_cover": "4 okta"
-        },
-        "2024-04-14": {
-            "rainfall": "0 mm",
-            "t_max": "36 \u00b0C",
-            "t_min": "19 \u00b0C",
-            "rh_max": "43 %",
-            "rh_min": "18 %",
-            "wind_speed": "7 kmph",
-            "wind_direction": "270 deg",
-            "cloud_cover": "3 okta"
-        },
-        "2024-04-15": {
-            "rainfall": "0 mm",
-            "t_max": "38 \u00b0C",
-            "t_min": "20 \u00b0C",
-            "rh_max": "44 %",
-            "rh_min": "20 %",
-            "wind_speed": "5 kmph",
-            "wind_direction": "169 deg",
-            "cloud_cover": "2 okta"
-        },
-        "2024-04-16": {
-            "rainfall": "0 mm",
-            "t_max": "40 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "49 %",
-            "rh_min": "19 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "288 deg",
-            "cloud_cover": "2 okta"
-        },
-        "2024-04-17": {
-            "rainfall": "0 mm",
-            "t_max": "41 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "52 %",
-            "rh_min": "18 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "146 deg",
-            "cloud_cover": "1 okta"
-        }
-    },
-    "names_of_crops": [
-        "cucumber",
-        "pointed gourd",
-        "cow"
-    ],
-    "general_advisory": "Transplanting of vegetables should be done in the afternoon hour to avoid high temperature",
-    "crops_data": {
-        "cucumber": {
-            "advisory": [
-                "Heat wave condition has been forecasted for the district on Monday and Tuesday, the weather condition will lead to flower and fruit drop in cucurbitaceous crop, so go for application of Light and frequent irrigation to avoid flower and fruit drop."
-            ]
-        },
-        "pointed gourd": {
-            "advisory": [
-                "As the temperature is going to increase in coming days pointed gourd might be affected by fungal wilt, Soil drenching of 1.5gram Carbendazim or 1 gram Metalaxyl and Mancozeb mixture to control the wilt."
-            ]
-        },
-        "cow": {
-            "advisory": [
-                "Heat wave condition has been forecasted for the district on Monday and Tuesday, the cattle's must not be allowed to graze outside during mid-day hour. The space left for ventilation must be covered with wet gunny bags. Provision for adequate clean drinking water."
-            ]
-        }
-    },
-    "date": "12-04-2024"
+   "weather_details": {
+      "2024-06-01": {
+         "rainfall": 2,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 84,
+         "rh_min": 30,
+         "wind_speed": 13,
+         "wind_direction": 135,
+         "cloud_cover": 5
+      },
+      "2024-06-02": {
+         "rainfall": 2,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 37,
+         "wind_speed": 9,
+         "wind_direction": 163,
+         "cloud_cover": 5
+      },
+      "2024-06-03": {
+         "rainfall": 5,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 79,
+         "rh_min": 18,
+         "wind_speed": 11,
+         "wind_direction": 124,
+         "cloud_cover": 6
+      },
+      "2024-06-04": {
+         "rainfall": 4,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 41,
+         "rh_min": 15,
+         "wind_speed": 12,
+         "wind_direction": 225,
+         "cloud_cover": 2
+      },
+      "2024-06-05": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 61,
+         "rh_min": 16,
+         "wind_speed": 13,
+         "wind_direction": 216,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "brinjal",
+      "common fish"
+   ],
+   "general_advisory": "The district likely to get thunderstorm with 40-50 kmph wind on Friday, give staking in creeping vegetables. Withhold irrigation and Pesticide, Insecticide, application due to upcoming rainy weather. For planting of fruit crops in July and August go for digging of pits before onset of monsoon to effect solarisation of soils removed from the pits for killing the hibernated insects and their eggs. The Angul district is likely to receive light rainfall in the coming two days, make sure to conserve rainwater in view of forecasted less monsoon rainfall in the month of June. The bunds of the fields must be strengthened.",
+   "crops_data": {
+      "brinjal": {
+         "advisory": [
+            "Due increased temperature and suitable humidity fruit and shoot borer might affect brinjal crop. In case brinjal crop is infested with fruit borer install pheromone trap @ 25 / ha, spray spinsad 7ml/ 15 litres of water. Go for application after cessation of rainfall."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Remove the predatory and unwanted fishes from the pond for better culture practices. Pond should be dried and properly ploughed with application of lime @250kg/ha. Inside embankment of pond dykes should be cleaned with free from any aquatic weeds."
+         ]
+      }
+   },
+   "date": "31-05-2024"
 }
