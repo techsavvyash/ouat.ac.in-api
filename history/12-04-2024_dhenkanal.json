@@ -1,0 +1,129 @@
+{
+    "weather_details": {
+        "13-04-2024": {
+            "rainfall": "2 mm",
+            "t_max": "30 \u00b0C",
+            "t_min": "22 \u00b0C",
+            "rh_max": "43 %",
+            "rh_min": "23 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "270 deg",
+            "cloud_cover": "5 okta"
+        },
+        "14-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "34 \u00b0C",
+            "t_min": "22 \u00b0C",
+            "rh_max": "53 %",
+            "rh_min": "19 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "281 deg",
+            "cloud_cover": "3 okta"
+        },
+        "15-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "36 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "56 %",
+            "rh_min": "19 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "169 deg",
+            "cloud_cover": "2 okta"
+        },
+        "16-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "38 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "59 %",
+            "rh_min": "19 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "202 deg",
+            "cloud_cover": "1 okta"
+        },
+        "17-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "69 %",
+            "rh_min": "19 %",
+            "wind_speed": "9 kmph",
+            "wind_direction": "158 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "paddy",
+        "maize",
+        "groundnut",
+        "sugarcane",
+        "cucurbits",
+        "brinjal",
+        "tomato",
+        "chilli",
+        "okra"
+    ],
+    "general_advisory": "Initiate summer ploughing with the availability of soil moisture. Harvest the matured Green gram, Black gram and Groundnut crop. After harvesting of Green gram, Black gram and Groundnut, dry the seeds until the optimum moisture content is attained. Clean the entire surface where the storage is to be done.",
+    "crops_data": {
+        "paddy": {
+            "advisory": [
+                "PADDY (Summer) - Milking/Booting"
+            ]
+        },
+        "maize": {
+            "advisory": [
+                "Maize - Tasseling"
+            ]
+        },
+        "groundnut": {
+            "advisory": [
+                "Groundnut - Post-harvesting"
+            ]
+        },
+        "sugarcane": {
+            "advisory": [
+                "SUGARCANE - Vegetative"
+            ]
+        },
+        "cucurbits": {
+            "advisory": [
+                "CUCURBITS - Flowering to Fruiting",
+                "To manage Fruit fly in cucurbits, prepare a poison bait by mixing 400 g of Jaggery and 8 ml Malathion or DDVP in 4 litre of water. Keep this mixture in Plastic cups or clay pots @80 nos/acre. The fruit flies will be attracted to this and eventually get killed by falling into the poison baits."
+            ]
+        },
+        "brinjal": {
+            "advisory": [
+                "BRINJAL/TOMATO - Vegetative to Flowering/Fruiting",
+                "To control Bacterial wilt, First of all select bacterial wilt resistant variety for cultivation.",
+                "Cultivate pulses, oilseeds, marigold etc. in the same field instead cultivating Brinjal, Tomato, Chilli repeatedly.",
+                "Summer cultivation can be done and cover the soil with thin transparent polythene for 45 days.",
+                "Seed treatment can be done with Plantomycin @ 1.5 gm or Streptocycin @ 150 mg with Copper Oxychloride @ 2gm/liter of water and soak them for 10 minutes, dry them in shade and then sow in the nursery.",
+                "Before transplanting in the main land, add Plantomycin @ 1gm/liter or Streptocycin @ 100 mg/liter of water and soak the seedling roots in it for 15 minutes.",
+                "Drenching the soil with Streptocycine @ 1.5 g or Phantomycin @ 15 g with Copper Oxychloride @ 30 g/ 10 liters of water."
+            ]
+        },
+        "tomato": {
+            "advisory": [
+                "BRINJAL/TOMATO - Vegetative to Flowering/Fruiting",
+                "To control Bacterial wilt, First of all select bacterial wilt resistant variety for cultivation.",
+                "Cultivate pulses, oilseeds, marigold etc. in the same field instead cultivating Brinjal, Tomato, Chilli repeatedly.",
+                "Summer cultivation can be done and cover the soil with thin transparent polythene for 45 days.",
+                "Seed treatment can be done with Plantomycin @ 1.5 gm or Streptocycin @ 150 mg with Copper Oxychloride @ 2gm/liter of water and soak them for 10 minutes, dry them in shade and then sow in the nursery.",
+                "Before transplanting in the main land, add Plantomycin @ 1gm/liter or Streptocycin @ 100 mg/liter of water and soak the seedling roots in it for 15 minutes.",
+                "Drenching the soil with Streptocycine @ 1.5 g or Phantomycin @ 15 g with Copper Oxychloride @ 30 g/ 10 liters of water."
+            ]
+        },
+        "chilli": {
+            "advisory": [
+                "CHILLI - Flowering to Fruiting",
+                "There are chances of Fruit rot and die back disease incidence in Chilli crop. To manage these diseases spray Propineb 70% WP @ 500 gram/acre or Difenoconazole 25% EC @ 100-ml/acre or Azoxystrobin 23% SC @ 200-ml/acre. The fungicide should be sprayed first just before flowering and second at fruit formation stage."
+            ]
+        },
+        "okra": {
+            "advisory": [
+                "OKRA - Flowering to Fruiting",
+                "To control YMV disease whitefly management should be done. Diseased plants should be rogued out to prevent further spread of the disease. To manage whitefly infestation at the early stage of the crop, spray Neem based pesticide 1500 PPM @ 600 ml/acre by mixing in 200 liters of water. If the infestation is severe, then go for chemical pesticide like Thiamethoxam @ 40-gram/acre or Acetamiprid @ 50 g/acre by mixing in 200 liters of water."
+            ]
+        }
+    },
+    "date": "12-04-2024"
+}

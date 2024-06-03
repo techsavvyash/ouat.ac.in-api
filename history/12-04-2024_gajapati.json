@@ -1,0 +1,116 @@
+{
+    "weather_details": {
+        "2024-04-13": {
+            "rainfall": "2 mm",
+            "t_max": "39 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "45 %",
+            "rh_min": "18 %",
+            "wind_speed": "5 kmph",
+            "wind_direction": "206 deg",
+            "cloud_cover": "2 okta"
+        },
+        "2024-04-14": {
+            "rainfall": "0 mm",
+            "t_max": "39 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "62 %",
+            "rh_min": "17 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "212 deg",
+            "cloud_cover": "3 okta"
+        },
+        "2024-04-15": {
+            "rainfall": "0 mm",
+            "t_max": "41 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "58 %",
+            "rh_min": "21 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "225 deg",
+            "cloud_cover": "1 okta"
+        },
+        "2024-04-16": {
+            "rainfall": "0 mm",
+            "t_max": "41 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "65 %",
+            "rh_min": "21 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "225 deg",
+            "cloud_cover": "1 okta"
+        },
+        "2024-04-17": {
+            "rainfall": "0 mm",
+            "t_max": "42 \u00b0C",
+            "t_min": "26 \u00b0C",
+            "rh_max": "73 %",
+            "rh_min": "21 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "240 deg",
+            "cloud_cover": "2 okta"
+        }
+    },
+    "names_of_crops": [
+        "rice",
+        "horticulture",
+        "menacinakahi",
+        "chilli",
+        "okra/ladyfinger",
+        "mango",
+        "cashew",
+        "common carp",
+        "chicken"
+    ],
+    "general_advisory": "The mean maximum daily temperature was 40.0\u00b0C and the mean minimum daily temperature was 24.1\u00b0C of the Gajapati district during the last week. The district received 04.7 mm of rainfall during the last week. Go for application of fungicides, insecticides or herbicides in the afternoon hour. Provide sufficient irrigation to crops to reduce excess temperature. Keep paddy fields ponded. Wait up to the end of the heatwave to transplant summer vegetable seedlings, otherwise plant in the evening and cover with paper cap during daytime. Cover the freshly prepared vegetable nursery with polythene or with straw. Apply mulches to maintain moisture status in the soil. Resort to drip and sprinkler irrigation practices wherever possible in the event of limited water availability particularly for commercial crops including fruit orchards and widely spaced vegetables.",
+    "crops_data": {
+        "rice": {
+            "advisory": [
+                "Due to differential day and night temperature, there are chances of blast disease incidence in paddy crops. Initial symptoms of the disease on the leaves are white to grey-green lesions or spots, with dark green borders. Older lesions on the leaves are elliptical or spindle-shaped and whitish to greyish centre with red to brownish or necrotic border.",
+                "Several spots coalesce to form big irregular patches. Severely affected leaves become dried. If the disease incidence seen than drain out excess water from the paddy field. Remove the weeds and keep the field clean. To manage this disease spray Hexaconazole 5 % SC @ 400-ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C @ 200-ml/acre or Tebuconazole 50%+ Trifloxystrobin 25 % WG @ 80-gram/acre.",
+                "Due to rise in temperature there are chances of increase in stem borer infestation in paddy crop. To manage Yellow Stem Borer in paddy spray Fipronil 5%SC @ 400 ml/acre or Flubendiamide 20% WG @ 50g/acre or Chlorantraniliprole 18.5% SC @ 60ml /acre or Chromafenozide 80%WP @ 50g/acre."
+            ]
+        },
+        "horticulture": {
+            "advisory": [
+                "Little leaf of brinjal disease is a mycoplasma disease which is transmitted by leaf hopper in brinjal. To manage little leaf in brinjal first remove and destroy the infected plant. To control the vector of the disease spray Thiamethoxam 25 % WG @ 40 g/acre or Flonicamid 50% WG @ 60 g/acre or Dinotefuran 20 % SG @ 80 g/acre."
+            ]
+        },
+        "menacinakahi": {
+            "advisory": [
+                "There are chances of infestation of sucking pest like aphids and thrips in chilli crop. To manage aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600 ml/acre by mixing in 200 litre of water. To manage these pests chemically spray Thiamethoxam 25 % WG @ 40g/acre Acetamiprid 20% S.P . @ 50g/acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400 ml/acre."
+            ]
+        },
+        "chilli": {
+            "advisory": [
+                "There are chances of infestation of sucking pest like aphids and thrips in chilli crop. To manage aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide 1500 PPM @ 600 ml/acre by mixing in 200 litre of water. To manage these pests chemically spray Thiamethoxam 25 % WG @ 40g/acre Acetamiprid 20% S.P . @ 50g/acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400 ml/acre."
+            ]
+        },
+        "okra/ladyfinger": {
+            "advisory": [
+                "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra. To manage these pests at early stage of infestation spray neem-based pesticide (Neem Oil) 1500 PPM @600 ml/acre by mixing it in 200 litre of water. Then spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20 % SP @ 50 g/acre or Tolfenpyrad 15 % EC @ 400ml/acre by mixing it in 200 litre of water."
+            ]
+        },
+        "mango": {
+            "advisory": [
+                "Spray carbendazim 50WP@ 1.0g/l or Chlorothalonil 75WP@ 2.0g/l to manage anthracnose. Use fruit fly trap to manage mango fruit fly. Spray of copper oxychloride 50WP @2g/l + Streptomycin @0.3g/l to manage bacterial canker. Spraying borax @2.0g/l to manage physiological disorders."
+            ]
+        },
+        "cashew": {
+            "advisory": [
+                "For controlling stem and root borer in cashew remove minimum width of the bark (only the damaged or tunneled portions) retaining at least 50% of the bark circumference. Uproot and remove dead trees from the plantation. Cleaning of collar region, removal of grubs, pupae and eggs and inter ploughing wherever possible and Swab the bark of the exposed roots and shoots with carbaryl 50 WP 2 g/L, lindane 20 EC 1 ml/L. Swab with kerosene - coal tar mixture (1:2) or neem oil 5% upto one metre height on the trunk and on exposed bark after shaving the infested bark to prevent egg laying. Occurrence of Tea mosquito bug. Spray Monocrotophos 36 SL  3.0 L  at new flush formation. Spray endosulfan 35 EC or carbaryl 50 WP 3.0 Kg In 1500-2000 L  of water per ha + Urea 3% at flower initiation and again at fruiting time."
+            ]
+        },
+        "common carp": {
+            "advisory": [
+                "In case have stocked fingerlings in the pond for fish culture, fish farmers should monitor the quality and level of water, so also temperature. In case of water temperature goes above 30\u00b0 C or water level goes below 1m depth, farmers are advised to go for early harvest and discontinue fish seed production and culture activity. Fish breeding and culture activity is discouraged."
+            ]
+        },
+        "chicken": {
+            "advisory": [
+                "Due to severe heat there is reduction of growth rate and egg production in poultry. While constructing poultry shed keep in mind that the direct sun rays shouldn\u2019t enter, there should be proper ventilation, the roof should be high and side walls should be low. Plant pumpkin or similar plants over roof to avoid direct sunlight. Spray water over the poultry birds but keep in mind that the litre material should not get wet. The poultry shed remain cool by hanging wet gunny bag over side walls. The litre should be turned from time to time because it holds heat and increases the temperature inside shed. Plant green plants around the shed."
+            ]
+        }
+    },
+    "date": "12-04-2024"
+}

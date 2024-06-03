@@ -1,95 +1,145 @@
 {
-    "weather_details": {
-        "13-04-2024": {
-            "rainfall": "0 mm",
-            "t_max": "30 \u00b0C",
-            "t_min": "25 \u00b0C",
-            "rh_max": "48 %",
-            "rh_min": "15 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "288 deg",
-            "cloud_cover": "4 okta"
-        },
-        "14-04-2024": {
-            "rainfall": "0 mm",
-            "t_max": "33 \u00b0C",
-            "t_min": "25 \u00b0C",
-            "rh_max": "68 %",
-            "rh_min": "23 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "112 deg",
-            "cloud_cover": "3 okta"
-        },
-        "15-04-2024": {
-            "rainfall": "0 mm",
-            "t_max": "36 \u00b0C",
-            "t_min": "25 \u00b0C",
-            "rh_max": "61 %",
-            "rh_min": "26 %",
-            "wind_speed": "5 kmph",
-            "wind_direction": "225 deg",
-            "cloud_cover": "1 okta"
-        },
-        "16-04-2024": {
-            "rainfall": "0 mm",
-            "t_max": "39 \u00b0C",
-            "t_min": "27 \u00b0C",
-            "rh_max": "58 %",
-            "rh_min": "20 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "207 deg",
-            "cloud_cover": "1 okta"
-        },
-        "17-04-2024": {
-            "rainfall": "0 mm",
-            "t_max": "41 \u00b0C",
-            "t_min": "27 \u00b0C",
-            "rh_max": "62 %",
-            "rh_min": "22 %",
-            "wind_speed": "5 kmph",
-            "wind_direction": "207 deg",
-            "cloud_cover": "1 okta"
-        }
-    },
-    "names_of_crops": [
-        "rice",
-        "groundnut",
-        "vegetables",
-        "mango",
-        "livestock"
-    ],
-    "general_advisory": "Apply well decomposed Farm Yard Manure/ vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
-    "crops_data": {
-        "rice": {
-            "advisory": [
-                "If blast infestation found in rice, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 0.4 g/litre of water in clear and dry weather.",
-                "Due to rise in temperature, the attack of stem borer has aggravated in rice. Three pheromone traps/acre may be installed in the rice field, whenever the number of male moths/trap reaches 4 -5/day, spray Chlorantraniliprole 18.5% SC @ 0.3 ml/litre of water or Fipronil 5% SC @ 2 ml/litre of water.",
-                "Bacterial leaf blight may reported in rice field, spray Plantomycin @ 1 g + Copper oxychloride 50% WP @ 3 g/litre of water. If necessary repeat at 15 days later."
-            ]
-        },
-        "groundnut": {
-            "advisory": [
-                "Tikka disease may observe in field, to control it spray Chlorothalonil 75% WP @ 2 g or Carbendazim 50% WP @ 2 g per litre of water.",
-                "Chances of tobacco caterpillar infestation in groundnut, to control it spray Thiamethoxam 12.6% + Lambda -Cyhalothrin 9.5% ZC @ 0.3 ml or Profenophos 50% EC @ 2 ml per litre of water."
-            ]
-        },
-        "vegetables": {
-            "advisory": [
-                "White fly infestation may occur at this stage of tomato, to control it spray Imidacloprid 17.8% SL @ 0.3 ml/litre of water or Thiomethaxome 25%WG @ 0.4 g/litre of water.",
-                "To control fruit and shoot borer in brinjal spray Spinosad 45% SC @ 70 ml/acre and Thiodicarb 75% WP @ 250 g/acre at 15 days interval."
-            ]
-        },
-        "mango": {
-            "advisory": [
-                "Chances of mango hopper infestation may occur, to control it spray Buprofezin 25% SC @ 1 -2 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water.",
-                "Spray Alpha Napthyl Acetic Acid 4.5% SL (Planofix) @ 4.5 ml in 10 litre of water when tender fruits are in pea size and go for second spray when fruits are in marble size."
-            ]
-        },
-        "livestock": {
-            "advisory": [
-                "Temperature is rising; animals may preferably be grazed during early morning to avoid exposure to extreme hot conditions. Proper ventilation should be maintained for free circulation of air in the sheds."
-            ]
-        }
-    },
-    "date": "12-04-2024"
+   "weather_details": {
+      "27.05.2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "28.05.2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "29.05.2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 29,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "30.05.2024": {
+         "rainfall": 0,
+         "t_max": 43,
+         "t_min": 30,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "01-06-2024": {
+         "rainfall": 0,
+         "t_max": 45,
+         "t_min": 30,
+         "rh_max": 73,
+         "rh_min": 24,
+         "wind_speed": 7,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "02-06-2024": {
+         "rainfall": 0,
+         "t_max": 44,
+         "t_min": 30,
+         "rh_max": 79,
+         "rh_min": 33,
+         "wind_speed": 9,
+         "wind_direction": 202,
+         "cloud_cover": 5
+      },
+      "03-06-2024": {
+         "rainfall": 4,
+         "t_max": 43,
+         "t_min": 29,
+         "rh_max": 80,
+         "rh_min": 40,
+         "wind_speed": 8,
+         "wind_direction": 245,
+         "cloud_cover": 6
+      },
+      "04-06-2024": {
+         "rainfall": 5,
+         "t_max": 41,
+         "t_min": 28,
+         "rh_max": 80,
+         "rh_min": 39,
+         "wind_speed": 9,
+         "wind_direction": 234,
+         "cloud_cover": 4
+      },
+      "05-06-2024": {
+         "rainfall": 4,
+         "t_max": 39,
+         "t_min": 27,
+         "rh_max": 73,
+         "rh_min": 35,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "groundnut",
+      "chilli",
+      "brinjal",
+      "cattle & buffalo",
+      "poultry"
+   ],
+   "general_advisory": "Plant protection measures may be taken up when weather becomes clear. Regular surveillance work should be taken up in all crops in order to know the incidence of various insect pests, diseases and initiate the control strategies.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Harvest summer rice when 80-85% grains in the panicles are matured",
+            "Bring down moisture content of rice grain to 11-14% for long term storage by drying under Sun for 2-3 days",
+            "Store harvested paddy in Super Grain bag for retaining quality",
+            "Do not burn residue of kharif paddy in fields, mix it in the soil for soil fertility, get ready with seeds of kharif rice"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Harvest groundnut when plant turns yellow and leaves start drying",
+            "Dry pods in sun for 4-5 days to avoid aflatoxin formation, reduce moisture in pods to 8-9% before storing"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray Azoxystrobin for fruit rot infestation",
+            "Spray Imidacloprid or Dimethoate for sucking pests",
+            "Be aware of white fly infestation, install yellow sticky trap and use Neem Based Pesticide"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control wilting in tomato and brinjal field with Copper oxycloride",
+            "Control fruit and shoot borer with Azadirachtin, Emamectin benzoate, Spinosad",
+            "Control white fly with yellow sticky trap and Neem Based Pesticide"
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Provide shade and clean drinking water, improve ventilation, avoid grazing/work between 10 AM to 4 PM",
+            "Provide high-quality forage, give concentrated mixture to lactating cattle and buffalo"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Avoid overcrowding in poultry shed, provide fan and water sprinkling when needed"
+         ]
+      }
+   },
+   "date": "31-05-2024"
 }

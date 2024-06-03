@@ -1,90 +1,78 @@
 {
-    "weather_details": {
-        "2024-04-06": {
-            "rainfall": "0 mm",
-            "t_max": "40 \u00b0C",
-            "t_min": "25 \u00b0C",
-            "rh_max": "42 %",
-            "rh_min": "13 %",
-            "wind_speed": "9 kmph",
-            "wind_direction": "202 deg",
-            "cloud_cover": "1 okta"
-        },
-        "2024-04-07": {
-            "rainfall": "0 mm",
-            "t_max": "40 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "35 %",
-            "rh_min": "10 %",
-            "wind_speed": "8 kmph",
-            "wind_direction": "225 deg",
-            "cloud_cover": "2 okta"
-        },
-        "2024-04-08": {
-            "rainfall": "2 mm",
-            "t_max": "38 \u00b0C",
-            "t_min": "22 \u00b0C",
-            "rh_max": "38 %",
-            "rh_min": "13 %",
-            "wind_speed": "7 kmph",
-            "wind_direction": "79 deg",
-            "cloud_cover": "6 okta"
-        },
-        "2024-04-09": {
-            "rainfall": "15 mm",
-            "t_max": "37 \u00b0C",
-            "t_min": "22 \u00b0C",
-            "rh_max": "69 %",
-            "rh_min": "20 %",
-            "wind_speed": "9 kmph",
-            "wind_direction": "281 deg",
-            "cloud_cover": "7 okta"
-        },
-        "2024-04-10": {
-            "rainfall": "0 mm",
-            "t_max": "37 \u00b0C",
-            "t_min": "21 \u00b0C",
-            "rh_max": "64 %",
-            "rh_min": "24 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "135 deg",
-            "cloud_cover": "2 okta"
-        }
-    },
-    "names_of_crops": [
-        "rice",
-        "maize",
-        "sunflower",
-        "brinjal",
-        "okra/ladyfinger"
-    ],
-    "general_advisory": "To manage mango hoppers spray Imidacloprid 17.8% SL @ 5- ml/15-litre of water or Thiamethoxam 25% W.G @ 3-ml/15-litre of water or Acetamiprid 20% S.P@ 4-gram /15-litre of water . Application of smoke below the plants can also help in reducing the pest population.",
-    "crops_data": {
-        "rice": {
-            "advisory": [
-                "Blast: Spray Carbendazim 50% WP @ 1.5g/litre or Hexaconazole 4 % WP + Zineb 6.8% WP @ 2.0 g / litre or Tricyclazole 18% + Mancozeb 62% WP @ 2.0g / litre or Edifenphos 50% EC @ 1.0 ml/litre."
-            ]
-        },
-        "maize": {
-            "advisory": [
-                "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water ."
-            ]
-        },
-        "sunflower": {
-            "advisory": [
-                "To manage Black headed Caterpillar spray Lambda-cyhalothrin 5% EC @ 2ml or Chlorpyrifos 50%+Cypermethrin 5% EC @ 2ml or Profenophos 50% EC @ 2ml per litre of water per acre. Late sown crop is at 40-45 days, apply4/5/24, 3:29 PM District Advisory"
-            ]
-        },
-        "brinjal": {
-            "advisory": [
-                "Bacterial wilt has been noticed in brinjal. Soil drench with Copper oxychloride 50 WP @ 600 gm + plantomycin @ 200 gm in 200 liter of water per acre to control wilting in brinjal."
-            ]
-        },
-        "okra/ladyfinger": {
-            "advisory": [
-                "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra due to present weather condition. To manage these pests at early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @600- ml/acre by mixing it in 200- litre of water . To manage these sucking pests chemically spray Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP  @ 30-gram/acre or Tolfenpyrad 15 % EC @ 400-ml/acre by mixing it in 200-litre of water ."
-            ]
-        }
-    },
-    "date": "05-04-2024"
+   "weather_details": {
+      "2024-06-01": {
+         "rainfall": 2,
+         "t_max": 40,
+         "t_min": 28,
+         "rh_max": 86,
+         "rh_min": 33,
+         "wind_speed": 10,
+         "wind_direction": 167,
+         "cloud_cover": 5
+      },
+      "2024-06-02": {
+         "rainfall": 4,
+         "t_max": 40,
+         "t_min": 28,
+         "rh_max": 75,
+         "rh_min": 34,
+         "wind_speed": 10,
+         "wind_direction": 193,
+         "cloud_cover": 6
+      },
+      "2024-06-03": {
+         "rainfall": 5,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 32,
+         "wind_speed": 10,
+         "wind_direction": 202,
+         "cloud_cover": 5
+      },
+      "2024-06-04": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 68,
+         "rh_min": 30,
+         "wind_speed": 13,
+         "wind_direction": 225,
+         "cloud_cover": 3
+      },
+      "2024-06-05": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 11,
+         "wind_direction": 210,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "brinjal",
+      "banana",
+      "tomato"
+   ],
+   "general_advisory": "Go for ploughing at places receiving soaking rainfall to reduce weed infestation, to destroy eggs and larvae of hibernated soil insects, and increase soil profile recharge.",
+   "crops_data": {
+      "brinjal": {
+         "advisory": [
+            "For Fruit and Shoot borer, spray Lambda-Cyhalothrin 5 % EC @ 300 ml/ha or Novaluron 10% EC 500 ml/ha or Spinosad 45% SC @ 187.5 ml/ha or Thiodicarb 75 % WP @ 625-1000gm/ha mix with 500 litre of water ."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To manage panama wilt, select disease free planting material and resistant cultivar like Bantal, Robusta, Champa, Kabuli etc. Banana suckers should be dipped with solution of Carbendazim @ 10-gram/10- litre of water before planting followed by bimonthly drenching of soil around the pseudostem starting from 5 months after planting."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To prevent from wilting or partial wilting in tomato apply Neem or Karanjaa cake. And spray (basal + foliar) Tebuconazole fungicide @ 1ml/liter ."
+         ]
+      }
+   },
+   "date": "31-05-2024"
 }

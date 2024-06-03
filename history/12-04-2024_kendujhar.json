@@ -1,0 +1,148 @@
+{
+    "weather_details": {
+        "2024-04-13": {
+            "rainfall": "3 mm",
+            "t_max": "33 \u00b0C",
+            "t_min": "21 \u00b0C",
+            "rh_max": "45 %",
+            "rh_min": "24 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "248 deg",
+            "cloud_cover": "5 okta"
+        },
+        "2024-04-14": {
+            "rainfall": "2 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "46 %",
+            "rh_min": "20 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "255 deg",
+            "cloud_cover": "4 okta"
+        },
+        "2024-04-15": {
+            "rainfall": "0 mm",
+            "t_max": "37 \u00b0C",
+            "t_min": "23 \u00b0C",
+            "rh_max": "51 %",
+            "rh_min": "22 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "202 deg",
+            "cloud_cover": "2 okta"
+        },
+        "2024-04-16": {
+            "rainfall": "0 mm",
+            "t_max": "37 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "52 %",
+            "rh_min": "20 %",
+            "wind_speed": "8 kmph",
+            "wind_direction": "180 deg",
+            "cloud_cover": "2 okta"
+        },
+        "2024-04-17": {
+            "rainfall": "2 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "25 \u00b0C",
+            "rh_max": "57 %",
+            "rh_min": "20 %",
+            "wind_speed": "7 kmph",
+            "wind_direction": "202 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "chickpea",
+        "linseed",
+        "sunflower",
+        "cucumber",
+        "chilli",
+        "tomato",
+        "brinjal",
+        "mango",
+        "banana",
+        "cow",
+        "poultry"
+    ],
+    "general_advisory": "The harvested crop should have moisture level of 7 -10% before storage. Processing of crops should be done at clean surfaces. Store the products using celphos tablets. Avoid outing and grazing of animals during day time.",
+    "crops_data": {
+        "chickpea": {
+            "advisory": [
+                "The matured and harvested chickpea can be sold at the nearby market.",
+                "Regularly check for the borer infestation.",
+                "To reduce the borer infestation in chickpea, apply Neem oil @ 12.5 lt/ha or spray Triazophos 40 EC @ 2 ml/lt.",
+                "To reduce the heat stress, irrigation can be provided to the crop."
+            ]
+        },
+        "linseed": {
+            "advisory": [
+                "Harvest and separate the linseed at safe and disinfectant surfaces.",
+                "Processing of linseed can be carried out and store/sell it at the market."
+            ]
+        },
+        "sunflower": {
+            "advisory": [
+                "Irrigate the crop regularly to reduce the high temperature effect during the day time.",
+                "Monitor the field field for pests and diseases.",
+                "Alternaria leaf blight in sunflower can be managed by spraying Mancozeb @ 3 g/lt at an interval of 10 days."
+            ]
+        },
+        "cucumber": {
+            "advisory": [
+                "Irrigate the crop regularly.",
+                "Harvest the cucumber and go for the sale.",
+                "Apply FYM and vermicompost.",
+                "For controlling downy mildew, spray Mancozeb 2 g/lt at an interval of 10 days."
+            ]
+        },
+        "chilli": {
+            "advisory": [
+                "Harvest the chilli regularly and provide irrigation to the crop.",
+                "Make value addition to the crops by making chilli sauce, chilli pickles etc.",
+                "Symptoms of chilli thrips can be seen by leaf crinkles and upward curling. Spray Imidachloprid 17.8% SL @ 3 ml/10 lt of water or Emamectin benzoate 5% SG @ 4g/10 lt of water."
+            ]
+        },
+        "tomato": {
+            "advisory": [
+                "Don\u2019t let touch the tomato fruit to the soil. Rotting can occur. Provide staking to the crop.",
+                "Harvest the Tomato when it is half ripen to store it for more time.",
+                "For managing fruit borer i n tomato, spray Flubendiamide 5g/10 lt of water.",
+                "Make use of ripen tomato to prepare tomato ketchup and sauce. Sell the processed and value added products to fetch more return."
+            ]
+        },
+        "brinjal": {
+            "advisory": [
+                "Harvest the matured brinjal.",
+                "Irrigate the plants regularly.",
+                "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10 lt of water."
+            ]
+        },
+        "mango": {
+            "advisory": [
+                "Remove the diseased plant parts from the tree.",
+                "Irrigate the tree regularly.",
+                "Spraying of Thiomethoxam @ 0.5 g/lt can help in managing mango mealy bug.",
+                "Spray Planofix @ 0.4 ml/lt to reduce the flower drop in mango."
+            ]
+        },
+        "banana": {
+            "advisory": [
+                "Sigatoka leaf spot in Banana can be managed by spraying Carbendazim @ 1 g/lt at 15 days interval.",
+                "Provide irrigation to the plant regularly."
+            ]
+        },
+        "cow": {
+            "advisory": [
+                "Provide clean drinking water to the animals regularly.",
+                "Do not allow animals to outside during day time because of heat waves."
+            ]
+        },
+        "poultry": {
+            "advisory": [
+                "Keep the farm cool and moist.",
+                "Regularly clean and keep water for drinking to the poultry birds."
+            ]
+        }
+    },
+    "date": "12-04-2024"
+}

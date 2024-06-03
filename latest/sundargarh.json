@@ -1,90 +1,146 @@
 {
-    "weather_details": {
-        "13/04/2024": {
-            "rainfall": "4 mm",
-            "t_max": "32 \u00b0C",
-            "t_min": "23 \u00b0C",
-            "rh_max": "49 %",
-            "rh_min": "21 %",
-            "wind_speed": "8 kmph",
-            "wind_direction": "208 deg",
-            "cloud_cover": "6 okta"
-        },
-        "14/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "35 \u00b0C",
-            "t_min": "23 \u00b0C",
-            "rh_max": "45 %",
-            "rh_min": "20 %",
-            "wind_speed": "8 kmph",
-            "wind_direction": "248 deg",
-            "cloud_cover": "3 okta"
-        },
-        "15/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "38 \u00b0C",
-            "t_min": "23 \u00b0C",
-            "rh_max": "41 %",
-            "rh_min": "22 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "216 deg",
-            "cloud_cover": "2 okta"
-        },
-        "16/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "40 \u00b0C",
-            "t_min": "25 \u00b0C",
-            "rh_max": "38 %",
-            "rh_min": "20 %",
-            "wind_speed": "7 kmph",
-            "wind_direction": "162 deg",
-            "cloud_cover": "1 okta"
-        },
-        "17/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "41 \u00b0C",
-            "t_min": "25 \u00b0C",
-            "rh_max": "39 %",
-            "rh_min": "17 %",
-            "wind_speed": "6 kmph",
-            "wind_direction": "210 deg",
-            "cloud_cover": "1 okta"
-        }
-    },
-    "names_of_crops": [
-        "summer paddy",
-        "sri paddy",
-        "summer pulses",
-        "summer groundnut",
-        "sunflower"
-    ],
-    "general_advisory": "In case of shortage of water, go for alternative row irrigation method for better utilization of water which saves around 50% water. Also the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature.",
-    "crops_data": {
-        "summer paddy": {
-            "advisory": [
-                "Due to rise in temperature, the BPH attack may be seen, to manage this, make alleys in every meter gap for effective sunlight at the base of the plant, chemically spray in case of above ETL Thiomethoxam @ 3 g per 15 liters of water."
-            ]
-        },
-        "sri paddy": {
-            "advisory": [
-                "Leaf folder may attack, go for spraying Lambdacyalothrin @ 1ml per liter of water."
-            ]
-        },
-        "summer pulses": {
-            "advisory": [
-                "Due to weather survey the infestation of YMV disease and to manage this apply Ridomil MZ @ 2g/liter of water. Provide irrigation at flowering stage."
-            ]
-        },
-        "summer groundnut": {
-            "advisory": [
-                "Provide irrigation due to rise in temperature at pod development stage."
-            ]
-        },
-        "sunflower": {
-            "advisory": [
-                "For good seed filling, apply 2-3 g of Borax/liter of water. Early sown crop."
-            ]
-        }
-    },
-    "date": "12-04-2024"
+   "weather_details": {
+      "01/06/2024": {
+         "rainfall": 5,
+         "t_max": 41,
+         "t_min": 28,
+         "rh_max": 76,
+         "rh_min": 19,
+         "wind_speed": 12,
+         "wind_direction": 180,
+         "cloud_cover": 5
+      },
+      "02/06/2024": {
+         "rainfall": 10,
+         "t_max": 42,
+         "t_min": 28,
+         "rh_max": 64,
+         "rh_min": 19,
+         "wind_speed": 12,
+         "wind_direction": 207,
+         "cloud_cover": 6
+      },
+      "03/06/2024": {
+         "rainfall": 5,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 69,
+         "rh_min": 17,
+         "wind_speed": 11,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "04/06/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 29,
+         "rh_min": 15,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      },
+      "05/06/2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 32,
+         "rh_min": 12,
+         "wind_speed": 11,
+         "wind_direction": 285,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "summer paddy",
+      "sri paddy",
+      "summer pulses",
+      "summer groundnut",
+      "sunflower",
+      "ginger",
+      "turmeric",
+      "animal husbandry",
+      "vegetables",
+      "yam",
+      "pisciculture",
+      "onion"
+   ],
+   "general_advisory": "In case of rain received, go for summer cultivation. The mechanized cultivation will invert the soil and pest and pathogen will be exposed to the sun and get killed. Go for drip irrigation system in Orchard which saves water and saves from heat. Sprinkling irrigation method of irrigation reduces the effect of high temperature. Farmers are advised to avoid exposure outside during the peak heat hours of the day.",
+   "crops_data": {
+      "summer paddy": {
+         "advisory": [
+            "In case of the Seed production fields, go for rouging the off types of plants.",
+            "Harvest the crop when 85% of the crop turns yellow. Drain out excess water 7 days before the harvest of the crop."
+         ]
+      },
+      "sri paddy": {
+         "advisory": [
+            "Harvest the crop when 85% of the crop turns yellow. Drain out excess water 7 days before the harvest of the crop."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage. Avoid harvesting at over maturity stage as the pods will be shattered."
+         ]
+      },
+      "summer groundnut": {
+         "advisory": [
+            "The inner side of shell when turns black color, go for harvesting the crop.",
+            "Due to high temperature, the crop field may be hard, for ease of harvesting, provide light irrigation which will reduce pods breakage."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "For good seed filling, apply 2 -3 g of Borax/liter of water.",
+            "Early sown crop when the lower side of head turns yellow, go for cutting the head and dry it under sun for 4 -5 days.",
+            "If fruit borer attacks, then go for spraying Bioinsecticide NPV @ 250 LE mixed in 200 Liters of water."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi.",
+            "Seed rate is 6 -8 q/ac. Each piece should be 20 g and contain 2 -3 eyes.",
+            "Treat the seeds before planting in the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Sow good varieties like Roma, Suroma, Ranga and Rashmi.",
+            "Seed rate is 8 -10 q/ac. The seed material should contain 2 -3 eyes and of 20 -25g per piece."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Due to rise in temperature provide the animal shed clean and sufficient drinking water.",
+            "Maintain the cleanliness in the animal shed.",
+            "Do not leave the animals during hot time of the day.",
+            "Treat around 10 kg rhizome in 10 liters of water mixed with 40 g Mancozeb and 10 g Carbendazim and dry it under shade."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre.",
+            "Also due to weather, there may attack of Mites, to manage this spray Dicofol @ 3 ml/liter of water.",
+            "In Cucurbits, prepare poison baits for white flies by mixing 2 ml Malathion and 20 g Jaggery in 1 liter of water. And keep the baits near the plants."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8 -10 q/ac. The seed material should be of 150 -200 g.",
+            "Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth.",
+            "After planting, the pits should be filled with equal quantity of FYM and topsoil."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Due to rise in temperature, survey for oxygen deficit if any."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Harvest the onion leaving 2 -3 cm from the neck and cut all the roots and dry it under shade."
+         ]
+      }
+   },
+   "date": "31-05-2024"
 }

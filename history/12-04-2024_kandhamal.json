@@ -1,0 +1,90 @@
+{
+    "weather_details": {
+        "13-04-2024": {
+            "rainfall": "6 mm",
+            "t_max": "28 \u00b0C",
+            "t_min": "18 \u00b0C",
+            "rh_max": "48 %",
+            "rh_min": "24 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "198 deg",
+            "cloud_cover": "7 okta"
+        },
+        "14-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "32 \u00b0C",
+            "t_min": "19 \u00b0C",
+            "rh_max": "52 %",
+            "rh_min": "18 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "248 deg",
+            "cloud_cover": "6 okta"
+        },
+        "15-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "35 \u00b0C",
+            "t_min": "20 \u00b0C",
+            "rh_max": "51 %",
+            "rh_min": "21 %",
+            "wind_speed": "5 kmph",
+            "wind_direction": "225 deg",
+            "cloud_cover": "3 okta"
+        },
+        "16-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "38 \u00b0C",
+            "t_min": "22 \u00b0C",
+            "rh_max": "54 %",
+            "rh_min": "20 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "225 deg",
+            "cloud_cover": "2 okta"
+        },
+        "17-04-2024": {
+            "rainfall": "0 mm",
+            "t_max": "40 \u00b0C",
+            "t_min": "24 \u00b0C",
+            "rh_max": "51 %",
+            "rh_min": "19 %",
+            "wind_speed": "6 kmph",
+            "wind_direction": "205 deg",
+            "cloud_cover": "1 okta"
+        }
+    },
+    "names_of_crops": [
+        "sunflower",
+        "maize",
+        "rice",
+        "chilli",
+        "poultry"
+    ],
+    "general_advisory": "To protect fruits from hail storm, harvest matured fruits and sell it in market and protect young fruits in mango Litchi by netting the tree. Make the bunds wide and with more height to conserve rain water to mitigate summer condition. Drain out excess of water in non-paddy crops to avoid fungal and bacterial diseases. Provide sufficient drinking water to tolerate heat condition in poultry birds.",
+    "crops_data": {
+        "sunflower": {
+            "advisory": [
+                "Stage - Seed setting. For good seed filling, apply 2 -3 g of Borax/liter of water. If fruit borer attacks, then go for spraying Bioinsecticide NPV @ 250 LE mixed in 200 Liters of water."
+            ]
+        },
+        "maize": {
+            "advisory": [
+                "Insect - FAW. Spray azadirachtin 1500 ppm @ 2.5 lit/ha or Chlorantraniliprole 18.5 SC @ 200ml/ha (or) Flubendiamide 480SC@ 250ml/ha at early stage (15 - 20 DAE)."
+            ]
+        },
+        "rice": {
+            "advisory": [
+                "Blast -disease. To manage this disease spray Hexaconazole 5% SC @ 400 -ml/acre or Azoxystrobin 18.2% + Difenoconazole 11.4 % S.C@ 200 -ml/acre."
+            ]
+        },
+        "chilli": {
+            "advisory": [
+                "Disease - Fusarium Wilt. Disease symptoms are characterized by an initial slight yellowing of the foliage and wilting of the upper leaves that progress in a few days into a permanent wilt with the leaves still attached. Drenching with 1% Bordeaux mixture or blue copper or Fytolan 0.25% may give protection."
+            ]
+        },
+        "poultry": {
+            "advisory": [
+                "Provide sufficient drinking water to tolerate heat condition. Provision for extra space in summer season and frequent turning of litter."
+            ]
+        }
+    },
+    "date": "12-04-2024"
+}

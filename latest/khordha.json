@@ -1,97 +1,104 @@
 {
-    "weather_details": {
-        "13/04/2024": {
-            "rainfall": "2 mm",
-            "t_max": "37 \u00b0C",
-            "t_min": "24 \u00b0C",
-            "rh_max": "56 %",
-            "rh_min": "26 %",
-            "wind_speed": "10 kmph",
-            "wind_direction": "214 deg",
-            "cloud_cover": "4 okta"
-        },
-        "14/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "37 \u00b0C",
-            "t_min": "25 \u00b0C",
-            "rh_max": "67 %",
-            "rh_min": "26 %",
-            "wind_speed": "14 kmph",
-            "wind_direction": "205 deg",
-            "cloud_cover": "3 okta"
-        },
-        "15/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "38 \u00b0C",
-            "t_min": "26 \u00b0C",
-            "rh_max": "64 %",
-            "rh_min": "27 %",
-            "wind_speed": "14 kmph",
-            "wind_direction": "207 deg",
-            "cloud_cover": "1 okta"
-        },
-        "16/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "40 \u00b0C",
-            "t_min": "26 \u00b0C",
-            "rh_max": "71 %",
-            "rh_min": "29 %",
-            "wind_speed": "15 kmph",
-            "wind_direction": "204 deg",
-            "cloud_cover": "1 okta"
-        },
-        "17/04/2024": {
-            "rainfall": "0 mm",
-            "t_max": "41 \u00b0C",
-            "t_min": "27 \u00b0C",
-            "rh_max": "78 %",
-            "rh_min": "30 %",
-            "wind_speed": "16 kmph",
-            "wind_direction": "202 deg",
-            "cloud_cover": "1 okta"
-        }
-    },
-    "names_of_crops": [
-        "paddy",
-        "groundnut",
-        "cucurbits",
-        "chilli",
-        "mango",
-        "animal husbandry"
-    ],
-    "general_advisory": "Transplanting of vegetables should be done in afternoon hour to avoid high temperature. In case of ear cutting caterpillar incidence in paddy, spray Quinalphos or Chlorpyriphos. After harvesting, Blackgram and Greengram, dry the seeds until the optimum moisture content is attained. At the time of harvesting groundnut pods usually have moisture content around 40-50% and hence need to be dried under direct sunlight to bring moisture content below 10%. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. High temperature in day hours may lead to wilting in tomato and brinjal. Mulch coconut leaves around a coconut tree to reduce water loss.",
-    "crops_data": {
-        "paddy": {
-            "advisory": [
-                "To manage Gundi Bug spray Chlorpyriphos or Malathion.",
-                "If infestation of BPH and WBPH occur, spray Neem Based Pesticide or other suggested pesticides."
-            ]
-        },
-        "groundnut": {
-            "advisory": [
-                "Groundnut should be stored in polythene lined gunny bags with desiccant like fused Calcium Chloride."
-            ]
-        },
-        "cucurbits": {
-            "advisory": [
-                "To manage Downy Mildew disease in cucurbits spray Copper Hydroxide or other suggested fungicides."
-            ]
-        },
-        "chilli": {
-            "advisory": [
-                "To manage fruit rot and die back disease in chilli, spray Propineb or other suggested fungicides."
-            ]
-        },
-        "mango": {
-            "advisory": [
-                "To control mango hoppers, spray Imidacloprid or other suggested insecticides."
-            ]
-        },
-        "animal husbandry": {
-            "advisory": [
-                "During severe heat, provide treatment to animals to avoid reduction in growth rate and milk production."
-            ]
-        }
-    },
-    "date": "12-04-2024"
+   "weather_details": {
+      "01/06/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 30,
+         "rh_max": 85,
+         "rh_min": 54,
+         "wind_speed": 26,
+         "wind_direction": 201,
+         "cloud_cover": 4
+      },
+      "02/06/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 29,
+         "rh_max": 85,
+         "rh_min": 54,
+         "wind_speed": 25,
+         "wind_direction": 201,
+         "cloud_cover": 5
+      },
+      "03/06/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 82,
+         "rh_min": 48,
+         "wind_speed": 27,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "04/06/2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 80,
+         "rh_min": 43,
+         "wind_speed": 26,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "05/06/2024": {
+         "rainfall": 3,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 84,
+         "rh_min": 35,
+         "wind_speed": 26,
+         "wind_direction": 207,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "arhar",
+      "sugarcane",
+      "drumstick",
+      "chilli",
+      "brinjal",
+      "mango"
+   ],
+   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Apply 2 ton of well decomposed FYM during final land preparation. Provide clean and adequate water to the cattle. Allow them for grazing either in morning or in afternoon hour. Go for green manuring crops immediately after summer ploughing. Upland rice varieties like Khandagiri, Sahabhagi Dhan, Mandakini, etc. can be cultivated.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Good Quality Seed Priming: If using own harvested seeds, dissolve 1 kg salt in 10 litres of water for 10 kg of seed."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Improved varieties of Arhar: PRG-235, PRG 176, VL ARHAR1, T-Arhar",
+            "Seed treatment with Carbendazim 50 % WP @ 2g/kg of seeds before sowing."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Manage Grassy shoot disease by uprooting and disposing infected plants."
+         ]
+      },
+      "drumstick": {
+         "advisory": [
+            "Manage Pod borer infestation by spraying Cypermethrin at 15 days interval."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control infestation of mites by spraying recommended pesticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Nursery Management and Varietal Selection: Selecting new place for every season in the nursery bed."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control fruit fly attack by using fruit fly trap.",
+            "Spray borax for control of black tip and internal necrosis."
+         ]
+      }
+   },
+   "date": "31-05-2024"
 }
