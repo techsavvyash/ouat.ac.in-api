@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "01/06/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 30,
+         "rh_max": 85,
+         "rh_min": 54,
+         "wind_speed": 26,
+         "wind_direction": 201,
+         "cloud_cover": 4
+      },
+      "02/06/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 29,
+         "rh_max": 85,
+         "rh_min": 54,
+         "wind_speed": 25,
+         "wind_direction": 201,
+         "cloud_cover": 5
+      },
+      "03/06/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 82,
+         "rh_min": 48,
+         "wind_speed": 27,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "04/06/2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 80,
+         "rh_min": 43,
+         "wind_speed": 26,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "05/06/2024": {
+         "rainfall": 3,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 84,
+         "rh_min": 35,
+         "wind_speed": 26,
+         "wind_direction": 207,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "arhar",
+      "sugarcane",
+      "drumstick",
+      "chilli",
+      "brinjal",
+      "mango"
+   ],
+   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Apply 2 ton of well decomposed FYM during final land preparation. Provide clean and adequate water to the cattle. Allow them for grazing either in morning or in afternoon hour. Go for green manuring crops immediately after summer ploughing. Upland rice varieties like Khandagiri, Sahabhagi Dhan, Mandakini, etc. can be cultivated.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Good Quality Seed Priming: If using own harvested seeds, dissolve 1 kg salt in 10 litres of water for 10 kg of seed."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Improved varieties of Arhar: PRG-235, PRG 176, VL ARHAR1, T-Arhar",
+            "Seed treatment with Carbendazim 50 % WP @ 2g/kg of seeds before sowing."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Manage Grassy shoot disease by uprooting and disposing infected plants."
+         ]
+      },
+      "drumstick": {
+         "advisory": [
+            "Manage Pod borer infestation by spraying Cypermethrin at 15 days interval."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Control infestation of mites by spraying recommended pesticides."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Nursery Management and Varietal Selection: Selecting new place for every season in the nursery bed."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control fruit fly attack by using fruit fly trap.",
+            "Spray borax for control of black tip and internal necrosis."
+         ]
+      }
+   },
+   "date": "31-05-2024"
+}

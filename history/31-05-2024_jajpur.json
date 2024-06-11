@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "01-06-2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 28,
+         "rh_max": 80,
+         "rh_min": 45,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "02-06-2024": {
+         "rainfall": 3,
+         "t_max": 37,
+         "t_min": 28,
+         "rh_max": 82,
+         "rh_min": 40,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 5
+      },
+      "03-06-2024": {
+         "rainfall": 4,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 82,
+         "rh_min": 35,
+         "wind_speed": 22,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "04-06-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 77,
+         "rh_min": 21,
+         "wind_speed": 19,
+         "wind_direction": 207,
+         "cloud_cover": 3
+      },
+      "05-06-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 71,
+         "rh_min": 16,
+         "wind_speed": 18,
+         "wind_direction": 244,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "According to IMD, Bhubaneswar, thunderstorm with light rainfall is expected in the coming days. Make necessary arrangements for draining out excess water from crop fields in case of rain & give staking in creeping vegetable crop.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Instead of manual DSR followed by beush ening, farmers are advised to follow mechanized DSR cultivation with appropriate package of practices (Variety selection, Seed treatment, Nutrient management).",
+            "Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days.",
+            "Arrange good quality seeds of Dhanicha @12kg/acre as green manuring crop."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Mealy bug, Scale insect & other sucking pest can be controlled by spraying of Thiamethoxam @80g/acre.",
+            "To control early shot borer in sugarcane, foliar spray of Fipronil 5SC @400 ml/acre is advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "For timely planting of kharif vegetables like Brinjal & Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed.",
+            "To control Fruit and shoot borer in Brinjal, Tomato & Okra, Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "To control fruit fly attack in mango, use fruit fly trap.",
+            "Papaya - Drain out excess water from the root zone of plant. Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus.",
+            "Banana - Provide drainage. Stacking is done with bamboo and other type of sticks during the fruit development stage to protect the plant against wind and rainfall."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "To prepare fish pond, apply lime @40-60 kg/acre based on PH & alkalinity value of water. Maintain water level of 5 ft. in the grow out ponds."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Clean the shed & apply disinfectant to protect the animals from any disease outbreak."
+         ]
+      }
+   },
+   "date": "31-05-2024"
+}

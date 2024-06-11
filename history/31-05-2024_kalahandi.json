@@ -1,0 +1,110 @@
+{
+   "weather_details": {
+      "01-06-2024": {
+         "rainfall": 2,
+         "t_max": 44,
+         "t_min": 32,
+         "rh_max": 72,
+         "rh_min": 20,
+         "wind_speed": 12,
+         "wind_direction": 165,
+         "cloud_cover": 4
+      },
+      "02-06-2024": {
+         "rainfall": 3,
+         "t_max": 43,
+         "t_min": 31,
+         "rh_max": 58,
+         "rh_min": 25,
+         "wind_speed": 13,
+         "wind_direction": 206,
+         "cloud_cover": 5
+      },
+      "03-06-2024": {
+         "rainfall": 4,
+         "t_max": 43,
+         "t_min": 30,
+         "rh_max": 65,
+         "rh_min": 22,
+         "wind_speed": 13,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      },
+      "04-06-2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 28,
+         "rh_max": 54,
+         "rh_min": 24,
+         "wind_speed": 16,
+         "wind_direction": 216,
+         "cloud_cover": 4
+      },
+      "05-06-2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 48,
+         "rh_min": 18,
+         "wind_speed": 13,
+         "wind_direction": 210,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "pigeon pea",
+      "green gram",
+      "black gram",
+      "arhar",
+      "hybrid maize"
+   ],
+   "general_advisory": "Regular monitoring for incidence of insect pest should be done as high temperature favors to multiply insect population. Make arrangement for drip irrigation with organic mulch to reduce evaporation loss in standing vegetables and fruit orchard. Considering the forecast of high day temperature in few places, farmers are advised to provide frequent irrigation to the standing crops during evening or early morning hours and time of irrigation should be prolonged in conventional method. Farmers are advised to undertake soil test to know the soil fertility status of their crop field prior to land preparation for Kharif crops. In view of weather forecast farmers are advised to keep animals and birds indoors from 10 AM to 4 PM with provision of sufficient clean drinking water.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Farmers are advised to arrange certified seeds of paddy from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc.",
+            "Seed rate - 20kg/ac for transplanted paddy, 30 -40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding.",
+            "Suitable Varieties: Upland condition: Khandagiri, Sahabhagi, Jyotirmayee, Mandakini, Phalguni, Bandana, Anjali etc."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing should be completed by end of June to get higher yield. Arrange good quality seeds from reliable sources like AICRP on Cotton, OUAT and certified dealer etc.",
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Farmers can select Pigeon pea and green gram/black gram as intercrop @ 8:2 row proportions and 1:2 row proportions respectively.",
+            "Dibble the seed in lines @ one seed per peat at a depth of 3 -5cm and cover the seed with soil. Provide a spacing of 90 cm x 60 cm in normal planting and 60 cm x 10 cm for high density planting system."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Seed should be treated with Imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pest.",
+            "Seed rate -1kg/acre for normal planting and 5kg/acre for high density planting system."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Seed should be treated with Imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pest.",
+            "Seed rate -1kg/acre for normal planting and 5kg/acre for high density planting system."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing should be completed by the first fortnight of June to get higher yield.",
+            "Apply 2 -4 tonnes of FYM per acre at the time of final land preparation."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing can be done from June to first fortnight of July. However, if irrigation facility is available, early sowing i.e., 10 -15 days before onset of monsoon increases the productivity.",
+            "Apply 2 -4 tonnes of FYM per acre at the time of final land preparation."
+         ]
+      }
+   },
+   "date": "31-05-2024"
+}

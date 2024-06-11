@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "01/06/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 28,
+         "rh_max": 81,
+         "rh_min": 59,
+         "wind_speed": 31,
+         "wind_direction": 204,
+         "cloud_cover": 4
+      },
+      "02/06/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 82,
+         "rh_min": 57,
+         "wind_speed": 31,
+         "wind_direction": 202,
+         "cloud_cover": 5
+      },
+      "03/06/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 83,
+         "rh_min": 57,
+         "wind_speed": 32,
+         "wind_direction": 202,
+         "cloud_cover": 4
+      },
+      "04/06/2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 27,
+         "wind_direction": 204,
+         "cloud_cover": 4
+      },
+      "05/06/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 71,
+         "rh_min": 39,
+         "wind_speed": 14,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "arhar",
+      "sugarcane",
+      "drumstick",
+      "chilli",
+      "brinjal"
+   ],
+   "general_advisory": "Harvesting of summer rice and post harvesting operations of rabi crops are ongoing. Intercultural operations and top dressing of summer non-paddy crops are being carried out. Plant protection measures for various flowers are also in progress. Ensure clean water and adequate grazing time for cattle.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Use certified seeds for paddy cultivation.",
+            "Perform germination test before sowing seeds."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Use recommended seed rates for different varieties of arhar.",
+            "Perform proper seed treatment with recommended products."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Uproot and dispose of infected plants with grassy shoot disease.",
+            "Spray appropriate insecticides to manage Aphids."
+         ]
+      },
+      "drumstick": {
+         "advisory": [
+            "Spray Cypermethrin to manage pod borer infestation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Identify and manage mite infestation in chilli crops.",
+            "Spray recommended insecticides for mite control."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Select suitable varieties of brinjal for cultivation.",
+            "Prepare nursery beds properly for brinjal crops."
+         ]
+      }
+   },
+   "date": "31-05-2024"
+}

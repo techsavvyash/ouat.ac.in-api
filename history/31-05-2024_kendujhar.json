@@ -1,0 +1,132 @@
+{
+   "weather_details": {
+      "01-06-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 28,
+         "rh_max": 84,
+         "rh_min": 43,
+         "wind_speed": 14,
+         "wind_direction": 193,
+         "cloud_cover": 5
+      },
+      "02-06-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 83,
+         "rh_min": 33,
+         "wind_speed": 14,
+         "wind_direction": 171,
+         "cloud_cover": 6
+      },
+      "03-06-2024": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 87,
+         "rh_min": 22,
+         "wind_speed": 13,
+         "wind_direction": 160,
+         "cloud_cover": 5
+      },
+      "04-06-2024": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 61,
+         "rh_min": 20,
+         "wind_speed": 11,
+         "wind_direction": 225,
+         "cloud_cover": 3
+      },
+      "05-06-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 63,
+         "rh_min": 17,
+         "wind_speed": 11,
+         "wind_direction": 236,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "bitter gourd",
+      "chilli",
+      "brinjal",
+      "pointed gourd",
+      "mango",
+      "banana",
+      "cow",
+      "goat"
+   ],
+   "general_advisory": "The monsoon rain is in time this year as per IMD forecast. Prepare the field by cross ploughing for the cultivation of paddy and maize. Make bunds to store rainwater for paddy cultivation.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare paddy nursery for sowing in kharif season.",
+            "Collect high yielding varieties (HYV) of paddy seeds and soak them in water for 12 - 24 hours."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Prepare the field for maize sowing.",
+            "Sowing of maize can be done with one irrigation after 1 day of sowing.",
+            "Apply pre-emergence herbicide Atrazine 50 WP @ 500 g/ha at 3 days after sowing to manage weeds."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Sow the seeds or transplant the cuttings and apply FYM and vermicompost 10 cm away from the root.",
+            "Provide first irrigation after sowing or transplanting of the cuttings."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To manage Chilli thrips, spray Imidachloprid 17.8% SL @ 3 ml/10lt of water or Emamectin Benzoate 5% SG @ 4g/10lt of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Harvest the matured fruits and keep at safe places.",
+            "For fruit and shoot borer management in brinjal, spray Emamectin benzoate @ 4 g/10 lt of water.",
+            "For kharif season, Sowing of seeds can be done for transplanting at a later stage."
+         ]
+      },
+      "pointed gourd": {
+         "advisory": [
+            "Make drainage channel to remove excess water.",
+            "Cercospora Leaf Spot can be managed by applying Mancozeb @ 2 - 3 g/lt of water."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Spray Acephate 75 SP @ 1 g/lt to control mango hopper.",
+            "For controlling mango fruit fly, spray Malathion @ 2 ml/lt of water."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Prepare ring basin around the plant to store rainwater.",
+            "Spray Dimethoate 30 EC @ 2 ml/lt of water to control banana aphids.",
+            "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide clean drinking water to the animals.",
+            "Keep the cow shed clean and hygienic."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Graze the goats or provide them feed at regular intervals.",
+            "Consult the veterinary doctor if any diseases are seen."
+         ]
+      }
+   },
+   "date": "31-05-2024"
+}
