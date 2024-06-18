@@ -1,3 +1,144 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 5,
+         "t_max": 38,
+         "t_min": 28,
+         "rh_max": 54,
+         "rh_min": 19,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "16-06-2024": {
+         "rainfall": 2,
+         "t_max": 38,
+         "t_min": 28,
+         "rh_max": 51,
+         "rh_min": 22,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      },
+      "17-06-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 27,
+         "rh_max": 58,
+         "rh_min": 18,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "18-06-2024": {
+         "rainfall": 6,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 78,
+         "rh_min": 31,
+         "wind_speed": 15,
+         "wind_direction": 234,
+         "cloud_cover": 7
+      },
+      "19-06-2024": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 79,
+         "rh_min": 39,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "cowpea",
+      "lady finger",
+      "bitter gourd",
+      "brinjal",
+      "banana",
+      "guava",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "South west monsoon rain may commence from next 1 -2 weeks. Prepare the paddy nursery. Irrigate the crop. Prepare the field by cross ploughing for the cultivation of paddy and maize. Make bunds to store rain water for paddy cultivation.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Paddy nursery should be 10% of the whole cultivated paddy land. Eg. 1000 m2 nursery area is required for 1 ha land.",
+            "Make the field ready for puddling.",
+            "Collect high yielding varieties (HYV) varieties like Sahabhagi, Lalat, Kalachampa, MTU7029 etc. of paddy seeds and soak them in water for 12 -24 hours.",
+            "After soaking, cover the seeds under gunny bags to give warmth and it will germinate rapidly.",
+            "Make proper bunds to retain water in the field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Make proper irrigation channel to store water and remove excess stagnation of water.",
+            "Sowing of maize can be done with one irrigation after 1 day of sowing.",
+            "Apply pre-emergence herbicide Atrazine 50 WP @ 500 g/ha at 3 days after sowing to manage weeds.",
+            "Before sowing of the maize seeds, seed treatment with fungicides should be done.",
+            "50% N, full phosphorus and potash fertiliser should be applied to the crops.",
+            "Some of the earlier sown maize crops are in tasselling stage. In case of aphids infestation, spray Imidachloprid @ 2 ml/lt of water."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Sowing of seeds followed by one irrigation is must for its optimal growth.",
+            "Spray Imidachloprid 17.8% SL @ 2.5 ml/lt of water to manage Thrips, ants and other sucking pests.",
+            "Irrigate the crop regularly."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "Plough the land and add FYM @ 2.5 kg/acre.",
+            "Before sowing, treat the seeds with the Tricoderma viride @ 4 g/kg seeds.",
+            "For hybrids a seed rate of 2.5 kg/ha should be used with a spacing of 45 x 30 cm.",
+            "To manage Fusarium wilt in okra, treat the seeds with Mancozeb @ 3 g/kg of seeds."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Treat the seeds with Thiram @ 3 g/kg of seeds.",
+            "Sow the seeds and apply FYM and vermicompost 10 cm away from the root.",
+            "Provide first irrigation after sowing or transplanting of the cuttings."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "In raised nursery beds, sow the seeds at 10 cm apart.",
+            "Transplanting can be done 30 -35 days after sowing.",
+            "Sudden collapsing of the seedling is a symptom for damping off in nursery raising. To manage it, seed treatment with Agrosan or ceresin @ 2 g/kg of seeds is necessary."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Prepare ring basin around the plant to store rainwater.",
+            "Spray Dimethoate 30 EC @ 2 ml/lt of water to control banana aphids.",
+            "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves."
+         ]
+      },
+      "guava": {
+         "advisory": [
+            "Apply Chloropyriphos near the root zone of the plant to avoid the ants and other insects.",
+            "Make circular ring for irrigation to the crop."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Graze the goats or provide them feed at regular interval.",
+            "Consult the veterinary doctor if any diseases seen.",
+            "Provide drinking water regularly to the animals."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Mineral water should be provided to the poultry birds.",
+            "Consult the veterinary doctors for vaccinations of the birds."
+         ]
+      }
+   },
+   "date": "14-06-2024"
 }

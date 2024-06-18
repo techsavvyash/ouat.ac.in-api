@@ -1,3 +1,102 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "15/06/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 73,
+         "rh_min": 62,
+         "wind_speed": 30,
+         "wind_direction": 212,
+         "cloud_cover": 5
+      },
+      "16/06/2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 62,
+         "wind_speed": 28,
+         "wind_direction": 207,
+         "cloud_cover": 5
+      },
+      "17/06/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 77,
+         "rh_min": 65,
+         "wind_speed": 27,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "18/06/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 82,
+         "rh_min": 69,
+         "wind_speed": 28,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "19/06/2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 66,
+         "wind_speed": 29,
+         "wind_direction": 205,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "groundnut",
+      "yam",
+      "brinjal",
+      "okra",
+      "fishery"
+   ],
+   "general_advisory": "Prepare nursery bed and sowing may be done after monsoon showers in rainfed transplanted rice areas. For paddy cultivation, always use certified seeds. Mulching is advised to reduce the evaporation from soil in orchard crops. Incorporate well decomposed Farm Yard Manure or cow-dung @ 8 quintals /acre during the final land preparation in direct seeded rice. Seed Treatment is mandatory for maize to avoid insect infestation. Use suitable variety of groundnut for better results. Optimum time for yam planting is May to June. Damping off disease control is recommended for brinjal seedlings. Proper pest control measures are advised for okra.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Wet Nursery Field Preparation -Irrigation should be done in nursery field and puddle it 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 gram/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds. Apply light irrigations to the nursery area particularly in the evening so that the field remains wet and do not keep standing water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed Treatment - To avoid the infestation of Fall Army Worm seed treatment is mandatory that saves the plant from insect attack in the initial stages of crop growth. Treat 1-kg seeds with 4-ml Cyantraniliprole 19.8% + Thiomethoxam 19.8% FS."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use suitable variety of Groundnut like Devi (ICGV-91114), Kadri-6, Kadri-9, TG-37A, TAG-51, TAG-38, TAG-24, Smruti, CO-7, Dharani etc. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "May to June is the optimum time for yam planting. Grow suitable high yielding varieties of yam. Cut the yam into pieces and plant at recommended spacing. Apply well decomposed FYM and fertilizer as per recommendations."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Damping off disease control is essential for brinjal seedlings. Follow the recommended drenching process to protect the seedlings."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Proper pest control measures are crucial for okra to prevent infestation. Spray recommended pesticides at early stages of infestation."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal should be stocked in a certain ratio to increase benefits. Maintain the recommended density of fingerlings. Provide suitable feed and pond management practices for better growth."
+         ]
+      }
+   },
+   "date": "14-06-2024"
 }

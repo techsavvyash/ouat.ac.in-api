@@ -1,3 +1,110 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "05/06/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 44,
+         "rh_min": 19,
+         "wind_speed": 17,
+         "wind_direction": 238,
+         "cloud_cover": 3
+      },
+      "06/06/2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 25,
+         "rh_max": 39,
+         "rh_min": 19,
+         "wind_speed": 14,
+         "wind_direction": 207,
+         "cloud_cover": 3
+      },
+      "07/06/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 53,
+         "rh_min": 17,
+         "wind_speed": 20,
+         "wind_direction": 259,
+         "cloud_cover": 4
+      },
+      "08/06/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 26,
+         "rh_max": 47,
+         "rh_min": 15,
+         "wind_speed": 17,
+         "wind_direction": 238,
+         "cloud_cover": 5
+      },
+      "09/06/2024": {
+         "rainfall": 0,
+         "t_max": 43,
+         "t_min": 26,
+         "rh_max": 43,
+         "rh_min": 12,
+         "wind_speed": 17,
+         "wind_direction": 244,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "summer pulses",
+      "ragi",
+      "maize",
+      "ginger",
+      "turmeric",
+      "yam",
+      "vegetables"
+   ],
+   "general_advisory": "In case of rain received, go for summer cultivation. The mechanized cultivation will invert the soil and pest and pathogen will be exposed to the sun and get killed. Go for drip irrigation system in Orchard which saves water and saves from heat. Sprinkling irrigation method of irrigation reduces the effect of high temperature. Farmers are advised to avoid exposure outside during the peak heat hours of the day.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prepare a well cultivated dry bed for paddy transplantation."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Choose good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties like Klinga Maize, Prabal, etc @ 6 kg/ac. Apply basal dose of 8:16:16 kg NPK/ac after final land preparation."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6 -8 q/ac. Treat the seeds before planting in the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Sow good varieties like Roma, Suroma, Ranga and Rashmi. Seed rate is 8 -10 q/ac. The seed material should contain 2 -3 eyes and of 20 -25g per piece."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8 -10 q/ac. The seed material should be of 150 -200 g. Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre.",
+            "Due to weather, there may be attack of Mites, to manage this spray Dicofol @ 3 ml/liter of water.",
+            "In Cucurbits, prepare poison baits for white flies by mixing 2 ml Malathion and 20 g Jaggery in 1 liter of water and keep the baits near the plants."
+         ]
+      }
+   },
+   "date": "04-06-2024"
 }

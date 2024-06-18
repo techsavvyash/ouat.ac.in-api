@@ -1,3 +1,105 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 3,
+         "t_max": 39,
+         "t_min": 28,
+         "rh_max": 54,
+         "rh_min": 28,
+         "wind_speed": 24,
+         "wind_direction": 244,
+         "cloud_cover": 5
+      },
+      "16-06-2024": {
+         "rainfall": 2,
+         "t_max": 39,
+         "t_min": 28,
+         "rh_max": 53,
+         "rh_min": 30,
+         "wind_speed": 26,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "17-06-2024": {
+         "rainfall": 3,
+         "t_max": 38,
+         "t_min": 27,
+         "rh_max": 57,
+         "rh_min": 33,
+         "wind_speed": 28,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "18-06-2024": {
+         "rainfall": 5,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 78,
+         "rh_min": 43,
+         "wind_speed": 24,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "19-06-2024": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 47,
+         "wind_speed": 20,
+         "wind_direction": 207,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "According to MC, Bhubaneswar forecast, district may receive very light to light rain at some places in next 5 days, provide needful irrigation to crops and vegetables.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Prepare well pulverised nursery bed for Kharif Rice. Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed.",
+            "Instead of manual DSR followed by beushaning the farmers are advised to follow mechanized DSR cultivation with appropriate package of practices (Variety selection, Seed treatment, Nutrient management).",
+            "Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days.",
+            "Arrange good quality seeds of @12kg/acre as green manuring crop."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Wrapping and propping should be done when the crop becomes 4-5 months old in medium and late duration varieties.",
+            "To control early shot borer in sugarcane foliar spray of Fipronil 5SC @ 400 ml/acre is advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "For timely planting of kharif vegetables like Brinjal &Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed.",
+            "To control different viral diseases in bitter gourd, cucumber and other cuucurbits crop apply 120 ml Abamectin or 30 gm Fipronil 80 WG per acre.",
+            "To control Fruit and shoot borer in Brinjal, Tomato & Okra, Spray Neem based pesticide 1500ppm @ 600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "To control fruit fly attack in mango, use of fruit fly trap should be advised.",
+            "Papaya - Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Considering high day temperature, water depth in the fish pond should be raised from 0.8 m to 1.0 m by adding fresh water.",
+            "Reduce the quantity of feed by 10-20% compared to normal condition and make provision for supplying cool water into the pond, so that the temperature remains in the range of 13-18°C for as long as possible."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "If the animals have not yet been vaccinated against FMD, HaemorrhagicSepticaemia, Black Quarter, Enterotoxemia etc., these must be done.",
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      }
+   },
+   "date": "14-06-2024"
 }

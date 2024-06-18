@@ -1,3 +1,199 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "03/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 57,
+         "rh_min": 13,
+         "wind_speed": 12,
+         "wind_direction": 205,
+         "cloud_cover": 0
+      },
+      "04/04/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 15,
+         "wind_speed": 11,
+         "wind_direction": 180,
+         "cloud_cover": 1
+      },
+      "05/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 70,
+         "rh_min": 23,
+         "wind_speed": 15,
+         "wind_direction": 207,
+         "cloud_cover": 1
+      },
+      "06/04/2024": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 27,
+         "rh_max": 67,
+         "rh_min": 15,
+         "wind_speed": 13,
+         "wind_direction": 210,
+         "cloud_cover": 0
+      },
+      "07/04/2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 55,
+         "rh_min": 10,
+         "wind_speed": 12,
+         "wind_direction": 242,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "summer pulses",
+      "oilseed",
+      "vegetables",
+      "mustard",
+      "groundnut",
+      "mung",
+      "biri",
+      "kulthi",
+      "sugarcane",
+      "maize",
+      "tomato",
+      "brinjal",
+      "coconut",
+      "vegetable seedlings",
+      "fingerlings",
+      "black gram",
+      "green gram",
+      "early shoot borer",
+      "shoot and fruit borer",
+      "okra",
+      "onion",
+      "mango"
+   ],
+   "general_advisory": "In paddy crop, Panicle initiation, Panicle emergence, flowering and milking stages are the critical stages. Water deficit during these stages should be avoided. Cover the rows with dry leaves in Sugarcane. Apply sprinkler irrigation to bring down the heat effect. Conserve water by irrigating alternate rows. High temperature increases the water requirement of maize crop. Spread polythene in irrigation channels to save water wastage. Apply specific pesticides for tomato, brinjal, and other crops as mentioned. Consider different management practices for various crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Water management is crucial at critical stages.",
+            "Use specific pesticides for stem borer and blast disease."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "Follow recommended sowing practices."
+         ]
+      },
+      "oilseed": {
+         "advisory": [
+            "Ensure proper harvesting techniques."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Pay attention to specific vegetable requirements."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Ensure adequate moisture levels for good growth."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Complete harvesting on time."
+         ]
+      },
+      "mung": {
+         "advisory": [
+            "Monitor crop conditions regularly."
+         ]
+      },
+      "biri": {
+         "advisory": [
+            "Harvest according to maturity."
+         ]
+      },
+      "kulthi": {
+         "advisory": [
+            "Monitor pest infestations."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Take preventive measures against shoot borers."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Increase irrigation based on high temperatures."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply specific pest control measures."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Install pheromone traps for effective management."
+         ]
+      },
+      "coconut": {
+         "advisory": [
+            "Mulch coconut leaves to reduce water loss."
+         ]
+      },
+      "vegetable seedlings": {
+         "advisory": [
+            "Protect seedlings from excessive heat."
+         ]
+      },
+      "fingerlings": {
+         "advisory": [
+            "Monitor water temperature for fingerlings."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Implement caterpillar management practices."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Monitor pest movements for effective management."
+         ]
+      },
+      "early shoot borer": {
+         "advisory": [
+            "Adopt frequent irrigation to control infestation."
+         ]
+      },
+      "shoot and fruit borer": {
+         "advisory": [
+            "Use pheromone traps and specific pesticides for control."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat seeds for prevention of whitefly infestation."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Implement proper post-harvest practices."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Control mango hoppers using recommended pesticides."
+         ]
+      }
+   },
+   "date": "02-04-2024"
 }

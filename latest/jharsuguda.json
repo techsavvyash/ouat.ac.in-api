@@ -1,3 +1,96 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 2,
+         "t_max": 42,
+         "t_min": 28,
+         "rh_max": 56,
+         "rh_min": 20,
+         "wind_speed": 21,
+         "wind_direction": 214,
+         "cloud_cover": 5
+      },
+      "16-06-2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 45,
+         "rh_min": 22,
+         "wind_speed": 22,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "17-06-2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 20,
+         "wind_direction": 252,
+         "cloud_cover": 4
+      },
+      "18-06-2024": {
+         "rainfall": 3,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 76,
+         "rh_min": 27,
+         "wind_speed": 19,
+         "wind_direction": 236,
+         "cloud_cover": 6
+      },
+      "19-06-2024": {
+         "rainfall": 5,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 40,
+         "wind_speed": 20,
+         "wind_direction": 257,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo",
+      "poultry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is normal and both maximum and minimum temperature is also expected to be normal for Odisha state during 19th to 25th June, 2024 and there is a chance of commencement of South West Monsoon in the second half of upcoming week, farmers are advised to take necessary action towards kharif crop cultivation. Prevailing weather condition is favorable for mealy bug attack in all types of crops so its regular monitoring should be advised.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "Farmers are advised to make necessary arrangements to prepare the field for nursery sowing of Paddy because there is a chance of commencement of monsoon with some amount of rainfall in the second half of the upcoming week.",
+            "Some of the improved rice varieties such as Khandagiri, Sahabhagi Dhan, Mandakini, Naveen etc., for upland, MTU 1156, MTU 1153, Lalat, Improved Lalat, MTU-1001, MTU-1010 for medium land and Pooja, Pratikshya, Swarna, Swarna Sub-1, Mrinalini, Hashanta, Rani Dhan, MTU-1064 etc. for low land condition should be recommended. The seed should be purchased from any authentic source such as Research station, KVK, Agriculture office etc.",
+            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2g/kg of seeds or Trichoderma @ 10 g/kg of seeds."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Farmers should start land preparation for cultivation of cotton crop.",
+            "Seed rate: 800-1500 g per acre.",
+            "Seed treatment: Before sowing, seed should be treated with Imidacloprid 70 WG @ 7 g/kg of seed for protection against sucking pests."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Prevailing periodically cloudy and sunny condition is favourable for sucking insect pest attack in vegetable crops so its regular monitoring should be advised. If an attack of those insects is noticed, then spraying of Thiamethoxam 25% WG @ 0.2-0.3g or Imidacloprid 17.8% SL @ 0.3ml per liter of water should be advised.",
+            "As there is a chance of occurrence of rainfall is expected in upcoming days, farmers are advised to take proper care while conducting spraying operations."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Deworming and vaccination of animal against FMD, HS, and BQ should be ensured because with the commencement of the monsoon (during the rainy season) it spreads rapidly among animals."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "During the rainy season, make provision to ensure proper ventilation by allowing an opening of 1-2 ft at the top of side curtains during the day and the side walls of the empty shed should be completely covered with polythene curtains. The drainage ditch around the shed should be clear to avoid insect pest attack and in the roofs, the side overhangs should be minimum 3 to 4 ft to prevent the entry of direct rainwater into the shed.",
+            "Deworming and vaccination of poultry birds against Ranikhet disease must be ensured."
+         ]
+      }
+   },
+   "date": "14-06-2024"
 }

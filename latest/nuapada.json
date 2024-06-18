@@ -1,3 +1,88 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 4,
+         "t_max": 38,
+         "t_min": 27,
+         "rh_max": 63,
+         "rh_min": 25,
+         "wind_speed": 20,
+         "wind_direction": 270,
+         "cloud_cover": 6
+      },
+      "16-06-2024": {
+         "rainfall": 3,
+         "t_max": 39,
+         "t_min": 27,
+         "rh_max": 57,
+         "rh_min": 31,
+         "wind_speed": 16,
+         "wind_direction": 252,
+         "cloud_cover": 6
+      },
+      "17-06-2024": {
+         "rainfall": 4,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 69,
+         "rh_min": 28,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "18-06-2024": {
+         "rainfall": 7,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 66,
+         "rh_min": 37,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "19-06-2024": {
+         "rainfall": 10,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 40,
+         "wind_speed": 13,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize"
+   ],
+   "general_advisory": "Make necessary arrangements for field preparation as monsoon has already entered in our state and light rainfall may receive towards the end of the week. Farmers are advised to provide necessary irrigation to the standing crops and keep your field free from weeds. Regular monitoring for incidence of insect pests should be done and application of pesticide should be done by observing the weather forecast. Farmers are advised to undertake soil test to know the soil fertility status of their crop field prior to land preparation for Kharif crops. Conserve rainwater for utilizing in land preparation by making bund and clogging the pores inside the field.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Farmers are advised to arrange certified seeds of paddy from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc.",
+            "Seed rate : 20kg/ac for transplanted paddy, 30 -40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing should be completed by end of June to get higher yield. Arrange good quality seeds from reliable sources like AICRP on Cotton, OUAT, and certified dealer etc.",
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing should be completed by the end of June to get higher yield.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation"
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing can be done from June to the first fortnight of July. However, if irrigation facility is available, early sowing i.e., 10 -15 days before the onset of monsoon increases productivity.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation"
+         ]
+      }
+   },
+   "date": "14-06-2024"
 }

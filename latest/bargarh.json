@@ -1,3 +1,77 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 1,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 56,
+         "rh_min": 19,
+         "wind_speed": 23,
+         "wind_direction": 214,
+         "cloud_cover": 5
+      },
+      "16-06-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 50,
+         "rh_min": 25,
+         "wind_speed": 22,
+         "wind_direction": 252,
+         "cloud_cover": 4
+      },
+      "17-06-2024": {
+         "rainfall": 0,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 57,
+         "rh_min": 21,
+         "wind_speed": 21,
+         "wind_direction": 251,
+         "cloud_cover": 4
+      },
+      "18-06-2024": {
+         "rainfall": 4,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 31,
+         "wind_speed": 17,
+         "wind_direction": 216,
+         "cloud_cover": 5
+      },
+      "19-06-2024": {
+         "rainfall": 5,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 76,
+         "rh_min": 44,
+         "wind_speed": 19,
+         "wind_direction": 270,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "cotton",
+      "vegetable crops"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is normal and both maximum and minimum temperature is also expected to be normal for Odisha state during 19th to 25th June, 2024 and there is a chance of commencement of South West Monsoon in the second half of the upcoming week, farmers are advised to take necessary action towards kharif crop cultivation. Prevailing weather condition is favorable for mealy bug attack in all types of crops so its regular monitoring should be advised.",
+   "crops_data": {
+      "cotton": {
+         "advisory": [
+            "Farmers should start land preparation for cultivation of cotton crop.",
+            "Seed rate: 800-1500 g per acre.",
+            "Seed treatment: Before sowing, seed should be treated with imidacloprid 70 WG @ 7 g/kg of seed for protection against sucking pests.",
+            "Spacing for normal varieties: 90 × 45-60 cm and for hybrid it should be 90-120 × 90 cm.",
+            "Fertilizer Application: For Hybrid varieties 48 kg Nitrogen, 24 kg each Phosphorus and Potash whereas 32 kg Nitrogen, 16 kg each Phosphorus and Potash for normal varieties should be recommended. All Phosphorus and Potash and 1/4th of Nitrogen should be applied as basal and the rest amount of nitrogen should be applied in 2 splits."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Prevailing periodically cloudy and sunny condition is favorable for sucking insect pest attack in vegetable crops so its regular monitoring should be advised. If attack of those insects is noticed, then spraying of Thiamethoxam 25% WG @ 0.2-0.3g or Imidacloprid 17.8 % SL @ 0.3ml per liter of water should be advised.",
+            "As there is a chance of occurrence of rainfall is expected in upcoming days, farmers are advised to take proper care while conducting spraying operations."
+         ]
+      }
+   },
+   "date": "14-06-2024"
 }

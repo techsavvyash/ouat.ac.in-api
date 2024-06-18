@@ -143,3 +143,7 @@ ERROR:root:Error processing PDF for puri: Error code: 429 - {'error': {'message'
 ERROR:root:Error processing PDF for sundargarh: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 ERROR:root:Error processing PDF for koraput: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
 ERROR:root:Error processing PDF for jharsuguda: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+ERROR:root:Error downloading PDF: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+ERROR:root:Error downloading PDF for koraput
+ERROR:root:Error downloading PDF: Invalid URL '': No scheme supplied. Perhaps you meant https://?
+ERROR:root:Error downloading PDF for nabarangapur

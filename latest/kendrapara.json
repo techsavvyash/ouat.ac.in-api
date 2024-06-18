@@ -1,3 +1,102 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "15/06/2024": {
+         "rainfall": 2,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 58,
+         "rh_min": 31,
+         "wind_speed": 30,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "16/06/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 68,
+         "rh_min": 36,
+         "wind_speed": 30,
+         "wind_direction": 212,
+         "cloud_cover": 4
+      },
+      "17/06/2024": {
+         "rainfall": 3,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 65,
+         "rh_min": 42,
+         "wind_speed": 26,
+         "wind_direction": 207,
+         "cloud_cover": 5
+      },
+      "18/06/2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 46,
+         "wind_speed": 28,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      },
+      "19/06/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 71,
+         "rh_min": 44,
+         "wind_speed": 17,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "groundnut",
+      "yam",
+      "brinjal",
+      "okra",
+      "carp"
+   ],
+   "general_advisory": "Prepare nursery bed and sowing may be done after monsoon showers in rainfed transplanted rice areas. For one-acre area of paddy transplanting, 400 m2 (10 Decimal) size of land is required for nursery raising. To avoid ants, during nursery preparation, apply Dust Chloropyriphos powder around the nursery bed. For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Mulching is advised to reduce the evaporation from soil in orchard crops. Cover the freshly prepared vegetable nursery with polythene or with straw to avoid high temperature. Incorporate well decomposed Farm Yard Manure or cow-dung @ 8 quintals /acre during the final land preparation in direct seeded rice.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Wet Nursery Field Preparation - Irrigation should be done in nursery field and puddle it 2-3 times followed by planking. Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP and 1 kg of Zinc sulphate during last puddling. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 gram/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds. Apply light irrigations to the nursery area particularly in the evening so that the field remains wet and do not keep standing water."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed Treatment - To avoid the infestation of Fall Army Worm seed treatment is mandatory that saves the plant from insect attack in the initial stages of crop growth. Treat 1-kg seeds with 4-ml Cyantraniliprole19.8% +Thiomethoxam19.8% FS."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use suitable variety of Groundnut like Devi (ICGV-91114), Kadri-6, Kadri-9, TG-37A, TAG-51, TAG-38, TAG-24, Smruti, CO-7, Dharani etc. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "May to June is the optimum time for yam planting. Grow suitable high yielding varieties of yam like Local variety: Shreekirti, Shreerupa, Hatikhoj, Shreeshilpi, Small yam: Shreelata, Shreekala. White yam: Shreesubhra, Shreepriya, Shreedhanya. 8-10 quintals yam required for planting in one acre. Cut the yam into pieces of 150-200 g each. Dig out 1.5 ft. dia and 1.5ft deep holes at 3X3 ft spacing. Apply 5 tons FYM during final land preparation. Apply full P of the recommended fertilizer dose of 32:24:32 kg NPK/acre as basal. Plant the seed material at 5-10 cm sowing depth. Cover the beds with straw mulch of 5 cm height."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Damping off disease - To control damping off disease of brinjal seedlings in the nursery, drench the bed soil with solution of 20g Metalaxyl 4%+manconzeb 64% in 10 litre water. The brinjal seedlings become ready for transplanting after 25-30 days of sowing. In the evening of one day before uprooting seedlings for transplanting, drench the nursery bed soil with a solution made of 25 g Copper oxychloride and 1 g Streptocycline dissolved in 10 litre of water."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "There are chances of sucking pest like aphids, Jassids, thrips and whiteflies in Okra. At early stage of infestation spray neem-based pesticide (Neem Oil 1500 PPM @ 600 ml/acre by mixing it in 200 litre of water. Spray Thiamethoxam 25 % WG @ 40 g/acre or Acetamiprid 20 % SP @ 50 g /acre or Tolfenpyrad 15 % EC @ 400 ml/acre by mixing it in 200 litre of water."
+         ]
+      },
+      "carp": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in the same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
+         ]
+      }
+   },
+   "date": "14-06-2024"
 }

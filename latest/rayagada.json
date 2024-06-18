@@ -1,3 +1,78 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "2024-06-01": {
+         "rainfall": 2,
+         "t_max": 40,
+         "t_min": 28,
+         "rh_max": 86,
+         "rh_min": 33,
+         "wind_speed": 10,
+         "wind_direction": 167,
+         "cloud_cover": 5
+      },
+      "2024-06-02": {
+         "rainfall": 4,
+         "t_max": 40,
+         "t_min": 28,
+         "rh_max": 75,
+         "rh_min": 34,
+         "wind_speed": 10,
+         "wind_direction": 193,
+         "cloud_cover": 6
+      },
+      "2024-06-03": {
+         "rainfall": 5,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 32,
+         "wind_speed": 10,
+         "wind_direction": 202,
+         "cloud_cover": 5
+      },
+      "2024-06-04": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 68,
+         "rh_min": 30,
+         "wind_speed": 13,
+         "wind_direction": 225,
+         "cloud_cover": 3
+      },
+      "2024-06-05": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 11,
+         "wind_direction": 210,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "brinjal",
+      "banana",
+      "tomato"
+   ],
+   "general_advisory": "Go for ploughing at places receiving soaking rainfall to reduce weed infestation, to destroy eggs and larvae of hibernated soil insects, and increase soil profile recharge. Staking should be given in banana plants to avoid lodging. Protect the mango in trees by netting from heavy wind.",
+   "crops_data": {
+      "brinjal": {
+         "advisory": [
+            "For Fruit and Shoot borer, spray Lambda-Cyhalothrin 5 % EC @ 300 ml/ha or Novaluron 10% EC 500 ml/ha or Spinosad 45% SC @ 187.5 ml/ha or Thiodicarb 75 % WP @ 625-1000gm/ha mix with 500 litres of water."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To manage Panama wilt, select disease-free planting material and resistant cultivar like Bantal, Robusta, Champa, Kabuli etc. Banana suckers should be dipped with a solution of Carbendazim @ 10-gram/10-litre of water before planting followed by bimonthly drenching of soil around the pseudostem starting from 5 months after planting."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To prevent from wilting or partial wilting in tomato, apply Neem or Karanjaa cake. And spray (basal + foliar) Tebuconazole fungicide @ 1ml/liter."
+         ]
+      }
+   },
+   "date": "31-05-2024"
 }
