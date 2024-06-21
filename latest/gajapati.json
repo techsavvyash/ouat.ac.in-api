@@ -1,52 +1,52 @@
 {
    "weather_details": {
-      "2024-06-12": {
-         "rainfall": 2,
-         "t_max": 43,
-         "t_min": 29,
-         "rh_max": 83,
-         "rh_min": 22,
-         "wind_speed": 8,
-         "wind_direction": 198,
-         "cloud_cover": 7
-      },
-      "2024-06-13": {
-         "rainfall": 2,
-         "t_max": 41,
-         "t_min": 29,
-         "rh_max": 85,
-         "rh_min": 27,
-         "wind_speed": 10,
-         "wind_direction": 207,
-         "cloud_cover": 7
-      },
-      "2024-06-14": {
-         "rainfall": 0,
-         "t_max": 41,
-         "t_min": 29,
-         "rh_max": 78,
-         "rh_min": 26,
-         "wind_speed": 12,
-         "wind_direction": 225,
-         "cloud_cover": 7
-      },
-      "2024-06-15": {
-         "rainfall": 0,
+      "2024-06-19": {
+         "rainfall": 3,
          "t_max": 41,
          "t_min": 28,
-         "rh_max": 52,
-         "rh_min": 20,
-         "wind_speed": 13,
-         "wind_direction": 259,
-         "cloud_cover": 8
+         "rh_max": 85,
+         "rh_min": 27,
+         "wind_speed": 9,
+         "wind_direction": 248,
+         "cloud_cover": 5
       },
-      "2024-06-16": {
+      "2024-06-20": {
          "rainfall": 5,
-         "t_max": 42,
+         "t_max": 40,
          "t_min": 27,
-         "rh_max": 77,
-         "rh_min": 29,
-         "wind_speed": 13,
+         "rh_max": 74,
+         "rh_min": 38,
+         "wind_speed": 8,
+         "wind_direction": 243,
+         "cloud_cover": 5
+      },
+      "2024-06-21": {
+         "rainfall": 6,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 65,
+         "wind_speed": 6,
+         "wind_direction": 244,
+         "cloud_cover": 6
+      },
+      "2024-06-22": {
+         "rainfall": 10,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 76,
+         "rh_min": 44,
+         "wind_speed": 8,
+         "wind_direction": 270,
+         "cloud_cover": 7
+      },
+      "2024-06-23": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 84,
+         "rh_min": 61,
+         "wind_speed": 5,
          "wind_direction": 270,
          "cloud_cover": 8
       }
@@ -54,14 +54,10 @@
    "names_of_crops": [
       "rice",
       "cotton",
-      "mango",
-      "okra/ ladyfinger",
-      "menacinakahi",
-      "chilli",
       "goat",
       "common carp"
    ],
-   "general_advisory": "The mean maximum daily temperature was 39.0°C and the mean minimum daily temperature was 25.4°C of the Gajapati district during the last week. The district received 12.6 mm of rainfall during the last week. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as far as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over-aged seedlings if transplanted late.",
+   "general_advisory": "The mean maximum daily temperature was 39.1°C and the mean minimum daily temperature was 27.6°C of the Gajapati district during the last week. The district received 06.9 mm of rainfall during the last week. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
    "crops_data": {
       "rice": {
          "advisory": [
@@ -73,36 +69,16 @@
             "After monsoon rain fall go for ploughing. Plough the field with mould board plough or disc plough for deep ploughing. Keep the field clean. Apply 2 tonne of compost during last ploughing. Purchase suitable hybrid seeds and fertilizers from licenced dealer . Avoid growing longer duration hybrids in Rainfed area."
          ]
       },
-      "mango": {
-         "advisory": [
-            "Harvesting and ripening of fruits. Hot water treatment of mango, if needed by dipping fruits in lukewarm water (48°C) for 1 hr to manage anthracnose and fruit fly . Management of stemborer by cleaning the affected stem and killing of larvae. Pit digging 1mX1mX1m and planting of saplings."
-         ]
-      },
-      "okra/ ladyfinger": {
-         "advisory": [
-            "There are chances of infestation of shoot and fruit borer in Okra. The larvae of okra shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds..."
-         ]
-      },
-      "menacinakahi": {
-         "advisory": [
-            "There are chances of infestation of mites in chili crop. Initial symptoms of severely infested plants are sudden downward curling and crinkling of leaves. Petiole in a few cases becomes elongated and later they stop growing and die. To manage infestation of mites in chili spray Propargite 57% EC..."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "There are chances of infestation of mites in chili crop. Initial symptoms of severely infested plants are sudden downward curling and crinkling of leaves. Petiole in a few cases becomes elongated and later they stop growing and die. To manage infestation of mites in chili spray Propargite 57% EC..."
-         ]
-      },
       "goat": {
          "advisory": [
-            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The specialty of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches..."
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
          ]
       },
       "common carp": {
          "advisory": [
-            "Carp such as Rohu, Catla and Mrigal, which grow rapidly , should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally , a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and superphosphate should be applied to increase pond quality..."
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
          ]
       }
    },
-   "date": "11-06-2024"
+   "date": "18-06-2024"
 }

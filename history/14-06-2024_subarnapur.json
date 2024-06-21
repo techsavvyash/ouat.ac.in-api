@@ -1,0 +1,94 @@
+{
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 3,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 54,
+         "rh_min": 18,
+         "wind_speed": 22,
+         "wind_direction": 270,
+         "cloud_cover": 6
+      },
+      "16-06-2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 49,
+         "rh_min": 24,
+         "wind_speed": 21,
+         "wind_direction": 252,
+         "cloud_cover": 4
+      },
+      "17-06-2024": {
+         "rainfall": 2,
+         "t_max": 39,
+         "t_min": 25,
+         "rh_max": 60,
+         "rh_min": 21,
+         "wind_speed": 21,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "18-06-2024": {
+         "rainfall": 3,
+         "t_max": 37,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 36,
+         "wind_speed": 15,
+         "wind_direction": 214,
+         "cloud_cover": 6
+      },
+      "19-06-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 38,
+         "wind_speed": 16,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo",
+      "poultry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is normal and both maximum and minimum temperature is also expected to be normal for Odisha state during 19th to 25th June, 2024 and there is a chance of commencement of South West Monsoon in the second half of the upcoming week, farmers are advised to take necessary action towards kharif crop cultivation. Prevailing weather condition is favorable for mealy bug attack in all types of crops so its regular monitoring should be advised.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "Farmers are advised to make necessary arrangements to prepare field for nursery sowing of Paddy because there is a chance of commencement of monsoon with some amount of rainfall in the second half of the upcoming week.",
+            "Some of the improved rice varieties should be recommended, seed treatment should be done before sowing."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Farmers should start land preparation for cultivation of cotton crop, seed treatment and spacing recommendations should be followed.",
+            "Fertilizer application guidelines should be adhered to for both hybrid and normal varieties."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Regular monitoring for sucking insect pests attack is advised, spraying operations with specific pesticides should be conducted with care considering the expected rainfall.",
+            "Proper care should be taken during spraying operations."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Deworming and vaccination of animals against FMD, HS, and BQ should be ensured due to the commencement of monsoon."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Proper ventilation measures should be taken during the rainy season for poultry sheds.",
+            "Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
+         ]
+      }
+   },
+   "date": "14-06-2024"
+}

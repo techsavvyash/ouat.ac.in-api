@@ -1,65 +1,79 @@
 {
    "weather_details": {
-      "15-06-2024": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 66,
-         "rh_min": 26,
-         "wind_speed": 13,
-         "wind_direction": 248,
-         "cloud_cover": 7
-      },
-      "16-06-2024": {
-         "rainfall": 4,
-         "t_max": 33,
-         "t_min": 22,
-         "rh_max": 59,
+      "19-06-2024": {
+         "rainfall": 1,
+         "t_max": 39,
+         "t_min": 26,
+         "cloud_cover": 4,
+         "rh_max": 81,
          "rh_min": 28,
          "wind_speed": 13,
-         "wind_direction": 248,
-         "cloud_cover": 5
+         "wind_direction": 216
       },
-      "17-06-2024": {
+      "20-06-2024": {
          "rainfall": 4,
-         "t_max": 34,
+         "t_max": 38,
          "t_min": 21,
-         "rh_max": 74,
-         "rh_min": 30,
-         "wind_speed": 13,
-         "wind_direction": 244,
-         "cloud_cover": 6
-      },
-      "18-06-2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 21,
-         "rh_max": 83,
-         "rh_min": 55,
-         "wind_speed": 7,
-         "wind_direction": 202,
-         "cloud_cover": 7
-      },
-      "19-06-2024": {
-         "rainfall": 15,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 90,
-         "rh_min": 39,
+         "cloud_cover": 6,
+         "rh_max": 70,
+         "rh_min": 33,
          "wind_speed": 10,
-         "wind_direction": 257,
-         "cloud_cover": 8
+         "wind_direction": 246
+      },
+      "21-06-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 24,
+         "cloud_cover": 7,
+         "rh_max": 78,
+         "rh_min": 63,
+         "wind_speed": 9,
+         "wind_direction": 243
+      },
+      "22-06-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 24,
+         "cloud_cover": 7,
+         "rh_max": 83,
+         "rh_min": 47,
+         "wind_speed": 10,
+         "wind_direction": 251
+      },
+      "23-06-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 23,
+         "cloud_cover": 7,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 243
       }
    },
    "names_of_crops": [
+      "rice",
+      "mango",
       "maize",
       "turmeric",
-      "chilli",
-      "rice",
-      "cattle"
+      "fishery"
    ],
-   "general_advisory": "Seeing the rainfall event, the spraying of chemicals and pesticides should be delayed otherwise it will be washed away. Sowing of maize crop should be started. Seeing the onset of monsoon events, prepare the nursery beds with raised bed method. Weed infestation may be seen by the light shower of rainfall, so ploughing with power-tiller or tractor to reduce weed infestation. Do not let the cattle roam around in the mid-day and during lightning. The light rainfall would not be enough for the seed bed preparation and subsequent transplanting, so preserve the rainwater accordingly. Cover the crop with leaf mulch to prevent weed growth and to conserve moisture.",
+   "general_advisory": "The light rainfall would not be enough for the seed bed preparation and subsequent transplanting, so preserve the rain water accordingly.",
    "crops_data": {
+      "rice": {
+         "advisory": [
+            "Take small to medium duration varieties, so that water scarcity at the later stage can be avoided.",
+            "Rice nursery beds should be prepared for seeding preparation in rice.",
+            "Before nursery sowing, treat the seeds with Carbendazim or Mancozeb @2gram/kg of seed."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "For storage of mango, use rigid containers that can withstand stacking without getting deformed.",
+            "For increasing the shelf life, fruits are stored at low temperature and high humidity.",
+            "Pre cool the fruits to required temperature before storing at low temperature."
+         ]
+      },
       "maize": {
          "advisory": [
             "Sowing",
@@ -74,26 +88,13 @@
             "The mulching will help in moisture conservation and decrease the weed intensity."
          ]
       },
-      "chilli": {
+      "fishery": {
          "advisory": [
-            "Disease - chilli bacterial leaf spot",
-            "Spray mancozeb @ 2 g/l or copper oxychloride @ 2.5 g/l.",
-            "Field sanitation is also important."
-         ]
-      },
-      "rice": {
-         "advisory": [
-            "Rice nursery beds should be prepared for seeding preparation in rice.",
-            "Before nursery sowing, treat the seeds with Carbendazim or Mancozeb @2gram/kg of seed."
-         ]
-      },
-      "cattle": {
-         "advisory": [
-            "Protect the cattle from scorching heat and during thunderstorm lightning, don’t let them roam around.",
-            "Keep the shed clean and dry.",
-            "Provide fresh drinking water."
+            "Rainwater is acidic and can wash out alkaline materials from the edges of the pond and reduce pH of water in the pond.",
+            "To limit this, use lime along edges of the pond before it rains (apply it dryly) with 10 kg lime/100m2.",
+            "After the rain, use lime with 10-20 kg lime/ha."
          ]
       }
    },
-   "date": "14-06-2024"
+   "date": "18-06-2024"
 }

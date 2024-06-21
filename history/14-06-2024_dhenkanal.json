@@ -1,0 +1,119 @@
+{
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 3,
+         "t_max": 38,
+         "t_min": 23,
+         "rh_max": 47,
+         "rh_min": 18,
+         "wind_speed": 18,
+         "wind_direction": 281,
+         "cloud_cover": 6
+      },
+      "16-06-2024": {
+         "rainfall": 3,
+         "t_max": 37,
+         "t_min": 23,
+         "rh_max": 56,
+         "rh_min": 20,
+         "wind_speed": 17,
+         "wind_direction": 225,
+         "cloud_cover": 5
+      },
+      "17-06-2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 23,
+         "rh_max": 56,
+         "rh_min": 21,
+         "wind_speed": 18,
+         "wind_direction": 238,
+         "cloud_cover": 4
+      },
+      "18-06-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 24,
+         "rh_max": 74,
+         "rh_min": 34,
+         "wind_speed": 14,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "19-06-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 79,
+         "rh_min": 35,
+         "wind_speed": 18,
+         "wind_direction": 236,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "groundnut",
+      "arhar",
+      "sunflower",
+      "sesame",
+      "brinjal",
+      "okra"
+   ],
+   "general_advisory": "Carry out land preparation for sowing of kharif crops like Seasame etc. Prepare the field and arrange good quality crops like Okra, Brinjal, Chilli and Tomato.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Upland rice varieties (Matures in 100 days) like Khandagiri, SahabhagiDhan, DRR Mandakini, Naveen, GB SwarnaShreya etc. can be cultivated."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "For one acre of maize cultivation 6-7 kg of seeds is required.",
+            "To avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS.",
+            "Keep row to row spacing at 60 cm and plant to plant at 20 cm.",
+            "To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use suitable variety of Groundnut like Devi (ICGV-91114), Kadri-6, Kadri-9, TG-37A, TAG-51, TAG-38, TAG-24, Smruti, CO-7, Dharani etc.",
+            "Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "For Arhar cultivation, the row to row and plant to plant spacing should be 60 cm and 20 cm respectively.",
+            "Sow the seeds in 3-5 cm depth.",
+            "Apply 52 kg DAP, 6 kg Urea and 14 kg MOP as basal fertilizer per acre."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "In Kharif season June 15 – July 15 is the best time for Sunflower sowing purpose.",
+            "Some varieties with high yield are Morden (75-80 Days), E.C. 68414 (100-110 Days), E.C. 68415 (100-110 Days). Similarly some hybrid varieties are BSH-1, KB SH-1, JWALAMUKHI, PSC-36, PSC-1091, MLSFH-17, KBSH-44, and DRSH-1 (95-105 days) all are in 100 days duration."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Mid-June to mid-July is the best time for sowing purpose of sesame in Kharif season.",
+            "Some improved varieties of kharif sesame are Uma, Usha, Prachi, Nirmala, Vinayak, Kanaka, Kalika etc.",
+            "3-4 kg seeds are required for sowing purpose for 1 acre area."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Apply 20 kg Urea, 52 Kg DAP, and 20 Kg MOP as basal fertilizer.",
+            "Maintain row to row spacing of 75 cm and plant to plant spacing of 60 cm."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "For HYV apply 26 kg of DAP, 20 kg of MOP, and 10 kg of Urea as basal fertilizer by maintaining row to row and plant to spacing at 30 cm.",
+            "For Hybrids apply 35 kg of DAP, 25 kg of MOP, and 20 kg of Urea as basal fertilizer by maintaining row to row spacing at 60 cm whereas plant to spacing at 45 cm."
+         ]
+      }
+   },
+   "date": "14-06-2024"
+}

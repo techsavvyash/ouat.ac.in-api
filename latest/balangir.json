@@ -1,49 +1,52 @@
 {
    "weather_details": {
-      "2022-10-01": {
-         "rainfall": 10,
-         "t_max": 30,
-         "t_min": 20,
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 25,
+         "t_min": 15,
          "rh_max": 80,
          "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 120,
-         "cloud_cover": 5
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 4
       },
-      "2022-10-02": {
-         "rainfall": 5,
-         "t_max": 28,
-         "t_min": 18,
+      "2022-01-02": {
+         "rainfall": 2,
+         "t_max": 22,
+         "t_min": 12,
          "rh_max": 75,
          "rh_min": 55,
          "wind_speed": 12,
-         "wind_direction": 110,
-         "cloud_cover": 4
+         "wind_direction": 200,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
-      "rice",
       "wheat",
-      "corn"
+      "barley",
+      "maize",
+      "chicken"
    ],
-   "general_advisory": "It is recommended to plant crops that are suitable for the current weather conditions.",
+   "general_advisory": "Sow wheat and barley early to avoid heat stress. Ensure proper ventilation for chicken.",
    "crops_data": {
-      "rice": {
-         "advisory": [
-            "Ensure proper irrigation for better growth.",
-            "Protect the crop from pests and diseases."
-         ]
-      },
       "wheat": {
          "advisory": [
-            "Apply fertilizer for optimal yield.",
-            "Monitor water levels to avoid water stress."
+            "Plant wheat in well-drained soil. Apply nitrogen fertilizer for better growth."
          ]
       },
-      "corn": {
+      "barley": {
          "advisory": [
-            "Plant in well-drained soil for good root development.",
-            "Harvest at the right maturity stage for quality produce."
+            "Barley requires cool temperatures. Irrigate regularly to prevent water stress."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Maize needs full sun and well-drained soil. Watch out for common pests like corn earworm."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Provide fresh water and balanced feed to chickens. Keep the coop clean and well-ventilated."
          ]
       }
    },

@@ -1,7 +1,131 @@
 {
-   "date": "date",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "weather_details": {
+      "14-06-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "15-06-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "16-06-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "17-06-2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "19-06-2024": {
+         "rainfall": 7,
+         "t_max": 36,
+         "t_min": 22,
+         "rh_max": 77,
+         "rh_min": 45,
+         "wind_speed": 12,
+         "wind_direction": 243,
+         "cloud_cover": 0
+      },
+      "20-06-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 21,
+         "rh_max": 77,
+         "rh_min": 46,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 0
+      },
+      "21-06-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 20,
+         "rh_max": 78,
+         "rh_min": 59,
+         "wind_speed": 13,
+         "wind_direction": 249,
+         "cloud_cover": 0
+      },
+      "22-06-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 80,
+         "rh_min": 55,
+         "wind_speed": 13,
+         "wind_direction": 257,
+         "cloud_cover": 0
+      },
+      "23-06-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 19,
+         "rh_max": 85,
+         "rh_min": 62,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "ragi",
+      "ginger",
+      "turmeric"
+   ],
+   "general_advisory": "Plant protection spray schedules may be taken up when the weather becomes clean and dry, but avoid in rainy days. Complete summer deep ploughing as early as possible to destroy the weed seeds and eggs of insect pests. Before the kharif crop, go for the collection of soil samples and test it in a nearby soil testing laboratory.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Those summer rice is at maturity stage, go for harvesting when 80-85% grains in the panicles are matured. Keep watch for rainfall before harvesting and harvested paddy kept in a safe place.",
+            "Sowing should be started soon after receiving a good amount of early monsoon showers where direct seeding is practiced. Incorporate well decomposed FYM or cow-dung @ 800 kg/acre. Apply 26 kg DAP and 20 kg MoP per acre during the last ploughing. Sow the short duration varieties @ 25 -30 kg/acre behind the plough maintaining 15 -20 cm row-to-row distance. Before sowing seeds should be treated with Trichoderma viride @ 10g or Carbendazim 50% WP @ 1.5 g/kg seed."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "This is the optimum time for sowing of maize, prepare the land and incorporate FYM @ 2 t/acre at final land preparation. During sowing time apply 35 kg DAP, 4 kg urea, and 27 kg MoP per acre. Sow the maize seeds with a spacing of 60 x 20-25 cm using 6 kg seeds/acre."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "This is the optimum time for direct sowing ragi. Sow the seeds @ 4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing, seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Grow ginger with a seed rate of 6 -8 q rhizome/acre with spacing of 30 cm x 25 cm. Make raised beds with a width of 1 m, height of 15 cm, and convenient length with channels of 40 cm for draining excess rainwater. Apply well decomposed FYM @ 8 t/acre and neem cake @ 0.8 t/acre during the last ploughing and during sowing time apply phosphorus @ 40 kg/acre and potash @ 20 kg/acre."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Grow turmeric with a seed rate of 8 q rhizome/acre with spacing of 30 cm x 25 cm. Make raised beds with a width of 1 m, height of 15 cm, and convenient length with channels of 40 cm for draining excess rainwater. Apply well decomposed FYM @ 9 t/acre and neem cake @ 0.8 t/acre during the last ploughing and during sowing time, apply phosphorus @ 12 kg/acre and potash @ 18 kg/acre."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

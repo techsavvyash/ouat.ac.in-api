@@ -1,0 +1,99 @@
+{
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 66,
+         "rh_min": 26,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "16-06-2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 59,
+         "rh_min": 28,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      },
+      "17-06-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 21,
+         "rh_max": 74,
+         "rh_min": 30,
+         "wind_speed": 13,
+         "wind_direction": 244,
+         "cloud_cover": 6
+      },
+      "18-06-2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 21,
+         "rh_max": 83,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "19-06-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 90,
+         "rh_min": 39,
+         "wind_speed": 10,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "maize",
+      "turmeric",
+      "chilli",
+      "rice",
+      "cattle"
+   ],
+   "general_advisory": "Seeing the rainfall event, the spraying of chemicals and pesticides should be delayed otherwise it will be washed away. Sowing of maize crop should be started. Seeing the onset of monsoon events, prepare the nursery beds with raised bed method. Weed infestation may be seen by the light shower of rainfall, so ploughing with power-tiller or tractor to reduce weed infestation. Do not let the cattle roam around in the mid-day and during lightning. The light rainfall would not be enough for the seed bed preparation and subsequent transplanting, so preserve the rainwater accordingly. Cover the crop with leaf mulch to prevent weed growth and to conserve moisture.",
+   "crops_data": {
+      "maize": {
+         "advisory": [
+            "Sowing",
+            "Seed Rate: 20 kg/ha",
+            "Spacing: 50 cm X 25 cm",
+            "Apply 12.5 t/ha of FYM or compost during last ploughing."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "After sowing is complete, cover the field with dry leaves and to protect the leaves from wind gust, put small dried shoot over it.",
+            "The mulching will help in moisture conservation and decrease the weed intensity."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Disease - chilli bacterial leaf spot",
+            "Spray mancozeb @ 2 g/l or copper oxychloride @ 2.5 g/l.",
+            "Field sanitation is also important."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Rice nursery beds should be prepared for seeding preparation in rice.",
+            "Before nursery sowing, treat the seeds with Carbendazim or Mancozeb @2gram/kg of seed."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Protect the cattle from scorching heat and during thunderstorm lightning, don’t let them roam around.",
+            "Keep the shed clean and dry.",
+            "Provide fresh drinking water."
+         ]
+      }
+   },
+   "date": "14-06-2024"
+}

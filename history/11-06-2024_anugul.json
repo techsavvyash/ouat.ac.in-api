@@ -1,7 +1,7 @@
 {
    "weather_details": {
       "2024-06-12": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 41,
          "t_min": 25,
          "rh_max": 64,
@@ -11,7 +11,7 @@
          "cloud_cover": 4
       },
       "2024-06-13": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 41,
          "t_min": 26,
          "rh_max": 60,
@@ -21,7 +21,7 @@
          "cloud_cover": 3
       },
       "2024-06-14": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 41,
          "t_min": 26,
          "rh_max": 54,
@@ -31,7 +31,7 @@
          "cloud_cover": 2
       },
       "2024-06-15": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 42,
          "t_min": 26,
          "rh_max": 43,
@@ -41,7 +41,7 @@
          "cloud_cover": 7
       },
       "2024-06-16": {
-         "rainfall": 0.0,
+         "rainfall": 0,
          "t_max": 43,
          "t_min": 25,
          "rh_max": 51,
@@ -56,7 +56,7 @@
       "cow",
       "chicken"
    ],
-   "general_advisory": "Angul district is likely to receive no rainfall with mainly to generally cloudy sky. The maximum temperature may range from 41-43°C. The minimum temperature may range 25-26°C. The wind will blow usually Southerly with a speed of 9-16 kmph up to Saturday. The maximum and minimum humidity is likely to remain in the range of 43-64% and 11-23% respectively. For upland use 110-115 days duration varieties e.g Mandakini, Stybhama, Sahabhagi dhan. For medium land use variety having duration less than 140 days i.e Naveen, govind, Sampad, Manaswini. For lowland use varieties Hasanta, CR1014, CR1009, Sumit, Pratikhya, Swarna sub-1. The district is likely to experience heat wave in coming three days.",
+   "general_advisory": "For upland use 110-115 days duration varieties e.g Mandakini, Stybhama, Sahabhagi dhan. For medium land use variety having duration less than 140 days i.e Naveen, govind, Sampad, Manaswini. For Lowland use varieties Hasanta, CR1014, CR1009, Sumit, Pratikhya, Swarna sub-1.",
    "crops_data": {
       "cucumber": {
          "advisory": [

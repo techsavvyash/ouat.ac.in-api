@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "05/06/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 50,
+         "rh_min": 19,
+         "wind_speed": 12,
+         "wind_direction": 234,
+         "cloud_cover": 4
+      },
+      "06/06/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 48,
+         "rh_min": 15,
+         "wind_speed": 9,
+         "wind_direction": 288,
+         "cloud_cover": 4
+      },
+      "07/06/2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 14,
+         "wind_direction": 285,
+         "cloud_cover": 3
+      },
+      "08/06/2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 48,
+         "rh_min": 19,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      },
+      "09/06/2024": {
+         "rainfall": 0,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 46,
+         "rh_min": 18,
+         "wind_speed": 15,
+         "wind_direction": 244,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "sri paddy",
+      "ragi",
+      "ginger",
+      "maize",
+      "sunflower",
+      "onion"
+   ],
+   "general_advisory": "Due to the rain received, go for summer cultivation and mechanized cultivation will invert the soil and pest and pathogen will be exposed to the sun and get killed. In case of shortage of water, go for alternate row irrigation method for better utilization of water which saves around 50% water. Also, the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature. Farmers are advised to avoid exposure outside during the peak heat hours of the day.",
+   "crops_data": {
+      "sri paddy": {
+         "advisory": [
+            "Harvest the crop when 85% of the crop turns yellow. Drain out excess water 7 days before the harvest of the crop."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6 -8 q/ac. Each piece should be 20 g and contain 2 -3 eyes. Treat the seeds before planting in the field."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties like Klinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "For good seed filling, apply 2 -3 g of Borax/liter of water. Early sown crop when the lower side of head turns yellow, go for cutting the head and dry it under the sun for 4 -5 days. If fruit borer attacks then go for spraying Bioinsecticide NPV @ 250 LE mixed in 200 Liters of water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Harvest the onion leaving 2 -3 cm from the neck and cut all the roots and dry it under the shed during high temperature."
+         ]
+      }
+   },
+   "date": "04-06-2024"
+}

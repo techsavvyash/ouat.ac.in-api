@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "2024-06-12": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 74,
+         "rh_min": 29,
+         "wind_speed": 15,
+         "wind_direction": 191,
+         "cloud_cover": 6
+      },
+      "2024-06-13": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 72,
+         "rh_min": 34,
+         "wind_speed": 18,
+         "wind_direction": 204,
+         "cloud_cover": 5
+      },
+      "2024-06-14": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 65,
+         "rh_min": 32,
+         "wind_speed": 20,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "2024-06-15": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 49,
+         "rh_min": 28,
+         "wind_speed": 18,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      },
+      "2024-06-16": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 58,
+         "rh_min": 30,
+         "wind_speed": 18,
+         "wind_direction": 251,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sesame",
+      "horticulture",
+      "poultry",
+      "others (soil / land preparation)"
+   ],
+   "general_advisory": "light rain is expected in the coming five days so farmers may continue irrigation in standing crops. Farmers can go for the soil test before going for planning the kharif crop. Soils of 8 to 10 different places of the field can be taken by kudal by inserting a V shape and mixing the soils. After cleaning and sieving divide the soils into 4 parts and take the opposite 2 parts and place them in polythene and write the plot number and crop taken previously. Send it to soil testing lab for report.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Green manuring crops are sown in medium and low land conditions at 6-8 weeks before planting. Use 10 kg seeds per acre. Otherwise 6 kg/acre in case of mixed planting with paddy. Sowing time should be adjusted in such a way that the crop will attain a 5-week stage just at 7 days before transplanting.",
+            "Apply all the recommended doses of phosphorus of rice (100 kg of SSP) to the field during sowing time."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "To manage Poder borer infestation in sesame farmers can spray spinosad @165 ml per hectare."
+         ]
+      },
+      "horticulture": {
+         "advisory": [
+            "Harvest the matured fruits like mango, banana, and jackfruit and sell them before the quality deterioration.",
+            "Weather is favorable for Downy Mildew in cucurbit vegetables. To manage this disease in cucurbits spray Copper Hydroxide 77 % WP @ 3-gram/liter or Carbendazim 12 % + Mancozeb 63 % WP @ 2-gram/liter."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Add vitamin C to food or water of poultry as it decreases dehydration in chicks."
+         ]
+      },
+      "others (soil / land preparation)": {
+         "advisory": [
+            "Summer plowing should be practiced for reducing weeds, pests & diseases in the upcoming Kharif crop."
+         ]
+      }
+   },
+   "date": "11-06-2024"
+}

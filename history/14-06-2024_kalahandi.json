@@ -1,0 +1,114 @@
+{
+   "weather_details": {
+      "15-06-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 77,
+         "rh_min": 25,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "16-06-2024": {
+         "rainfall": 0,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 62,
+         "rh_min": 36,
+         "wind_speed": 10,
+         "wind_direction": 225,
+         "cloud_cover": 4
+      },
+      "17-06-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 75,
+         "rh_min": 31,
+         "wind_speed": 14,
+         "wind_direction": 214,
+         "cloud_cover": 6
+      },
+      "18-06-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 77,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "19-06-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 41,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "kharif paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize"
+   ],
+   "general_advisory": "Make necessary arrangements for field preparation as monsoon has already entered in our state and light rainfall may receive towards the end of the week. Farmers are advised to provide necessary irrigation to the standing crops and keep your field free from weeds. Regular monitoring for incidence of insect pests should be done and application of pesticide should be done by observing weather forecast. Farmers are advised to undertake soil test to know the soil fertility status of their crop field prior to land preparation for Kharif crops. Conserve rainwater for utilizing in land preparation by making bund and clogging the pores inside the field.",
+   "crops_data": {
+      "kharif paddy": {
+         "advisory": [
+            "Farmers are advised to arrange certified seeds of paddy from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc.",
+            "Seed rate: 20kg/ac for transplanted paddy, 30-40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill.",
+            "Suitable Varieties:",
+            "Upland condition: Khandagiri, Sahabhagi, Jyotirmayee, Mandakini, Phalguni, Bandana, Anjali etc. (100-110 days)",
+            "Medium land condition: Improved Lalat, MTU-1010, Naveen, MTU-1001, Pratibha, Pradeep, Hiranmayee, Tejaswini etc. (120-130 days)",
+            "Low land condition: MTU-7029, Pooja, Pratikshya, Hasanta, Mrunlalini, Ashutosh, Maudamani, Swarna, Swarna sub-1, Kalachampa etc. (140-150 days)",
+            "Direct seeded rice: Incorporate well decomposed FYM @ 8 q/acre during the final land preparation.",
+            "Seed Treatment: Seeds should be treated with Trichoderma powder formulation @ 10 g/kg of seeds or Carbendazim 50% WP @ 2g/kg of seed for 10-12 hrs to control seed and soil-borne diseases.",
+            "Recommended dose of Fertilizer: Apply 26 kg DAP + 10 kg MOP + 10 kg ZnSO4 in upland condition and 35 kg DAP + 13 kg MOP + 10 kg ZnSO4 per acre in medium and low land condition"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing should be completed by end of June to get higher yield. Arrange good quality seeds from reliable sources like AICRP on Cotton, OUAT and certified dealer etc.",
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing.",
+            "Farmers can select Pigeon pea (8:2 row proportions) and green gram/black gram (1:2 row proportions) as intercrop.",
+            "Dibble the seed in lines @ one seed per peat at a depth of 3-5cm and cover the seed with soil. Provide a spacing of 90 cm x 60 cm in normal planting and 60 cm x 10 cm for high-density planting system.",
+            "Grow one variety throughout the village as far as possible and synchronize the sowing time in your village by complete the sowing within 10-15 days to prevent pest attack.",
+            "Seed should be treated with Imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pest.",
+            "Seed rate -1kg/acre for normal planting and 5kg/acre for high-density planting system.",
+            "Suitable varieties: Hybrid varieties: JK-Durga, Atal, Dhano, Gabar, Sri Tulasi, Bhagya, Akka, Chandramukhi, High yielding varieties: BS 30, BS 279, Surabhi, MCU-5, High-density planting: Suraj, Supriya, PKV-081, NH-615, HD-123, BS 30",
+            "Recommended dose of Fertilizer: Apply DAP @ 120kg/ac + MOP@ 24 kg/ac in Hybrid varieties and DAP @ 90 kg/ac + MOP @ 18 kg/ac in case of high-yielding varieties at the time of sowing, however, apply the required dose of the fertilizer according to the soil test report."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing should be completed by the end of June to get higher yield.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ac at the time of land preparation",
+            "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
+            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 15 cm.",
+            "Treat the seed with Thiram (2gm) + Carbendazim (1gm) or Thiram @ 3 gm or Tricoderma virdie 5-7g /kg of seed. Culture: Rhizobium and PSB culture 7-10 g /kg seed.",
+            "Seed rate -8kg/acre",
+            "Suitable varieties: UPAS-120, Pusa-855, Pragati (ICPL-87), Durga, C-11, ICPL-88039 @ 130-140 days duration, Asha (ICPL-87119), Laxmi @ 160-180 days duration",
+            "Recommended dose of Fertilizer: Apply DAP 35 kg/ac + MOP 13 kg/ac + Urea 5 kg/ac+ 60 kg Gypsum/Phospho-gypsum at the time of sowing, however apply required dose of fertilizer according to the soil test report."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc. Sowing can be done from June to the first fortnight of July. However, if irrigation facility is available, early sowing i.e., 10-15 days before the onset of monsoon increases productivity.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ac at the time of land preparation",
+            "Apply 2-4 tonnes of FYM per acre at the time of final land preparation.",
+            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 25 cm for irrigated condition and 75 cm x 25 cm for rainfed condition.",
+            "Seed treatment with suitable fungicide and insecticides is essential to prevent the crop from the attack of soil-borne diseases and insect-pests. Treat 1 kg of seed with 2g (Bavistin + Captan in 1:1 ratio) and 4 g of Imidacloprid.",
+            "Seed rate -8kg/acre",
+            "Suitable varieties: Normal Maize: Kalinga raj (OMH 14-27), HM 9, HM 4, Vivek maize hybrid -27, Vivek maize hybrid -17, P 3441, P 3501, Bio 9544, CMH 08-287, CMH 08-292, DMH 121, LG 32.81 (Yuvaraj Gold) etc. Sweet corn: Madhuri Sweet Corn, Priya Sweet Corn, Misthi",
+            "Recommended dose of Fertilizer: Apply DAP 50 kg/ac + MOP 40 kg/ac at the time of sowing, however apply required dose of the fertilizer according to the soil test report. If Zn or Bo deficient in soil, apply 10 Kg of Zinc Sulphate @10kg/acre or Boron @ 4kg/acre as basal."
+         ]
+      }
+   },
+   "date": "14-06-2024"
+}

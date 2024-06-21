@@ -1,0 +1,108 @@
+{
+   "weather_details": {
+      "2024-06-12": {
+         "rainfall": 2,
+         "t_max": 43,
+         "t_min": 29,
+         "rh_max": 83,
+         "rh_min": 22,
+         "wind_speed": 8,
+         "wind_direction": 198,
+         "cloud_cover": 7
+      },
+      "2024-06-13": {
+         "rainfall": 2,
+         "t_max": 41,
+         "t_min": 29,
+         "rh_max": 85,
+         "rh_min": 27,
+         "wind_speed": 10,
+         "wind_direction": 207,
+         "cloud_cover": 7
+      },
+      "2024-06-14": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 29,
+         "rh_max": 78,
+         "rh_min": 26,
+         "wind_speed": 12,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "2024-06-15": {
+         "rainfall": 0,
+         "t_max": 41,
+         "t_min": 28,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 13,
+         "wind_direction": 259,
+         "cloud_cover": 8
+      },
+      "2024-06-16": {
+         "rainfall": 5,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 77,
+         "rh_min": 29,
+         "wind_speed": 13,
+         "wind_direction": 270,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "cotton",
+      "mango",
+      "okra/ ladyfinger",
+      "menacinakahi",
+      "chilli",
+      "goat",
+      "common carp"
+   ],
+   "general_advisory": "The mean maximum daily temperature was 39.0°C and the mean minimum daily temperature was 25.4°C of the Gajapati district during the last week. The district received 12.6 mm of rainfall during the last week. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as far as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over-aged seedlings if transplanted late.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Upland rice varieties (Matures in 100-120 days) like Khandagiri, Sahabhagi Dhan, DRR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama etc. can be cultivated. Medium land rice varieties (Matures in 120-140 days) like MTU 1 156, MTU 1 153, CR Dhan 310, RGL 2538, Lalat, Improved Lalat, Manaswini, MTU-1001, Sampada, Gitanjali, Nua acharmati etc can be cultivated. Low land rice varieties (Matures >140 days) like Pratikshya, Swarna, Swarna Sub-1, RGL-2537, MTU-1075, Mrinalini, Hashanta, Rani Dhan, CR 1009, CR 1009 Sub-1, DRR 50, Pooja, MTU-1064, CR-1018, Sarala, Durga, Pradhan Dhan, Nua Kalajeera, Nua chinikamini, CR Sungadhi Dhan-907 etc can be cultivated. Before sowing, seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP or thiram 75 % WS @ 3 gm/kg of seeds."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "After monsoon rain fall go for ploughing. Plough the field with mould board plough or disc plough for deep ploughing. Keep the field clean. Apply 2 tonne of compost during last ploughing. Purchase suitable hybrid seeds and fertilizers from licenced dealer . Avoid growing longer duration hybrids in Rainfed area."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Harvesting and ripening of fruits. Hot water treatment of mango, if needed by dipping fruits in lukewarm water (48°C) for 1 hr to manage anthracnose and fruit fly . Management of stemborer by cleaning the affected stem and killing of larvae. Pit digging 1mX1mX1m and planting of saplings."
+         ]
+      },
+      "okra/ ladyfinger": {
+         "advisory": [
+            "There are chances of infestation of shoot and fruit borer in Okra. The larvae of okra shoot and fruit borer burrows into the petioles and tender shoots which results in withering of terminal shoots, drooping of leaves and shedding of flower buds..."
+         ]
+      },
+      "menacinakahi": {
+         "advisory": [
+            "There are chances of infestation of mites in chili crop. Initial symptoms of severely infested plants are sudden downward curling and crinkling of leaves. Petiole in a few cases becomes elongated and later they stop growing and die. To manage infestation of mites in chili spray Propargite 57% EC..."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "There are chances of infestation of mites in chili crop. Initial symptoms of severely infested plants are sudden downward curling and crinkling of leaves. Petiole in a few cases becomes elongated and later they stop growing and die. To manage infestation of mites in chili spray Propargite 57% EC..."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The specialty of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches..."
+         ]
+      },
+      "common carp": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly , should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally , a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and superphosphate should be applied to increase pond quality..."
+         ]
+      }
+   },
+   "date": "11-06-2024"
+}

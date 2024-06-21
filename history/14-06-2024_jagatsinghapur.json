@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "15/06/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 67,
+         "rh_min": 44,
+         "wind_speed": 31,
+         "wind_direction": 225,
+         "cloud_cover": 5
+      },
+      "16/06/2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 77,
+         "rh_min": 55,
+         "wind_speed": 30,
+         "wind_direction": 207,
+         "cloud_cover": 4
+      },
+      "17/06/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 71,
+         "rh_min": 60,
+         "wind_speed": 30,
+         "wind_direction": 207,
+         "cloud_cover": 4
+      },
+      "18/06/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 58,
+         "wind_speed": 28,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "19/06/2024": {
+         "rainfall": 6,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 76,
+         "rh_min": 56,
+         "wind_speed": 29,
+         "wind_direction": 212,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "groundnut",
+      "yam",
+      "brinjal",
+      "okra",
+      "fishery"
+   ],
+   "general_advisory": "Prepare nursery bed and sowing may be done after monsoon showers in rainfed transplanted rice areas. For paddy cultivation, always use certified seeds. Mulching is advised to reduce evaporation from soil in orchard crops. Incorporate well-decomposed Farm Yard Manure or cow-dung during final land preparation. Wet nursery field preparation for paddy includes irrigation, puddling, and seed treatment. Specific advisories for maize, groundnut, yam, brinjal, and okra are provided.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Wet nursery field preparation is critical for paddy cultivation including irrigation and puddling. Seed treatment is essential to protect plants from insect attacks in the initial stages."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed treatment is mandatory to avoid Fall Army Worm infestation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use suitable varieties of groundnut and treat seeds with recommended species of Rhizobium bacterial culture before sowing."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Optimum time for yam planting is May to June. Use high-yielding varieties and follow specific planting instructions."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control damping off disease of brinjal seedlings, drench the bed soil with a specified solution."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Be wary of sucking pests in okra and apply appropriate pesticides as needed."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Recommendations for stocking carp species and enhancing pond quality for good growth."
+         ]
+      }
+   },
+   "date": "14-06-2024"
+}

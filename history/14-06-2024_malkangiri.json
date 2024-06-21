@@ -1,0 +1,139 @@
+{
+   "weather_details": {
+      "10.06.2024": {
+         "rainfall": 2,
+         "t_max": 41,
+         "t_min": 26,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "11.06.2024": {
+         "rainfall": 0,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "12.06.2024": {
+         "rainfall": 1,
+         "t_max": 44,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "13.06.2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "15-06-2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 45,
+         "wind_speed": 6,
+         "wind_direction": 240,
+         "cloud_cover": 5
+      },
+      "16-06-2024": {
+         "rainfall": 4,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 169,
+         "cloud_cover": 6
+      },
+      "17-06-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 49,
+         "wind_speed": 5,
+         "wind_direction": 116,
+         "cloud_cover": 6
+      },
+      "18-06-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 51,
+         "wind_speed": 6,
+         "wind_direction": 214,
+         "cloud_cover": 7
+      },
+      "19-06-2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 58,
+         "wind_speed": 7,
+         "wind_direction": 246,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "chilli",
+      "pointed gaurd",
+      "cattle & buffalo",
+      "poultry"
+   ],
+   "general_advisory": "Plant protection measures may be taken up when weather becomes clean and dry, avoid in rainy days. Before kharif crop go for collection of soil sample and test it in nearby district agriculture offices. Complete the summer deep ploughing to destroy the eggs of insect pests and weed seeds.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Sowing should be started where direct seeding is practiced. Incorporate well decomposed FYM or cow-dung @ 800 kg/acre. Apply 26 kg DAP and 20 kg MoP per acre during last ploughing. Sow the short duration varieties @ 25-30 kg/acre behind the plough with maintaining 15-20 cm row to row distance. Before sowing seed should be treated with Trichoderma viride @ 10 g or Carbendazim 50% WP @ 1.5 g/kg seed.",
+            "Farmers are advised for sowing of dhanicha seeds @ 12 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3-4 weeks old before 10-15 days of transplanting of rice. Apply all phosphatic fertilizers of Kharif rice to this green manuring crop in advance."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "This is the optimum time for sowing of maize, prepare the land and incorporate FYM @ 2 t/acre at final land preparation and during sowing time apply 35 kg DAP, 4 kg urea and 27 kg MoP per acre. Sow the maize seeds with a spacing of 60 x 20-25 cm using 6 kg seeds/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Incidence of thrips may observe in chilli, if observe spray Spinosad 45% SC @ 0.4 ml/litre of water or Imidacloprid 17.8% SL @ 0.3 ml/litre of water in clean and dry weather."
+         ]
+      },
+      "pointed gaurd": {
+         "advisory": [
+            "Fruit and vine rot of pointed gourd may observe. Remove damaged fruit and vines from the field and should not be kept in and around the field. Spray alternately Copper Oxychloride 50% WP @ 3 g/litre of water and Metalaxyl 8% + Mancozeb 64% @ 2.5 g/litre of water in a sunny day."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Provide shade & plenty of clean drinking water.",
+            "Improve ventilation in the barn/shed. Don’t allow them to graze or work between 10 AM to 4 PM.",
+            "Provide more high-quality forage & give concentrated mixture to lactating cattle and buffalo."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Don’t overcrowd the poultry shed. Provide fan and sprinkle water 2-3 times per day if required."
+         ]
+      }
+   },
+   "date": "14-06-2024"
+}
