@@ -1,3 +1,100 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19-06-2024": {
+         "rainfall": 1,
+         "t_max": 39,
+         "t_min": 26,
+         "cloud_cover": 4,
+         "rh_max": 81,
+         "rh_min": 28,
+         "wind_speed": 13,
+         "wind_direction": 216
+      },
+      "20-06-2024": {
+         "rainfall": 4,
+         "t_max": 38,
+         "t_min": 21,
+         "cloud_cover": 6,
+         "rh_max": 70,
+         "rh_min": 33,
+         "wind_speed": 10,
+         "wind_direction": 246
+      },
+      "21-06-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 24,
+         "cloud_cover": 7,
+         "rh_max": 78,
+         "rh_min": 63,
+         "wind_speed": 9,
+         "wind_direction": 243
+      },
+      "22-06-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 24,
+         "cloud_cover": 7,
+         "rh_max": 83,
+         "rh_min": 47,
+         "wind_speed": 10,
+         "wind_direction": 251
+      },
+      "23-06-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 23,
+         "cloud_cover": 7,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 243
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "mango",
+      "maize",
+      "turmeric",
+      "fishery"
+   ],
+   "general_advisory": "The light rainfall would not be enough for the seed bed preparation and subsequent transplanting, so preserve the rain water accordingly.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Take small to medium duration varieties, so that water scarcity at the later stage can be avoided.",
+            "Rice nursery beds should be prepared for seeding preparation in rice.",
+            "Before nursery sowing, treat the seeds with Carbendazim or Mancozeb @2gram/kg of seed."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "For storage of mango, use rigid containers that can withstand stacking without getting deformed.",
+            "For increasing the shelf life, fruits are stored at low temperature and high humidity.",
+            "Pre cool the fruits to required temperature before storing at low temperature."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Sowing",
+            "Seed Rate: 20 kg/ha",
+            "Spacing: 50 cm X 25 cm",
+            "Apply 12.5 t/ha of FYM or compost during last ploughing."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "After sowing is complete, cover the field with dry leaves and to protect the leaves from wind gust, put small dried shoot over it.",
+            "The mulching will help in moisture conservation and decrease the weed intensity."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Rainwater is acidic and can wash out alkaline materials from the edges of the pond and reduce pH of water in the pond.",
+            "To limit this, use lime along edges of the pond before it rains (apply it dryly) with 10 kg lime/100m2.",
+            "After the rain, use lime with 10-20 kg lime/ha."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

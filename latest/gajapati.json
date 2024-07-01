@@ -1,84 +1,108 @@
 {
    "weather_details": {
-      "2024-06-19": {
-         "rainfall": 3,
-         "t_max": 41,
-         "t_min": 28,
-         "rh_max": 85,
-         "rh_min": 27,
+      "2024-06-29": {
+         "rainfall": 20,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 63,
          "wind_speed": 9,
-         "wind_direction": 248,
-         "cloud_cover": 5
+         "wind_direction": 249,
+         "cloud_cover": 8
       },
-      "2024-06-20": {
-         "rainfall": 5,
-         "t_max": 40,
-         "t_min": 27,
-         "rh_max": 74,
-         "rh_min": 38,
-         "wind_speed": 8,
-         "wind_direction": 243,
-         "cloud_cover": 5
-      },
-      "2024-06-21": {
-         "rainfall": 6,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 80,
-         "rh_min": 65,
-         "wind_speed": 6,
-         "wind_direction": 244,
-         "cloud_cover": 6
-      },
-      "2024-06-22": {
+      "2024-06-30": {
          "rainfall": 10,
-         "t_max": 37,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 60,
+         "wind_speed": 9,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "2024-07-01": {
+         "rainfall": 4,
+         "t_max": 35,
          "t_min": 25,
-         "rh_max": 76,
-         "rh_min": 44,
-         "wind_speed": 8,
-         "wind_direction": 270,
+         "rh_max": 88,
+         "rh_min": 64,
+         "wind_speed": 10,
+         "wind_direction": 248,
          "cloud_cover": 7
       },
-      "2024-06-23": {
-         "rainfall": 10,
+      "2024-07-02": {
+         "rainfall": 2,
          "t_max": 36,
-         "t_min": 25,
-         "rh_max": 84,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 65,
+         "wind_speed": 9,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "2024-07-03": {
+         "rainfall": 1,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 82,
          "rh_min": 61,
-         "wind_speed": 5,
-         "wind_direction": 270,
-         "cloud_cover": 8
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "rice",
+      "finger millet",
+      "maize",
       "cotton",
+      "pigeon pea",
+      "brinjal",
       "goat",
       "common carp"
    ],
-   "general_advisory": "The mean maximum daily temperature was 39.1°C and the mean minimum daily temperature was 27.6°C of the Gajapati district during the last week. The district received 06.9 mm of rainfall during the last week. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
+   "general_advisory": "The mean maximum daily temperature was 36.4°C and the mean minimum daily temperature was 26.7°C of the Gajapati district during the last week. The district received 68.0 mm of rainfall during the last week. For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Upland rice varieties (Matures in 100-120 days) like Khandagiri, Sahabhagi Dhan, DRR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama etc. can be cultivated. Medium land rice varieties (Matures in 120-140 days) like MTU 1 156, MTU 1 153, CR Dhan 310, RGL 2538, Lalat, Improved Lalat, Manaswini, MTU-1001, Sampada, Gitanjali, Nua acharmati etc can be cultivated. Low land rice varieties (Matures >140 days) like Pratikshya, Swarna, Swarna Sub-1, RGL-2537, MTU-1075, Mrinalini, Hashanta, Rani Dhan, CR 1009, CR 1009 Sub-1, DRR 50, Pooja, MTU-1064, CR-1018, Sarala, Durga, Pradhan Dhan, Nua Kalajeera, Nua chinikamini, CR Sungadhi Dhan-907 etc can be cultivated. Before sowing, seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP or thiram 75 % WS @ 3 gm/kg of seeds."
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "It is time for nursery sowing of ragi. Grow high yielding varieties like Arjun, Divyasingh, AKP-2, AKP-3, AKP-7, Godavari, Neelachal, Bhairavi, Shubhra, and Chilika. Use 2 to 2.5 kg seeds /acre for transplanting. Before sowing treat the seeds with 3 g Thiram or 1g Trycychlozole per kg Seeds. Apply 10 g each of Nitrogen and Phophorous per sq. metre of nursery bed and mix it thoroughly . Sow the seeds uniformly over the beds and cover the seeds thinly with powdered soil."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed rate for maize is 6-7kg/acre.T o avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS. Keep row to row spacing at 60 cm and plant to plant at 20 cm. To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough. Apply 55 kg of DAP  and 22-kg of potash as basal fertilizer . For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1-2 DAS."
          ]
       },
       "cotton": {
          "advisory": [
-            "After monsoon rain fall go for ploughing. Plough the field with mould board plough or disc plough for deep ploughing. Keep the field clean. Apply 2 tonne of compost during last ploughing. Purchase suitable hybrid seeds and fertilizers from licenced dealer . Avoid growing longer duration hybrids in Rainfed area."
+            "Start sowing of seeds on dry weather . For high yielding cotton keep row to row spacing of 90-cm and plant to plant 60-cm and for hybrid cotton keep plant to plant and row to row spacing at 90 cm. Sow two seeds per mound/pit at 4-5 cm depth and cover the soil. At the time of sowing apply 52 kg DAP , 7 Kg Urea and 20 kg Potash as basal fertilizer . Put some seeds in leaf pot or polythene at same time, when these seedlings are of 10 to 12 days old, gap filling can be done where the seeds are not germinated or replace the weaker plants. This will maintain proper plant population per unit area."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T- Arhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Apply 20 kg Urea, 52 Kg DAP  and 20 Kg MOP  as basal fertilizer . Maintain row to row spacing of 75 cm and plant to plant spacing of 60 cm."
          ]
       },
       "goat": {
          "advisory": [
-            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably . It is also easier to clean the faecal material over the sand floor . To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
          ]
       },
       "common carp": {
          "advisory": [
-            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly , should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally , a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality . In 8-10 months, fishes attain their marketable size."
          ]
       }
    },
-   "date": "18-06-2024"
+   "date": "28-06-2024"
 }

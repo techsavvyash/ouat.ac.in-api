@@ -1,83 +1,70 @@
 {
    "weather_details": {
-      "12-06-2024": {
-         "rainfall": 1,
-         "t_max": 39,
-         "t_min": 29,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "19-06-2024": {
-         "rainfall": 2,
-         "t_max": 40,
-         "t_min": 29,
-         "rh_max": 77,
-         "rh_min": 31,
-         "wind_speed": 25,
-         "wind_direction": 236,
-         "cloud_cover": 4
-      },
-      "20-06-2024": {
-         "rainfall": 3,
-         "t_max": 39,
-         "t_min": 28,
-         "rh_max": 74,
-         "rh_min": 46,
+      "29-06-2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 47,
          "wind_speed": 17,
-         "wind_direction": 214,
-         "cloud_cover": 5
-      },
-      "21-06-2024": {
-         "rainfall": 5,
-         "t_max": 37,
-         "t_min": 27,
-         "rh_max": 69,
-         "rh_min": 40,
-         "wind_speed": 15,
-         "wind_direction": 214,
-         "cloud_cover": 6
-      },
-      "22-06-2024": {
-         "rainfall": 7,
-         "t_max": 36,
-         "t_min": 26,
-         "rh_max": 69,
-         "rh_min": 42,
-         "wind_speed": 16,
-         "wind_direction": 243,
+         "wind_direction": 212,
          "cloud_cover": 7
       },
-      "23-06-2024": {
-         "rainfall": 7,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 69,
-         "rh_min": 40,
-         "wind_speed": 16,
-         "wind_direction": 207,
+      "30-06-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 72,
+         "rh_min": 51,
+         "wind_speed": 17,
+         "wind_direction": 225,
          "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 69,
+         "rh_min": 49,
+         "wind_speed": 20,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "02-07-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 68,
+         "rh_min": 51,
+         "wind_speed": 24,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "03-07-2024": {
+         "rainfall": 1,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 50,
+         "wind_speed": 21,
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "kharif rice",
+      "rice",
       "sugarcane",
       "vegetables",
-      "fruit",
       "pisciculture",
       "livestock"
    ],
-   "general_advisory": "For better agricultural benefits use, OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits &Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio -Fertilizer, Bio -Pesticides, Vermi & Vermi Compost and Farm Implements). For timely planting of vegetables prepare the nursery bed immediately for better utilization of rain water.",
+   "general_advisory": "1. As per IMD Forecast, Very Light to Light rainfall is expected in upcoming days, farmers are advised to take proper care while conducting spraying operations and also start nursery bed preparation for kharif crops & vegetables. 2. For Kharif paddy cultivation, use good quality seeds like - For Medium land - use Salandi, Kaling dhan-1301, Pratikhya (120-130 days) For shallow medium land - Swarna, Ranidhan, Mrunalini, MTU-1140, Kaling Dhan 1401 For Low land - Kaling Dhan 1502, Kalachampa, Kaling Dhan-1501, CR-1009 (140-145 days) 3. For Flood affected area - Swarna sub 1, CR-1009 Sub 1 4. Prevailing periodically cloudy and sunny condition is favourable for insect pest attack in vegetable crops so its regular monitoring should be advised. 5. Make necessary arrangements for field preparation as monsoon has already been entered in our state. 6. Farmers are advised to provide needful irrigation to the standing crops and vegetables.",
    "crops_data": {
-      "kharif rice": {
+      "rice": {
          "advisory": [
-            "Prepare well pulverised nursery bed for Kharif Rice.",
-            "Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed.",
+            "Prepare well pulverised nursery bed for Kharif Rice. Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed.",
             "Instead of manual DSR followed by beushaning the farmers are advised to follow mechanized DSR cultivation with appropriate package of practices (Variety selection, Seed treatment, Nutrient management).",
-            "Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days.",
-            "Arrange good quality seeds of @12kg/acre as green manuring crop."
+            "Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days. Arrange good quality seeds of @12kg/acre as green manuring crop."
          ]
       },
       "sugarcane": {
@@ -88,29 +75,25 @@
       },
       "vegetables": {
          "advisory": [
-            "Prevailing dry weather condition may increase the mealy bug in okra & brinjal to control this spraying of Thiamethoxam 0.4 g/l of water recommended.",
-            "For timely planting of kharif vegetables like Brinjal & Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed.",
+            "Prevailing periodically cloudy and sunny condition is favourable for sucking insect pest attack in vegetable crops so its regular monitoring should be advised.",
+            "Prevailing weather condition may increase the mealy bug in okra & brinjal to control this spraying of Thiamethoxam 0.4 g/l of water recommended.",
+            "For timely planting of kharif vegetables like Brinjal &Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed.",
             "To control Fruit and shoot borer in Brinjal, Tomato & Okra Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water."
-         ]
-      },
-      "fruit": {
-         "advisory": [
-            "Make lunar trench around the young fruit trees.",
-            "Provide needful life shaving irrigation & Vegetative mulching."
          ]
       },
       "pisciculture": {
          "advisory": [
-            "Considering high day temperature, water depth in the fish pond should be raised from 0.8 m to 1.0 m by adding fresh water.",
-            "Reduce the quantity of feed by 10-20% compared to normal condition and make provision for supplying cool water into the pond, so that the temperature remains in the range of 13-18°C for as long as possible."
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits.",
+            "Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
          ]
       },
       "livestock": {
          "advisory": [
-            "If the animals have not yet been vaccinated against FMD, HaemorrhagicSepticaemia, Black Quarter, Enterotoxemia etc., these must be done.",
-            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done.",
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10% -20% in the daily ration during winter season to meet the energy requirement of the animals."
          ]
       }
    },
-   "date": "18-06-2024"
+   "date": "28-06-2024"
 }

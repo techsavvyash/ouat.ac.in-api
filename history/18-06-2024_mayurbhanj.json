@@ -1,3 +1,120 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "2024-06-19": {
+         "rainfall": 3,
+         "t_max": 38,
+         "t_min": 31,
+         "rh_max": 69,
+         "rh_min": 34,
+         "wind_speed": 23,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "2024-06-20": {
+         "rainfall": 5,
+         "t_max": 38,
+         "t_min": 29,
+         "rh_max": 73,
+         "rh_min": 39,
+         "wind_speed": 14,
+         "wind_direction": 242,
+         "cloud_cover": 6
+      },
+      "2024-06-21": {
+         "rainfall": 10,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 56,
+         "wind_speed": 12,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "2024-06-22": {
+         "rainfall": 15,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 74,
+         "rh_min": 56,
+         "wind_speed": 11,
+         "wind_direction": 251,
+         "cloud_cover": 8
+      },
+      "2024-06-23": {
+         "rainfall": 15,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 74,
+         "rh_min": 42,
+         "wind_speed": 10,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "sesame",
+      "pigeon pea",
+      "mango",
+      "cucumber",
+      "okra/ladyfinger",
+      "menacinakahi",
+      "chilli",
+      "fresh water carp"
+   ],
+   "general_advisory": "Good quality seed reduces the necessary seed rate, provides healthy and strong seedlings, gives a uniform crop stand in the field, and results in higher yields. Good quality seed is clean (contains no stones, soil particles, weed seed), pure (contains only grains from one variety), and healthy (full big grains, same colour , no cracks). If you are using the own harvested seeds, then dissolve 1 kg salt in 10 litres of water for 10 kg of seed. Dip 2-3 kg of the seed at a time in the solution and reject the floating chaffy and weed seeds. Collect heavy seeds settled at bottom of the solution and wash them 2-3 times by clean water . Dry the seeds in direct sunlight for 2-3 days before treating them with fungicides.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "For Upland ecosystem, varieties which mature between 100-120 days are suitable for cultivation varieties like Khandagiri, Sahabhagi Dhan, DDR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama, Swarna Shreya etc can be cultivated in bunded upland condition. Seed treatment is necessary before sowing of Paddy . It will control Seed borne diseases to some extent. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram6/18/24, 4:02 PM District Advisory"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed rate for maize is 6-7kg/acre.T o avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS. Keep row to row spacing at 60 cm and plant to plant at 20 cm. To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough. Apply 55 kg of DAP  and 22-kg of potash as basal fertilizer . For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1-2 DAS."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "The weather is optimum for sowing of Sesame. Grow improved HYV  like Prachi, Kalika, Kanak, Vinayak etc. Use 1 to 1.2 kg seeds /acre. Before sowing treat the seeds with 3 g Ceresan/kg seeds. Apply 6:8:8 kg NPK/acre during final land preparation. Sow the seeds in lines at 30 cm apart with 10 cm between plants."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T- Arhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Harvesting and ripening of fruits. Hot water treatment of mango, if needed by dipping fruits in lukewarm water (48°C) for 1 hr to manage anthracnose and fruit fly . Management of stemborer by cleaning the affected stem and killing of larvae. Pit digging 1mX1mX1m and planting of saplings."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3-gram/litre or Fosetyl -AL 80 % WP @ 3-gram/litre or Carbendazim 12 % + Mancozeb 63 % WP @ 2-gram/litre."
+         ]
+      },
+      "okra/ladyfinger": {
+         "advisory": [
+            "The seed rate for HYV  okra is 4 -kg/acre whereas for hybrid the seed rate is 1.5 kg/acre. For providing resistance against infestation of sucking pests at early stage of crop, treat the seed with imidacloprid."
+         ]
+      },
+      "menacinakahi": {
+         "advisory": [
+            "There are chances of infestation of mites in chilli crop. Initial symptoms of severely infested plants are sudden downward curling and crinkling of leaves. Petiole in a few cases becomes elongated and later they stop growing and die. To manage infestation of mites in chilli spray Propar gite 57% EC @ 600-ml/acre or Spiromesifen 22.9% SC @ 160-ml/acre or Diafenthiuron 50% WP @ 250-gram/acre. There are chances of infestation of sucking pest like aphids and thrips in chilli crop. To manage aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . To manage these pests chemically spray Thiamethoxam 25 % WG @ 40-gram/acre Acetamiprid 20% S.P . @ 50-gram/acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "There are chances of infestation of mites in chilli crop. Initial symptoms of severely infested plants are sudden downward curling and crinkling of leaves. Petiole in a few cases becomes elongated and later they stop growing and die. To manage infestation of mites in chilli spray Propar gite 57% EC @ 600-ml/acre or Spiromesifen 22.9% SC @ 160-ml/acre or Diafenthiuron 50% WP @ 250-gram/acre. There are chances of infestation of sucking pest like aphids and thrips in chilli crop. To manage aphids and thrips in chilli during primary stage of pest infestation spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water . To manage these pests chemically spray Thiamethoxam 25 % WG @ 40-gram/acre Acetamiprid 20% S.P . @ 50-gram/acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+         ]
+      },
+      "fresh water carp": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly , should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally , a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality . In 8-10 months, fishes attain their marketable size."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

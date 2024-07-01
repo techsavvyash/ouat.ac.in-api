@@ -1,3 +1,104 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19-06-2024": {
+         "rainfall": 2,
+         "t_max": 38,
+         "t_min": 29,
+         "rh_max": 76,
+         "rh_min": 51,
+         "wind_speed": 27,
+         "wind_direction": 234,
+         "cloud_cover": 5
+      },
+      "20-06-2024": {
+         "rainfall": 4,
+         "t_max": 38,
+         "t_min": 28,
+         "rh_max": 73,
+         "rh_min": 53,
+         "wind_speed": 18,
+         "wind_direction": 214,
+         "cloud_cover": 6
+      },
+      "21-06-2024": {
+         "rainfall": 7,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 73,
+         "rh_min": 55,
+         "wind_speed": 13,
+         "wind_direction": 244,
+         "cloud_cover": 7
+      },
+      "22-06-2024": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 70,
+         "rh_min": 50,
+         "wind_speed": 14,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "23-06-2024": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 74,
+         "rh_min": 48,
+         "wind_speed": 16,
+         "wind_direction": 201,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "vegetables",
+      "fruit",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "For better agricultural benefits use, OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits &Vegetables, Value Added Products, Fingerlings/ Yearlings, Poultry chicks, Breeds, Mush room & Spawn, Bio -Fertilizer, Bio -Pesticides,Vermi  &Vermi Compost and Farm Implements).",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Prepare well pulverised nursery bed for Kharif Rice. Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed.",
+            "Instead of manual DSR followed by beushaning, farmers are advised to follow mechanized DSR cultivation with appropriate package of practices (Variety selection, Seed treatment, Nutrient management).",
+            "Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days. Arrange good quality seeds of @12kg/acre as green manuring crop."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Wrapping and propping should be done when the crop becomes 4-5 months old in medium and late duration varieties.",
+            "To control early shot borer, foliar spray of Fipronil 5SC @400 ml/acre is advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Prevailing dry weather condition may increase the mealy bug in okra & brinjal. To control this, spraying of Thiamethoxam 0.4 g/l of water is recommended.",
+            "For timely planting of kharif vegetables like brinjal & chilli, prepare the nursery bed & treat the seed with Carboxin+Thiram @2g/kg of seed.",
+            "To control Fruit and shoot borer in brinjal, tomato & okra, spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray."
+         ]
+      },
+      "fruit": {
+         "advisory": [
+            "Make lunar trench around the young fruit trees.",
+            "Provide necessary life shaving irrigation & vegetative mulching."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Considering high day temperature, raise water depth in the fish pond from 0.8 m to 1.0 m by adding fresh water.",
+            "Reduce feed quantity by 10-20% compared to normal conditions and make provisions for supplying cool water into the pond to maintain temperature."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "If animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., it must be done.",
+            "Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided in the daily ration during winter season to meet energy requirements of the animals."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

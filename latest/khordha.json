@@ -1,96 +1,117 @@
 {
    "weather_details": {
-      "19/06/2024": {
-         "rainfall": 2,
-         "t_max": 40,
-         "t_min": 29,
-         "rh_max": 62,
-         "rh_min": 45,
-         "wind_speed": 20,
-         "wind_direction": 216,
-         "cloud_cover": 6
-      },
-      "20/06/2024": {
-         "rainfall": 2,
-         "t_max": 39,
-         "t_min": 28,
-         "rh_max": 70,
-         "rh_min": 39,
-         "wind_speed": 19,
-         "wind_direction": 212,
-         "cloud_cover": 6
-      },
-      "21/06/2024": {
-         "rainfall": 4,
-         "t_max": 38,
-         "t_min": 27,
-         "rh_max": 65,
+      "29/06/2024": {
+         "rainfall": 17,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 68,
          "rh_min": 47,
          "wind_speed": 16,
-         "wind_direction": 248,
-         "cloud_cover": 7
+         "wind_direction": 216,
+         "cloud_cover": 8
       },
-      "22/06/2024": {
-         "rainfall": 6,
-         "t_max": 37,
-         "t_min": 26,
-         "rh_max": 66,
-         "rh_min": 41,
-         "wind_speed": 14,
-         "wind_direction": 225,
-         "cloud_cover": 7
-      },
-      "23/06/2024": {
-         "rainfall": 10,
-         "t_max": 36,
-         "t_min": 26,
+      "30/06/2024": {
+         "rainfall": 12,
+         "t_max": 33,
+         "t_min": 24,
          "rh_max": 68,
-         "rh_min": 40,
-         "wind_speed": 15,
+         "rh_min": 50,
+         "wind_speed": 16,
          "wind_direction": 238,
          "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 56,
+         "wind_speed": 17,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      },
+      "02/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 69,
+         "rh_min": 55,
+         "wind_speed": 17,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "03/07/2024": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 70,
+         "rh_min": 52,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
       "paddy",
-      "sugarcane",
-      "groundnut",
+      "maize",
+      "arhar",
       "okra",
-      "yam",
-      "fishery"
+      "sugarcane",
+      "papaya",
+      "poultry"
    ],
-   "general_advisory": "In view of light rainfall, the sowing of seeds and top dressing of fertilizers or herbicides may be deferred for the time being. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds. Sow the paddy seeds in line preferably with seed drill or three tyne cultivator-cum-seed drill or behind the country plough at 15 x 15 cm or 20 x10 cm spacing. Seed should be placed at a depth of 4-6 cm. Use 24-30 kg of paddy seeds/acre for broadcasting and 12- 16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed. For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Apply full dose of Phosphorus and Potash @ 12kg each /acre (preferably 75 kg SSP or 27 kg DAP + 20 kg MOP) as band placement behind the plough or by fertilizer cum seed drill in upland rice as basal dose. Arhar can be grown as an intercrop in groundnut at 6:2 row ratio (Groundnut: Arhar) for more profit and soil health management. ",
+   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field. Apply full dose of Phosphorus and Potash as basal dose. Arhar can be grown as an intercrop in groundnut for more profit. In okra, treat the seed with imidacloprid for pest resistance. Before sowing paddy seeds, treat them with Trichoderma powder or other seed treating chemicals. Farmers are advised to sow in sufficient soil moisture. Sow paddy seeds in line or behind the country plough at specific spacing and depth.",
    "crops_data": {
       "paddy": {
          "advisory": [
-            "PADDY: Wet bed nursery - In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds Apply light irrigations to the nursery area particularly in the evening so that the field remains wet and do not keep standing water. "
+            "For paddy cultivation, always use certified seeds",
+            "Germination test is advisable before sowing",
+            "Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed",
+            "Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field",
+            "Apply full dose of Phosphorus and Potash as basal dose",
+            "Farmers are advised to sow in sufficient soil moisture",
+            "Sow paddy seeds in line or behind the country plough at specific spacing and depth",
+            "Treat paddy seeds with Trichoderma powder or other seed treating chemicals before sowing"
          ]
       },
-      "sugarcane": {
+      "maize": {
          "advisory": [
-            "SUGARCANE: There are chances of early shoot borer infestation in sugarcane crop. Collect and destroy the egg masses manually. In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up. In case of severe infestation spray Fipronil 5 % SC @ 600ml/acre or Profenophos 50% EC @ 400ml/acre or Chlorantraniliprole 18.5 % SC @ 150 ml/acre by mixing it in 200 litre of water. "
+            "Seed rate for maize is 6-7kg/acre",
+            "Treat seeds to avoid Fall Army Worm infestation",
+            "Maintain specific spacing and plant population",
+            "Apply DAP and potash as basal fertilizer",
+            "Use Atrazine herbicide for weed control"
          ]
       },
-      "groundnut": {
+      "arhar": {
          "advisory": [
-            "GROUNDNUT: Apply 2 tonne of well decomposed FYM, 35 kg DAP and 4 kg Urea and 26 kg MOP per acre in the furrows before sowing as basal fertilizer. Apply well powdered Gypsum @ 100 kg/acre and incorporate into the soil along with the basal fertilizers, this will improve number of pods and pod filling. Mix the fertilizer with the soil so that seeds do not come in direct contact with the fertilizer. Keep line to line spacing of 30 cm and plant to plant spacing of 10 cm and put the seed in 3 cm depth. "
+            "Arhar can be grown as an intercrop in groundnut for more profit"
          ]
       },
       "okra": {
          "advisory": [
-            "OKRA: For HYV apply 26 kg of DAP, 20 kg of MOP and 10 kg of Urea as basal fertilizer by maintaining row to row and plant to spacing at 30 cm. For Hybrids apply 35 kg of DAP, 25 kg of MOP and 20 kg of Urea as basal fertilizer by maintaining row to row spacing at 60 cm whereas plant to spacing at 45 cm. "
+            "Treat okra seeds with imidacloprid for pest resistance"
          ]
       },
-      "yam": {
+      "sugarcane": {
          "advisory": [
-            "YAM: May to June is the optimum time for yam planting. Grow suitable high yielding varieties of yam like Local variety: Shreekirti, Shreerupa, Hatikhoj, Shreeshilpi, Small yam: Shreelata, Shreekala. White yam: Shreesubhra, Shreepriya, Shreedhanya. 8-10 quintals yam required for planting in one acre. Cut the yam into pieces of 150-200 g each. Dig out 1.5 ft. dia and 1.5ft deep holes at 3X3 ft spacing. Apply 5 tons FYM during final land preparation. Apply full P of the recommended fertilizer dose of 32:24:32 kg NPK/acre as basal. Plant the seed material at 5-10 cm sowing depth. Cover the beds with straw mulch of 5 cm height. "
+            "Manage early shoot borer infestation",
+            "Apply specific pesticides in case of severe infestation"
          ]
       },
-      "fishery": {
+      "papaya": {
          "advisory": [
-            "FISHERY: Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size. "
+            "Plant papaya seedlings at specific distance and pit size",
+            "Use disease-resistant and tissue culture seedlings"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation for poultry sheds",
+            "Keep the shed protected from insect pests",
+            "Perform deworming and vaccination of poultry birds"
          ]
       }
    },
-   "date": "18-06-2024"
+   "date": "28-06-2024"
 }

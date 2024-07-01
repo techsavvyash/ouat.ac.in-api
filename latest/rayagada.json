@@ -1,78 +1,66 @@
 {
    "weather_details": {
-      "2024-06-19": {
-         "rainfall": 2,
-         "t_max": 38,
-         "t_min": 26,
-         "rh_max": 84,
-         "rh_min": 30,
+      "2024-06-29": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 86,
+         "rh_min": 65,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      },
+      "2024-06-30": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 21,
+         "rh_max": 86,
+         "rh_min": 63,
          "wind_speed": 10,
-         "wind_direction": 234,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "2024-07-01": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 69,
+         "wind_speed": 10,
+         "wind_direction": 238,
          "cloud_cover": 6
       },
-      "2024-06-20": {
-         "rainfall": 5,
-         "t_max": 37,
-         "t_min": 26,
-         "rh_max": 73,
-         "rh_min": 34,
-         "wind_speed": 11,
-         "wind_direction": 246,
-         "cloud_cover": 7
-      },
-      "2024-06-21": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 80,
-         "rh_min": 57,
-         "wind_speed": 9,
-         "wind_direction": 245,
-         "cloud_cover": 7
-      },
-      "2024-06-22": {
-         "rainfall": 10,
-         "t_max": 36,
-         "t_min": 25,
-         "rh_max": 81,
-         "rh_min": 46,
+      "2024-07-02": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 65,
          "wind_speed": 10,
-         "wind_direction": 259,
-         "cloud_cover": 8
+         "wind_direction": 216,
+         "cloud_cover": 5
       },
-      "2024-06-23": {
-         "rainfall": 10,
-         "t_max": 35,
+      "2024-07-03": {
+         "rainfall": 2,
+         "t_max": 34,
          "t_min": 25,
-         "rh_max": 87,
-         "rh_min": 56,
-         "wind_speed": 8,
-         "wind_direction": 236,
-         "cloud_cover": 8
+         "rh_max": 82,
+         "rh_min": 63,
+         "wind_speed": 13,
+         "wind_direction": 244,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "rice",
-      "cotton",
-      "goat"
+      "rice"
    ],
-   "general_advisory": "Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as far as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over-aged seedlings if transplanted late. Go for non-paddy crops in the upland to avoid terminal drought.",
+   "general_advisory": "Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Sowing should be started soon after received of good amount (weekly average 10mm) of early monsoon showers where direct seeding is practiced. Incorporate FYM or compost @ 2000 Kg/acre. Apply 26 kg DAP and 20 kg MoP per acre during last ploughing. Sow the short duration varieties @ 25-30 kg/acre behind the plough with maintaining 15-20 cm row to row distance. Before sowing seed should be treated with Trichoderma viride @ 10 g or Carbendazim 50% WP @ 1.5 g/kg seed."
-         ]
-      },
-      "cotton": {
-         "advisory": [
-            "After monsoon rainfall go for ploughing. Plough the field with mould board plough or disc plough for deep ploughing. Keep the field clean. Apply 2 tonnes of compost during last ploughing. Purchase suitable hybrid seeds and fertilizers from licensed dealer. Avoid growing longer duration hybrids in Rainfed area."
-         ]
-      },
-      "goat": {
-         "advisory": [
-            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
+            "Upland rice varieties (Matures in 100-120 days) like Khandagiri, Sahabhagi Dhan, DRR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama etc. can be cultivated."
          ]
       }
    },
-   "date": "18-06-2024"
+   "date": "28-06-2024"
 }

@@ -1,3 +1,105 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19-06-2024": {
+         "rainfall": 2,
+         "t_max": 41,
+         "t_min": 30,
+         "rh_max": 72,
+         "rh_min": 30,
+         "wind_speed": 13,
+         "wind_direction": 240,
+         "cloud_cover": 5
+      },
+      "20-06-2024": {
+         "rainfall": 4,
+         "t_max": 40,
+         "t_min": 29,
+         "rh_max": 68,
+         "rh_min": 30,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "21-06-2024": {
+         "rainfall": 5,
+         "t_max": 39,
+         "t_min": 27,
+         "rh_max": 72,
+         "rh_min": 45,
+         "wind_speed": 12,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "22-06-2024": {
+         "rainfall": 10,
+         "t_max": 38,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 43,
+         "wind_speed": 12,
+         "wind_direction": 236,
+         "cloud_cover": 7
+      },
+      "23-06-2024": {
+         "rainfall": 10,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 52,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli"
+   ],
+   "general_advisory": "Conserve rainwater for utilization in land preparation by making bund and clogging the pores inside the field. Make necessary arrangements for field preparation as monsoon has already entered our state. Farmers are advised to provide necessary irrigation to the standing crops and keep fields free from weeds. Regular monitoring for insect pest incidence and pesticide application should be done by observing weather forecast. Farmers are advised to undertake soil test for Kharif crops.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Seed rate: 20kg/ac for transplanted paddy, 30-40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill.",
+            "Suitable varieties for upland, medium land, and low land conditions."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing completion by end of June.",
+            "Application of FYM or compost before ploughing.",
+            "Inter-cropping with pigeon pea and green gram/black gram."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Sowing completion by end of June.",
+            "Application of FYM, line sowing, and seed treatment.",
+            "Suitable varieties and fertilizer application."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Arrangement of good quality seeds.",
+            "Sowing timing considerations and application of FYM.",
+            "Seed treatment, suitable varieties, and fertilizer application."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Prepare raised bed nursery for timely planting.",
+            "Seed treatment and seed rate."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Prepare raised bed nursery for timely planting.",
+            "Seed treatment and seed rate."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

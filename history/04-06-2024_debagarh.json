@@ -54,12 +54,16 @@
    "names_of_crops": [
       "sri paddy",
       "ragi",
+      "kharif paddy",
       "ginger",
       "maize",
       "sunflower",
+      "animal",
+      "vegetables",
+      "pisciculture",
       "onion"
    ],
-   "general_advisory": "Due to the rain received, go for summer cultivation and mechanized cultivation will invert the soil and pest and pathogen will be exposed to the sun and get killed. In case of shortage of water, go for alternate row irrigation method for better utilization of water which saves around 50% water. Also, the drip irrigation system in Orchard saves water. Sprinkling irrigation method reduces the effect of high temperature. Farmers are advised to avoid exposure outside during the peak heat hours of the day.",
+   "general_advisory": "Due to the rain received, go for summer cultivation and mechanized cultivation will invert the soil and pests and pathogens will be exposed to the sun and get killed. In case of shortage of water, go for alternate row irrigation method for better utilization of water which saves around 50% water. Also, the drip irrigation system in orchards saves water. Sprinkling irrigation method reduces the effect of high temperature. Farmers are advised to avoid exposure outside during the peak heat hours of the day. Kharif 2024 crop planning: Choose the variety according to land type and resources available. Change the certified seeds after every three years. If using own seeds, test the germination test before sowing. In areas where rain is received, go for sowing the Dhaincha seeds @ 10kg/ac which should be incorporated in the field at 3 weeks stage prior to main kharif crop cultivation. It will condition the soil and add organic matter to the soil. Nursery Bed Preparation: Prepare a well-cultivated dry bed of size 10 decimal of land required for an acre of paddy transplantation. Beds of 3ft width, 6 inches height and length according to land are prepared keeping a 1ft gap between beds. 40 baskets of FYM are mixed in the bed. Sow 20 kg seeds in 10 decimal in lines and cover with soil.",
    "crops_data": {
       "sri paddy": {
          "advisory": [
@@ -71,9 +75,14 @@
             "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
          ]
       },
+      "kharif paddy": {
+         "advisory": [
+            "Prepare a well-cultivated dry bed of size 10 decimal of land required for an acre of paddy transplantation. Beds of 3ft width, 6-inch height and length according to land are prepared keeping a 1ft gap between beds. 40 baskets of FYM are mixed in the bed. Sow 20 kg seeds in 10 decimal in lines and cover with soil."
+         ]
+      },
       "ginger": {
          "advisory": [
-            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6 -8 q/ac. Each piece should be 20 g and contain 2 -3 eyes. Treat the seeds before planting in the field."
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6-8 q/ac. Each piece should be 20 g and contain 2-3 eyes. Treat the seeds before planting in the field."
          ]
       },
       "maize": {
@@ -83,12 +92,27 @@
       },
       "sunflower": {
          "advisory": [
-            "For good seed filling, apply 2 -3 g of Borax/liter of water. Early sown crop when the lower side of head turns yellow, go for cutting the head and dry it under the sun for 4 -5 days. If fruit borer attacks then go for spraying Bioinsecticide NPV @ 250 LE mixed in 200 Liters of water."
+            "For good seed filling, apply 2-3 g of Borax/liter of water. Early sown crop when the lower side of the head turns yellow, go for cutting the head and dry it under sun for 4-5 days. If fruit borer attacks then go for spraying Bioinsecticide NPV @ 250 LE mixed in 200 Liters of water."
+         ]
+      },
+      "animal": {
+         "advisory": [
+            "Due to rise in temperature provide the animal shed clean and sufficient drinking water. Maintain the cleanliness in the animal shed. Do not leave the animals during hot time of the day. Treat around 10 kg rhizome in 10 liters of water mixed with 40 g Mancozeb and 10 g Carbendazim and dry it under shade."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal Foot & Shoot borer can be managed by application of Neem-based pesticides 330 ppm @ 1 liter per acre."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Due to rise in temperature, survey for oxygen deficit may be there."
          ]
       },
       "onion": {
          "advisory": [
-            "Harvest the onion leaving 2 -3 cm from the neck and cut all the roots and dry it under the shed during high temperature."
+            "Harvest the onion leaving 2-3 cm from the neck and cut all the roots and dry it under a shed during high temperature."
          ]
       }
    },

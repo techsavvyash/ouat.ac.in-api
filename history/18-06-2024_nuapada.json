@@ -1,3 +1,134 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19-06-2024": {
+         "rainfall": 0,
+         "t_max": 42,
+         "t_min": 27,
+         "rh_max": 53,
+         "rh_min": 32,
+         "wind_speed": 17,
+         "wind_direction": 257,
+         "cloud_cover": 4
+      },
+      "20-06-2024": {
+         "rainfall": 2,
+         "t_max": 40,
+         "t_min": 26,
+         "rh_max": 61,
+         "rh_min": 31,
+         "wind_speed": 17,
+         "wind_direction": 252,
+         "cloud_cover": 5
+      },
+      "21-06-2024": {
+         "rainfall": 6,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 69,
+         "rh_min": 40,
+         "wind_speed": 14,
+         "wind_direction": 249,
+         "cloud_cover": 7
+      },
+      "22-06-2024": {
+         "rainfall": 7,
+         "t_max": 38,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 15,
+         "wind_direction": 253,
+         "cloud_cover": 7
+      },
+      "23-06-2024": {
+         "rainfall": 7,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 41,
+         "wind_speed": 12,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "kharif paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli",
+      "okra",
+      "cattle & buffalo",
+      "goat & sheep",
+      "poultry",
+      "pisciculture"
+   ],
+   "general_advisory": "Conserve rain water for utilising in land preparation by making bund and clogging the pores inside the field. Make necessary arrangements for field preparation as monsoon has already entered the state. Regular monitoring for incidence of insect pests should be done and application of pesticide should be done by observing weather forecast. Farmers are advised to undertake soil test to know the soil fertility status of their crop field prior to land preparation for Kharif crops. Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting.",
+   "crops_data": {
+      "kharif paddy": {
+         "advisory": [
+            "Seed rate: 20kg/ac for transplanted paddy, 30 -40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill.",
+            "Suitable Varieties: Khandagiri, Sahabhagi, Jyotirmayee, Mandakini, Phalguni, Bandana, Anjali etc. (100-110 days)"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Sowing should be completed by end of June to get higher yield.",
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Sowing should be completed by the end of June to get higher yield.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation"
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Arrange good quality seeds from reliable sources like Research institutes, KVK, OUAT, Block Agriculture Office etc.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation"
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Sowing should be completed by the end of July to get higher yield.",
+            "Apply well decomposed FYM @ 2t/acre at the time of land preparation."
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Provide shade & plenty of clean drinking water.",
+            "Improve ventilation in the barn/shed."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Allow them to drink water nearby pond during grazing hours.",
+            "Under prevailing weather condition, restrict from overcrowding and arrange a separate shed in case of limited space."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Don’t over crowd the poultry shed. Provide fan and sprinkle water 2 -3 times per day if required.",
+            "Provide adequate clean drinking water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "In prevailing weather condition, water depth in the fish pond should be raised from 0.8 m to 1.0 m by adding fresh water."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

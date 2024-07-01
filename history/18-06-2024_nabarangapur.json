@@ -1,3 +1,92 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19-06-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 63,
+         "rh_min": 36,
+         "wind_speed": 16,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "20-06-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 23,
+         "rh_max": 68,
+         "rh_min": 36,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "21-06-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 22,
+         "rh_max": 68,
+         "rh_min": 45,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "22-06-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 49,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "23-06-2024": {
+         "rainfall": 7,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 84,
+         "rh_min": 53,
+         "wind_speed": 15,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "maize",
+      "rice",
+      "ragi",
+      "ginger",
+      "turmeric"
+   ],
+   "general_advisory": "Plant protection spray schedules may be taken up when weather becomes clean and dry, but avoid in rainy days. Complete summer deep ploughing as early as possible to destroy the weed seeds and eggs of insect pests. Before kharif crop go for collection of soil sample and test it in nearby soil testing laboratory.",
+   "crops_data": {
+      "maize": {
+         "advisory": [
+            "This is the optimum time for sowing of maize, prepare the land and incorporate FYM @ 2 t/acre at final land preparation and during sowing time apply 35 kg DAP, 4 kg urea and 27 kg MoP per acre. Sow the maize seeds with a spacing of 60 x 20 -25 cm using 6 kg seeds/acre."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Those summer rice is at maturity stage go for harvesting when 80 -85% grains in the panicles are matured. Keep watch for rainfall before harvesting and harvested paddy kept in a safe place.",
+            "Sowing should be started soon after received of good amount of early monsoon showers where direct seeding is practiced. Incorporate well decomposed FYM or cow -dung @ 800 kg/acre. Apply 26 kg DAP and 20 kg MoP per acre during last ploughing. Sow the short duration varieties @ 25 -30 kg/acre behind the plough with maintaining 15 -20 cm row to row distance. Before sowing seed should be treated with Trichoderma viride @ 10 g or Carbendazim 50% WP @ 1.5 g/kg seed.",
+            "Farmers are advised for sowing of dhanicha seeds @ 10 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3 -4 weeks old before 10 -15 days of transplanting of rice. Apply all phosphatic fertilizers of Kharif rice to this green manuring crop in advance"
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "This is the optimum time for direct sowing ragi. Sow the seeds @ 4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Grow ginger with seed rate of 6 -8 q rhizome/acre with spacing of 30 cm x 25 cm. Farmers are advised to make raised bed with width of 1 m, height of 15 cm and of convenient length and channels of 40 cm for draining excess rain water. Apply well decomposed FYM @ 8 t/acre and neem cake @ 0.8 t/acre during last ploughing and during sowing time apply phosphorus @ 40 kg/acre and potash @ 20 kg /acre."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Grow turmeric with seed rate of 8 q rhizome/acre with spacing of 30 cm x 25 cm. Farmers are advised to make raised bed with width of 1 m, height of 15 cm and of convenient length and channels of 40 cm for draining excess rain water. Apply well decomposed FYM @ 9 t/acre and neem cake @ 0.8 t/acre during last ploughing and during sowing time apply phosphorus @ 12 kg/acre and potash @ 18 kg/acre."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

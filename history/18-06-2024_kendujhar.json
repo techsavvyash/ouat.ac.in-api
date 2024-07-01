@@ -1,3 +1,133 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19-06-2024": {
+         "rainfall": 2,
+         "t_max": 38,
+         "t_min": 29,
+         "rh_max": 76,
+         "rh_min": 35,
+         "wind_speed": 19,
+         "wind_direction": 216,
+         "cloud_cover": 6
+      },
+      "20-06-2024": {
+         "rainfall": 4,
+         "t_max": 37,
+         "t_min": 28,
+         "rh_max": 83,
+         "rh_min": 35,
+         "wind_speed": 11,
+         "wind_direction": 244,
+         "cloud_cover": 6
+      },
+      "21-06-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 84,
+         "rh_min": 60,
+         "wind_speed": 13,
+         "wind_direction": 259,
+         "cloud_cover": 7
+      },
+      "22-06-2024": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 82,
+         "rh_min": 60,
+         "wind_speed": 11,
+         "wind_direction": 279,
+         "cloud_cover": 7
+      },
+      "23-06-2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 48,
+         "wind_speed": 8,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "cowpea",
+      "lady finger",
+      "bitter gourd",
+      "brinjal",
+      "banana",
+      "guava"
+   ],
+   "general_advisory": "South west monsoon rain may commence from next 3-5 days. Those who have not prepared the field, cultivate it before the rain occurs. The seedlings in the nursery should be watered regularly till the rainfall happens. Make bunds to store rainwater for paddy cultivation.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Make the field ready for puddling.",
+            "Collect high yielding varieties (HYV) varieties like Sahabhagi, Lalat, Kalachampa, MTU7029 etc. of paddy seeds and soak them in water for 12 -24 hours.",
+            "After soaking, cover the seeds under gunny bags to give warmth and it will germinate rapidly.",
+            "Make proper bunds to retain water in the field.",
+            "Monitor the field for any diseases and pests.",
+            "Apply DAP 10 days prior to pulling out of seedlings at 21 -25 days.",
+            "Prepare the field ready for transplanting after 21 days of sowing."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Make proper irrigation channel to store water and remove excess stagnation of water.",
+            "Sowing of maize can be done with one irrigation after 1 day of sowing.",
+            "Apply pre-emergence herbicide Atrazine 50 WP @ 500 g/ha at 3 days after sowing to manage weeds.",
+            "Before sowing of the maize seeds, seed treatment with fungicides should be done.",
+            "50% N, full phosphorus and potash fertiliser should be applied to the crops.",
+            "Some of the earlier sown maize crops are in tasselling stage. In case of aphids infestation, spray Imidachloprid @ 2 ml/lt of water.",
+            "Application of 25% Nitrogen (in form of Urea) should be done at knee height stage or 25 days after sowing."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Spray Imidachloprid 17.8% SL @ 2.5 ml/lt of water to manage Thrips, ants and other sucking pests.",
+            "Irrigate the crop regularly.",
+            "Monitor the field regularly for disease and pests."
+         ]
+      },
+      "lady finger": {
+         "advisory": [
+            "Plough the land and add FYM @ 2.5 kg/acre.",
+            "Before sowing, treat the seeds with the Tricoderma viride @ 4 g/kg seeds.",
+            "For hybrids a seed rate of 2.5 kg/ha should be used with a spacing of 45 x 30 cm.",
+            "To manage Fusarium wilt in okra, treat the seeds with Mancozeb @ 3 g/kg of seeds."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Treat the seeds with Thiram @ 3 g/kg of seeds.",
+            "Sow the seeds and apply FYM and vermicompost 10 cm away from the root.",
+            "Provide first irrigation after sowing or transplanting of the cuttings."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "In raised nursery beds, sow the seeds at 10 cm apart.",
+            "Transplanting can be done 30 -35 days after sowing.",
+            "Sudden collapsing of the seedling is a symptom for damping off in nursery raising. To manage it, seed treatment with Agrosan or ceresin @ 2 g/kg of seeds is necessary."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Spray Dimethoate 30 EC @ 2 ml/lt of water to control banana aphids.",
+            "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves.",
+            "Prepare ring basin around the plant to store rainwater.",
+            "Provide support to the plants in case of fruiting."
+         ]
+      },
+      "guava": {
+         "advisory": [
+            "Apply Chloropyriphos near the root zone of the plant to avoid the ants and other insects.",
+            "Make circular ring for irrigation to the crop."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

@@ -65,44 +65,42 @@
    "crops_data": {
       "paddy": {
          "advisory": [
-            "Prepare a well cultivated dry bed for paddy transplantation."
+            "Prepare a well-cultivated dry nursery bed for paddy transplantation with FYM and sow seeds."
          ]
       },
       "summer pulses": {
          "advisory": [
-            "Harvest the crop at maturity stage."
+            "Harvest the crop at maturity stage to avoid pod shattering."
          ]
       },
       "ragi": {
          "advisory": [
-            "Choose good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac."
+            "Choose good varieties like Arjuna, Kalua, Sriprava and sow seeds after getting good rainfall."
          ]
       },
       "maize": {
          "advisory": [
-            "Choose good varieties like Klinga Maize, Prabal, etc @ 6 kg/ac. Apply basal dose of 8:16:16 kg NPK/ac after final land preparation."
+            "Choose good varieties like Klinga Maize, Prabal and apply basal dose of NPK after final land preparation."
          ]
       },
       "ginger": {
          "advisory": [
-            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6 -8 q/ac. Treat the seeds before planting in the field."
+            "Plant good quality ginger rhizomes like Suprava, Suruchi, Suravi after treating the seeds."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Sow good varieties like Roma, Suroma, Ranga and Rashmi. Seed rate is 8 -10 q/ac. The seed material should contain 2 -3 eyes and of 20 -25g per piece."
+            "Sow good varieties like Roma, Suroma, Ranga, Rashmi with appropriate seed rate and seed material."
          ]
       },
       "yam": {
          "advisory": [
-            "Seed rate is 8 -10 q/ac. The seed material should be of 150 -200 g. Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth."
+            "Plant yam with specific seed rate, seed material, and pit preparation."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre.",
-            "Due to weather, there may be attack of Mites, to manage this spray Dicofol @ 3 ml/liter of water.",
-            "In Cucurbits, prepare poison baits for white flies by mixing 2 ml Malathion and 20 g Jaggery in 1 liter of water and keep the baits near the plants."
+            "Manage pests like Foot & Shoot borer and Mites in vegetables using appropriate pesticides."
          ]
       }
    },

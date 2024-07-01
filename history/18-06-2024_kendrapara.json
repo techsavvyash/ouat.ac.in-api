@@ -1,3 +1,120 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19/06/2024": {
+         "rainfall": 0,
+         "t_max": 40,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 41,
+         "wind_speed": 23,
+         "wind_direction": 216,
+         "cloud_cover": 4
+      },
+      "20/06/2024": {
+         "rainfall": 2,
+         "t_max": 39,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 42,
+         "wind_speed": 19,
+         "wind_direction": 212,
+         "cloud_cover": 5
+      },
+      "21/06/2024": {
+         "rainfall": 6,
+         "t_max": 37,
+         "t_min": 26,
+         "rh_max": 68,
+         "rh_min": 48,
+         "wind_speed": 18,
+         "wind_direction": 236,
+         "cloud_cover": 7
+      },
+      "22/06/2024": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 71,
+         "rh_min": 46,
+         "wind_speed": 20,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "23/06/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 43,
+         "wind_speed": 19,
+         "wind_direction": 207,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "arhar",
+      "sugarcane",
+      "groundnut",
+      "okra",
+      "yam",
+      "carp",
+      "rohu",
+      "catla",
+      "mrigal"
+   ],
+   "general_advisory": "In view of light rainfall, the sowing of seeds and top dressing of fertilizers or herbicides may be deferred for the time being.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Arhar can be grown as an intercrop in groundnut at 6:2 row ratio (Groundnut: Arhar) for more profit and soil health management."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "There are chances of early shoot borer infestation in sugarcane crop. Collect and destroy the egg masses manually."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply well decomposed FYM, DAP, Urea, and MOP as basal fertilizer before sowing."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Apply Dap, MOP, and Urea as basal fertilizer for HYV and Hybrid varieties."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "May to June is the optimum time for yam planting. Grow suitable high yielding varieties of yam."
+         ]
+      },
+      "carp": {
+         "advisory": [
+            "Carp such as Rohu, Catla, and Mrigal should be stocked in a certain ratio to increase benefits."
+         ]
+      },
+      "rohu": {
+         "advisory": [
+            "Advisory information for rohu."
+         ]
+      },
+      "catla": {
+         "advisory": [
+            "Advisory information for catla."
+         ]
+      },
+      "mrigal": {
+         "advisory": [
+            "Advisory information for mrigal."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

@@ -1,73 +1,72 @@
 {
    "weather_details": {
-      "18.06.2024": {
+      "28.06.2024": {
          "rainfall": 0,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 95,
-         "rh_min": 65,
-         "wind_speed": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 15,
          "wind_direction": 120,
-         "cloud_cover": 3
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
-      "maize",
-      "groundnut",
-      "arhar",
-      "sunflower",
+      "finger millet",
+      "green gram",
+      "black gram",
       "sesame",
-      "brinjal",
-      "okra"
+      "groundnut",
+      "papaya",
+      "brinjal"
    ],
-   "general_advisory": "For better agricultural benefits, use OUAT KALINGA products (Seedlings, Saplings & QPM, Tissue Culture Plants, Fruits & Vegetables, Value Added Products, Fingerlings/Yearlings, Poultry chicks, Breeds, Mushroom & Spawn, Bio-Fertilizer, Bio-Pesticides, Vermi&VermiCompost, and Farm Implements). IMD Weather forecast and Agro-meteorological advisory of Odisha location is now available on Meghdoot mobile app in English and Odia language.",
+   "general_advisory": "Optimum weather conditions for sowing various crops like finger millet, sesame, and planting papaya. Implement pest control measures for brinjal.",
    "crops_data": {
-      "maize": {
+      "finger millet": {
          "advisory": [
-            "For one acre of maize cultivation 6-7 kg of seeds is required.",
-            "To avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole 19.8%+ Thiamethoxam 19.8% FS.",
-            "Keep row to row spacing at 60 cm and plant to plant at 20 cm.",
-            "To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough."
+            "Time for nursery sowing of finger millet.",
+            "Use high yielding varieties like Divyasingh, AKP-2, AKP-3, etc.",
+            "Treat seeds before sowing."
          ]
       },
-      "groundnut": {
+      "green gram": {
          "advisory": [
-            "Use suitable variety of Groundnut like Devi (ICGV-91114), Kadri-6, Kadri-9, TG-37A, TAG-51, TAG-38, TAG-24, Smruti, CO-7, Dharani etc.",
-            "Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+            "Seed treatment before sowing.",
+            "Plough field and apply fertilizers."
          ]
       },
-      "arhar": {
+      "black gram": {
          "advisory": [
-            "For Arhar cultivation the row to row and plant to plant spacing should be 60 cm and 20 cm respectively.",
-            "Sow the seeds in 3-5 cm depth.",
-            "Apply 52 kg DAP, 6 kg Urea and 14 kg MOP as basal fertilizer per acre."
-         ]
-      },
-      "sunflower": {
-         "advisory": [
-            "In Kharif season June 15 – July 15 is best time for Sunflower sowing purpose.",
-            "Some varieties with high yield are Morden (75-80 Days), E.C. 68414 (100-110 Days), E.C. 68415 (100-110 Days). Similarly some hybrid varieties are BSH-1, K BSH-1, JWALAMUKHI, PSC-36, PSC-1091, MLSFH-17, KBSH-44, and DRSH-1 (95-105 days) all are in 100 days duration."
+            "Seed treatment before sowing.",
+            "Apply fertilizers as per requirement."
          ]
       },
       "sesame": {
          "advisory": [
-            "Mid-June to mid-July is best time for sowing purpose of sesame in Kharif season.",
-            "Some improved varieties of kharif sesame are Uma, Usha, Prachi, Nirmala, Vinayak, Kanaka, Kalika etc.",
-            "3-4 kg seeds are required for sowing purpose for 1 acre area."
+            "Optimum weather for sowing sesame.",
+            "Use improved HYV like Asrit, Smarak, etc.",
+            "Treat seeds before sowing."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicide.",
+            "Follow specific instructions for vegetative growth."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Plant papaya seedlings at specified distances.",
+            "Use disease resistant and tissue culture seedlings."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Apply 20 kg Urea, 52 Kg DAP and 20 Kg MOP as basal fertilizer.",
-            "Maintain row to row spacing of 75 cm and plant to plant spacing of 60 cm."
-         ]
-      },
-      "okra": {
-         "advisory": [
-            "For HYV apply 26 kg of DAP, 20 kg of MOP and 10 kg of Urea as basal fertilizer by maintaining row to row and plant to spacing at 30 cm.",
-            "For Hybrids apply 35 kg of DAP, 25 kg of MOP and 20 kg of Urea as basal fertilizer by maintaining row to row spacing at 60 cm whereas plant to spacing at 45 cm."
+            "Install pheromone traps for pest management.",
+            "Use neem-based pesticide for control.",
+            "Implement chemical control if needed."
          ]
       }
    },
-   "date": "18-06-2024"
+   "date": "28-06-2024"
 }

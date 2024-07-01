@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "19-06-2024": {
-         "rainfall": 0,
-         "t_max": 40,
-         "t_min": 29,
-         "rh_max": 65,
-         "rh_min": 26,
-         "wind_speed": 18,
-         "wind_direction": 236,
-         "cloud_cover": 4
-      },
-      "20-06-2024": {
-         "rainfall": 2,
-         "t_max": 40,
-         "t_min": 28,
-         "rh_max": 65,
-         "rh_min": 31,
+      "2024-06-29": {
+         "rainfall": 25,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 82,
+         "rh_min": 45,
          "wind_speed": 12,
-         "wind_direction": 248,
-         "cloud_cover": 5
+         "wind_direction": 238,
+         "cloud_cover": 8
       },
-      "21-06-2024": {
-         "rainfall": 4,
-         "t_max": 38,
-         "t_min": 27,
-         "rh_max": 89,
-         "rh_min": 38,
+      "2024-06-30": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 55,
          "wind_speed": 13,
-         "wind_direction": 234,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      },
+      "2024-07-01": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 57,
+         "wind_speed": 14,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "2024-07-02": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 61,
+         "wind_speed": 18,
+         "wind_direction": 248,
          "cloud_cover": 6
       },
-      "22-06-2024": {
-         "rainfall": 10,
-         "t_max": 37,
-         "t_min": 26,
-         "rh_max": 83,
-         "rh_min": 56,
-         "wind_speed": 11,
-         "wind_direction": 234,
-         "cloud_cover": 7
-      },
-      "23-06-2024": {
-         "rainfall": 10,
+      "2024-07-03": {
+         "rainfall": 3,
          "t_max": 36,
-         "t_min": 25,
-         "rh_max": 75,
-         "rh_min": 44,
-         "wind_speed": 11,
-         "wind_direction": 243,
-         "cloud_cover": 7
+         "t_min": 27,
+         "rh_max": 85,
+         "rh_min": 63,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 5
       }
    },
    "names_of_crops": [
@@ -58,40 +58,40 @@
       "cow/buffalo",
       "poultry"
    ],
-   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is normal and both maximum and minimum temperature is also expected to be normal for Odisha state during 23rd to 29th June, 2024 and there is a chance of commencement of South West Monsoon in the second half of the upcoming week, farmers are advised to take necessary action towards kharif crop cultivation. In view of thunderstorm accompanied by gusty winds, provide mechanical support to orchards, staking in vegetables. Farmers should start nursery bed preparation for kharif paddy and vegetable crops and also start planting new fruit crops in orchard with the commencement of monsoon rain. Prevailing weather conditions are favorable for mealy bug attack in all types of crops so its regular monitoring should be advised.",
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is above normal and both maximum and minimum temperature is expected to be normal for Odisha state during 3rd July to 9th July, 2024 so, farmers are advised to take necessary action towards kharif crop cultivation and avoid irrigation during that period.\nIn view of thunderstorm accompanied with gusty winds, farmers should provide mechanical support to orchards, staking in vegetables and avoid grazing of animals during lightning. Farmers should start nursery bed preparation for kharif paddy and vegetable crops and also start planting new fruit crops in orchard by taking the advantage of past rainfall condition.\nPrevailing weather condition is favorable for mealy bug attack in all types of crops so farmers should spray Thiamethoxam 25% WG @ 0.5-0.6g or Imidacloprid 17.8 % SL @ 0.5ml or Lambda Cyhalothrin 4.9 % CS per liter of water to control these insects but farmers should wait some days for any spraying operation because there is a chance of occurrence of rainfall in upcoming days.",
    "crops_data": {
       "kharif rice": {
          "advisory": [
-            "Farmers are advised to make necessary arrangements to prepare field for nursery sowing of Paddy because there is a chance of commencement of monsoon with some amount of rainfall in the upcoming week.",
-            "Some of the improved rice varieties such as Khandagiri, Sahabhagi Dhan, Mandakini, Naveen etc., for upland, MTU 1156, MTU 1153, Lalat, Improved Lalat, MTU-1001, MTU-1010 for medium land and Pooja, Pratikshya, Swarna, Swarna Sub-1, Mrinalini, Hashanta, Rani Dhan, MTU-1064 etc. for low land conditions should be recommended. The seed should be purchased from any authentic source such as Research station, KVK, Agriculture office etc.",
+            "Looking to the past rainfall condition and chance of heavy rainfall in one or two places in upcoming days, farmers are advised to prepare field for nursery sowing of Paddy.",
             "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2g/kg of seeds or Trichoderma @ 10 g/kg of seeds."
          ]
       },
       "cotton": {
          "advisory": [
-            "Farmers should start land preparation for cultivation of cotton crop.",
-            "Seed rate: 800-1500 g per acre.",
-            "Seed treatment: Before sowing, seed should be treated with imidacloprid 70 WG @ 7 g/kg of seed for protection against sucking pests.",
-            "Spacing: For normal varieties: 90 × 45-60 cm and for hybrid it should be 90-120 × 90 cm.",
-            "Fertilizer Application: For Hybrid varieties 48 kg Nitrogen, 24 kg each Phosphorus and Potash whereas 32 kg Nitrogen, 16 kg each Phosphorus and Potash for normal varieties should be recommended. All Phosphorus and Potash and 1/4th of Nitrogen should be applied as basal and rest amount of nitrogen should be applied in 2 splits."
+            "Farmers who have not yet started field preparation for cultivation of cotton crop are advised to start the preparation as soon as possible.",
+            "Seed treatment with imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pests is recommended.",
+            "Fertilizer Application: For Hybrid varieties 48 kg Nitrogen, 24 kg Phosphorus and Potash whereas 32 kg Nitrogen, 16 kg each Phosphorus and Potash for normal varieties should be recommended."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Prevailing periodically cloudy and sunny condition is favorable for sucking insect pest attack in vegetable crops so its regular monitoring should be advised. If the attack of those insects is noticed, then spraying of Thiamethoxam 25% WG @ 0.2-0.3g or Imidacloprid 17.8% SL @ 0.3ml per liter of water should be advised.",
-            "As there is a chance of occurrence of rainfall expected in the upcoming days, farmers are advised to take proper care while conducting spraying operations and also start nursery bed preparation and sowing of kharif vegetable crops."
+            "Past weather condition is favorable for sucking insect pest attack in vegetable crops so regular monitoring should be advised.",
+            "If attack of those insects is noticed, then spraying of Thiamethoxam 25% WG @ 0.5-0.6g or Imidacloprid 17.8% SL @ 0.5ml per liter of water should be advised.",
+            "As there is a chance of occurrence of rainfall expected in upcoming days, farmers are advised to take proper care while conducting spraying operations."
          ]
       },
       "cow/buffalo": {
          "advisory": [
-            "Deworming and vaccination of animals against FMD, HS, and BQ should be ensured because with the commencement of the monsoon (during the rainy season) it spread rapidly among animals."
+            "Deworming and vaccination of animals against FMD, HS and BQ should be ensured at the beginning of the rainy season.",
+            "Soft and tender grass is more palatable to cattle, but magnesium deficiency is seen in dairy cows when eating too much litter, so a variety of grasses should be fed instead of just soft grass."
          ]
       },
       "poultry": {
          "advisory": [
-            "During the rainy season, make provision to ensure proper ventilation by allowing an opening of 1-2 ft at the top of side curtains during the day and the side walls of the empty shed should be completely covered with polythene curtains. The drainage ditch around the shed should be clear to avoid insect pest attack and in the roofs, the side overhangs should be minimum 3 to 4 ft to prevent the entry of direct rainwater into the shed. Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
+            "During the rainy season, make provision to ensure proper ventilation by allowing an opening of 1-2 ft at the top of side curtains during the day.",
+            "Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
          ]
       }
    },
-   "date": "18-06-2024"
+   "date": "28-06-2024"
 }

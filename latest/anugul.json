@@ -1,78 +1,78 @@
 {
    "weather_details": {
-      "2024-06-12": {
-         "rainfall": 0.0,
-         "t_max": 41,
-         "t_min": 25,
-         "rh_max": 64,
-         "rh_min": 23,
-         "wind_speed": 9,
-         "wind_direction": 155,
+      "2024-06-29": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "2024-06-30": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 84,
+         "rh_min": 53,
+         "wind_speed": 11,
+         "wind_direction": 249,
+         "cloud_cover": 8
+      },
+      "2024-07-01": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 82,
+         "rh_min": 56,
+         "wind_speed": 12,
+         "wind_direction": 249,
+         "cloud_cover": 6
+      },
+      "2024-07-02": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 57,
+         "wind_speed": 15,
+         "wind_direction": 248,
          "cloud_cover": 4
       },
-      "2024-06-13": {
-         "rainfall": 0.0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 60,
-         "rh_min": 17,
+      "2024-07-03": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 55,
          "wind_speed": 13,
-         "wind_direction": 161,
+         "wind_direction": 249,
          "cloud_cover": 3
-      },
-      "2024-06-14": {
-         "rainfall": 0.0,
-         "t_max": 41,
-         "t_min": 26,
-         "rh_max": 54,
-         "rh_min": 16,
-         "wind_speed": 13,
-         "wind_direction": 161,
-         "cloud_cover": 2
-      },
-      "2024-06-15": {
-         "rainfall": 0.0,
-         "t_max": 42,
-         "t_min": 26,
-         "rh_max": 43,
-         "rh_min": 11,
-         "wind_speed": 14,
-         "wind_direction": 255,
-         "cloud_cover": 7
-      },
-      "2024-06-16": {
-         "rainfall": 0.0,
-         "t_max": 43,
-         "t_min": 25,
-         "rh_max": 51,
-         "rh_min": 12,
-         "wind_speed": 16,
-         "wind_direction": 255,
-         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "cucumber",
+      "rice",
       "cow",
       "chicken"
    ],
-   "general_advisory": "Angul district is likely to receive no rainfall with mainly to generally cloudy sky. The maximum temperature may range from 41-43°C. The minimum temperature may range 25-26°C. The wind will blow usually Southerly with a speed of 9-16 kmph up to Saturday. The maximum and minimum humidity is likely to remain in the range of 43-64% and 11-23% respectively. For upland use 110-115 days duration varieties e.g Mandakini, Stybhama, Sahabhagi dhan. For medium land use variety having duration less than 140 days i.e Naveen, govind, Sampad, Manaswini. For lowland use varieties Hasanta, CR1014, CR1009, Sumit, Pratikhya, Swarna sub-1. The district is likely to experience heat wave in coming three days.",
+   "general_advisory": "In between last week of June and first week of July, the seedlings of Ridge gourd, cucumber, Pumpkin, spine gourd must be sown by making basin. Line sowing of Brinjal seedlings and okra seeds can be done.",
    "crops_data": {
-      "cucumber": {
+      "rice": {
          "advisory": [
-            "Frequent and light irrigation in the vegetable crops, attending reproductive stage i.e flowering and fruiting should be done in the rainless days to minimize flower and fruit drop in view of persisting hot days. Also use mulch to minimize evaporation of water from soil."
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
          ]
       },
       "cow": {
          "advisory": [
-            "The district is likely to experience heat wave in coming three days. Cover the windows of cow shelters with gunny bags and spray water to keep them moisten. Make adequate arrangement for drinking water."
+            "Due to forecast of light to moderate rainfall during the next 5 days, keep the animals indoor. In rainy season, dairy animals suffer with tick infestation. Farmers can spray ectoparasiticides like cypermethrin or deltamethrin 2-4% on animals’ body and also in the shed. If fever, shivering, brown coloured urine, off feed etc. are noticed, consult veterinary doctor immediately. Apply lime in and around shed which causes disinfection and keep floor dry. Make silage from surplus green fodder for easy storage and use during the lean period."
          ]
       },
       "chicken": {
          "advisory": [
-            "To protect Poultry birds from ongoing hot weather and minimize heat stress, make provision for adequate availability of drinking water, put wet gunny bags in the places left for ventilation in the noon hour."
+            "Prevent the feed ingredients from getting wet, and the amount of feed should not be too much. The compound feed in the house should be placed on the platform above the ground to prevent the feed from regaining moisture. Regular checking of feeders to avoid fungus contamination. Provide your birds with warm water periodically during this rainy season to encourage consumption and help them keep warm without using up energy reserved in the process. Supplementary feeding should be given to the scavenging birds in backyard."
          ]
       }
    },
-   "date": "11-06-2024"
+   "date": "28-06-2024"
 }

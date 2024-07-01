@@ -1,3 +1,99 @@
 {
-   "ERROR": "Not getting consistent data."
+   "weather_details": {
+      "19/06/2024": {
+         "rainfall": 0,
+         "t_max": 35,
+         "t_min": 30,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 28,
+         "wind_direction": 212,
+         "cloud_cover": 4
+      },
+      "20/06/2024": {
+         "rainfall": 4,
+         "t_max": 39,
+         "t_min": 29,
+         "rh_max": 79,
+         "rh_min": 48,
+         "wind_speed": 28,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "21/06/2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 71,
+         "rh_min": 53,
+         "wind_speed": 21,
+         "wind_direction": 216,
+         "cloud_cover": 6
+      },
+      "22/06/2024": {
+         "rainfall": 6,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 70,
+         "rh_min": 51,
+         "wind_speed": 21,
+         "wind_direction": 210,
+         "cloud_cover": 7
+      },
+      "23/06/2024": {
+         "rainfall": 4,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 73,
+         "rh_min": 49,
+         "wind_speed": 23,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "sugarcane",
+      "groundnut",
+      "okra",
+      "yam",
+      "fishery"
+   ],
+   "general_advisory": "In view of light rainfall, the sowing of seeds and top dressing of fertilizers or herbicides may be deferred for the time being. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds. Sow the paddy seeds in line preferably with seed drill or three tyne cultivator-cum-seed drill or behind the country plough at 15 x 15 cm or 20 x10 cm spacing.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed.",
+            "Apply full dose of Phosphorus and Potash @ 12kg each/acre (preferably 75 kg SSP or 27 kg DAP + 20 kg MOP) as basal dose."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "There are chances of early shoot borer infestation in sugarcane crop. Collect and destroy the egg masses manually.",
+            "Apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply 2 tonne of well decomposed FYM, 35 kg DAP and 4 kg Urea and 26 kg MOP per acre in the furrows before sowing as basal fertilizer."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "For HYV apply 26 kg of DAP, 20 kg of MOP and 10 kg of Urea as basal fertilizer by maintaining row to row and plant to spacing at 30 cm."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "May to June is the optimum time for yam planting. Grow suitable high yielding varieties of yam like Local variety: Shreekirti, Shreerupa, Hatikhoj, Shreeshilpi.",
+            "Cut the yam into pieces of 150-200 g each. Dig out 1.5 ft. dia and 1.5ft deep holes at 3X3 ft spacing."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits."
+         ]
+      }
+   },
+   "date": "18-06-2024"
 }

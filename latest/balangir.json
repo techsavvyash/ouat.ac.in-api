@@ -2,20 +2,20 @@
    "weather_details": {
       "2022-01-01": {
          "rainfall": 5,
-         "t_max": 25,
-         "t_min": 15,
+         "t_max": 28,
+         "t_min": 18,
          "rh_max": 80,
          "rh_min": 60,
-         "wind_speed": 10,
+         "wind_speed": 15,
          "wind_direction": 180,
          "cloud_cover": 4
       },
       "2022-01-02": {
          "rainfall": 2,
-         "t_max": 22,
-         "t_min": 12,
-         "rh_max": 75,
-         "rh_min": 55,
+         "t_max": 25,
+         "t_min": 17,
+         "rh_max": 85,
+         "rh_min": 65,
          "wind_speed": 12,
          "wind_direction": 200,
          "cloud_cover": 3
@@ -23,32 +23,26 @@
    },
    "names_of_crops": [
       "wheat",
-      "barley",
-      "maize",
-      "chicken"
+      "corn",
+      "poultry"
    ],
-   "general_advisory": "Sow wheat and barley early to avoid heat stress. Ensure proper ventilation for chicken.",
+   "general_advisory": "Sow wheat and corn seeds taking into consideration the predicted rainfall. Ensure proper ventilation for poultry.",
    "crops_data": {
       "wheat": {
          "advisory": [
-            "Plant wheat in well-drained soil. Apply nitrogen fertilizer for better growth."
+            "Sow wheat seeds in well-drained soil to prevent waterlogging."
          ]
       },
-      "barley": {
+      "corn": {
          "advisory": [
-            "Barley requires cool temperatures. Irrigate regularly to prevent water stress."
+            "Sow corn seeds in rows for easy maintenance and better growth."
          ]
       },
-      "maize": {
+      "poultry": {
          "advisory": [
-            "Maize needs full sun and well-drained soil. Watch out for common pests like corn earworm."
-         ]
-      },
-      "chicken": {
-         "advisory": [
-            "Provide fresh water and balanced feed to chickens. Keep the coop clean and well-ventilated."
+            "Provide adequate water and feed for poultry to cope with the expected weather conditions."
          ]
       }
    },
-   "date": "07-06-2024"
+   "date": "28-06-2024"
 }
