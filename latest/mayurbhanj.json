@@ -1,54 +1,54 @@
 {
    "weather_details": {
-      "2024-06-29": {
-         "rainfall": 15,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 76,
-         "rh_min": 54,
-         "wind_speed": 10,
-         "wind_direction": 195,
-         "cloud_cover": 8
-      },
-      "2024-06-30": {
-         "rainfall": 15,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 80,
-         "rh_min": 52,
-         "wind_speed": 11,
-         "wind_direction": 225,
-         "cloud_cover": 7
-      },
-      "2024-07-01": {
+      "2024-07-06": {
          "rainfall": 4,
          "t_max": 33,
          "t_min": 26,
-         "rh_max": 82,
-         "rh_min": 57,
-         "wind_speed": 13,
-         "wind_direction": 246,
-         "cloud_cover": 7
-      },
-      "2024-07-02": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 84,
-         "rh_min": 62,
-         "wind_speed": 17,
-         "wind_direction": 248,
+         "rh_max": 75,
+         "rh_min": 52,
+         "wind_speed": 14,
+         "wind_direction": 225,
          "cloud_cover": 6
       },
-      "2024-07-03": {
-         "rainfall": 1,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 84,
-         "rh_min": 70,
-         "wind_speed": 15,
-         "wind_direction": 249,
-         "cloud_cover": 5
+      "2024-07-07": {
+         "rainfall": 7,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 74,
+         "rh_min": 48,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "2024-07-08": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 80,
+         "rh_min": 50,
+         "wind_speed": 9,
+         "wind_direction": 198,
+         "cloud_cover": 8
+      },
+      "2024-07-09": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 82,
+         "rh_min": 59,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 8
+      },
+      "2024-07-10": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 55,
+         "wind_speed": 14,
+         "wind_direction": 204,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
@@ -56,73 +56,65 @@
       "maize",
       "sesame",
       "pigeon pea",
-      "mango",
       "cucumber",
-      "okra",
-      "chilli",
+      "okra/ladyfinger",
+      "banana",
       "brinjal",
-      "goat",
-      "fresh water carp"
+      "mango",
+      "goat"
    ],
-   "general_advisory": "The district is likely to receive very light to light rainfall with generally cloudy to overcast sky. The wind speed will remain within 10.0 to 17.0 kmph up to the next five days. The daily maximum temperature may range between 33.0°C to 35.0°C. The minimum temperature may rise between 25.0°C to 27.0°C. Relative humidity during morning may range between 76 to 84 percent and that during the afternoon may range between 52 to 70 percent. For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late. Incorporate well decomposed Farm Yard Manure or cow-dung @ 8 quintals /acre during the final land preparation in direct seeded rice.",
+   "general_advisory": "For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Farmers are advised to go for sowing of paddy in nursery bed in sufficient soil moisture (if the rainfall more than 75mm for preceding week). For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies.",
-            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds.",
-            "For Upland ecosystem, varieties which mature between 100-120 days are suitable for cultivation varieties like Khandagiri, Sahabhagi Dhan, DDR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama, Swarna Shreya etc can be cultivated in bunded upland condition. Seed treatment is necessary before sowing of Paddy. It will control Seed borne diseases to some extent. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP @ 3 gm/kg of seeds. Always use certified seeds and go for germination test before sowing. Use 20 kg of seeds for one acre of paddy cultivation. For medium land, varieties which mature in between 120 to 140 days are suitable. Varieties like MTU 1 156, MTU 1 153, CR Dhan 310, RGL 2538, Lalat, Improved Lalat, Manaswini, MTU-1001, Sampada, Gitanjali, Nua acharmati etc can be cultivated in medium land. For Low land ecosystem varieties which matures above 140 days are suitable. Varieties like Pratikshya, Swarna, Swarna Sub-1, RGL-2537, MTU-1075, Mrinalini, Hashanta, Rani Dhan, CR 1009, CR 1009 Sub-1, DRR 50, Pooja, MTU-1064, CR-1018, Sarala, Durga, Pradhan Dhan, Nua Kalajeera, Nua chinikamini, CR Sungadhi Dhan-907 etc can be cultivated in low land. Seed treatment is necessary before sowing of Paddy. It will control Seed borne diseases to some extent. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP @ 3 gm/kg of seeds. Always use certified seeds and go for germination test before sowing. Use 20 kg of seeds for one acre of paddy cultivation."
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities."
          ]
       },
       "maize": {
          "advisory": [
-            "Seed rate for maize is 6-7kg/acre. To avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS. Keep row to row spacing at 60 cm and plant to plant at 20 cm. To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough. Apply 55 kg of DAP and 22-kg of potash as basal fertilizer. For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1-2 DAS."
+            "Seed rate for maize is 6-7kg/acre."
          ]
       },
       "sesame": {
          "advisory": [
-            "The weather is optimum for sowing of Sesame. Grow improved HYV like Prachi, Kalika, Kanak, Vinayak etc. Use 1 to 1.2 kg seeds /acre. Before sowing treat the seeds with 3 g Ceresan/kg seeds. Apply 6:8:8 kg NPK/acre during final land preparation. Sow the seeds in lines at 30 cm apart with 10 cm between plants."
+            "The weather is optimum for sowing of Sesame."
          ]
       },
       "pigeon pea": {
          "advisory": [
-            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T-Arhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
-         ]
-      },
-      "mango": {
-         "advisory": [
-            "Harvesting and ripening of fruits. Hot water treatment of mango, if needed by dipping fruits in lukewarm water (48°C) for 1 hr to manage anthracnose and fruit fly. Management of stemborer by cleaning the affected stem and killing of larvae. Pit digging 1mX1mX1m and planting of saplings."
+            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T-Arhar etc."
          ]
       },
       "cucumber": {
          "advisory": [
-            "To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3-gram/litre or Fosetyl-AL 80 % WP @ 3-gram/litre or Carbendazim 12 % + Mancozeb 63 % WP @ 2-gram/litre."
+            "To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3-gram/litre or Fosetyl -AL 80 % WP @ 3-gram/litre or Carbendazim 12 % + Mancozeb 63 % WP @ 2-gram/litre."
          ]
       },
-      "okra": {
+      "okra/ladyfinger": {
          "advisory": [
-            "The seed rate for HYV okra is 4 -kg/acre whereas for hybrid the seed rate is 1.5 kg/acre. For providing resistance against infestation of sucking pests at early stage of crop, treat the seed with imidacloprid."
+            "The seed rate for HYV okra is 4 -kg/acre whereas for hybrid the seed rate is 1.5 kg/acre."
          ]
       },
-      "chilli": {
+      "banana": {
          "advisory": [
-            "There are chances of infestation of mites in chilli crop. Initial symptoms of severely infested plants are sudden downward curling and crinkling of leaves. Petiole in a few cases becomes elongated and later they stop growing and die. To manage infestation of mites in chilli spray Propargite 57% EC @ 600-ml/acre or Spiromesifen 22.9% SC @ 160-ml/acre or Diafenthiuron 50% WP @ 250-gram/acre. There are chances of infestation of sucking pest like aphids and thrips in chilli crop. To manage aphids and thrips in chilli during primary stage of pest infestation, spray neem-based pesticide (Azadirachtin) 1500 PPM @ 600-ml/acre by mixing in 200-litre of water. To manage these pests chemically spray Thiamethoxam 25 % WG @ 40-gram/acre Acetamiprid 20% S.P. @ 50-gram/acre or Profenophos 40 % + Fenpyroximate 2.5 % EC @ 400-ml/acre."
+            "To manage panama wilt, select disease free planting material and resistant cultivar like Bantal, Robusta, Champa, Kabuli etc."
          ]
       },
       "brinjal": {
          "advisory": [
-            "For cultivation of an acre of brinjal crop 200g of improved variety and 80g of hybrid seed is required. Some important varieties of Brinjal are Utkal tarini, Utkal Madhuri, Safed moti, VNR Long Purple, Akshita, VNR B5, Vairabi, Borigumma round etc. Ten days before sowing in the nursery bed 20kg of completely decomposed FYM should be well mixed with the soil. Seed treatment can be done with Carbendazim 50 % WP @ 2g/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP @ 3-gm/kg of seeds. After about 6 hours of seed treatment sow the seeds at 2.5 x 5cm at a depth of 1cm. After sowing, drench the soil with a mixture of 2-g Carbendazim. Cover the nursery bed with paddy straw or dried leaves for better germination. Dust Chlorpyriphos powder around the nursery bed to avoid the ants. 4 weeks old seedlings should be transplanted in the main field."
+            "For cultivation of an acre of brinjal crop 200g of improved variety and 80g of hybrid seed is required."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Harvesting and ripening of fruits."
          ]
       },
       "goat": {
          "advisory": [
-            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from the river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
-         ]
-      },
-      "fresh water carp": {
-         "advisory": [
-            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran are given in the same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "05-07-2024"
 }

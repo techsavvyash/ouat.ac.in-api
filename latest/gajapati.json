@@ -1,71 +1,83 @@
 {
    "weather_details": {
-      "2024-06-29": {
-         "rainfall": 20,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 86,
-         "rh_min": 63,
-         "wind_speed": 9,
-         "wind_direction": 249,
-         "cloud_cover": 8
-      },
-      "2024-06-30": {
-         "rainfall": 10,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 83,
-         "rh_min": 60,
-         "wind_speed": 9,
-         "wind_direction": 249,
-         "cloud_cover": 8
-      },
-      "2024-07-01": {
+      "2024-07-10": {
          "rainfall": 4,
          "t_max": 35,
          "t_min": 25,
-         "rh_max": 88,
-         "rh_min": 64,
-         "wind_speed": 10,
-         "wind_direction": 248,
+         "rh_max": 92,
+         "rh_min": 53,
+         "wind_speed": 6,
+         "wind_direction": 193,
          "cloud_cover": 7
       },
-      "2024-07-02": {
-         "rainfall": 2,
+      "2024-07-11": {
+         "rainfall": 3,
          "t_max": 36,
-         "t_min": 26,
-         "rh_max": 86,
-         "rh_min": 65,
-         "wind_speed": 9,
-         "wind_direction": 248,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 56,
+         "wind_speed": 7,
+         "wind_direction": 204,
          "cloud_cover": 6
       },
-      "2024-07-03": {
-         "rainfall": 1,
-         "t_max": 37,
-         "t_min": 27,
-         "rh_max": 82,
+      "2024-07-12": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 87,
+         "rh_min": 57,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "2024-07-13": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 87,
          "rh_min": 61,
-         "wind_speed": 10,
-         "wind_direction": 248,
-         "cloud_cover": 5
+         "wind_speed": 8,
+         "wind_direction": 270,
+         "cloud_cover": 6
+      },
+      "2024-07-14": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 63,
+         "wind_speed": 8,
+         "wind_direction": 288,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "rice",
-      "finger millet",
-      "maize",
       "cotton",
       "pigeon pea",
+      "finger millet",
+      "maize",
       "brinjal",
+      "pumpkin",
+      "cow",
       "goat",
-      "common carp"
+      "common fish"
    ],
-   "general_advisory": "The mean maximum daily temperature was 36.4°C and the mean minimum daily temperature was 26.7°C of the Gajapati district during the last week. The district received 68.0 mm of rainfall during the last week. For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
+   "general_advisory": "The mean maximum daily temperature was 35.4°C and the mean minimum daily temperature was 26.0°C of the Gajapati district during the last week. The district received 49.3 mm of rainfall during the last week. As per above forecast, light rain may continue up to next five days. So, farmers are advised to initiate field preparation by utilizing rainwater soon after cessation of rainfall. Farmers are advised to postpone irrigation to the standing crops by keeping in view of realized and anticipated rainfall and undertake necessary steps to remove excess water from the crop field. In view of high relative humidity due to expected rainfall along with cloudy weather, regular monitoring for incidence of insect pest should be done in standing crops and application of pesticide should be avoided for the time being. Protect the vegetable seedlings in nursery from rain by covering with polythene or by making a shed over the nursery bed.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing. Farmers can select Pigeon pea (8:2 row proportions) and green gram/black gram (1:2 row proportions) as intercrop. Dibble the seed in lines @ one seed per peat at a depth of 3 -5cm and cover the seed with soil. Provide a spacing of 90 cm x 60 cm in normal planting and 60 cm x 10 cm for high density planting system. Grow one variety throughout the village as far as possible and synchronize the sowing time in your village by complete the sowing within 10 -15 days to prevent pest attack. Seed should be treated with Imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pest. Seed rate-1kg/acre for normal planting and 5kg/acre for high density planting system. Suitable varieties: Hybrid varieties: JK-Dur ga, Atal, Dhano, Gabar , Sri Tulasi, Bhagya, Akka, Chandramukhi High yielding varieties: BS 30, BS 279, Surabhi, MCU-5 High density planting: Suraj, Supriya, PKV -081, NH-615, HD-123, BS 30 Recommended dose of Fertilizer: Apply DAP  @ 120kg/ac + MOP@ 24 kg/ac in Hybrid varieties and DAP  @ 90 kg/ac + MOP  @ 18 kg/ac in case of high yielding varieties at the time of sowing, however apply required dose of fertilizer according to the soil test report. Weed Management: Apply Pendimethalin 30% EC @ 1 liter/acre by mixing with 200 liters of water within 3 days after sowing and there should be suf ficient soil moisture in the soil."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Apply 2-4 tonnes of FYM per acre at the time of final land preparation. In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation. Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 15 cm. Treat the seed with Thiram (2gm) + Carbendazim (1gm) or Thiram @ 3 gm or Tricoderma virdie 5-7g /kg of seed. Culture: Rhizobium and PSB culture 7-10 g /kg seed. Seed rate-8kg/acre Suitable varieties: UP AS-120, Pusa-855, Pragati (ICPL-87), Dur ga, C-11, ICPL-88039 @ 130-140 days duration Asha (ICPL-871 19), Laxmi @ 160-180 days duration Recommended dose of Fertilizer: Apply DAP  35 kg/ac + MOP  13 kg/ac + Urea 5 kg/ac+ 60 kg Gypsum/Phospho-gypsum at the time of sowing, however apply required dose of fertilizer according to the soil test report. Weed Management: Apply Pendimethalin 30% EC @ 1 liter/acre by mixing with 200 liters of water within 2 days after sowing and there should be suf ficient soil moisture in the soil."
          ]
       },
       "finger millet": {
@@ -78,31 +90,31 @@
             "Seed rate for maize is 6-7kg/acre.T o avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS. Keep row to row spacing at 60 cm and plant to plant at 20 cm. To maintain optimum plant population, use seed drill for sowing or sow the seeds behind the plough. Apply 55 kg of DAP  and 22-kg of potash as basal fertilizer . For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre by mixing it in 200 litres of water within 1-2 DAS."
          ]
       },
-      "cotton": {
-         "advisory": [
-            "Start sowing of seeds on dry weather . For high yielding cotton keep row to row spacing of 90-cm and plant to plant 60-cm and for hybrid cotton keep plant to plant and row to row spacing at 90 cm. Sow two seeds per mound/pit at 4-5 cm depth and cover the soil. At the time of sowing apply 52 kg DAP , 7 Kg Urea and 20 kg Potash as basal fertilizer . Put some seeds in leaf pot or polythene at same time, when these seedlings are of 10 to 12 days old, gap filling can be done where the seeds are not germinated or replace the weaker plants. This will maintain proper plant population per unit area."
-         ]
-      },
-      "pigeon pea": {
-         "advisory": [
-            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T- Arhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
-         ]
-      },
       "brinjal": {
          "advisory": [
             "Apply 20 kg Urea, 52 Kg DAP  and 20 Kg MOP  as basal fertilizer . Maintain row to row spacing of 75 cm and plant to plant spacing of 60 cm."
          ]
       },
-      "goat": {
+      "pumpkin": {
          "advisory": [
-            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably . It is also easier to clean the faecal material over the sand floor . To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
+            "To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP (Hi-dice/Kocide) @ 3-gram/litre or Fosetyl -AL  80 % WP (Aliette) @ 3-gram/litre or Carbendazim 12 % + Mancozeb 63 % WP (Saaf/Sixer) @ 2-gram/litre."
          ]
       },
-      "common carp": {
+      "cow": {
          "advisory": [
-            "Carp such as Rohu, Catla and Mrigal, which grow rapidly , should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally , a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality . In 8-10 months, fishes attain their marketable size."
+            "Deworming and vaccination of animal against FMD, HS and BQ should be ensured because with commencement of monsoon (during rainy season) it spread rapidly among animals."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites. Keep animals indoor during rainy hours and provide clean and wholesome water ."
+         ]
+      },
+      "common fish": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly , should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally , a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality ."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "09-07-2024"
 }

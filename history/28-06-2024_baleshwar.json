@@ -1,0 +1,90 @@
+{
+   "weather_details": {
+      "29-06-2024": {
+         "rainfall": 12,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 59,
+         "wind_speed": 15,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "30-06-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 61,
+         "wind_speed": 16,
+         "wind_direction": 212,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 76,
+         "rh_min": 58,
+         "wind_speed": 17,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      },
+      "02-07-2024": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 76,
+         "rh_min": 60,
+         "wind_speed": 20,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "03-07-2024": {
+         "rainfall": 1,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 80,
+         "rh_min": 66,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "sugarcane",
+      "vegetables",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "1. As per IMD Forecast, Very Light to Light rainfall is expected in upcoming days, farmers are advised to take proper care while conducting spraying operations and also start nursery bed preparation for kharif crops & vegetables. 2. For Kharif paddy cultivation, use good quality seeds like - For Medium land - use Salandi, Kaling dhan -1301, Pratikhya (120-130 days) For shallow medium land - Swarna, Ranidhan, Mrunalini, MTU -1140, Kaling Dhan 1401 For Low land - Kaling Dhan 1502, Kalachampa, Kaling Dhan -1501, CR -1009 (140-145 days) 3. For Flood affected area - Swarna sub 1, CR -1009 Sub 1 4. Prevailing periodically cloudy and sunny condition is favourable for insect pest attack in vegetable crops so its regular monitoring should be advised. 5. Make necessary arrangements for field preparation as monsoon has already been entered in our state. 6. Farmers are advised to provide needful irrigation to the standing crops and vegetables.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Prepare well pulverised nursery bed for Kharif Rice. Sowing of pre-generated seeds should be done after seed treatment with Carbendazim @ 2 gm along with Plantomycin @ 1 gm per Kg seed. Instead of manual DSR followed by beushaning the farmers are advised to follow mechanized DSR cultivation with appropriate package of practices (Variety selection, Seed treatment, Nutrient management). Farmers are advised to go for summer ploughing by utilizing the rain received in recent past days. Arrange good quality seeds of @12kg/acre as green manuring crop."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Wrapping and propping should be done when the crop becomes 4-5 months old in medium and late duration varieties. To control early shot borer in sugarcane foliar spray of Fipronil 5SC @400 ml/acre is advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Prevailing periodically cloudy and sunny condition is favourable for sucking insect pest attack in vegetable crops so its regular monitoring should be advised. Prevailing weather condition may increase the mealy bug in okra & brinjal to control this spraying of Thiamethoxam 0.4 g/l of water recommended. For timely planting of kharif vegetables like Brinjal & Chilli, prepare the nursery bed & treat the seed with (Carboxin+Thiram)@2g/kg of seed. To control Fruit and shoot borer in Brinjal, Tomato & Okra Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. Later on go for alternate spray of Spinosad 45 SC @70ml/acre or Emamectin benzoate @80-100g/acre & Thiachloprid@250ml/l of water."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly, should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally, a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality. In 8-10 months, fishes attain their marketable size."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done. Animals should be given mineral mixture along with salt regularly and wheat grains, jaggery etc. may be provided @ 10%-20% in the daily ration during winter season to meet the energy requirement of the animals."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

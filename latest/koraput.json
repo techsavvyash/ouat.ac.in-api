@@ -1,44 +1,54 @@
 {
    "weather_details": {
-      "24-06-2024": {
-         "rainfall": 0,
+      "10-07-2024": {
+         "rainfall": 10,
+         "t_max": 27,
+         "t_min": 19,
+         "rh_max": 88,
+         "rh_min": 58,
+         "wind_speed": 8,
+         "wind_direction": 214,
+         "cloud_cover": 7
+      },
+      "11-07-2024": {
+         "rainfall": 4,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 86,
+         "rh_min": 60,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      },
+      "12-07-2024": {
+         "rainfall": 6,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 89,
+         "rh_min": 62,
+         "wind_speed": 12,
+         "wind_direction": 249,
+         "cloud_cover": 6
+      },
+      "13-07-2024": {
+         "rainfall": 7,
          "t_max": 30,
          "t_min": 21,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "rh_max": 88,
+         "rh_min": 70,
+         "wind_speed": 15,
+         "wind_direction": 252,
+         "cloud_cover": 7
       },
-      "25-06-2024": {
-         "rainfall": 0,
-         "t_max": 32,
-         "t_min": 22,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "26-06-2024": {
-         "rainfall": 1,
-         "t_max": 32,
-         "t_min": 21,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "27-06-2024": {
-         "rainfall": 62,
-         "t_max": 31,
+      "14-07-2024": {
+         "rainfall": 10,
+         "t_max": 30,
          "t_min": 20,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
+         "rh_max": 89,
+         "rh_min": 72,
+         "wind_speed": 14,
+         "wind_direction": 252,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
@@ -50,43 +60,48 @@
       "ginger",
       "turmeric"
    ],
-   "general_advisory": "Rainfall is expected during the next five days. Farmers are advised to spray only when the sky becomes clear and use a sticker with the spray solution. Proper arrangement for storing rainwater should be made in the field for irrigation during dry spells. Field preparation for non-paddy crops like pulse, oilseeds, and vegetables should be done in upland conditions with early sowing/transplanting. Plant protection measures should be taken for crops with possibilities of pest and disease build-up.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Complete sowing where direct seeding is practiced and incorporate well-decomposed FYM or cow dung. Apply DAP and MoP per acre during the last ploughing. Sow short-duration varieties behind the plough, treating the seed with Trichoderma viride or Carbendazim before sowing."
+            "Collect hybrid or high yielding varieties of paddy with resistance to diseases and insect pests as per the land situations of the farmers from nearby dealers.",
+            "Farmers are advised for sowing of dhanicha seeds @ 10 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3-4 weeks old at the time of transplanting of rice. Apply phosphatic fertilizer in the dhanicha fields required for paddy cultivation.",
+            "Transplant 15-25days seedling. Treat the nursery seedlings or root dip uprooted seedlings in the solution of neem oil @ 5ml/litre of water and metalaxyl + mancozeb @ 1.25 g/litre of water."
          ]
       },
       "maize": {
          "advisory": [
-            "Optimum time for sowing maize. Prepare the land and incorporate FYM at final land preparation. Apply DAP, urea, and MoP per acre during sowing. Sow maize seeds with specific spacing."
+            "Complete the sowing of 10 Kg Maize hybrid seed per acre with the spacing of 60 cm row to row and 20-25cm between plants.",
+            "Spray Atrazine @1Kg/acre within 2 days of sowing to control the weeds in maize field."
          ]
       },
       "ragi": {
          "advisory": [
-            "Optimum time for direct sowing ragi. Sow seeds with specific spacing and apply DAP and MoP at the time of sowing, treating the seeds before sowing."
+            "This is the optimum time for direct sowing ragi. Sow the seeds @ 4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed.",
+            "Sow 4Kg seeds of Arjun, Kalua, Bharabi, etc. high yielding ragi varieties per acre."
          ]
       },
       "tomato": {
          "advisory": [
-            "Apply specific pesticides if bacterial wilting is observed in tomatoes."
+            "If bacterial wilting observes in tomato, apply Plantomycin @ 1.0 g and Copper Oxychloride @ 2 g/litre of water."
          ]
       },
       "brinjal": {
          "advisory": [
-            "Control fruit and shoot borer in brinjal with specified sprays."
+            "To control fruit and shoot borer in brinjal spray neem-based pesticide 1500 ppm @ 3 ml/litre of water at initial stages. Later on go for alternate spray of Spinosad 45% SC @ 0.4 ml/litre of water and Thiodicarb 75% WP @ 1.25 g/litre of water at 15 days interval.",
+            "Chances of fruit rot infestation in chilli and brinjal, if observe spray Carbendazim 50% WP @ 2 g/litre of water or Copper oxycloride 50% WP @ 3 g/litre of water."
          ]
       },
       "ginger": {
          "advisory": [
-            "Grow ginger with specified seed rate and make raised beds with specific dimensions. Apply specific fertilizers during ploughing and sowing time."
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Grow turmeric with specified seed rate and make raised beds with specific dimensions. Apply specific fertilizers during ploughing and sowing time."
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "09-07-2024"
 }

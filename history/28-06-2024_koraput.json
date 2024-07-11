@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "24-06-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "25-06-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "26-06-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 21,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "27-06-2024": {
+         "rainfall": 62,
+         "t_max": 31,
+         "t_min": 20,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "ragi",
+      "tomato",
+      "brinjal",
+      "ginger",
+      "turmeric"
+   ],
+   "general_advisory": "Rainfall is expected during the next five days. Farmers are advised to spray only when the sky becomes clear and use a sticker with the spray solution. Proper arrangement for storing rainwater should be made in the field for irrigation during dry spells. Field preparation for non-paddy crops like pulse, oilseeds, and vegetables should be done in upland conditions with early sowing/transplanting. Plant protection measures should be taken for crops with possibilities of pest and disease build-up.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Complete sowing where direct seeding is practiced and incorporate well-decomposed FYM or cow dung. Apply DAP and MoP per acre during the last ploughing. Sow short-duration varieties behind the plough, treating the seed with Trichoderma viride or Carbendazim before sowing."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Optimum time for sowing maize. Prepare the land and incorporate FYM at final land preparation. Apply DAP, urea, and MoP per acre during sowing. Sow maize seeds with specific spacing."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Optimum time for direct sowing ragi. Sow seeds with specific spacing and apply DAP and MoP at the time of sowing, treating the seeds before sowing."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Apply specific pesticides if bacterial wilting is observed in tomatoes."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Control fruit and shoot borer in brinjal with specified sprays."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Grow ginger with specified seed rate and make raised beds with specific dimensions. Apply specific fertilizers during ploughing and sowing time."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Grow turmeric with specified seed rate and make raised beds with specific dimensions. Apply specific fertilizers during ploughing and sowing time."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

@@ -1,0 +1,131 @@
+{
+   "weather_details": {
+      "29/06/2024": {
+         "rainfall": 15,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 82,
+         "rh_min": 47,
+         "wind_speed": 10,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      },
+      "30/06/2024": {
+         "rainfall": 20,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 63,
+         "wind_speed": 12,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 88,
+         "rh_min": 58,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      },
+      "02/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 68,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      },
+      "03/07/2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 66,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "vegetables",
+      "paddy",
+      "summer pulses",
+      "ragi",
+      "maize",
+      "groundnut",
+      "ginger",
+      "turmeric",
+      "animal husbandry",
+      "yam"
+   ],
+   "general_advisory": "Farmers are advised to avoid exposure outside during the peak heat hours of the day. Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre.",
+            "Also due to weather there may be an attack of Mites, to manage this spray Dicofol @ 3 ml/liter of water.",
+            "In Cucurbits, prepare poison baits for white flies by mixing 2 ml Malathion and 20 g Jaggery in 1 liter of water and keep the baits near the plants."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Prepare a well cultivated dry bed of size 10 decimal of land required."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage. Avoid harvesting at over maturity stage as the pods will be shattered."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Choose good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties are Kalinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Choose good varieties like Dharani, Smruti, Kadri -6, Kalinga groundnut @ 75 kg/acre of pod. Treat the seeds with Vitavax power @ 2g/kg of seeds.",
+            "Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds. At final land preparation apply 2 t FYM, 1q gypsum along with 8:16:16 kg NPK/acre. The spacing is 30 X 10 cm."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6 -8 q/ac. Each piece should be 20 g and contain 2 -3 eyes. Treat the seeds before planting in the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Sow good varieties like Roma, Suroma, Ranga and Rashmi. Seed rate is 8 -10 q/ac. The seed material should contain 2 -3 eyes and of 20 -25g per piece."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Due to rise in temperature provide the animal shed clean and sufficient drinking water.",
+            "Maintain the cleanliness in the animal shed. Do not leave the animals during hot time of the day.",
+            "Treat around 10 kg rhizome in 10 liters of water mixed with 40 g Mancozeb and 10 g Carbendazim and dry it under shade."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 q/ac. The seed material should be of 150-200 g. Prepare the well pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

@@ -1,78 +1,84 @@
 {
    "weather_details": {
-      "2024-06-29": {
-         "rainfall": 15,
-         "t_max": 31,
+      "06.07.2024": {
+         "rainfall": 5,
+         "t_max": 28,
          "t_min": 22,
          "rh_max": 81,
-         "rh_min": 47,
-         "wind_speed": 11,
-         "wind_direction": 248,
-         "cloud_cover": 7
-      },
-      "2024-06-30": {
-         "rainfall": 20,
-         "t_max": 30,
-         "t_min": 21,
-         "rh_max": 84,
-         "rh_min": 53,
-         "wind_speed": 11,
-         "wind_direction": 249,
-         "cloud_cover": 8
-      },
-      "2024-07-01": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 21,
-         "rh_max": 82,
          "rh_min": 56,
-         "wind_speed": 12,
-         "wind_direction": 249,
+         "wind_speed": 13,
+         "wind_direction": 0,
          "cloud_cover": 6
       },
-      "2024-07-02": {
-         "rainfall": 3,
-         "t_max": 33,
-         "t_min": 23,
-         "rh_max": 86,
-         "rh_min": 57,
-         "wind_speed": 15,
-         "wind_direction": 248,
-         "cloud_cover": 4
-      },
-      "2024-07-03": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 85,
-         "rh_min": 55,
+      "07.07.2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 56,
          "wind_speed": 13,
-         "wind_direction": 249,
-         "cloud_cover": 3
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "08.07.2024": {
+         "rainfall": 7,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "09.07.2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 21,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "10.07.2024": {
+         "rainfall": 7,
+         "t_max": 28,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "rice",
-      "cow",
-      "chicken"
+      "rohu",
+      "catla",
+      "mrigal"
    ],
-   "general_advisory": "In between last week of June and first week of July, the seedlings of Ridge gourd, cucumber, Pumpkin, spine gourd must be sown by making basin. Line sowing of Brinjal seedlings and okra seeds can be done.",
+   "general_advisory": "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds. Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites. Keep animals indoor during rainy hours and provide clean and wholesome water.",
    "crops_data": {
-      "rice": {
+      "rohu": {
          "advisory": [
-            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
+            "Carp such as Rohu should be stocked in a certain ratio of 4:3:3 with Catla and Mrigal to increase benefits.",
+            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
          ]
       },
-      "cow": {
+      "catla": {
          "advisory": [
-            "Due to forecast of light to moderate rainfall during the next 5 days, keep the animals indoor. In rainy season, dairy animals suffer with tick infestation. Farmers can spray ectoparasiticides like cypermethrin or deltamethrin 2-4% on animals’ body and also in the shed. If fever, shivering, brown coloured urine, off feed etc. are noticed, consult veterinary doctor immediately. Apply lime in and around shed which causes disinfection and keep floor dry. Make silage from surplus green fodder for easy storage and use during the lean period."
+            "Carp such as Catla should be stocked in a certain ratio of 4:3:3 with Rohu and Mrigal to increase benefits.",
+            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
          ]
       },
-      "chicken": {
+      "mrigal": {
          "advisory": [
-            "Prevent the feed ingredients from getting wet, and the amount of feed should not be too much. The compound feed in the house should be placed on the platform above the ground to prevent the feed from regaining moisture. Regular checking of feeders to avoid fungus contamination. Provide your birds with warm water periodically during this rainy season to encourage consumption and help them keep warm without using up energy reserved in the process. Supplementary feeding should be given to the scavenging birds in backyard."
+            "Carp such as Mrigal should be stocked in a certain ratio of 4:3:3 with Rohu and Catla to increase benefits.",
+            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "05-07-2024"
 }

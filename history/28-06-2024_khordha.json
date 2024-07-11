@@ -1,0 +1,117 @@
+{
+   "weather_details": {
+      "29/06/2024": {
+         "rainfall": 17,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 47,
+         "wind_speed": 16,
+         "wind_direction": 216,
+         "cloud_cover": 8
+      },
+      "30/06/2024": {
+         "rainfall": 12,
+         "t_max": 33,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 50,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "01/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 70,
+         "rh_min": 56,
+         "wind_speed": 17,
+         "wind_direction": 243,
+         "cloud_cover": 7
+      },
+      "02/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 69,
+         "rh_min": 55,
+         "wind_speed": 17,
+         "wind_direction": 246,
+         "cloud_cover": 6
+      },
+      "03/07/2024": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 70,
+         "rh_min": 52,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "arhar",
+      "okra",
+      "sugarcane",
+      "papaya",
+      "poultry"
+   ],
+   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field. Apply full dose of Phosphorus and Potash as basal dose. Arhar can be grown as an intercrop in groundnut for more profit. In okra, treat the seed with imidacloprid for pest resistance. Before sowing paddy seeds, treat them with Trichoderma powder or other seed treating chemicals. Farmers are advised to sow in sufficient soil moisture. Sow paddy seeds in line or behind the country plough at specific spacing and depth.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "For paddy cultivation, always use certified seeds",
+            "Germination test is advisable before sowing",
+            "Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed",
+            "Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field",
+            "Apply full dose of Phosphorus and Potash as basal dose",
+            "Farmers are advised to sow in sufficient soil moisture",
+            "Sow paddy seeds in line or behind the country plough at specific spacing and depth",
+            "Treat paddy seeds with Trichoderma powder or other seed treating chemicals before sowing"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed rate for maize is 6-7kg/acre",
+            "Treat seeds to avoid Fall Army Worm infestation",
+            "Maintain specific spacing and plant population",
+            "Apply DAP and potash as basal fertilizer",
+            "Use Atrazine herbicide for weed control"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Arhar can be grown as an intercrop in groundnut for more profit"
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Treat okra seeds with imidacloprid for pest resistance"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Manage early shoot borer infestation",
+            "Apply specific pesticides in case of severe infestation"
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Plant papaya seedlings at specific distance and pit size",
+            "Use disease-resistant and tissue culture seedlings"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation for poultry sheds",
+            "Keep the shed protected from insect pests",
+            "Perform deworming and vaccination of poultry birds"
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

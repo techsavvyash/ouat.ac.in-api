@@ -1,0 +1,151 @@
+{
+   "weather_details": {
+      "29-06-2024": {
+         "rainfall": 25,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 81,
+         "rh_min": 55,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "30-06-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 84,
+         "rh_min": 63,
+         "wind_speed": 16,
+         "wind_direction": 257,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 61,
+         "wind_speed": 17,
+         "wind_direction": 249,
+         "cloud_cover": 7
+      },
+      "02-07-2024": {
+         "rainfall": 3,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 58,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "03-07-2024": {
+         "rainfall": 2,
+         "t_max": 37,
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 50,
+         "wind_speed": 18,
+         "wind_direction": 249,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "pigeon pea",
+      "green gram",
+      "black gram",
+      "arhar",
+      "hybrid maize",
+      "brinjal",
+      "chilli",
+      "okra",
+      "cattle",
+      "buffalo",
+      "goat",
+      "sheep"
+   ],
+   "general_advisory": "As per above forecast, rain may continue up to next two days. Farmers are advised to initiate field preparation by utilizing rainwater soon after cessation of rainfall. Farmers are advised to postpone irrigation to the standing crops by keeping in view of realized and anticipated rainfall and undertake necessary steps to remove excess water from the crop field. In view of high relative humidity due to expected rainfall along with cloudy weather, regular monitoring for incidence of insect pest should be done in standing crops and application of pesticide should be avoided for next two days keeping in view of weather forecast. Sowing of Kharif crops like Maize, Pigeon pea, Groundnut, Cotton, Green gram etc. should be completed soon after cessation of rainfall with availability of adequate soil moisture. Protect the vegetable seedlings in nursery from rain by covering with polythene or by making a shed over the nursery bed.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Seed rate: 20kg/ac for transplanted paddy, 30 -40 kg/ac for manual direct seeding and 10 kg/ac for mechanical direct seeding by seed drill.",
+            "Suitable Varieties: Upland condition: Khandagiri, Sahabhagi, Jyotirmayee, Mandakini, Phalguni, Bandana, Anjali etc. (100-110 days)"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Farmers can select Pigeon pea (8:2 row proportions) and green gram/black gram (1:2 row proportions) as intercrop."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Farmers can select Pigeon pea (8:2 row proportions) and green gram/black gram (1:2 row proportions) as intercrop."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Farmers can select Pigeon pea (8:2 row proportions) and green gram/black gram (1:2 row proportions) as intercrop."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Apply 2 -4 tonnes of FYM per acre at the time of final land preparation."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply 2 -4 tonnes of FYM per acre at the time of final land preparation."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Sowing should be completed by the end of July to get a higher yield."
+         ]
+      },
+      "cattle": {
+         "advisory": [
+            "Vaccinate against FMD, HS, BQ.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water."
+         ]
+      },
+      "buffalo": {
+         "advisory": [
+            "Vaccinate against FMD, HS, BQ.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites.",
+            "Dipping should be done in case of sheep against external parasites.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites.",
+            "Dipping should be done in case of sheep against external parasites.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

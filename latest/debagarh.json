@@ -1,129 +1,135 @@
 {
    "weather_details": {
-      "29/06/2024": {
-         "rainfall": 15,
-         "t_max": 33,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 47,
-         "wind_speed": 10,
-         "wind_direction": 248,
-         "cloud_cover": 7
-      },
-      "30/06/2024": {
-         "rainfall": 17,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 87,
-         "rh_min": 56,
-         "wind_speed": 10,
-         "wind_direction": 244,
-         "cloud_cover": 8
-      },
-      "01/07/2024": {
-         "rainfall": 5,
-         "t_max": 32,
-         "t_min": 23,
-         "rh_max": 87,
-         "rh_min": 58,
-         "wind_speed": 11,
-         "wind_direction": 249,
-         "cloud_cover": 7
-      },
-      "02/07/2024": {
+      "10/07/2024": {
          "rainfall": 2,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 88,
-         "rh_min": 63,
-         "wind_speed": 15,
-         "wind_direction": 248,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 41,
+         "wind_speed": 10,
+         "wind_direction": 154,
+         "cloud_cover": 6
+      },
+      "11/07/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 79,
+         "rh_min": 44,
+         "wind_speed": 9,
+         "wind_direction": 171,
+         "cloud_cover": 6
+      },
+      "12/07/2024": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 42,
+         "wind_speed": 8,
+         "wind_direction": 193,
          "cloud_cover": 7
       },
-      "03/07/2024": {
-         "rainfall": 1,
-         "t_max": 35,
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 8,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "14/07/2024": {
+         "rainfall": 10,
+         "t_max": 32,
          "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 62,
-         "wind_speed": 13,
-         "wind_direction": 252,
-         "cloud_cover": 6
+         "rh_max": 81,
+         "rh_min": 43,
+         "wind_speed": 8,
+         "wind_direction": 287,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
+      "kharif",
+      "paddy",
+      "summer pulses",
       "pulses",
-      "vegetables",
-      "direct seeded rice",
       "ragi",
       "maize",
       "groundnut",
       "ginger",
       "turmeric",
-      "yam"
+      "yam",
+      "vegetables"
    ],
-   "general_advisory": "Farmers are advised to avoid exposure outside during the peak heat hours of the day. Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
+   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
    "crops_data": {
+      "kharif": {
+         "advisory": [
+            "Choose the variety according to land type and resources available.",
+            "Aromatic paddy like New Kalajeera and Kalajeera, Nua Acharmati. Change the certified seeds after three years."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Prepare weel cultivated dry bed for transplantation.",
+            "Apply 4 kg urea for 10 decimal area."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage."
+         ]
+      },
       "pulses": {
          "advisory": [
-            "After the monsoon rainfall prepare the land and start sowing different pulses in the field."
-         ]
-      },
-      "vegetables": {
-         "advisory": [
-            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem-based pesticides 330 ppm @ 1 liter per acre.",
-            "Also, due to weather, there may be an attack of Mites, to manage this spray Dicofol @ 3 ml/liter of water.",
-            "In Cucurbits, prepare poison baits for white flies by mixing 2 ml Malathion and 20 g Jaggery in 1 liter of water. And keep the baits near the plants."
-         ]
-      },
-      "direct seeded rice": {
-         "advisory": [
-            "20 kg seed is required for one acre and sow the seeds in lines of spacing 20 cm behind the plough.",
-            "Treat the seeds before sowing for seed-borne diseases with Vitavax power @ 2 g /kg of seeds."
+            "After monsoon rainfall, start sowing different pulses in the field."
          ]
       },
       "ragi": {
          "advisory": [
-            "Choose good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+            "Choose good varieties like Arjuna, Kalua, Sriprava.",
+            "After good rainfall, prepare the land and sow the ragi seeds."
          ]
       },
       "maize": {
          "advisory": [
-            "Choose good varieties are Kalinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm.",
-            "Apply the basal dose of 8:16:16 kg NPK/ac after the final land preparation."
+            "Choose good varieties like Kalinga Maize, Prabal.",
+            "Apply basal dose of NPK after final land preparation."
          ]
       },
       "groundnut": {
          "advisory": [
-            "Choose good varieties like Dharani, Smruti, Kadri -6, Kalinga groundnut @ 75 kg/acre of pod.",
-            "Treat the seeds with Vitavax power @ 2g/kg of seeds. Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds.",
-            "At final land preparation apply 2 t FYM, 1q gypsum along with 8:16:16 kg NPK/acre.",
-            "The spacing is 30 X 10 cm."
+            "Choose good varieties like Dharani, Smruti, Kadri-6.",
+            "Treat the seeds with Vitavax power before sowing."
          ]
       },
       "ginger": {
          "advisory": [
             "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi.",
-            "Seed rate is 6 -8 q/ac.",
-            "Each piece should be 20 g and contain 2 -3 eyes.",
             "Treat the seeds before planting in the field."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Sow good varieties like Roma, Suroma, Ranga, and Rashmi.",
-            "Seed rate is 8 -10 q/ac.",
-            "The seed material should contain 2 -3 eyes and of 20 -25g per piece."
+            "Sow good varieties like Roma, Suroma, Ranga, Rashmi.",
+            "Seed rate is 8-10 quintals per acre."
          ]
       },
       "yam": {
          "advisory": [
-            "Seed rate is 8 -10 q/ac.",
-            "The seed material should be of 150 -200 g.",
-            "Prepare the well-pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth.",
-            "After planting the pits should be filled with equal quantity of FYM and topsoil."
+            "Seed rate is 8-10 quintals per acre.",
+            "Prepare well-pulverized field and make pits before planting."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, manage Foot & Shoot borer with Neem based pesticides.",
+            "Prepare poison baits for white flies in Cucurbits."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "09-07-2024"
 }

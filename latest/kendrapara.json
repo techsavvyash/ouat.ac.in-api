@@ -1,106 +1,107 @@
 {
    "weather_details": {
-      "29/06/2024": {
-         "rainfall": 12,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 73,
-         "rh_min": 51,
-         "wind_speed": 19,
-         "wind_direction": 212,
-         "cloud_cover": 8
-      },
-      "30/06/2024": {
-         "rainfall": 15,
+      "10/07/2024": {
+         "rainfall": 10,
          "t_max": 33,
-         "t_min": 24,
-         "rh_max": 71,
-         "rh_min": 54,
-         "wind_speed": 21,
-         "wind_direction": 225,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 56,
+         "wind_speed": 25,
+         "wind_direction": 202,
          "cloud_cover": 8
       },
-      "01/07/2024": {
-         "rainfall": 5,
+      "11/07/2024": {
+         "rainfall": 4,
          "t_max": 34,
-         "t_min": 25,
-         "rh_max": 68,
-         "rh_min": 53,
-         "wind_speed": 24,
-         "wind_direction": 246,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 56,
+         "wind_speed": 23,
+         "wind_direction": 202,
          "cloud_cover": 7
       },
-      "02/07/2024": {
-         "rainfall": 2,
+      "12/07/2024": {
+         "rainfall": 3,
          "t_max": 35,
          "t_min": 26,
-         "rh_max": 68,
+         "rh_max": 77,
          "rh_min": 53,
-         "wind_speed": 22,
-         "wind_direction": 246,
-         "cloud_cover": 5
+         "wind_speed": 17,
+         "wind_direction": 202,
+         "cloud_cover": 7
       },
-      "03/07/2024": {
-         "rainfall": 2,
-         "t_max": 36,
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
          "t_min": 27,
-         "rh_max": 69,
-         "rh_min": 49,
-         "wind_speed": 10,
-         "wind_direction": 249,
-         "cloud_cover": 4
+         "rh_max": 75,
+         "rh_min": 53,
+         "wind_speed": 13,
+         "wind_direction": 199,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 51,
+         "wind_speed": 11,
+         "wind_direction": 197,
+         "cloud_cover": 8
       }
    },
    "names_of_crops": [
-      "paddy",
+      "pulses",
       "maize",
-      "sugarcane",
+      "vegetables",
+      "groundnut",
+      "arhar",
       "papaya",
-      "poultry"
+      "mango"
    ],
-   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed. Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field. Apply full dose of Phosphorus and Potash. Farmers are advised to go for sowing in sufficient soil moisture. Sow the paddy seeds in line preferably with seed drill or three tine cultivator-cum-seed drill or behind the country plough at spacing. Seed should be placed at a depth of 4-6 cm.",
+   "general_advisory": "Keep rainwater in the main rice field by bunding for timely puddling and transplanting, cover the vegetable nursery with polythene, make provisions for drainage, wrapping and propping for sugarcane, apply proper fertilizer and pest management practices for various crops.",
    "crops_data": {
-      "paddy": {
+      "pulses": {
          "advisory": [
-            "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing.",
-            "Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed.",
-            "Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field.",
-            "Apply full dose of Phosphorus and Potash."
+            "Make provisions for drainage where pulses have been sown"
          ]
       },
       "maize": {
          "advisory": [
-            "Seed rate for maize is 6-7kg/acre.",
-            "To avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS.",
-            "Use seed drill for sowing or sow the seeds behind the plough.",
-            "Apply 55 kg of DAP and 22-kg of potash as basal fertilizer.",
-            "For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide @ 800 g /acre."
+            "In early planted maize, apply nitrogen fertilizer after receding of rain"
          ]
       },
-      "sugarcane": {
+      "vegetables": {
          "advisory": [
-            "Early shoot borer management - There are chances of early shoot borer infestation in sugarcane crop.",
-            "Collect and destroy the egg masses manually.",
-            "In furrow, apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up.",
-            "In case of severe infestation spray Fipronil 5 % SC @ 600ml/acre or Profenophos 50% EC @ 400ml/acre or Chlorantraniliprole 18.5 % SC @ 150- ml/acre by mixing it in 200-litre of water."
+            "Cover the vegetable nursery with polythene to protect from heavy rain",
+            "Manage mosaic disease transmitted by whitefly"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicide when soil is moist",
+            "Treat seeds with recommended species of Rhizobium bacterial culture"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Apply pre-emergence herbicide",
+            "Treat seeds with Carbendazim or Carboxin + Thiram WP"
          ]
       },
       "papaya": {
          "advisory": [
-            "Now the weather is optimum for planting of Papaya.",
-            "HYV for papaya are Honeydew, Coorg honey dew, CO-1, CO-2, Pusa delicious, Pusa majesty and Pusa giant.",
-            "Plant the seedling at 2.5 x 2.5 meter distance and 0.5 x 0.5 x 0.5 meter pit.",
-            "Disease resistance and Tissue culture seedling should be used."
+            "Now the weather is optimum for planting of papaya",
+            "Use high yielding varieties for papaya planting"
          ]
       },
-      "poultry": {
+      "mango": {
          "advisory": [
-            "During the rainy season, make provision to ensure proper ventilation by allowing an opening of 1-2 ft at the top of side curtains during the day.",
-            "The side walls of the empty shed should be completely covered with polythene curtains.",
-            "The drainage ditch around the shed should be clear to avoid insect pest attack.",
-            "Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
+            "July and August are optimal for mango planting",
+            "Use healthy unbranched grafted seedlings for planting"
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "09-07-2024"
 }

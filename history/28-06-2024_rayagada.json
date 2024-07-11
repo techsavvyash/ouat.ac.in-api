@@ -1,0 +1,66 @@
+{
+   "weather_details": {
+      "2024-06-29": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 86,
+         "rh_min": 65,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 8
+      },
+      "2024-06-30": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 21,
+         "rh_max": 86,
+         "rh_min": 63,
+         "wind_speed": 10,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "2024-07-01": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 69,
+         "wind_speed": 10,
+         "wind_direction": 238,
+         "cloud_cover": 6
+      },
+      "2024-07-02": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 65,
+         "wind_speed": 10,
+         "wind_direction": 216,
+         "cloud_cover": 5
+      },
+      "2024-07-03": {
+         "rainfall": 2,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 82,
+         "rh_min": 63,
+         "wind_speed": 13,
+         "wind_direction": 244,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "rice"
+   ],
+   "general_advisory": "Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Upland rice varieties (Matures in 100-120 days) like Khandagiri, Sahabhagi Dhan, DRR-42, DRR-44, DRR-46, Mandakini, Naveen, GB-1, Bina-1 1, MTU-1010, Satyabhama etc. can be cultivated."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

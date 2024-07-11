@@ -1,106 +1,97 @@
 {
    "weather_details": {
-      "29-06-2024": {
-         "rainfall": 25,
-         "t_max": 29,
-         "t_min": 22,
-         "rh_max": 84,
-         "rh_min": 59,
-         "wind_speed": 11,
-         "wind_direction": 246,
-         "cloud_cover": 8
-      },
-      "30-06-2024": {
-         "rainfall": 20,
-         "t_max": 28,
-         "t_min": 19,
+      "10-07-2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 24,
          "rh_max": 86,
-         "rh_min": 60,
-         "wind_speed": 10,
-         "wind_direction": 248,
-         "cloud_cover": 8
-      },
-      "01-07-2024": {
-         "rainfall": 6,
-         "t_max": 31,
-         "t_min": 23,
-         "rh_max": 85,
-         "rh_min": 68,
-         "wind_speed": 12,
-         "wind_direction": 248,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 163,
          "cloud_cover": 7
       },
-      "02-07-2024": {
-         "rainfall": 2,
+      "11-07-2024": {
+         "rainfall": 4,
          "t_max": 33,
-         "t_min": 24,
-         "rh_max": 88,
-         "rh_min": 60,
-         "wind_speed": 13,
-         "wind_direction": 248,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 56,
+         "wind_speed": 8,
+         "wind_direction": 206,
          "cloud_cover": 6
       },
-      "03-07-2024": {
-         "rainfall": 1,
+      "12-07-2024": {
+         "rainfall": 5,
          "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 64,
-         "wind_speed": 13,
-         "wind_direction": 249,
-         "cloud_cover": 5
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "13-07-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 257,
+         "cloud_cover": 6
+      },
+      "14-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 257,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "tomato/chilli",
       "rice",
-      "palak/leafy vegetables",
-      "maize",
-      "fishery",
-      "poultry"
+      "turmeric",
+      "chilli",
+      "ragi",
+      "cattle rearing"
    ],
-   "general_advisory": "Seeing the upcoming windy days, farmers are advised to postpone their spraying events. Seeing the upcoming rainfall event, make provisions for drainage of excess water to deter rotting and plantlet damage. Postpone the sowing for the rainfall. Seeing the onset of monsoon events, prepare the nursery beds with raised bed method. Make provision for giving anchor to fruit plants to prevent toppling.",
+   "general_advisory": "Make the main field puddle twice before transplanting the rice. If seed treatment is not done during sowing, then dip the root in Thiram or Bavistin before transplanting. Seeing the upcoming rainfall event, make provisions for drainage of excess water paddy and non-paddy fields.",
    "crops_data": {
-      "tomato/chilli": {
-         "advisory": [
-            "Stage - nursery",
-            "Water stagnation may cause root rot and motility.",
-            "Make provision to drain out excess water from nursery bed.",
-            "Cover the bed with polythene sheet during heavy rainfall."
-         ]
-      },
       "rice": {
          "advisory": [
-            "Stage - nursery",
+            "Dip the seedling in Bavistin before transplanting.",
             "Water stagnation may cause root rot and motility.",
             "Make provision to drain out excess water from nursery bed."
          ]
       },
-      "palak/leafy vegetables": {
+      "turmeric": {
          "advisory": [
-            "Cover the leafy veggies with polythene during rain and drain out excess water after rain recedes."
+            "Stage - Vegetative",
+            "Weeding at this stage is very important to avoid crop weed competition and promote better plant growth."
          ]
       },
-      "maize": {
+      "chilli": {
          "advisory": [
-            "Drain out excess water from the field to prevent rotting of seeds or delay sowing for a few days."
+            "Disease - damping off",
+            "Soil drenching with copper oxychloride 0.25%",
+            "Avoid shaded places for nursery establishment",
+            "Avoid flooding type of irrigation and maintain optimum moisture level in nursery"
          ]
       },
-      "fishery": {
+      "ragi": {
          "advisory": [
-            "Rainwater is acidic and can wash out alkaline materials from the edges of the pond and reduce pH of water in the pond.",
-            "To limit this, use lime along edges of the pond before it rains (apply it dryly) with 10 kg lime/100m2.",
-            "After the rain, use lime with 10-20 kg lime/ha."
+            "High yielding varieties like Arjun, Kalua, Godavari, Neelachal, Shubhra can be cultivated",
+            "Either transplanting or direct sowing can be taken up."
          ]
       },
-      "poultry": {
+      "cattle rearing": {
          "advisory": [
-            "Wet litter can cause the growth of mold, bacteria.",
-            "Can cause sores on food pads, hocks.",
-            "Provide fresh water.",
-            "Prevent the leakage in roof."
+            "Don’t let the cattle roam outside during lightning to avoid mishaps, keep them in cowshed and maintain cleanliness and hygiene."
          ]
       }
    },
-   "date": "28-06-2024"
+   "date": "09-07-2024"
 }

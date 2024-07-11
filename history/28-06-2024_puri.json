@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "29/06/2024": {
+         "rainfall": 15,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 73,
+         "rh_min": 61,
+         "wind_speed": 24,
+         "wind_direction": 225,
+         "cloud_cover": 8
+      },
+      "30/06/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 72,
+         "rh_min": 64,
+         "wind_speed": 26,
+         "wind_direction": 225,
+         "cloud_cover": 7
+      },
+      "01/07/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 72,
+         "rh_min": 68,
+         "wind_speed": 27,
+         "wind_direction": 243,
+         "cloud_cover": 5
+      },
+      "02/07/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 73,
+         "rh_min": 66,
+         "wind_speed": 24,
+         "wind_direction": 243,
+         "cloud_cover": 4
+      },
+      "03/07/2024": {
+         "rainfall": 1,
+         "t_max": 34,
+         "t_min": 28,
+         "rh_max": 72,
+         "rh_min": 60,
+         "wind_speed": 26,
+         "wind_direction": 246,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "sugarcane",
+      "papaya",
+      "poultry"
+   ],
+   "general_advisory": "For paddy cultivation, always use certified seeds. Germination test is advisable before sowing. Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed. Incorporate the dhaincha green manuring crop at the time of the initial puddling of the main field. Apply a full dose of Phosphorus and Potash as band placement behind the plough or by fertilizer cum seed drill in upland rice as a basal dose.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "For paddy cultivation, always use certified seeds.",
+            "Germination test is advisable before sowing.",
+            "Use 24-30 kg of paddy seeds/acre for broadcasting and 12-16 kg seeds/acre for sowing by seed drill depending on the test weight of the seed.",
+            "Incorporate the dhaincha green manuring crop at the time of initial puddling of the main field.",
+            "Apply full dose of Phosphorus and Potash as band placement behind the plough or by fertilizer cum seed drill in upland rice as a basal dose.",
+            "Sow the paddy seeds in line preferably with seed drill or three tyne cultivator-cum-seed drill or behind the country plough at 15 x 15 cm or 20 x10 cm spacing. Seed should be placed at a depth of 4-6 cm."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed rate for maize is 6-7kg/acre.",
+            "To avoid the infestation of Fall Army Worm, treat 1-kg seeds with 4-ml Cyantraniliprole19.8%+ Thiamethoxam 19.8% FS.",
+            "Keep row to row spacing at 60 cm and plant to plant at 20 cm.",
+            "Apply 55 kg of DAP and 22-kg of potash as basal fertilizer.",
+            "For chemical control of weeds in Maize, spray Atrazine 50 % W.P herbicide."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Early shoot borer management - Collect and destroy the egg masses manually.",
+            "Apply Fipronil 0.3% GR @ 10 kg/acre at the time of first earthing up.",
+            "In case of severe infestation spray appropriate insecticide."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Plant the seedling at recommended distances.",
+            "Use disease-resistant and tissue culture seedlings."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry sheds.",
+            "Clear drainage ditch to avoid insect pest attack.",
+            "Deworming and vaccination of poultry birds."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

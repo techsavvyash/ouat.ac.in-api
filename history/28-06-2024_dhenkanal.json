@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "28.06.2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 120,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "finger millet",
+      "green gram",
+      "black gram",
+      "sesame",
+      "groundnut",
+      "papaya",
+      "brinjal"
+   ],
+   "general_advisory": "Optimum weather conditions for sowing various crops like finger millet, sesame, and planting papaya. Implement pest control measures for brinjal.",
+   "crops_data": {
+      "finger millet": {
+         "advisory": [
+            "Time for nursery sowing of finger millet.",
+            "Use high yielding varieties like Divyasingh, AKP-2, AKP-3, etc.",
+            "Treat seeds before sowing."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Seed treatment before sowing.",
+            "Plough field and apply fertilizers."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Seed treatment before sowing.",
+            "Apply fertilizers as per requirement."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Optimum weather for sowing sesame.",
+            "Use improved HYV like Asrit, Smarak, etc.",
+            "Treat seeds before sowing."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicide.",
+            "Follow specific instructions for vegetative growth."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Plant papaya seedlings at specified distances.",
+            "Use disease resistant and tissue culture seedlings."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Install pheromone traps for pest management.",
+            "Use neem-based pesticide for control.",
+            "Implement chemical control if needed."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}

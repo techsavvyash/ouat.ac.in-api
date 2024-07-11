@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "29-06-2024": {
+         "rainfall": 30,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 75,
+         "rh_min": 44,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 8
+      },
+      "30-06-2024": {
+         "rainfall": 25,
+         "t_max": 33,
+         "t_min": 22,
+         "rh_max": 79,
+         "rh_min": 50,
+         "wind_speed": 17,
+         "wind_direction": 236,
+         "cloud_cover": 8
+      },
+      "01-07-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 23,
+         "rh_max": 76,
+         "rh_min": 54,
+         "wind_speed": 18,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "02-07-2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 80,
+         "rh_min": 46,
+         "wind_speed": 20,
+         "wind_direction": 248,
+         "cloud_cover": 5
+      },
+      "03-07-2024": {
+         "rainfall": 2,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 51,
+         "wind_speed": 16,
+         "wind_direction": 248,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "kharif rice",
+      "cotton",
+      "vegetable crops",
+      "cow/buffalo",
+      "poultry"
+   ],
+   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is above normal and both maximum and minimum temperature is expected to be normal for Odisha state during 3rd July to 9th July, 2024 so, farmers are advised to take necessary action towards kharif crop cultivation and avoid irrigation during that period.",
+   "crops_data": {
+      "kharif rice": {
+         "advisory": [
+            "Looking to the past rainfall condition and chance heavy rainfall in one or two places in upcoming days, farmers are advised to prepare field for nursery sowing of Paddy.",
+            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2g/kg of seeds or Trichoderma @ 10 g/kg of seeds."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Farmers those are not yet started field preparation for cultivation of cotton crop are advised to start the preparation as soon as possible.",
+            "Farmers may use a seed rate @ 800-1500 g per acre. Before sowing, seed should be treated with imidachloprid 70 WG @ 7 g/kg of seed for protection against sucking pests. Spacing should be 90 × 45-60 cm and 90-120 × 90 cm for normal and hybrid variety respectively."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Past weather (periodically cloudy and sunny) condition is favourable for sucking insect pest attack in vegetable crops so regular monitoring should be advised.",
+            "If attack of those insects is noticed, then spraying of Thiamethoxam 25% WG @ 0.5-0.6g or Imidacloprid 17.8 % SL @ 0.5ml per liter of water should be advised.",
+            "As there is a chance of occurrence of rainfall is expected in upcoming days, farmers are advised to take proper care while conducting spraying operations and also start nursery bed preparation and sowing of kharif vegetable crops with proper protection.",
+            "Heavy rainfall may occurred in one or two places over the district, so strengthening of drainage facilities should be advised to avoid water logged in vegetable field."
+         ]
+      },
+      "cow/buffalo": {
+         "advisory": [
+            "Deworming and vaccination of animal against FMD, HS and BQ should be ensured at the beginning of commencement of monsoon (rainy season) because with decrease in temperature and increase in humidity during the rainy season, there is an increase in the number of mosquitoes, flies and various microorganisms, and many types of infectious diseases which is spread rapidly among animals during this season.",
+            "Soft and tender grass is more palatable to cattle, but magnesium deficiency is seen in dairy cows when eating too much litter, so a variety of grasses should be fed instead of just soft grass."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "During rainy season, make provision to ensure proper ventilation by allowing an opening of 1-2 ft at the top of side curtains during the day and the side walls of the empty shed should be completely covered with polythene curtains. The drainage ditch around the shed should be clear/clean to avoid flies, insect pest attack and if possible, pesticides should be applied regularly to control flies and insects in the poultry farm. In the roofs, the side overhangs should be minimum 3 to 4 ft to prevent entry of direct rainwater into the shed. Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
+         ]
+      }
+   },
+   "date": "28-06-2024"
+}
