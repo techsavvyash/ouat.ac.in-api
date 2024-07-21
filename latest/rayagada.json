@@ -1,72 +1,85 @@
 {
    "weather_details": {
-      "2024-07-10": {
-         "rainfall": 6,
+      "2024-07-20": {
+         "rainfall": 30,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 91,
+         "rh_min": 69,
+         "wind_speed": 7,
+         "wind_direction": 252,
+         "cloud_cover": 8
+      },
+      "2024-07-21": {
+         "rainfall": 25,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 92,
+         "rh_min": 73,
+         "wind_speed": 9,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "2024-07-22": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 79,
+         "wind_speed": 11,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      },
+      "2024-07-23": {
+         "rainfall": 5,
          "t_max": 32,
          "t_min": 25,
-         "rh_max": 89,
-         "rh_min": 54,
-         "wind_speed": 6,
-         "wind_direction": 180,
-         "cloud_cover": 7
+         "rh_max": 86,
+         "rh_min": 71,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 6
       },
-      "2024-07-11": {
-         "rainfall": 4,
+      "2024-07-24": {
+         "rainfall": 5,
          "t_max": 33,
-         "t_min": 26,
-         "rh_max": 88,
-         "rh_min": 58,
-         "wind_speed": 8,
-         "wind_direction": 204,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 66,
+         "wind_speed": 17,
+         "wind_direction": 248,
          "cloud_cover": 6
-      },
-      "2024-07-12": {
-         "rainfall": 3,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 89,
-         "rh_min": 59,
-         "wind_speed": 8,
-         "wind_direction": 212,
-         "cloud_cover": 6
-      },
-      "2024-07-13": {
-         "rainfall": 3,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 89,
-         "rh_min": 63,
-         "wind_speed": 10,
-         "wind_direction": 288,
-         "cloud_cover": 6
-      },
-      "2024-07-14": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 91,
-         "rh_min": 62,
-         "wind_speed": 10,
-         "wind_direction": 270,
-         "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "pigeon pea",
-      "rice"
+      "rice",
+      "maize",
+      "mango",
+      "goat"
    ],
-   "general_advisory": "Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
+   "general_advisory": "Keep rain water in the main rice field by bunding for timely puddling and transplanting. Transplanting of paddy & Ragi to be started when seedlings are at 20-25 days old. Weeding & earthing in upland crops like cotton & maize.",
    "crops_data": {
-      "pigeon pea": {
-         "advisory": [
-            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, TArhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
-         ]
-      },
       "rice": {
          "advisory": [
-            "In zinc deficient areas apply Zinc Sulphate @ 10 kg/acre (once in two years) at the time of final land preparation. In boron deficient soil apply borax @ 2kg/ace at the time of final land preparation. Transplanting of 20-30 days old seedlings should be done at a spacing of 20 x15 cm, use 2-3 seedlings per hill for high yielding varieties. For hybrids use only 1-2 seedlings per hill. In Brown Plant Hopper (BPH) endemic areas, skip a row after each 8-10 rows of transplanting."
+            "Complete raising of wet bed rice nursery without any delay as fair amount rainfall is received during the next five days. Farmers who are going for transplanting of hybrid paddy should apply 52kg DAP and 40 kg MOP per acre during last puddling. For sandy soil apply 52 kg DAP  and 20 kg Potash per acre during last puddling. If soil is Zinc deficient as per soil testing report than apply Zinc Sulphate (21%) @ 10-kg/acre at every three years.",
+            "Transplanting of 20-25 days old seedlings should be done at a spacing of 20x15 cm, plant '1' seedling per hill for hybrids."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Stem borer infestation has been found in maize. Release 2000 eggs of Trycogramachilonies twice at 10 days interval. If not controlled by the above method, go for spraying of 2 ml Fipronil in 1 litre water."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "July and August is the optimum for mango planting. Grow Baiganpalli, Totapuri, Bombay green, Suvarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Rummani, Sindhu, Alphanso and Keshar, etc. Use healthy unbranched grafted seedlings. Plant the seedlings in 1x1x1 m pit at 05x05 m distance. Before planting apply 80:100:60 g of NPK and two baskets of compost/pit."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably. It is also easier to clean the faecal material over the sand floor. To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

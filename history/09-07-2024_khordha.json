@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "10/07/2024": {
+         "rainfall": 6,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 53,
+         "wind_speed": 18,
+         "wind_direction": 198,
+         "cloud_cover": 8
+      },
+      "11/07/2024": {
+         "rainfall": 7,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 54,
+         "wind_speed": 20,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "12/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 78,
+         "rh_min": 49,
+         "wind_speed": 18,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 73,
+         "rh_min": 49,
+         "wind_speed": 14,
+         "wind_direction": 205,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 76,
+         "rh_min": 47,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "arhar",
+      "vegetables",
+      "papaya",
+      "mango"
+   ],
+   "general_advisory": "Keep rain water in the main rice field by bunding for timely puddling and transplanting. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangements. In early planted maize and jute apply nitrogen fertilizer after receding of rain. Make provisions for drainage where kharif maize or pulses have been sown. If the sugarcane crop is 4-5 months old, then wrapping and propping should be done for medium and long duration varieties to keep the cane erect.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP during last puddling in 10-decimal nursery area.",
+            "Apply light irrigations to the nursery area so that the field remains wet and do not keep standing water.",
+            "Apply 4 kg of Urea at 15 DAS to the nursery area.",
+            "Apply Chlorantraniliprole 0.4 % G, Car tap Hydrochloride 4% GR, or Fipronil 0.3% GR in the 10 decimal nursery area 7 days before transplanting to manage pests."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC or Pendimethalin 30% EC at 1-2 DAS.",
+            "Treat the seeds with recommended species of Rhizobium bacterial culture before sowing."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Use improved varieties like PRG-235, PRG 176, VL ARHAR -1.",
+            "Apply recommended seed rate for early and late maturing varieties.",
+            "Seed treatment can be done with Carbendazim 50 % WP.",
+            "Quantity of seed treat with Carbendazim."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Seed Treatment with Imidacloprid 75 % WG.",
+            "Install yellow sticky traps starting from 10-12 DAS.",
+            "Spray neem-based pesticide starting from 15-DAS."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Use HYV papaya varieties for planting.",
+            "Plant seedlings at recommended distance and depth.",
+            "Use disease-resistant and tissue culture seedlings."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Plant mango varieties like Baiganpalli, Totapuri, Bombay green, etc.",
+            "Use healthy unbranched grafted seedlings.",
+            "Apply recommended NPK and compost before planting."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

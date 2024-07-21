@@ -1,94 +1,84 @@
 {
    "weather_details": {
-      "10-07-2024": {
-         "rainfall": 4,
-         "t_max": 36,
-         "t_min": 27,
-         "rh_max": 77,
-         "rh_min": 42,
-         "wind_speed": 10,
-         "wind_direction": 163,
+      "20-07-2024": {
+         "rainfall": 20,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 46,
+         "wind_speed": 12,
+         "wind_direction": 63,
+         "cloud_cover": 8
+      },
+      "21-07-2024": {
+         "rainfall": 20,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 49,
+         "wind_speed": 9,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "22-07-2024": {
+         "rainfall": 15,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 56,
+         "wind_speed": 11,
+         "wind_direction": 238,
          "cloud_cover": 7
       },
-      "11-07-2024": {
-         "rainfall": 5,
-         "t_max": 36,
-         "t_min": 27,
-         "rh_max": 76,
-         "rh_min": 45,
-         "wind_speed": 10,
-         "wind_direction": 214,
-         "cloud_cover": 6
-      },
-      "12-07-2024": {
-         "rainfall": 4,
-         "t_max": 37,
-         "t_min": 28,
-         "rh_max": 78,
-         "rh_min": 44,
-         "wind_speed": 10,
-         "wind_direction": 225,
-         "cloud_cover": 6
-      },
-      "13-07-2024": {
-         "rainfall": 4,
-         "t_max": 36,
-         "t_min": 28,
-         "rh_max": 80,
-         "rh_min": 45,
-         "wind_speed": 9,
-         "wind_direction": 252,
-         "cloud_cover": 6
-      },
-      "14-07-2024": {
-         "rainfall": 7,
-         "t_max": 35,
+      "23-07-2024": {
+         "rainfall": 10,
+         "t_max": 33,
          "t_min": 26,
-         "rh_max": 79,
-         "rh_min": 42,
-         "wind_speed": 9,
-         "wind_direction": 252,
+         "rh_max": 83,
+         "rh_min": 66,
+         "wind_speed": 19,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 60,
+         "wind_speed": 21,
+         "wind_direction": 248,
          "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "kharif rice",
-      "cotton",
+      "rice",
+      "maize",
       "vegetable crops",
-      "cow/buffalo",
-      "poultry"
+      "animal husbandry"
    ],
-   "general_advisory": "As per Extended Range Forecast of IMD, rainfall is normal and both maximum and minimum temperature is expected to be normal for Odisha state during 14th to 20th July, 2024 so, farmers are advised to take necessary action towards kharif crop cultivation. Farmers should start main field preparation for transplanting of paddy seedlings and vegetable crops and also start planting new fruit crops in orchard by taking the advantage of prevailing rainfall conditions. Prevailing weather condition is favorable for sucking insect pests such as mealy bug, aphids etc. attack in all type of crops so farmers should spray Thiamethoxam 25% WG @ 0.5-0.6g or Imidacloprid 17.8% SL @ 0.5ml or Lambda Cyhalothrin 4.9 % CS per liter of water to control these insects. Cloudy weather along with high relative humidity may favor various disease infestation in standing crop so its regular monitoring should be advised. Farmers are advised to store rainwater by making broad and elevated bunds for future use during any dry spells.",
+   "general_advisory": "As there is a chance of occurrence of light to moderate rainfall along with heavy rainfall in one or two places in upcoming days, farmers are advised to avoid irrigation as well as spraying operation during that period and should wait some days for transplanting of rice and planting of fruit and vegetable crops. Looking to the high wind speed condition make provision to support the crops.",
    "crops_data": {
-      "kharif rice": {
+      "rice": {
          "advisory": [
-            "By taking the advantage of previous rainfall farmers should start field preparation for nursery sowing of Paddy. Wet bed nursery should be selected for assured irrigated areas close to source of irrigation water with good drainage facilities. Divide nursery area into smaller plots of 1.5-metre-long, 10-15 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage.",
-            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2g/kg of seeds or Trichoderma @ 10 g/kg of seeds.",
-            "Soak the seeds in water for 24 hours and then drain out the water and keep the seeds in a gunny bag. Once the seeds sprout, use it for sowing."
+            "Nursery sowing should be completed by end of 2nd fortnight of July."
          ]
       },
-      "cotton": {
+      "maize": {
          "advisory": [
-            "Farmers who have already done sowing are advised to thin weaker plants in the cotton field at 10-12 days after germination and gap filling is done with planting of seedlings raised in polythene bags. Keep the field weed-free up to 60 days after sowing."
+            "The ideal sowing time is June 20 to end of July for kharif maize."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Prevailing weather (periodically cloudy and sunny) condition is favorable for sucking insect pest attack in nursery of vegetable crops so its regular monitoring should be advised and after noticing the attack, spraying of Thiamethoxam 25% WG @ 0.5-0.6g or Imidacloprid 17.8% SL @ 0.5ml per liter of water should be advised under clear weather.",
             "Farmers should start raised bed nursery preparation for kharif vegetable crops with proper drainage system to avoid waterlogging."
          ]
       },
-      "cow/buffalo": {
+      "animal husbandry": {
          "advisory": [
-            "Deworming and vaccination of animals against FMD, HS, and BQ should be ensured at the beginning of the monsoon (rainy season) because with a decrease in temperature and increase in humidity during the rainy season, there is an increase in the number of mosquitoes, flies, and various microorganisms, and many types of infectious diseases which spread rapidly among animals during this season.",
-            "Soft and tender grass is more palatable to cattle, but magnesium deficiency is seen in dairy cows when eating too much litter, so a variety of grasses should be fed instead of just soft grass."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "During the rainy season, make provision to ensure proper ventilation by allowing an opening of 1-2 ft at the top of side curtains during the day and the side walls of the empty shed should be completely covered with polythene curtains. The drainage ditch around the shed should be clear/clean to avoid flies, insect pest attack and if possible, pesticides should be applied regularly to control flies and insects in the poultry farm. In the roofs, the side overhangs should be a minimum of 3 to 4 ft to prevent entry of direct rainwater into the shed. Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
+            "Deworming and vaccination of animals against some infectious diseases should be ensured."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

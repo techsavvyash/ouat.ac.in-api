@@ -1,0 +1,107 @@
+{
+   "weather_details": {
+      "10/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 56,
+         "wind_speed": 25,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "11/07/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 78,
+         "rh_min": 56,
+         "wind_speed": 23,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "12/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 77,
+         "rh_min": 53,
+         "wind_speed": 17,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 75,
+         "rh_min": 53,
+         "wind_speed": 13,
+         "wind_direction": 199,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 12,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 51,
+         "wind_speed": 11,
+         "wind_direction": 197,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "pulses",
+      "maize",
+      "vegetables",
+      "groundnut",
+      "arhar",
+      "papaya",
+      "mango"
+   ],
+   "general_advisory": "Keep rainwater in the main rice field by bunding for timely puddling and transplanting, cover the vegetable nursery with polythene, make provisions for drainage, wrapping and propping for sugarcane, apply proper fertilizer and pest management practices for various crops.",
+   "crops_data": {
+      "pulses": {
+         "advisory": [
+            "Make provisions for drainage where pulses have been sown"
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "In early planted maize, apply nitrogen fertilizer after receding of rain"
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Cover the vegetable nursery with polythene to protect from heavy rain",
+            "Manage mosaic disease transmitted by whitefly"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply pre-emergence herbicide when soil is moist",
+            "Treat seeds with recommended species of Rhizobium bacterial culture"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Apply pre-emergence herbicide",
+            "Treat seeds with Carbendazim or Carboxin + Thiram WP"
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Now the weather is optimum for planting of papaya",
+            "Use high yielding varieties for papaya planting"
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "July and August are optimal for mango planting",
+            "Use healthy unbranched grafted seedlings for planting"
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

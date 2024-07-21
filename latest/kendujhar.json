@@ -1,92 +1,133 @@
 {
    "weather_details": {
-      "10-07-2024": {
-         "rainfall": 5,
-         "t_max": 33,
+      "20-07-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 64,
+         "wind_speed": 14,
+         "wind_direction": 68,
+         "cloud_cover": 8
+      },
+      "21-07-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 103,
+         "cloud_cover": 8
+      },
+      "22-07-2024": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 59,
+         "wind_speed": 8,
+         "wind_direction": 120,
+         "cloud_cover": 7
+      },
+      "23-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 68,
+         "wind_speed": 17,
+         "wind_direction": 249,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
          "t_min": 25,
          "rh_max": 88,
-         "rh_min": 50,
-         "wind_speed": 11,
-         "wind_direction": 162,
-         "cloud_cover": 7
-      },
-      "11-07-2024": {
-         "rainfall": 6,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 86,
-         "rh_min": 53,
-         "wind_speed": 10,
-         "wind_direction": 199,
-         "cloud_cover": 6
-      },
-      "12-07-2024": {
-         "rainfall": 6,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 86,
-         "rh_min": 48,
-         "wind_speed": 10,
-         "wind_direction": 163,
-         "cloud_cover": 6
-      },
-      "13-07-2024": {
-         "rainfall": 6,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 52,
-         "wind_speed": 7,
-         "wind_direction": 191,
-         "cloud_cover": 7
-      },
-      "14-07-2024": {
-         "rainfall": 10,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 53,
-         "wind_speed": 6,
-         "wind_direction": 202,
+         "rh_min": 67,
+         "wind_speed": 21,
+         "wind_direction": 248,
          "cloud_cover": 8
       }
    },
    "names_of_crops": [
       "paddy",
       "maize",
-      "vegetables",
-      "cowpea"
+      "lady finger",
+      "bitter gourd",
+      "brinjal",
+      "cowpea",
+      "banana",
+      "guava",
+      "papaya"
    ],
-   "general_advisory": "Irrigate the crop, if it shows soil moisture deficient. Prepare the field for paddy transplantation. Spraying of insecticides and pesticides should be done at early morning or during evening hours. Avoid water stagnation near the root zone of the plant.",
+   "general_advisory": "Farmers are advised to continue their transplanting activities as good rainfall is expected. Make bunds to store rainwater. Prepare the field for paddy transplantation. Postpone the spraying of fertilisers and pesticides for the next 4-5 days. Spraying of insecticides and pesticides should be done in the early morning or during evening hours.",
    "crops_data": {
       "paddy": {
          "advisory": [
+            "It is advised to take short duration varieties like - Sahabhagi dhan, Mandakini, Bina-11, Jogesh, Sidhhanta etc.",
             "Make sure the soil is well puddled before transplanting of paddy.",
-            "Be careful while transplanting. The field should have good water stand.",
-            "Monitor the field for any diseases and pests."
+            "Make proper drainage to remove excess water from the field.",
+            "Monitor the field for any diseases and pests.",
+            "Make bunds to store rainwater in the field."
          ]
       },
       "maize": {
          "advisory": [
-            "Remove grasses and other weeds from the main field.",
-            "Apply recommended fertilizers to the crops.",
-            "Monitor for aphids infestation and take necessary action."
+            "Application of 25% Nitrogen (in the form of Urea) should be done at knee height stage or 25 days after sowing.",
+            "After removing weeds, apply urea as above dose and cover the root zone with soil (Ridge and furrow)."
          ]
       },
-      "vegetables": {
+      "lady finger": {
          "advisory": [
-            "Apply suitable fungicides to manage Fusarium wilt.",
-            "Monitor for cercospora leaf spot and spray copper oxychloride as needed.",
-            "Irrigate the crops consistently.",
-            "Manage fruit and shoot borer by collecting affected fruits and destroying them."
+            "Sow the fungicide treated seeds only.",
+            "Apply Mancozeb or Thiram @ 3g/Kg of seed to manage Fusarium wilt.",
+            "To manage cercospora leaf spot in okra spray Copper oxychloride @ 3 ml/lt.",
+            "Make sure to remove excess water through proper drainage channel."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "Spraying of hormones can increase the flowering in bitter gourd.",
+            "Install nets or support to the plants for better growth and trailing."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Avoid water logging as it will lead to rotting.",
+            "Sudden collapsing of the seedling is a symptom for damping off in nursery raising. To manage it, seed treatment with Agrosan or ceresin @ 2 g/kg of seeds is necessary."
          ]
       },
       "cowpea": {
          "advisory": [
-            "Spray Imidacloprid to manage Thrips, ants, and other pests.",
-            "Regularly monitor the field for diseases and pests."
+            "Spray Imidachloprid 17.8% SL @ 2.5 ml/lt of water to manage Thrips, ants and other sucking pests.",
+            "Monitor the field regularly for disease and pests.",
+            "Spray Carbendazim or Mancozeb @ 3 g/lt to control leaf blight disease."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Application of FYM and vermicompost will help in better plant growth.",
+            "Use of Chloropyriphos or Carbofuran 3G will help to kill the ants and larva of the pests.",
+            "For managing yellow sigatoka disease in banana spray Propiconazole @ 0.1% on the leaves.",
+            "Provide support to the plants in case of fruiting.",
+            "Make rings to store water near the plants."
+         ]
+      },
+      "guava": {
+         "advisory": [
+            "Remove the grasses from the root zone otherwise it may hamper the growth of the plant.",
+            "Application of fertilisers can be done 20-25cm away from the root zone."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Do not allow stagnation of water as papaya plant is very sensitive to water logging.",
+            "After seed treatment, sow the seeds.",
+            "Drench Carbendazim or Mancozeb @ 2 g/lt of water near the root zone to avoid any type of fungal diseases."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

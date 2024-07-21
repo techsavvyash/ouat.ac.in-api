@@ -1,0 +1,103 @@
+{
+   "weather_details": {
+      "10-07-2024": {
+         "rainfall": 4,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 53,
+         "wind_speed": 12,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "11-07-2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 87,
+         "rh_min": 56,
+         "wind_speed": 14,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "12-07-2024": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 62,
+         "wind_speed": 15,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "13-07-2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 63,
+         "wind_speed": 16,
+         "wind_direction": 257,
+         "cloud_cover": 6
+      },
+      "14-07-2024": {
+         "rainfall": 6,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 91,
+         "rh_min": 65,
+         "wind_speed": 15,
+         "wind_direction": 252,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "ragi",
+      "tomato",
+      "brinjal",
+      "ginger",
+      "turmeric"
+   ],
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rain water at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Collect hybrid or high yielding varieties of paddy with resistant to diseases and insect pests as per the land situations of the farmers from the nearby dealers."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Complete the sowing of 10 Kg Maize hybrid seed per acre with the spacing of 60 cm row to row and 20 -25cm between plants. Spray Atrazine @1Kg /acre within 2 days of sowing to control the weeds in maize field."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "This is the optimum time for direct sowing ragi. Sow the seeds @ 4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed. Sow 4Kg seeds of Arjun, Kalua, Bharabi, etc. high yielding ragi varieties per acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "If bacterial wilting observes in tomato, apply Plantomycin @ 1.0 g and Copper Oxychloride @ 2 g/litre of water."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To control fruit and shoot borer in brinjal spray neem based pesticide 1500 ppm @ 3 ml/litre of water at initial stages. Later on go for alternate spray of Spinosad 45% SC @ 0.4 ml/litre of water and Thiodicarb 75% WP @ 1.25 g/litre of water at 15 days interval.",
+            "Chances of fruit rot infestation in chilli and brinjal, if observe spray Carbendazim 50% WP @ 2 g/litre of water or Copper oxycloride 50% WP @ 3 g/litre of water."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "1st weeding and 1st top dressing may be done. Apply Neem cake 40Kg, Phorate 4Kg with 20Kg DAP, 10Kg neem coated Urea, 20Kg MOP per acre."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

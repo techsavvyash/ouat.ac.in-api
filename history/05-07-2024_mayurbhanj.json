@@ -1,0 +1,120 @@
+{
+   "weather_details": {
+      "2024-07-06": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 75,
+         "rh_min": 52,
+         "wind_speed": 14,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "2024-07-07": {
+         "rainfall": 7,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 74,
+         "rh_min": 48,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "2024-07-08": {
+         "rainfall": 10,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 80,
+         "rh_min": 50,
+         "wind_speed": 9,
+         "wind_direction": 198,
+         "cloud_cover": 8
+      },
+      "2024-07-09": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 82,
+         "rh_min": 59,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 8
+      },
+      "2024-07-10": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 55,
+         "wind_speed": 14,
+         "wind_direction": 204,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "sesame",
+      "pigeon pea",
+      "cucumber",
+      "okra/ladyfinger",
+      "banana",
+      "brinjal",
+      "mango",
+      "goat"
+   ],
+   "general_advisory": "For one-acre area of paddy transplanting 400 m2 (10 Decimal) size of land is required for nursery raising. Before sowing, paddy seeds should be treated with Trichoderma powder formulation@10g/kg of seeds or any other seed treating chemicals like Thiram 75% @ 3 gm or Captan 50% @ 3 gm per kg of seeds procured from the Government approved agencies. Go for non-paddy crops in the upland to avoid terminal drought. Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Seed rate for maize is 6-7kg/acre."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "The weather is optimum for sowing of Sesame."
+         ]
+      },
+      "pigeon pea": {
+         "advisory": [
+            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, T-Arhar etc."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "To manage Downy Mildew disease in cucurbits spray Copper Hydroxide 77 % WP @ 3-gram/litre or Fosetyl -AL 80 % WP @ 3-gram/litre or Carbendazim 12 % + Mancozeb 63 % WP @ 2-gram/litre."
+         ]
+      },
+      "okra/ladyfinger": {
+         "advisory": [
+            "The seed rate for HYV okra is 4 -kg/acre whereas for hybrid the seed rate is 1.5 kg/acre."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "To manage panama wilt, select disease free planting material and resistant cultivar like Bantal, Robusta, Champa, Kabuli etc."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "For cultivation of an acre of brinjal crop 200g of improved variety and 80g of hybrid seed is required."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Harvesting and ripening of fruits."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from different diseases."
+         ]
+      }
+   },
+   "date": "05-07-2024"
+}

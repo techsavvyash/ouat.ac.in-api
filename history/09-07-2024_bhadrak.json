@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "10-07-2024": {
+         "rainfall": 7,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 78,
+         "rh_min": 51,
+         "wind_speed": 18,
+         "wind_direction": 201,
+         "cloud_cover": 7
+      },
+      "11-07-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 28,
+         "rh_max": 78,
+         "rh_min": 51,
+         "wind_speed": 21,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "12-07-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 28,
+         "rh_max": 75,
+         "rh_min": 47,
+         "wind_speed": 18,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "13-07-2024": {
+         "rainfall": 5,
+         "t_max": 36,
+         "t_min": 27,
+         "rh_max": 73,
+         "rh_min": 47,
+         "wind_speed": 14,
+         "wind_direction": 193,
+         "cloud_cover": 6
+      },
+      "14-07-2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 76,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 163,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "jute",
+      "sugarcane",
+      "vegetables",
+      "pisciculture",
+      "livestock"
+   ],
+   "general_advisory": "1. For Kharif paddy cultivation, use good quality seeds. 2. Regular monitoring of vegetable crops for insect pest attack. 3. Recommended treatments for BLB & Blast in paddy nursery stage.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Prevailing weather condition may increase the chances of BLB & Blast in nursery stage so recommended treatments."
+         ]
+      },
+      "jute": {
+         "advisory": [
+            "Current rainy weather is favourable for insect pest attack like semilooper, Bihari hair caterpillar. Control by spraying Lamba cyhalothrin 4.9CS."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Wrapping and propping recommended. To control early shot borer, foliar spray of Fipronil 5SC advised."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Prevent wilt & diseases in main field with spraying of Tebuconazole. Regular monitoring for insect pest attack. Mealy bug control in okra & brinjal with Thiamethoxam spraying."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Stock carp like Rohu, Catla and Mrigal in specific ratio for benefits. Maintain standard stocking density and provide recommended feed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Vaccination against diseases is crucial. Regular mineral mixture along with salt is advised. Winter ration should include wheat grains, jaggery, etc. for energy requirement."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

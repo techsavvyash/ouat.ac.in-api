@@ -1,0 +1,134 @@
+{
+   "weather_details": {
+      "10/07/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 78,
+         "rh_min": 45,
+         "wind_speed": 10,
+         "wind_direction": 158,
+         "cloud_cover": 7
+      },
+      "11/07/2024": {
+         "rainfall": 3,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 46,
+         "wind_speed": 10,
+         "wind_direction": 180,
+         "cloud_cover": 6
+      },
+      "12/07/2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 82,
+         "rh_min": 47,
+         "wind_speed": 9,
+         "wind_direction": 180,
+         "cloud_cover": 6
+      },
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 45,
+         "wind_speed": 8,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 78,
+         "rh_min": 45,
+         "wind_speed": 7,
+         "wind_direction": 281,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "summer pulses",
+      "arhar",
+      "ragi",
+      "maize",
+      "groundnut",
+      "ginger",
+      "turmeric",
+      "animal husbandry",
+      "vegetables",
+      "yam"
+   ],
+   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Choose the variety according to land type and resource available. The variety like Swarna Shreya of 115-125 days.",
+            "Aromatic paddy like New Kalajeera and Kalajeera. Change the certified seeds after three years.",
+            "If using own seeds, test the germination test before sowing.",
+            "In areas where rain is received, go for sowing the Dhaincha seeds @ 10kg/ac which should be incorporated in the field at 3 weeks stage prior to main kharif crop cultivation."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage. Avoid harvesting at over maturity stage as the pods will be shattered."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Choose quality seeds of Arhar like Upas-120, ICPl 86012, Pusa Arhar."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Choose the good varieties like Arjuna, Kalua, Sriprava @ 4 kg/ac. After getting good rainfall, prepare the land and sow the ragi seeds behind the plough."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties like Kalinga Maize, Prabal, etc @ 6 kg/ac. Spacing is 60 X 30 cm. Apply the basal dose of 8:16:16 kg NPK/ac after final land preparation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Chose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut @ 75 kg/acre of pod. Treat the seeds with Vitavax power @ 2g/kg of seeds.",
+            "Just one hour before sowing treat with Rhizobium culture @ 20g/kg of seeds. At final land preparation apply 2 t FYM, 1q gypsum along with 8:16:16 kg NPK/acre. The spacing is 30 X 10 cm."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi. Seed rate is 6-8 q/ac. Each piece should be 20g and contain 2-3 eyes. Treat the seeds before planting in the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Sow good varieties like Roma, Suroma, Ranga and Rashmi. Seed rate is 8-10 q/ac. The seed material should contain 2-3 eyes and of 20-25g per piece."
+         ]
+      },
+      "animal husbandry": {
+         "advisory": [
+            "Due to rise in temperature provide the animal shed clean and sufficient drinking water.",
+            "Maintain the cleanliness in the animal shed. Do not leave the animals during hot time of the day.",
+            "Treat around 10 kg rhizome in 10 liters of water mixed with 40g Mancozeb and 10g Carbendazim and dry it under shade."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, Foot & Shoot borer can be managed by application of Neem based pesticides 330 ppm @ 1 liter per acre.",
+            "Also due to weather there may attack of Mites, to manage this spray Dicofol @ 3 ml/liter of water.",
+            "In Cucurbits, prepare poison baits for white flies by mixing 2 ml Malathion and 20g Jaggery in 1 liter of water. And keep the baits near the plants."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 q/ac. The seed material should be of 150-200 g. Prepare the well-pulverized field and make pits of 3 ft X 3 ft and of 1.5ft depth. After planting the pits should be filled with equal quantity of FYM and topsoil."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

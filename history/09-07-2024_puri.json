@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "10/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 67,
+         "wind_speed": 24,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "11/07/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 69,
+         "wind_speed": 30,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "12/07/2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 29,
+         "rh_max": 79,
+         "rh_min": 64,
+         "wind_speed": 29,
+         "wind_direction": 202,
+         "cloud_cover": 6
+      },
+      "13/07/2024": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 29,
+         "rh_max": 76,
+         "rh_min": 63,
+         "wind_speed": 20,
+         "wind_direction": 208,
+         "cloud_cover": 6
+      },
+      "14/07/2024": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 28,
+         "rh_max": 78,
+         "rh_min": 59,
+         "wind_speed": 20,
+         "wind_direction": 216,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "kharif paddy",
+      "pulses",
+      "maize",
+      "vegetables",
+      "groundnut",
+      "arhar",
+      "papaya",
+      "mango"
+   ],
+   "general_advisory": "Keep rain water in the main rice field by bunding for timely puddling and transplanting. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangement. In early planted maize and Jute apply nitrogen fertilizer after receding of rain. Make provisions for drainage, where kharif maize or pulses etc. have been sown. If the Sugarcane crop is 4-5 months old than wrapping and propping should be done for medium and long duration varieties to keep the cane erects.",
+   "crops_data": {
+      "kharif paddy": {
+         "advisory": [
+            "Fertilizer management in Nursery: Apply 200 kg of FYM, 4 kg of DAP, 2.5 kg of MOP during last puddling in 10-decimal nursery area. Apply light irrigations to the nursery area so that the field remains wet and do not keep standing water. Apply 4 kg of Urea at 15 DAS to the nursery area.",
+            "Nursery pest management: Apply Chlorantraniliprole 0.4 % G @ 400-gram or Cartap Hydrochloride 4% GR @ 800-gram or Fipronil 0.3% GR @ 1-kg in the 10 decimal nursery area 7-days before transplanting to manage gall midge, stem borer, caseworm, leaf folder and root knot nematode up to 3 weeks after transplanting."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "Apply Pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 DAS. Apply herbicide when the soil is moist."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Apply pre-emergence herbicide Oxyfluorfen 23.5 % EC (Oxygold/Galigan) @ 80ml/acre or Pendimethalin 30 % EC (Stomp/Pendiherb) @ 1-litre/acre or at 1-2 DAS. Apply herbicide when soil is moist."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "The Mosaic disease is transmitted by whitefly and other sucking pests in vegetable crops. To manage this disease care should be taken from the start of sowing. Seed Treatment should be done with Imidacloprid 75 % WG @ 4 gram/kg of seeds. To manage the vectors of the disease, install 8-10 Nos of Yellow sticky traps starting from 10-12 DAS. Spray neem-based pesticide (Neem Oil 1500 PPM @600-ml/acre by mixing it in 200-litre of water starting from 15-DAS. In case of severe infestation spray Thiamethoxam 25 % WG @ 40-gram/acre or Acetamiprid 20 % SP @ 50 -gram/acre by mixing it in 200 -litre of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "PRG-235, PRG 176, VL ARHAR -1 etc. are some improved varieties of Arhar. If line sowing is done in the field, the recommended seed rate for early and late maturing varieties is 8 and 6 kg/acre. Seed treatment can be done with Carbendazim 50 % WP @ 2-gram/kg of seeds or Carboxin 37.5 % + Thiram 37. 5% D.S WP."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Now the weather is optimum for planting of Papaya. HYV for papaya are Honeydew, Coorg honey dew, CO-1, CO-2, Pusa delicious, Pusa majesty and Pusa giant. Plant the seedling at 2.5 x 2.5 meter distance and 0.5 x 0.5 x 0.5 meter pit. Disease resistance and Tissue culture seedling should be used."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "July and August is the optimum for mango planting. Grow Baiganpalli, Totapuri, Bombay green, Suvarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Ramkella, Rummani, Sindhu, Alphanso and Keshar, etc. Use healthy unbranched grafted seedlings. Plant the seedlings in 1x1x1 m pit at 10x10 m distance. Before planting apply 80:100:60 g of NPK and two baskets of compost/pit."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

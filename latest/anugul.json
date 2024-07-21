@@ -1,84 +1,84 @@
 {
    "weather_details": {
-      "06.07.2024": {
-         "rainfall": 5,
-         "t_max": 28,
-         "t_min": 22,
-         "rh_max": 81,
-         "rh_min": 56,
-         "wind_speed": 13,
-         "wind_direction": 0,
-         "cloud_cover": 6
-      },
-      "07.07.2024": {
-         "rainfall": 5,
-         "t_max": 29,
-         "t_min": 22,
-         "rh_max": 81,
-         "rh_min": 56,
-         "wind_speed": 13,
-         "wind_direction": 0,
-         "cloud_cover": 7
-      },
-      "08.07.2024": {
-         "rainfall": 7,
-         "t_max": 29,
+      "2024-07-20": {
+         "rainfall": 20,
+         "t_max": 30,
          "t_min": 21,
-         "rh_max": 81,
-         "rh_min": 56,
-         "wind_speed": 13,
-         "wind_direction": 0,
-         "cloud_cover": 7
+         "rh_max": 92,
+         "rh_min": 52,
+         "wind_speed": 11,
+         "wind_direction": 66,
+         "cloud_cover": 8
       },
-      "09.07.2024": {
+      "2024-07-21": {
+         "rainfall": 20,
+         "t_max": 30,
+         "t_min": 21,
+         "rh_max": 91,
+         "rh_min": 56,
+         "wind_speed": 8,
+         "wind_direction": 110,
+         "cloud_cover": 8
+      },
+      "2024-07-22": {
          "rainfall": 10,
-         "t_max": 28,
-         "t_min": 21,
-         "rh_max": 81,
-         "rh_min": 56,
-         "wind_speed": 13,
-         "wind_direction": 0,
+         "t_max": 32,
+         "t_min": 22,
+         "rh_max": 88,
+         "rh_min": 59,
+         "wind_speed": 9,
+         "wind_direction": 234,
          "cloud_cover": 7
       },
-      "10.07.2024": {
-         "rainfall": 7,
-         "t_max": 28,
+      "2024-07-23": {
+         "rainfall": 15,
+         "t_max": 33,
          "t_min": 22,
-         "rh_max": 81,
-         "rh_min": 56,
-         "wind_speed": 13,
-         "wind_direction": 0,
+         "rh_max": 84,
+         "rh_min": 64,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "2024-07-24": {
+         "rainfall": 15,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 58,
+         "wind_speed": 20,
+         "wind_direction": 248,
          "cloud_cover": 7
       }
    },
    "names_of_crops": [
-      "rohu",
-      "catla",
-      "mrigal"
+      "rice",
+      "perale",
+      "common fish",
+      "chicken"
    ],
-   "general_advisory": "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds. Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites. Keep animals indoor during rainy hours and provide clean and wholesome water.",
+   "general_advisory": "In transplanted rice at the time of final main field preparation, apply 0.8 ton/acre of well decomposed FYM. For high yielding varieties apply 44kg of DAP+33KG OF MOP or 22kg of Urea+ 125 kg SSP+ 33 kg of MOP as basal dose at the time of last puddling, go for application of pre-emergence weedicide like Butachlor 1kg/ha. Keeping rainfall forecast in mind farmers are advised not to do any type of spray and do proper management in standing crops and vegetable nurseries.",
    "crops_data": {
-      "rohu": {
+      "rice": {
          "advisory": [
-            "Carp such as Rohu should be stocked in a certain ratio of 4:3:3 with Catla and Mrigal to increase benefits.",
-            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
-            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
+            "The district has received normal rainfall in the previous month. The direct seeded rice is at 3-4 week stage, The district is going to receive light to medium rainfall in coming five day . Go for Beushaning as enough standing water (7-10cm) will be available. Go for top dressing of 36 kg of urea /acre as top dressing."
          ]
       },
-      "catla": {
+      "perale": {
          "advisory": [
-            "Carp such as Catla should be stocked in a certain ratio of 4:3:3 with Rohu and Mrigal to increase benefits.",
-            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
-            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
+            "There are chances for guava to be infested by fruit rot. Rain or irrigation water must not allow standing near basin of plant. Prune the infected plant part and spray Blitax 3g/ 1lt of water repeat it after 20 days of fruit set and continue till maturity . The fallen rotten and mummified guava must be collected and buried.( Go for application when weather is clear)"
          ]
       },
-      "mrigal": {
+      "common fish": {
          "advisory": [
-            "Carp such as Mrigal should be stocked in a certain ratio of 4:3:3 with Rohu and Catla to increase benefits.",
-            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
-            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
+            "Make sure to weed out the weeds and kill all the predatory fish before adding fingerlings to the pond. 7-8 days before adding fingerlings , add 120-140 k.g bleaching powder per 1 acre of pond."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "In rainy season chicken might experience Coccidiosis, give Coccidiostat in chicken feed with recommendation of nearest veterinary expert."
          ]
       }
    },
-   "date": "05-07-2024"
+   "date": "19-07-2024"
 }

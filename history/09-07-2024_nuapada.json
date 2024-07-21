@@ -1,0 +1,148 @@
+{
+   "weather_details": {
+      "10-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 47,
+         "wind_speed": 9,
+         "wind_direction": 198,
+         "cloud_cover": 7
+      },
+      "11-07-2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 26,
+         "rh_max": 82,
+         "rh_min": 51,
+         "wind_speed": 11,
+         "wind_direction": 243,
+         "cloud_cover": 6
+      },
+      "12-07-2024": {
+         "rainfall": 4,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 11,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "13-07-2024": {
+         "rainfall": 6,
+         "t_max": 36,
+         "t_min": 26,
+         "rh_max": 82,
+         "rh_min": 57,
+         "wind_speed": 15,
+         "wind_direction": 288,
+         "cloud_cover": 7
+      },
+      "14-07-2024": {
+         "rainfall": 10,
+         "t_max": 36,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 57,
+         "wind_speed": 15,
+         "wind_direction": 257,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "direct seeded paddy",
+      "transplanted paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "brinjal & chilli",
+      "okra",
+      "onion",
+      "poultry",
+      "goat & sheep"
+   ],
+   "general_advisory": "Considering the above prediction, weather conditions in the next five days are likely to be favorable for sowing. Farmers should take advantage of this window to complete their sowing operation. Prevailing weather conditions favor the incidence of sucking pests. Necessary plant protection chemicals may be applied by mixing with stickers. In view of the forecast, farmers can resume agronomic practices and application of fertilizers in standing crops. This is the ideal time to transplant the seedlings of chilli, brinjal & early cauliflower in raised beds with proper drainage. Preventative spray of Carbendazim+Mancozeb @ 2g/l & Streptocyclin @1.5g/15lit of water should be applied to protect vegetable seedlings in cloudy weather. Protect the vegetable seedlings in nursery from rain by covering with plastic or polythene sheet over the nursery bed. Farmers are advised to add organic manure to the soil during land preparation as it enhances fertility and water holding capacity of the soil.",
+   "crops_data": {
+      "direct seeded paddy": {
+         "advisory": [
+            "Incorporate well decomposed FYM @ 8 q/acre during the final land preparation.",
+            "Seed Treatment: Seeds should be treated with Trichoderma powder formulation @ 10 g/kg of seeds or Carbendazim 50% WP @ 2g/kg of seed for 10 -12 hrs to control seed and soil borne diseases.",
+            "Recommended dose of Fertilizer: Apply 26 kg DAP + 10 kg MOP + 10 kg ZnSO4 in upland condition and 35 kg DAP + 13 kg MOP + 10 kg ZnSO4 per acre in medium and low land condition as basal application.",
+            "Weed Management: Apply pre-emergence herbicide Pretilachlor 30.7% EC @ 800ml/acre or Oxyflourfen 23.5% EC @ 250 ml/acre by mixing with 200 liters of water at 2-3 days after sowing. If pre-emergence herbicide has not been applied then apply Bispyribac sodium 10% SC @ 120ml/acre by mixing with 200 liters of water at 8-10 days after emergence of weed as post-emergence herbicide."
+         ]
+      },
+      "transplanted paddy": {
+         "advisory": [
+            "Complete the preparation of nursery with raised bed without delay. To transplant one -acre area about 320 m2 area (8 cents) nursery beds are required. Prepare wet nursery raised beds of 10cm high, 1.2 -1.5 m wide and of convenient length. Well defined irrigation/drainage channel of 30 -45 cm width must be kept in between two beds. Use 14 -16 kg seeds /acre of HYV and 5 -6 kg/acre of hybrids for nursery sowing.",
+            "Seed Treatment: Seeds should be treated with Trichoderma powder formulation @ 10 g/kg of seeds or Carbendazim 50% WP @ 2g/kg or Captan 50% WP or Thiram 75% WP @ 3g/kg of seed for 12-24 hrs before sowing in the nursery to control seed and soil borne diseases."
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Apply FYM or Compost @ 2 tonnes/acre or Vermicompost @1 tonne/acre uniformly over the soil before ploughing.",
+            "Dibble the seed in lines @ one seed per peat at a depth of 3 -5cm and cover the seed with soil. Provide a spacing of 90 cm x 60 cm in normal planting and 60 cm x 10 cm for high-density planting system.",
+            "Seed Treatment: Seed should be treated with Imidachloprid 70 WG @ 7g/kg of seed for protection against sucking pest.",
+            "Recommended dose of Fertilizer: Apply DAP @ 120kg/ac + MOP @ 24 kg/ac in Hybrid varieties and DAP @ 90 kg/ac + MOP @ 18 kg/ac in case of high yielding varieties at the time of sowing, however apply required dose of fertilizer according to the soil test report. In zinc and boron deficient soil application Zinc Suplate @10kg/ac and Borax @2kg/ac is recommended at the time of sowing.",
+            "Weed Management: Apply Pendimethalin 30% EC @ 1 liter/acre by mixing with 200 liters of water within 3 days after sowing, and there should be sufficient soil moisture in the soil. Field should be kept weed free up to 60 DAS."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Apply 2 -4 tonnes of FYM per acre at the time of final land preparation.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation",
+            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 15 cm.",
+            "Treat the seed with Thiram (2gm) + Carbendazim (1gm) or Thiram @ 3 gm or Tricoderma virdie 5-7g /kg of seed. Culture: Rhizobium and PSB culture 7 -10 g /kg seed.",
+            "Recommended dose of Fertilizer: Apply DAP 35 kg/ac + MOP 13 kg/ac + Urea 5 kg/ac+ 60 kg Gypsum/Phospho-gypsum at the time of sowing, however apply required dose of fertilizer according to the soil test report.",
+            "Weed Management: Apply Pendimethalin 30% EC @ 1 liter/acre by mixing with 200 liters of water within 2 days after sowing, and there should be sufficient soil moisture in the soil."
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply 2 -4 tonnes of FYM per acre at the time of final land preparation.",
+            "In termite endemic area application of Chloropyriphos dust 1.0% @ 10 Kg/ ac at the time of land preparation",
+            "Line sowing by seed drill or desi plough is recommended with a spacing of 60 cm x 25 cm for irrigated conditions and 75 cm x 25 cm for rainfed conditions.",
+            "Seed treatment with suitable fungicide and insecticides is essential to prevent the crop from the attack of soil borne diseases and insect-pests.",
+            "Recommended dose of Fertilizer: Apply DAP 65 kg/ac + MOP 20 kg/ac at the time of sowing, however, apply required dose of fertilizer according to the soil test report. If Zn or Bo deficient in soil, apply of 10 Kg of Zinc Sulphate @10kg/acre or Boron 20% @ 2kg/acre as basal.",
+            "Weed Management: Apply Atrazine 50% WP @ 500-800 g/acre by mixing with 200 liters of water within 3 days after sowing, and there should be sufficient soil moisture in the soil."
+         ]
+      },
+      "brinjal & chilli": {
+         "advisory": [
+            "Prepare raised bed nursery for Kharif vegetables like Brinjal, Chilli etc. for timely planting.",
+            "Treat the seed with Trichoderma viride 1% @ 10g/kg or Captan 75% WS @ 2-3g/kg of seed before sowing to prevent diseases like wilting & damping off.",
+            "Seed rate - 200-250 g/acre.",
+            "Transplant 30-35 days old seedlings in the main field."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Sowing should be completed by the end of July to get a higher yield.",
+            "Apply well-decomposed FYM @ 2t/acre at the time of land preparation.",
+            "Seed rate - 4kg/acre. Seed should be treated with Bavistin @ 2g/kg of seed before sowing to prevent from wilting disease."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Suitable varieties like Bhima Raj, Bhima Dark Red, Bhima Super etc. should be selected.",
+            "Raised nursery beds should be prepared under an overhead-protected structure for Kharif onion.",
+            "Seed treatment, sowing, and application of paddy straw mulching followed by spraying of Chloropyriphos @ 1ml/lit of water is advised to obtain good seedling."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Repair the poultry house to stop rainwater from getting inside. Don’t allow the litter material to get wet.",
+            "Prevent the feed ingredients from getting wet, which might lead to fungal growth in the feed."
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Deworm them to reduce the load of internal parasites.",
+            "Dipping should be done in case of sheep against external parasites.",
+            "Keep animals indoor during rainy hours and provide clean and wholesome water."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

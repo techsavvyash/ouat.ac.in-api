@@ -1,18 +1,8 @@
 {
    "weather_details": {
-      "05.07.2024": {
+      "15.07.2024": {
          "rainfall": 13,
-         "t_max": 32,
-         "t_min": 26,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "06.07.2024": {
-         "rainfall": 5,
-         "t_max": 33,
+         "t_max": 29,
          "t_min": 25,
          "rh_max": 0,
          "rh_min": 0,
@@ -20,99 +10,109 @@
          "wind_direction": 0,
          "cloud_cover": 0
       },
-      "07.07.2024": {
+      "16.07.2024": {
+         "rainfall": 4,
+         "t_max": 29,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "17.07.2024": {
+         "rainfall": 25,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 0,
+         "rh_min": 0,
+         "wind_speed": 0,
+         "wind_direction": 0,
+         "cloud_cover": 0
+      },
+      "18.07.2024": {
          "rainfall": 1,
-         "t_max": 31,
-         "t_min": 26,
+         "t_max": 30,
+         "t_min": 25,
          "rh_max": 0,
          "rh_min": 0,
          "wind_speed": 0,
          "wind_direction": 0,
          "cloud_cover": 0
       },
-      "08.07.2024": {
-         "rainfall": 0,
-         "t_max": 31,
-         "t_min": 26,
-         "rh_max": 0,
-         "rh_min": 0,
-         "wind_speed": 0,
-         "wind_direction": 0,
-         "cloud_cover": 0
-      },
-      "10-07-2024": {
-         "rainfall": 6,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 61,
-         "wind_speed": 7,
-         "wind_direction": 225,
-         "cloud_cover": 7
-      },
-      "11-07-2024": {
-         "rainfall": 4,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 90,
-         "rh_min": 67,
-         "wind_speed": 7,
-         "wind_direction": 225,
-         "cloud_cover": 6
-      },
-      "12-07-2024": {
-         "rainfall": 4,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 93,
-         "rh_min": 67,
-         "wind_speed": 8,
-         "wind_direction": 243,
-         "cloud_cover": 6
-      },
-      "13-07-2024": {
-         "rainfall": 6,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 95,
-         "rh_min": 77,
-         "wind_speed": 9,
-         "wind_direction": 249,
-         "cloud_cover": 7
-      },
-      "14-07-2024": {
-         "rainfall": 7,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 95,
+      "20-07-2024": {
+         "rainfall": 40,
+         "t_max": 27,
+         "t_min": 23,
+         "rh_max": 96,
          "rh_min": 80,
          "wind_speed": 9,
-         "wind_direction": 246,
+         "wind_direction": 248,
          "cloud_cover": 8
+      },
+      "21-07-2024": {
+         "rainfall": 30,
+         "t_max": 28,
+         "t_min": 23,
+         "rh_max": 96,
+         "rh_min": 92,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 8
+      },
+      "22-07-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 24,
+         "rh_max": 97,
+         "rh_min": 89,
+         "wind_speed": 13,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "23-07-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 96,
+         "rh_min": 90,
+         "wind_speed": 12,
+         "wind_direction": 246,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 5,
+         "t_max": 31,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 79,
+         "wind_speed": 13,
+         "wind_direction": 238,
+         "cloud_cover": 7
       }
    },
    "names_of_crops": [
       "rice",
       "maize",
-      "chilli",
+      "ragi",
       "tomato"
    ],
-   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rain water at one portion in the field. This water can be used for irrigation in the crops during dry spell. Due to high humidity possibilities of pest and disease build up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
+   "general_advisory": "Rainfall is expected during next five days, spray only when sky becomes clear and use sticker to the spray solution. Farmers are advised to do proper arrangement for storing rainwater at one portion in the field. This water can be used for irrigation in the crops during the dry spell. Due to high humidity, possibilities of pest and disease build-up in already sown crop. Take plant protection measures depending on the crop and weather condition.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Collect hybrid or high yielding varieties of paddy with resistant to diseases and insect pests as per the land situations of the farmers from the nearby dealers.",
-            "Farmers are advised for sowing of dhanicha seeds @ 10 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3 -4 weeks old at the time of transplanting of rice. Apply phosphatic fertilizer in the dhaincha fields required for paddy cultivation",
-            "Transplant 15 -25days seedling. Treat the nursery seedlings or root dip uprooted seedlings in the solution of neem oil @ 5ml/litre of water and metalaxyl + mancozeb @ 1.25 g/litre of water."
+            "Collect hybrid or high yielding varieties of paddy with resistance to diseases and insect pests as per the land situations of the farmers from the nearby dealers.",
+            "Farmers are advised for sowing of dhanicha seeds @ 10 kg/acre prior to the transplanting of paddy so that the dhanicha crop will be 3-4 weeks old at the time of transplanting of rice. Apply phosphatic fertilizer in the dhanicha fields required for paddy cultivation",
+            "Transplant 15-25 days seedling. Treat the nursery seedlings or root dip uprooted seedlings in the solution of neem oil @ 5ml/litre of water and metalaxyl + mancozeb @ 1.25 g/litre of water."
          ]
       },
       "maize": {
          "advisory": [
-            "Complete the sowing of 10 Kg Maize hybrid seed per acre with the spacing of 60 cm row to row and 20 -25cm between plants.",
-            "Spray Atrazine @1Kg /acre within 2 days of sowing to control the weeds in maize field."
+            "Complete the sowing of 10 Kg Maize hybrid seed per acre with the spacing of 60 cm row to row and 20-25 cm between plants.",
+            "Spray Atrazine @ 1Kg/acre within 2 days of sowing to control the weeds in maize field."
          ]
       },
-      "chilli": {
+      "ragi": {
          "advisory": [
             "This is the optimum time for direct sowing ragi. Sow the seeds @ 4 kg/acre in line at 22.5 cm apart. Apply 35 kg DAP and 17 kg MoP per acre at the time of sowing. Before sowing seeds should be treated with Carboxin 37.5%+Thiram 37.5% DS @ 2 g/kg seed.",
             "Sow 4Kg seeds of Arjun, Kalua, Bharabi, etc. high yielding ragi varieties per acre."
@@ -124,5 +124,5 @@
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

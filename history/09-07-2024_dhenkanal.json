@@ -1,0 +1,118 @@
+{
+   "weather_details": {
+      "10-07-2024": {
+         "rainfall": 4,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 13,
+         "wind_direction": 159,
+         "cloud_cover": 6
+      },
+      "11-07-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 81,
+         "rh_min": 48,
+         "wind_speed": 11,
+         "wind_direction": 171,
+         "cloud_cover": 7
+      },
+      "12-07-2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 79,
+         "rh_min": 42,
+         "wind_speed": 11,
+         "wind_direction": 171,
+         "cloud_cover": 7
+      },
+      "13-07-2024": {
+         "rainfall": 4,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 75,
+         "rh_min": 44,
+         "wind_speed": 9,
+         "wind_direction": 216,
+         "cloud_cover": 6
+      },
+      "14-07-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 78,
+         "rh_min": 42,
+         "wind_speed": 10,
+         "wind_direction": 289,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "arhar",
+      "mango",
+      "cashewnut",
+      "papaya",
+      "vegetables",
+      "chrysanthemum"
+   ],
+   "general_advisory": "For better utilization of soil moisture, go for sowing of non-paddy crops like Groundnut, Arhar, and Sesame in upland. Prevailing cloudy weather and high relative humidity condition is favorable for pest attack in standing crops. So regular monitoring and appropriate plant protection measure should be taken.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Keep bunding water in the main rice field for timely puddling and transplanting.",
+            "Go for transplanting of Paddy without any delay as fair amount rainfall is received due to active monsoon and it is likely to receive a good amount of rainfall in next five days.",
+            "Apply Chlorantraniliprole 0.4 % G @ 400g or Cartap Hydrochloride 4% GR @ 800g or Fipronil 0.3% GR @ 1kg in the 10 decimal nursery area 7 days before transplanting to manage gall midge, stem borer, caseworm, leaf folder and root knot nematode up to 3 weeks after transplanting."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To prevent White grub pest apply Chlorpyriphos dust @12- 10 kg/acre at last ploughing or apply this dust above seeds after sowing and then cover it."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Now the weather is optimum for sowing of groundnut. Go for sowing of some improved varieties of Arhar like PRG-235, PRG 176, VL ARHAR1, T-Arhar etc.",
+            "If line sowing is done in the field, the recommended seed rate for early and late maturing varieties is 8 and 6 kg/acre.",
+            "Seed treatment can be done with Carbendazim 50 % WP @ 2-gram/kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "July and August is the optimum for mango planting. Grow Baiganpalli, Totapuri, Bombay green, Suvarnarekha, Neelam, Himsagar, Langra, Dusheri, Amrapalli, Mallika, Ratna, Ramkella, Rummani, Sindhu, Alphanso, and Keshar, etc. Use healthy unbranched grafted seedlings.",
+            "Plant the seedlings in 1x1x1 m pit at 10x10 m distance. Before planting apply 80:100:60 g of NPK and two baskets of compost/pit."
+         ]
+      },
+      "cashewnut": {
+         "advisory": [
+            "July is the optimum time for Cashewnut planting. Grow HYV namely Vengrulla-1.4, BPP-4, Bhubaneswar-1, VRI-2, Hybrid 2-17.",
+            "Dig out pits of 45x45x45 cm at 7.5x.7.5m apart in coastal areas. Plant 70-80 seedling/acre. Before planting apply 110:60 g NP/pit."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Now the weather is optimum for planting of Papaya.",
+            "HYV for papaya are Honeydew, Coorg honey dew, CO-1, CO-2, Pusa delicious, Pusa majesty, and Pusa giant.",
+            "Plant the seedling at 2.5 x 2.5 meter distance and 0.5 x 0.5 x 0.5 meter pit. Disease resistance and Tissue culture seedling should be used."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "The Mosaic disease is transmitted by whitefly and other sucking pests in vegetable crops.",
+            "To manage this disease care should be taken from the start of sowing. Seed Treatment should be done with Imidacloprid 75 % WG @ 4 gram/kg of seeds.",
+            "To manage the vectors of the disease, install 8-10 Nos of Yellow sticky traps starting from 10-12 DAS. Spray neem-based pesticide (Neem Oil 1500 PPM @600-ml/acre by mixing it in 200-litre of water starting from 15-DAS. In case of severe infestation spray Thiamethoxam 25 % WG @40-gram/acre or Acetamiprid 20 % SP @50-gram/acre by mixing it in 200-litre of water."
+         ]
+      },
+      "chrysanthemum": {
+         "advisory": [
+            "Chrysanthemum can be grown in the month of July. Yellow colour varieties- Chandrama, Super giant, Evening star, White colour varieties- Beauty, Snow ball and Red colour varieties- Bravo, Rustic. Root sucker or terminal cutting should be planted at 30 cm row to row and 30 cm plant to plant distance."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

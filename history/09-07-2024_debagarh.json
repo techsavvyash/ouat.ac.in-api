@@ -1,0 +1,135 @@
+{
+   "weather_details": {
+      "10/07/2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 83,
+         "rh_min": 41,
+         "wind_speed": 10,
+         "wind_direction": 154,
+         "cloud_cover": 6
+      },
+      "11/07/2024": {
+         "rainfall": 2,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 79,
+         "rh_min": 44,
+         "wind_speed": 9,
+         "wind_direction": 171,
+         "cloud_cover": 6
+      },
+      "12/07/2024": {
+         "rainfall": 3,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 42,
+         "wind_speed": 8,
+         "wind_direction": 193,
+         "cloud_cover": 7
+      },
+      "13/07/2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 46,
+         "wind_speed": 8,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "14/07/2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 81,
+         "rh_min": 43,
+         "wind_speed": 8,
+         "wind_direction": 287,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "kharif",
+      "paddy",
+      "summer pulses",
+      "pulses",
+      "ragi",
+      "maize",
+      "groundnut",
+      "ginger",
+      "turmeric",
+      "yam",
+      "vegetables"
+   ],
+   "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
+   "crops_data": {
+      "kharif": {
+         "advisory": [
+            "Choose the variety according to land type and resources available.",
+            "Aromatic paddy like New Kalajeera and Kalajeera, Nua Acharmati. Change the certified seeds after three years."
+         ]
+      },
+      "paddy": {
+         "advisory": [
+            "Prepare weel cultivated dry bed for transplantation.",
+            "Apply 4 kg urea for 10 decimal area."
+         ]
+      },
+      "summer pulses": {
+         "advisory": [
+            "Harvest the crop at maturity stage."
+         ]
+      },
+      "pulses": {
+         "advisory": [
+            "After monsoon rainfall, start sowing different pulses in the field."
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "Choose good varieties like Arjuna, Kalua, Sriprava.",
+            "After good rainfall, prepare the land and sow the ragi seeds."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Choose good varieties like Kalinga Maize, Prabal.",
+            "Apply basal dose of NPK after final land preparation."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Choose good varieties like Dharani, Smruti, Kadri-6.",
+            "Treat the seeds with Vitavax power before sowing."
+         ]
+      },
+      "ginger": {
+         "advisory": [
+            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi.",
+            "Treat the seeds before planting in the field."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Sow good varieties like Roma, Suroma, Ranga, Rashmi.",
+            "Seed rate is 8-10 quintals per acre."
+         ]
+      },
+      "yam": {
+         "advisory": [
+            "Seed rate is 8-10 quintals per acre.",
+            "Prepare well-pulverized field and make pits before planting."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Due to temperature effect in brinjal, manage Foot & Shoot borer with Neem based pesticides.",
+            "Prepare poison baits for white flies in Cucurbits."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

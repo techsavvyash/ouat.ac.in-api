@@ -1,107 +1,99 @@
 {
    "weather_details": {
-      "10/07/2024": {
-         "rainfall": 10,
-         "t_max": 33,
-         "t_min": 25,
-         "rh_max": 79,
-         "rh_min": 56,
-         "wind_speed": 25,
-         "wind_direction": 202,
-         "cloud_cover": 8
-      },
-      "11/07/2024": {
-         "rainfall": 4,
+      "20/07/2024": {
+         "rainfall": 15,
          "t_max": 34,
-         "t_min": 26,
+         "t_min": 24,
+         "rh_max": 84,
+         "rh_min": 65,
+         "wind_speed": 15,
+         "wind_direction": 111,
+         "cloud_cover": 7
+      },
+      "21/07/2024": {
+         "rainfall": 10,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 61,
+         "wind_speed": 19,
+         "wind_direction": 155,
+         "cloud_cover": 7
+      },
+      "22/07/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
          "rh_max": 78,
-         "rh_min": 56,
-         "wind_speed": 23,
-         "wind_direction": 202,
-         "cloud_cover": 7
-      },
-      "12/07/2024": {
-         "rainfall": 3,
-         "t_max": 35,
-         "t_min": 26,
-         "rh_max": 77,
-         "rh_min": 53,
-         "wind_speed": 17,
-         "wind_direction": 202,
-         "cloud_cover": 7
-      },
-      "13/07/2024": {
-         "rainfall": 4,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 75,
-         "rh_min": 53,
-         "wind_speed": 13,
-         "wind_direction": 199,
+         "rh_min": 58,
+         "wind_speed": 24,
+         "wind_direction": 225,
          "cloud_cover": 6
       },
-      "14/07/2024": {
-         "rainfall": 12,
+      "23/07/2024": {
+         "rainfall": 10,
          "t_max": 34,
-         "t_min": 26,
-         "rh_max": 75,
-         "rh_min": 51,
-         "wind_speed": 11,
-         "wind_direction": 197,
-         "cloud_cover": 8
+         "t_min": 25,
+         "rh_max": 76,
+         "rh_min": 59,
+         "wind_speed": 27,
+         "wind_direction": 248,
+         "cloud_cover": 6
+      },
+      "24/07/2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 58,
+         "wind_speed": 14,
+         "wind_direction": 248,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
-      "pulses",
-      "maize",
-      "vegetables",
-      "groundnut",
-      "arhar",
+      "paddy",
+      "black gram",
+      "green gram",
+      "brinjal",
       "papaya",
-      "mango"
+      "coconut"
    ],
-   "general_advisory": "Keep rainwater in the main rice field by bunding for timely puddling and transplanting, cover the vegetable nursery with polythene, make provisions for drainage, wrapping and propping for sugarcane, apply proper fertilizer and pest management practices for various crops.",
+   "general_advisory": "In low land, go for transplanting of 21 days rice seedlings in the main field. Keep rainwater in the main rice field by bunding for timely puddling and transplanting. Bushaning can be performed where rainfall was adequate. Nursery sowing should be completed by the end of 2nd fortnight of July. Make provisions for drainage where maize or pulses have been sown. Cover the vegetable nursery with polythene to protect it from heavy rain and make drainage arrangements.",
    "crops_data": {
-      "pulses": {
+      "paddy": {
          "advisory": [
-            "Make provisions for drainage where pulses have been sown"
+            "Transplanting: Apply 35 kg DAP, 27 kg Potash and 8 kg Urea per acre during last puddling."
+         ],
+         "Crop Stage Advisory": [
+            "For sandy soil apply 35 kg DAP, 15 kg Potash and 8 kg Urea per acre during last puddling. Transplanting of 20-25 days old seedlings should be done at a spacing of 20x15 cm, plant 2-3 seedlings per hill for high yielding varieties. Use pre-emergence herbicide Pretilachlor @ 800 ml/acre or Oxadiargyl 80%W. P @ 30gm/acre or Pyrazosulfuron Ethyl 10% W.P @ 80gm/acre at 1-3 DAT. Spray the herbicide by mixing it in 200 litres of water per acre or Mix the herbicide with 20 kg of sand and broadcast it uniformly. Always use flat-fan or flood-jet nozzle and clean water for herbicide spraying."
          ]
       },
-      "maize": {
+      "black gram": {
          "advisory": [
-            "In early planted maize, apply nitrogen fertilizer after receding of rain"
+            "Sowing: Keep seed rate for black gram and green gram is 10 kg per acre. Go for seed treatment before Sowing. Treat the seeds with Carbendazim 50% WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gm/kg of seeds before 1 hour of sowing. Apply 2 ton of FYM or Compost at the time of last ploughing along with 35 kg DAP, 13 kg MOP, 4 kg of Urea per acre as basal fertilizer. Maintain spacing of 30 cm row to row and 10 cm plant to plant while sowing in the main field."
          ]
       },
-      "vegetables": {
+      "green gram": {
          "advisory": [
-            "Cover the vegetable nursery with polythene to protect from heavy rain",
-            "Manage mosaic disease transmitted by whitefly"
+            "Sowing: Maintain seed rate of 10 kg per acre. Go for seed treatment with Carbendazim 50% WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S @ 3-gram/ kg of seeds one week before sowing. Treat the seeds, Apply 2 ton of FYM or Compost at the time of last ploughing along with 30-kg DAP, 10-kg of Urea and 20- kg MOP per acre. Sow the seeds maintaining spacing of 30 x 10 cm."
          ]
       },
-      "groundnut": {
+      "brinjal": {
          "advisory": [
-            "Apply pre-emergence herbicide when soil is moist",
-            "Treat seeds with recommended species of Rhizobium bacterial culture"
-         ]
-      },
-      "arhar": {
-         "advisory": [
-            "Apply pre-emergence herbicide",
-            "Treat seeds with Carbendazim or Carboxin + Thiram WP"
+            "Planting: Those farmers who have already transplanted brinjal in the main field should apply 30-kg of Urea and 20-kg of MOP per acre after hoeing and weeding at 30 DAT. Rest 30-kg of urea should be applied as the last top-dressing fertilizer at 45 DAT."
          ]
       },
       "papaya": {
          "advisory": [
-            "Now the weather is optimum for planting of papaya",
-            "Use high yielding varieties for papaya planting"
+            "Planting: Now the weather is optimum for planting of Papaya. HYV for papaya are Honeydew, Coorg honey dew, CO-1, CO-2, Pusa delicious, Pusa majesty, and Pusa giant. Plant the seedling at 2.5 x 2.5-meter distance and 0.5 x 0.5 x 0.5-meter pit. Disease resistance and Tissue culture seedling should be used."
          ]
       },
-      "mango": {
+      "coconut": {
          "advisory": [
-            "July and August are optimal for mango planting",
-            "Use healthy unbranched grafted seedlings for planting"
+            "For controlling rugose spiralling whitefly, Spray starch solution @100-gram/10-litre of water to remove the heavy sooty mold deposition on the leaves of infested plants. Use yellow sticky traps to trap the adult whiteflies. During the primary stage of pest infestation, spray Neem Based Pesticide (Azadirachtin) 1500 PPM @ 30- ml/10-liter of water. For chemical control spray Spinosad 45 % SC @ 4-ml/ 10-liter of water or Emamectin Benzoate 5% SG @ 4-gram/ 10-liter of water."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "2024-07-10": {
+         "rainfall": 4,
+         "t_max": 31,
+         "t_min": 26,
+         "rh_max": 83,
+         "rh_min": 52,
+         "wind_speed": 12,
+         "wind_direction": 180,
+         "cloud_cover": 8
+      },
+      "2024-07-11": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 53,
+         "wind_speed": 13,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      },
+      "2024-07-12": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 79,
+         "rh_min": 50,
+         "wind_speed": 12,
+         "wind_direction": 212,
+         "cloud_cover": 8
+      },
+      "2024-07-13": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 27,
+         "rh_max": 75,
+         "rh_min": 51,
+         "wind_speed": 11,
+         "wind_direction": 214,
+         "cloud_cover": 8
+      },
+      "2024-07-14": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 26,
+         "rh_max": 80,
+         "rh_min": 53,
+         "wind_speed": 10,
+         "wind_direction": 259,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "finger millet",
+      "goat",
+      "common carp"
+   ],
+   "general_advisory": "Incorporate well-decomposed Farm Yard Manure or cow-dung @ 8 quintals /acre during the final land preparation in direct seeded rice. As suf ficient rain is expected farmers can go for sowing and nursery preparation of kharif vegetables.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/ m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "Use quality seeds like Arjuna, Kalua, Bhairavi, Chilika and seed rate is 1.5 kg for SMI methods, 2.5 Kg for line sowing and 4 kg/ac for broadcasting. Apply 10 g N and 10 g P per sq meter of nursery . For direct sowing apply 4 t7/9/24, 4:00 PM District Advisory FYM/ac. The fertilizer dose is 50:25:25 kg NPK/ha. To protect from termites apply 10 kg Chlorpyriphos at final preparation of the field."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "By using sand over the floor we can keep the floor dry so that the animals are kept free from dif ferent diseases. The speciality of this shed is the floor is made of bricks and cement and sand from river is spread over it by a thickness of 4-6 inches. The sand soaks the urine so that the animals can sleep over it comfortably . It is also easier to clean the faecal material over the sand floor . To keep the sand dry it is stirred upside down in 15-20 days interval. The floor space requirement for kid is 0.5, for adult 1.2, for buck and pregnant female 2 square metre floor space is necessary which is suitable for every type of shed."
+         ]
+      },
+      "common carp": {
+         "advisory": [
+            "Carp such as Rohu, Catla and Mrigal, which grow rapidly , should be stocked in a certain ratio of 4:3:3 to increase the benefits. Generally , a density of 5,000 fingerlings/ha is kept as a standard stocking. Groundnut oil cake and rice bran is given in same ratio @ 5% of the total biomass of stocking material. Cow dung, urea and super phosphate should be applied to increase pond quality . In 8-10 months, fishes attain their marketable size."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

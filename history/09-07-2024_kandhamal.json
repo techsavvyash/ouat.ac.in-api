@@ -1,0 +1,97 @@
+{
+   "weather_details": {
+      "10-07-2024": {
+         "rainfall": 3,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 163,
+         "cloud_cover": 7
+      },
+      "11-07-2024": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 20,
+         "rh_max": 85,
+         "rh_min": 56,
+         "wind_speed": 8,
+         "wind_direction": 206,
+         "cloud_cover": 6
+      },
+      "12-07-2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 86,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 225,
+         "cloud_cover": 6
+      },
+      "13-07-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 58,
+         "wind_speed": 9,
+         "wind_direction": 257,
+         "cloud_cover": 6
+      },
+      "14-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 90,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 257,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "turmeric",
+      "chilli",
+      "ragi",
+      "cattle rearing"
+   ],
+   "general_advisory": "Make the main field puddle twice before transplanting the rice. If seed treatment is not done during sowing, then dip the root in Thiram or Bavistin before transplanting. Seeing the upcoming rainfall event, make provisions for drainage of excess water paddy and non-paddy fields.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Dip the seedling in Bavistin before transplanting.",
+            "Water stagnation may cause root rot and motility.",
+            "Make provision to drain out excess water from nursery bed."
+         ]
+      },
+      "turmeric": {
+         "advisory": [
+            "Stage - Vegetative",
+            "Weeding at this stage is very important to avoid crop weed competition and promote better plant growth."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Disease - damping off",
+            "Soil drenching with copper oxychloride 0.25%",
+            "Avoid shaded places for nursery establishment",
+            "Avoid flooding type of irrigation and maintain optimum moisture level in nursery"
+         ]
+      },
+      "ragi": {
+         "advisory": [
+            "High yielding varieties like Arjun, Kalua, Godavari, Neelachal, Shubhra can be cultivated",
+            "Either transplanting or direct sowing can be taken up."
+         ]
+      },
+      "cattle rearing": {
+         "advisory": [
+            "Don’t let the cattle roam outside during lightning to avoid mishaps, keep them in cowshed and maintain cleanliness and hygiene."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

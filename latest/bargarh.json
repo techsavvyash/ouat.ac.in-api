@@ -1,95 +1,93 @@
 {
    "weather_details": {
-      "10-07-2024": {
-         "rainfall": 4,
+      "20-07-2024": {
+         "rainfall": 6,
          "t_max": 34,
-         "t_min": 27,
-         "rh_max": 69,
-         "rh_min": 42,
-         "wind_speed": 11,
-         "wind_direction": 171,
-         "cloud_cover": 7
-      },
-      "11-07-2024": {
-         "rainfall": 3,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 71,
-         "rh_min": 43,
-         "wind_speed": 13,
-         "wind_direction": 206,
-         "cloud_cover": 6
-      },
-      "12-07-2024": {
-         "rainfall": 4,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 75,
-         "rh_min": 46,
-         "wind_speed": 12,
-         "wind_direction": 216,
-         "cloud_cover": 6
-      },
-      "13-07-2024": {
-         "rainfall": 3,
-         "t_max": 35,
-         "t_min": 27,
-         "rh_max": 74,
-         "rh_min": 45,
-         "wind_speed": 15,
-         "wind_direction": 283,
-         "cloud_cover": 6
-      },
-      "14-07-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 27,
-         "rh_max": 78,
+         "t_min": 24,
+         "rh_max": 84,
          "rh_min": 44,
-         "wind_speed": 15,
-         "wind_direction": 257,
+         "wind_speed": 13,
+         "wind_direction": 63,
          "cloud_cover": 7
+      },
+      "21-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 47,
+         "wind_speed": 11,
+         "wind_direction": 202,
+         "cloud_cover": 7
+      },
+      "22-07-2024": {
+         "rainfall": 10,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 54,
+         "wind_speed": 16,
+         "wind_direction": 238,
+         "cloud_cover": 7
+      },
+      "23-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 80,
+         "rh_min": 66,
+         "wind_speed": 23,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 15,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 76,
+         "rh_min": 61,
+         "wind_speed": 22,
+         "wind_direction": 248,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "cotton",
+      "maize",
       "vegetable crops",
-      "cow/buffalo",
-      "poultry"
+      "animal husbandry"
    ],
-   "general_advisory": "Farmers are advised to take necessary action towards kharif crop cultivation. Farmers should start main field preparation for transplanting of paddy seedlings and vegetable crops and also start planting new fruit crops in orchard by taking the advantage of prevailing rainfall condition. Prevailing weather condition is favorable for sucking insect pest such as mealy bug, aphids, etc. attack in all types of crops so farmers should spray Thiamethoxam 25% WG @ 0.5-0.6g or Imidacloprid 17.8% SL @ 0.5ml or Lambda Cyhalothrin 4.9 % CS per liter of water to control this insects.",
+   "general_advisory": "Farmers are advised to avoid irrigation and spraying operations during the period of expected rainfall. Make provisions to support crops during high wind speed conditions.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "By taking advantage of previous rainfall, farmers should start field preparation for nursery sowing of Paddy.",
-            "Before sowing, seed treatment should be done with Carbendazim 50% WP @ 2g/kg of seeds or Trichoderma @ 10 g/kg of seeds."
+            "Nursery sowing should be completed by end of 2nd fortnight of July.",
+            "Main field land preparation includes puddling the field twice at 7-10 days intervals and land leveling.",
+            "Apply recommended fertilizers at the time of last puddling.",
+            "Transplanting should be done at the recommended spacing with specific seedling numbers."
          ]
       },
-      "cotton": {
+      "maize": {
          "advisory": [
-            "Farmers those are already done sowing, advised to thin weaker plants in the cotton field at 10-12 days after germination and gap filling.",
-            "Keep the field weed free up to 60 days after sowing."
+            "Ideal sowing time is June 20 to end of July for kharif maize.",
+            "Use raised bed planting in fields with water stagnation.",
+            "Implement weed control measures at critical periods after sowing.",
+            "Delay spraying and intercultural operations based on upcoming rainfall forecast."
          ]
       },
       "vegetable crops": {
          "advisory": [
-            "Prevailing weather condition is favorable for sucking insect pest attack in nursery of vegetable crops so its regular monitoring should be advised and after noticing the attack, spraying of Thiamethoxam 25% WG @ 0.5-0.6g or Imidacloprid 17.8% SL @ 0.5ml per liter of water should be advised under clear weather.",
-            "Farmers should start raised bed nursery preparation for kharif vegetable crops with proper drainage system to avoid water logging."
+            "Start raised bed nursery preparation for kharif vegetable crops.",
+            "Avoid planting and intercultural operations during the expected rainfall period."
          ]
       },
-      "cow/buffalo": {
+      "animal husbandry": {
          "advisory": [
-            "Deworming and vaccination of animal against FMD, HS and BQ should be ensured at the beginning of commencement of monsoon.",
-            "Soft and tender grass is more palatable to cattle, but magnesium deficiency is seen in dairy cows when eating too much litter, so a variety of grasses should be fed instead of just soft grass."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "During rainy season, make provision to ensure proper ventilation by allowing an opening of 1-2 ft at the top of side curtains during the day and the side walls of the empty shed should be completely covered with polythene curtains.",
-            "Deworming and vaccination of poultry birds against ranikhet disease must be ensured."
+            "Ensure deworming and vaccination of animals.",
+            "Protect animals from infectious diseases spread during the rainy season.",
+            "Provide clean drinking water and safe shelter for animals."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

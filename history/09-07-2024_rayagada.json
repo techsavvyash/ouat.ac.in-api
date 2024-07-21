@@ -1,0 +1,72 @@
+{
+   "weather_details": {
+      "2024-07-10": {
+         "rainfall": 6,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 54,
+         "wind_speed": 6,
+         "wind_direction": 180,
+         "cloud_cover": 7
+      },
+      "2024-07-11": {
+         "rainfall": 4,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 88,
+         "rh_min": 58,
+         "wind_speed": 8,
+         "wind_direction": 204,
+         "cloud_cover": 6
+      },
+      "2024-07-12": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 59,
+         "wind_speed": 8,
+         "wind_direction": 212,
+         "cloud_cover": 6
+      },
+      "2024-07-13": {
+         "rainfall": 3,
+         "t_max": 34,
+         "t_min": 26,
+         "rh_max": 89,
+         "rh_min": 63,
+         "wind_speed": 10,
+         "wind_direction": 288,
+         "cloud_cover": 6
+      },
+      "2024-07-14": {
+         "rainfall": 10,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 91,
+         "rh_min": 62,
+         "wind_speed": 10,
+         "wind_direction": 270,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "pigeon pea",
+      "rice"
+   ],
+   "general_advisory": "Intercropping of cereals+pulses/oilseeds is recommended. Go for early sowing/transplanting as for as possible to complete these by mid-August. Go for medium duration rice varieties in medium land. Go for line sowing of rice followed by early beaushaning and weeding. This will avoid the rainfall required for transplanting, and over -aged seedlings if transplanted late.",
+   "crops_data": {
+      "pigeon pea": {
+         "advisory": [
+            "Some improved varieties of Arhar are PRG-235, PRG 176, VL ARHAR-1, TArhar etc. For line sowing the recommended seed rate for early maturing varieties is 8 kg whereas for late maturing varieties it is 6 kg. Land should be ploughed 3-4 times by cultivator to get fine tilth followed by land levelling. Apply 2 tonne of well decomposed FYM during final land preparation. Seed treatment can be done with Carbendazim 50 % WP @ 2- gram/ kg of seeds or Carboxin 37.5 % + Thiram 37.5% D.S WP. Treat the seeds with recommended species of Rhizobium bacterial culture @ 20 gram/kg of seeds before 1 hour of sowing. The gap between chemical seed treatment and Rhizobium treatment should be at least 7 days."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "In zinc deficient areas apply Zinc Sulphate @ 10 kg/acre (once in two years) at the time of final land preparation. In boron deficient soil apply borax @ 2kg/ace at the time of final land preparation. Transplanting of 20-30 days old seedlings should be done at a spacing of 20 x15 cm, use 2-3 seedlings per hill for high yielding varieties. For hybrids use only 1-2 seedlings per hill. In Brown Plant Hopper (BPH) endemic areas, skip a row after each 8-10 rows of transplanting."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

@@ -1,0 +1,84 @@
+{
+   "weather_details": {
+      "06.07.2024": {
+         "rainfall": 5,
+         "t_max": 28,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 6
+      },
+      "07.07.2024": {
+         "rainfall": 5,
+         "t_max": 29,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "08.07.2024": {
+         "rainfall": 7,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "09.07.2024": {
+         "rainfall": 10,
+         "t_max": 28,
+         "t_min": 21,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      },
+      "10.07.2024": {
+         "rainfall": 7,
+         "t_max": 28,
+         "t_min": 22,
+         "rh_max": 81,
+         "rh_min": 56,
+         "wind_speed": 13,
+         "wind_direction": 0,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "rohu",
+      "catla",
+      "mrigal"
+   ],
+   "general_advisory": "In assured irrigated areas select the land for wet bed nursery close to source of irrigation water with good drainage facilities. It is advisable to follow community nursery approach at village level. Divide nursery area into smaller plots of 1.5-metre-long, 10 cm height and convenient length. Irrigation channels of size 30 cm in width should be made along the beds for irrigation/drainage. Sprouted Seeds should be sown @ 40-50 g/m2 area of seed bed by line sowing with 5 cm gap between each line or direct broadcasting and put dried compost over seeds. Deworm them to reduce the load of internal parasites. Dipping should be done in case of sheep against external parasites. Keep animals indoor during rainy hours and provide clean and wholesome water.",
+   "crops_data": {
+      "rohu": {
+         "advisory": [
+            "Carp such as Rohu should be stocked in a certain ratio of 4:3:3 with Catla and Mrigal to increase benefits.",
+            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
+         ]
+      },
+      "catla": {
+         "advisory": [
+            "Carp such as Catla should be stocked in a certain ratio of 4:3:3 with Rohu and Mrigal to increase benefits.",
+            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
+         ]
+      },
+      "mrigal": {
+         "advisory": [
+            "Carp such as Mrigal should be stocked in a certain ratio of 4:3:3 with Rohu and Catla to increase benefits.",
+            "Density of 5,000 fingerlings/ha is kept as a standard stocking.",
+            "Groundnut oil cake and rice bran should be given in the same ratio @ 5% of the total biomass of stocking material."
+         ]
+      }
+   },
+   "date": "05-07-2024"
+}

@@ -1,0 +1,92 @@
+{
+   "weather_details": {
+      "10-07-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 25,
+         "rh_max": 88,
+         "rh_min": 50,
+         "wind_speed": 11,
+         "wind_direction": 162,
+         "cloud_cover": 7
+      },
+      "11-07-2024": {
+         "rainfall": 6,
+         "t_max": 34,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 53,
+         "wind_speed": 10,
+         "wind_direction": 199,
+         "cloud_cover": 6
+      },
+      "12-07-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 86,
+         "rh_min": 48,
+         "wind_speed": 10,
+         "wind_direction": 163,
+         "cloud_cover": 6
+      },
+      "13-07-2024": {
+         "rainfall": 6,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 52,
+         "wind_speed": 7,
+         "wind_direction": 191,
+         "cloud_cover": 7
+      },
+      "14-07-2024": {
+         "rainfall": 10,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 53,
+         "wind_speed": 6,
+         "wind_direction": 202,
+         "cloud_cover": 8
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "vegetables",
+      "cowpea"
+   ],
+   "general_advisory": "Irrigate the crop, if it shows soil moisture deficient. Prepare the field for paddy transplantation. Spraying of insecticides and pesticides should be done at early morning or during evening hours. Avoid water stagnation near the root zone of the plant.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Make sure the soil is well puddled before transplanting of paddy.",
+            "Be careful while transplanting. The field should have good water stand.",
+            "Monitor the field for any diseases and pests."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Remove grasses and other weeds from the main field.",
+            "Apply recommended fertilizers to the crops.",
+            "Monitor for aphids infestation and take necessary action."
+         ]
+      },
+      "vegetables": {
+         "advisory": [
+            "Apply suitable fungicides to manage Fusarium wilt.",
+            "Monitor for cercospora leaf spot and spray copper oxychloride as needed.",
+            "Irrigate the crops consistently.",
+            "Manage fruit and shoot borer by collecting affected fruits and destroying them."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Spray Imidacloprid to manage Thrips, ants, and other pests.",
+            "Regularly monitor the field for diseases and pests."
+         ]
+      }
+   },
+   "date": "09-07-2024"
+}

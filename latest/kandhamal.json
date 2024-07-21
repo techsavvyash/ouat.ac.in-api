@@ -1,97 +1,108 @@
 {
    "weather_details": {
-      "10-07-2024": {
-         "rainfall": 3,
-         "t_max": 32,
-         "t_min": 24,
-         "rh_max": 86,
-         "rh_min": 53,
+      "20-07-2024": {
+         "rainfall": 25,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 94,
+         "rh_min": 68,
+         "wind_speed": 6,
+         "wind_direction": 116,
+         "cloud_cover": 8
+      },
+      "21-07-2024": {
+         "rainfall": 20,
+         "t_max": 29,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 70,
          "wind_speed": 7,
-         "wind_direction": 163,
+         "wind_direction": 244,
+         "cloud_cover": 8
+      },
+      "22-07-2024": {
+         "rainfall": 15,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 91,
+         "rh_min": 75,
+         "wind_speed": 11,
+         "wind_direction": 246,
          "cloud_cover": 7
       },
-      "11-07-2024": {
-         "rainfall": 4,
-         "t_max": 33,
-         "t_min": 20,
-         "rh_max": 85,
-         "rh_min": 56,
-         "wind_speed": 8,
-         "wind_direction": 206,
-         "cloud_cover": 6
-      },
-      "12-07-2024": {
-         "rainfall": 5,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 86,
-         "rh_min": 55,
-         "wind_speed": 8,
-         "wind_direction": 225,
-         "cloud_cover": 6
-      },
-      "13-07-2024": {
-         "rainfall": 6,
-         "t_max": 34,
-         "t_min": 26,
-         "rh_max": 89,
-         "rh_min": 58,
-         "wind_speed": 9,
-         "wind_direction": 257,
-         "cloud_cover": 6
-      },
-      "14-07-2024": {
+      "23-07-2024": {
          "rainfall": 10,
-         "t_max": 34,
-         "t_min": 25,
-         "rh_max": 90,
-         "rh_min": 60,
-         "wind_speed": 10,
-         "wind_direction": 257,
+         "t_max": 31,
+         "t_min": 23,
+         "rh_max": 86,
+         "rh_min": 70,
+         "wind_speed": 18,
+         "wind_direction": 248,
          "cloud_cover": 7
+      },
+      "24-07-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 18,
+         "wind_direction": 248,
+         "cloud_cover": 6
       }
    },
    "names_of_crops": [
       "rice",
-      "turmeric",
+      "tomato",
+      "brinjal",
       "chilli",
-      "ragi",
-      "cattle rearing"
+      "maize",
+      "cattle rearing",
+      "fishery"
    ],
-   "general_advisory": "Make the main field puddle twice before transplanting the rice. If seed treatment is not done during sowing, then dip the root in Thiram or Bavistin before transplanting. Seeing the upcoming rainfall event, make provisions for drainage of excess water paddy and non-paddy fields.",
+   "general_advisory": "Looking at the rainfall event and windy weather, farmers are advised to put hold on their pesticide application. In rice field, bund must be raised to preserve water subsequent rice transplanting. From vegetable fields, drain out excess water to protect the seedling from rotting.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Dip the seedling in Bavistin before transplanting.",
-            "Water stagnation may cause root rot and motility.",
-            "Make provision to drain out excess water from nursery bed."
+            "Start puddling of the main field for the transplanting of the rice.",
+            "For that purpose, make bunds to conserve water."
          ]
       },
-      "turmeric": {
+      "tomato": {
          "advisory": [
-            "Stage - Vegetative",
-            "Weeding at this stage is very important to avoid crop weed competition and promote better plant growth."
+            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting.",
+            "Keep the field sanitized after the rain recedes."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Drain out excess water from the recently transplanted seedling fields to avoid root rotting.",
+            "Keep the field sanitized after the rain recedes."
          ]
       },
       "chilli": {
          "advisory": [
-            "Disease - damping off",
-            "Soil drenching with copper oxychloride 0.25%",
-            "Avoid shaded places for nursery establishment",
-            "Avoid flooding type of irrigation and maintain optimum moisture level in nursery"
+            "Keep the field sanitized after the rain recedes.",
+            "Make provision for drainage."
          ]
       },
-      "ragi": {
+      "maize": {
          "advisory": [
-            "High yielding varieties like Arjun, Kalua, Godavari, Neelachal, Shubhra can be cultivated",
-            "Either transplanting or direct sowing can be taken up."
+            "Weeding in maize is very crucial after 15-20 days of sowing otherwise crop growth will be hampered due to heavy crop weed competition.",
+            "After that, earthing up can also be done with fertilizer application."
          ]
       },
       "cattle rearing": {
          "advisory": [
-            "Don’t let the cattle roam outside during lightning to avoid mishaps, keep them in cowshed and maintain cleanliness and hygiene."
+            "Don't let the cattle roam outside during lightning to avoid mishap, keep them in cowshed and keep it clean and hygienic."
+         ]
+      },
+      "fishery": {
+         "advisory": [
+            "Due to the rain fall, the water on the fish ponds become muddy and become diluted.",
+            "So after rain fall, apply a suitable amount of lime and solutes."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }

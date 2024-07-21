@@ -1,97 +1,92 @@
 {
    "weather_details": {
-      "10/07/2024": {
-         "rainfall": 2,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 83,
-         "rh_min": 41,
-         "wind_speed": 10,
-         "wind_direction": 154,
-         "cloud_cover": 6
+      "20/07/2024": {
+         "rainfall": 15,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 45,
+         "wind_speed": 11,
+         "wind_direction": 68,
+         "cloud_cover": 8
       },
-      "11/07/2024": {
-         "rainfall": 2,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 79,
-         "rh_min": 44,
-         "wind_speed": 9,
-         "wind_direction": 171,
-         "cloud_cover": 6
-      },
-      "12/07/2024": {
-         "rainfall": 3,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 80,
-         "rh_min": 42,
-         "wind_speed": 8,
-         "wind_direction": 193,
-         "cloud_cover": 7
-      },
-      "13/07/2024": {
-         "rainfall": 4,
-         "t_max": 33,
-         "t_min": 26,
-         "rh_max": 83,
-         "rh_min": 46,
-         "wind_speed": 8,
-         "wind_direction": 202,
-         "cloud_cover": 7
-      },
-      "14/07/2024": {
+      "21/07/2024": {
          "rainfall": 10,
-         "t_max": 32,
-         "t_min": 25,
-         "rh_max": 81,
-         "rh_min": 43,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 91,
+         "rh_min": 49,
          "wind_speed": 8,
-         "wind_direction": 287,
+         "wind_direction": 112,
+         "cloud_cover": 8
+      },
+      "22/07/2024": {
+         "rainfall": 7,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 51,
+         "wind_speed": 8,
+         "wind_direction": 240,
+         "cloud_cover": 7
+      },
+      "23/07/2024": {
+         "rainfall": 10,
+         "t_max": 30,
+         "t_min": 25,
+         "rh_max": 85,
+         "rh_min": 64,
+         "wind_speed": 17,
+         "wind_direction": 248,
+         "cloud_cover": 7
+      },
+      "24/07/2024": {
+         "rainfall": 10,
+         "t_max": 29,
+         "t_min": 24,
+         "rh_max": 87,
+         "rh_min": 59,
+         "wind_speed": 19,
+         "wind_direction": 248,
          "cloud_cover": 8
       }
    },
    "names_of_crops": [
-      "kharif",
       "paddy",
-      "summer pulses",
       "pulses",
+      "arhar",
       "ragi",
       "maize",
       "groundnut",
       "ginger",
       "turmeric",
-      "yam",
       "vegetables"
    ],
    "general_advisory": "Start sowing kharif crops when the monsoon gives a cumulative rainfall of more than 70 mm.",
    "crops_data": {
-      "kharif": {
-         "advisory": [
-            "Choose the variety according to land type and resources available.",
-            "Aromatic paddy like New Kalajeera and Kalajeera, Nua Acharmati. Change the certified seeds after three years."
-         ]
-      },
       "paddy": {
          "advisory": [
-            "Prepare weel cultivated dry bed for transplantation.",
-            "Apply 4 kg urea for 10 decimal area."
-         ]
-      },
-      "summer pulses": {
-         "advisory": [
-            "Harvest the crop at maturity stage."
+            "Prepare a well cultivated dry bed for paddy transplantation.",
+            "Sow 20 kg seeds per 10 decimal area with 40 baskets of FYM mixed in the bed.",
+            "Sow rice seedlings of 15 days old and apply 4 kg urea per 10 decimal area."
          ]
       },
       "pulses": {
          "advisory": [
-            "After monsoon rainfall, start sowing different pulses in the field."
+            "Treat seeds with Rhizobium before sowing.",
+            "Choose good varieties like IP-02-14, OUM-11-5, Pant-19, PDM-54."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Choose quality seeds like Upas-120, ICPl 86012, Pusa Arhar.",
+            "Go for early to medium duration Arhar."
          ]
       },
       "ragi": {
          "advisory": [
             "Choose good varieties like Arjuna, Kalua, Sriprava.",
-            "After good rainfall, prepare the land and sow the ragi seeds."
+            "Prepare the land and sow ragi seeds after good rainfall."
          ]
       },
       "maize": {
@@ -102,34 +97,27 @@
       },
       "groundnut": {
          "advisory": [
-            "Choose good varieties like Dharani, Smruti, Kadri-6.",
-            "Treat the seeds with Vitavax power before sowing."
+            "Choose good varieties like Dharani, Smruti, Kadri-6, Kalinga groundnut.",
+            "Treat seeds with Vitavax power and Rhizobium culture before sowing.",
+            "Apply FYM, gypsum, and NPK during final land preparation."
          ]
       },
       "ginger": {
          "advisory": [
-            "Collect good quality ginger Rhizomes namely Suprava, Suruchi, Suravi.",
-            "Treat the seeds before planting in the field."
+            "Drain out excess water from the field before planting."
          ]
       },
       "turmeric": {
          "advisory": [
-            "Sow good varieties like Roma, Suroma, Ranga, Rashmi.",
-            "Seed rate is 8-10 quintals per acre."
-         ]
-      },
-      "yam": {
-         "advisory": [
-            "Seed rate is 8-10 quintals per acre.",
-            "Prepare well-pulverized field and make pits before planting."
+            "Drain out excess water from the field before planting."
          ]
       },
       "vegetables": {
          "advisory": [
-            "Due to temperature effect in brinjal, manage Foot & Shoot borer with Neem based pesticides.",
-            "Prepare poison baits for white flies in Cucurbits."
+            "Use pheromone traps or Neem-based pesticides for fruit & shoot borer in Brinjal.",
+            "Go for off-season vegetables like cauliflower for planting."
          ]
       }
    },
-   "date": "09-07-2024"
+   "date": "19-07-2024"
 }
