@@ -147,3 +147,4 @@ ERROR:root:Error downloading PDF: Invalid URL '': No scheme supplied. Perhaps yo
 ERROR:root:Error downloading PDF for koraput
 ERROR:root:Error downloading PDF: Invalid URL '': No scheme supplied. Perhaps you meant https://?
 ERROR:root:Error downloading PDF for nabarangapur
+ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
