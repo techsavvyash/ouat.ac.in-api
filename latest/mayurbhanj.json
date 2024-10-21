@@ -1,0 +1,228 @@
+{
+   "weather_details": {
+      "2024-10-18": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 95,
+         "rh_min": 66,
+         "wind_speed": 2,
+         "wind_direction": 0,
+         "cloud_cover": 5
+      },
+      "2024-10-19": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 63,
+         "wind_speed": 3,
+         "wind_direction": 342,
+         "cloud_cover": 6
+      },
+      "2024-10-20": {
+         "rainfall": 2,
+         "t_max": 35,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 54,
+         "wind_speed": 4,
+         "wind_direction": 349,
+         "cloud_cover": 4
+      },
+      "2024-10-21": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 50,
+         "wind_speed": 4,
+         "wind_direction": 350,
+         "cloud_cover": 4
+      },
+      "2024-10-22": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 51,
+         "wind_speed": 5,
+         "wind_direction": 352,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "horse gram",
+      "green gram",
+      "black gram",
+      "cowpea",
+      "sweet potato",
+      "sesame",
+      "cabbage",
+      "late cauliflower",
+      "broccoli",
+      "brinjal",
+      "tomato",
+      "chilli",
+      "capsicum",
+      "carrot",
+      "radish",
+      "late onion",
+      "garlic",
+      "legumes",
+      "rose",
+      "beans",
+      "rice",
+      "maize",
+      "finger millet",
+      "cucumber",
+      "onion",
+      "papaya",
+      "chicken"
+   ],
+   "general_advisory": "Soil moisture is adequate for sowing of various crops. Optimum time for sowing of vegetables like cabbage, late cauliflower, broccoli, brinjal, tomato, chilli, capsicum, carrot, radish, late onion, garlic, legumes. Ideal time for hard pruning in rose. Good weather for beans planting.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Sowing of groundnut can be done with adequate soil moisture."
+         ]
+      },
+      "horse gram": {
+         "advisory": [
+            "Sow horse gram seeds in prepared land."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Green gram sowing can be done."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Prepare land for black gram sowing."
+         ]
+      },
+      "cowpea": {
+         "advisory": [
+            "Sow cowpea seeds in suitable conditions."
+         ]
+      },
+      "sweet potato": {
+         "advisory": [
+            "Optimum time for sowing sweet potato."
+         ]
+      },
+      "sesame": {
+         "advisory": [
+            "Prepare land for sesame sowing."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Start nursery preparation for cabbage seeds."
+         ]
+      },
+      "late cauliflower": {
+         "advisory": [
+            "Sowing of late cauliflower can be done."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Prepare land for broccoli cultivation."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Seed treatment and nursery sowing advice for brinjal."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Seed treatment and nursery sowing advice for tomato."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Chilli cultivation advice."
+         ]
+      },
+      "capsicum": {
+         "advisory": [
+            "Prepare land for capsicum plantation."
+         ]
+      },
+      "carrot": {
+         "advisory": [
+            "Planting advice for carrots."
+         ]
+      },
+      "radish": {
+         "advisory": [
+            "Radish cultivation guidelines."
+         ]
+      },
+      "late onion": {
+         "advisory": [
+            "Sow late onion seeds in prepared land."
+         ]
+      },
+      "garlic": {
+         "advisory": [
+            "Optimum time for garlic sowing."
+         ]
+      },
+      "legumes": {
+         "advisory": [
+            "Sow legumes in suitable conditions."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Ideal time for hard pruning in rose for flower production."
+         ]
+      },
+      "beans": {
+         "advisory": [
+            "Good weather for beans planting."
+         ]
+      },
+      "rice": {
+         "advisory": [
+            "Advisory for managing Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Management advice for Fall Army Worm in maize crop."
+         ]
+      },
+      "finger millet": {
+         "advisory": [
+            "Protect finger millet from Leaf spot and Leaf blight disease."
+         ]
+      },
+      "cucumber": {
+         "advisory": [
+            "Management advice for fruit fly in cucurbits."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Sowing advice for onion cultivation."
+         ]
+      },
+      "papaya": {
+         "advisory": [
+            "Management advice for mealy bug infestation in papaya."
+         ]
+      },
+      "chicken": {
+         "advisory": [
+            "Vaccination advice against Ranikhet disease for 3-4 weeks old Poultry birds."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

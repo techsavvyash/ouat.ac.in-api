@@ -1,0 +1,143 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 26,
+         "rh_max": 93,
+         "rh_min": 59,
+         "wind_speed": 1,
+         "wind_direction": 45,
+         "cloud_cover": 5
+      },
+      "20-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 92,
+         "rh_min": 62,
+         "wind_speed": 2,
+         "wind_direction": 45,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 2,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 89,
+         "rh_min": 60,
+         "wind_speed": 2,
+         "wind_direction": 39,
+         "cloud_cover": 7
+      },
+      "22-10-2024": {
+         "rainfall": 1,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 86,
+         "rh_min": 48,
+         "wind_speed": 3,
+         "wind_direction": 30,
+         "cloud_cover": 6
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 25,
+         "rh_max": 77,
+         "rh_min": 43,
+         "wind_speed": 5,
+         "wind_direction": 90,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "arhar",
+      "hybrid maize",
+      "tomato",
+      "cole crops",
+      "onion",
+      "marigold",
+      "rose",
+      "cattle & buffalo",
+      "goat & sheep",
+      "poultry"
+   ],
+   "general_advisory": "As per extended range forecast received from IMD, light to moderate rain/thundershower is likely to occur at isolated to scattered places in the districts of Odisha...",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Prevailing weather condition is highly favorable for the incidence of diseases like Bacterial Blight and Leaf Blast",
+            "Apply pesticides as needed"
+         ]
+      },
+      "cotton": {
+         "advisory": [
+            "Control American bollworm using Emamectin benzoate or Profenophos",
+            "Apply Streptocycline for Bacterial leaf blight"
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Spray Profenophos or Chlorpyriphos to control insects",
+            "Apply neem-based pesticides for Pod borer"
+         ]
+      },
+      "hybrid maize": {
+         "advisory": [
+            "Apply Flubendiamide to control American Cob Borer",
+            "Spray Validamycin or Hexaconazole for BLSB"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Take precautions against Seedling wilt",
+            "Recommended varieties include Utkala Prgayan, Utkala Raja, etc."
+         ]
+      },
+      "cole crops": {
+         "advisory": [
+            "Prepare nursery beds properly",
+            "Use suitable varieties for Cauliflower, Cabbage, Broccoli"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Prepare nursery beds adequately",
+            "Select suitable varieties like Agrifound light Red, Bhima Super, etc."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Control mealy bug infestation with Profenophos or Buprofezin"
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Conduct training and pruning operations",
+            "Apply Copper Oxychloride for Black spot control"
+         ]
+      },
+      "cattle & buffalo": {
+         "advisory": [
+            "Deworm animals regularly",
+            "Consult with veterinary doctors if needed"
+         ]
+      },
+      "goat & sheep": {
+         "advisory": [
+            "Check animals for dehydration, heat stress, and parasitic infections",
+            "Deworm and vaccinate animals as necessary"
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Maintain cleanliness in poultry houses",
+            "Regularly clean and disinfect to prevent pathogen buildup"
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}
