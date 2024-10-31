@@ -1,51 +1,8 @@
 {
-   "weather_details": {
-      "2022-01-01": {
-         "rainfall": 10,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 80,
-         "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 180,
-         "cloud_cover": 5
-      },
-      "2022-01-02": {
-         "rainfall": 5,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 85,
-         "rh_min": 55,
-         "wind_speed": 10,
-         "wind_direction": 220,
-         "cloud_cover": 3
-      }
-   },
-   "names_of_crops": [
-      "wheat",
-      "corn",
-      "poultry"
-   ],
-   "general_advisory": "It is recommended to monitor crop health closely due to the expected rain. Poultry should be kept indoors during heavy rainfall.",
-   "crops_data": {
-      "wheat": {
-         "advisory": [
-            "Apply fertilizers for better growth",
-            "Monitor for pests and diseases regularly"
-         ]
-      },
-      "corn": {
-         "advisory": [
-            "Planting should be done by the end of January",
-            "Irrigate adequately during dry spells"
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Ensure clean drinking water is available at all times",
-            "Maintain proper ventilation in poultry housing"
-         ]
-      }
-   },
-   "date": "18-10-2024"
+   "date": "date",
+   "error": "Error in getting the document.",
+   "weather_details": {},
+   "names_of_crops": [],
+   "general_advisory": "",
+   "crops_data": {}
 }

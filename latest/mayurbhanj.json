@@ -1,228 +1,126 @@
 {
    "weather_details": {
-      "2024-10-18": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 95,
-         "rh_min": 66,
+      "2024-10-26": {
+         "rainfall": 90,
+         "t_max": 26,
+         "t_min": 23,
+         "rh_max": 89,
+         "rh_min": 96,
+         "wind_speed": 18,
+         "wind_direction": 39,
+         "cloud_cover": 8
+      },
+      "2024-10-27": {
+         "rainfall": 20,
+         "t_max": 25,
+         "t_min": 23,
+         "rh_max": 83,
+         "rh_min": 97,
+         "wind_speed": 4,
+         "wind_direction": 68,
+         "cloud_cover": 8
+      },
+      "2024-10-28": {
+         "rainfall": 4,
+         "t_max": 26,
+         "t_min": 24,
+         "rh_max": 72,
+         "rh_min": 97,
          "wind_speed": 2,
-         "wind_direction": 0,
+         "wind_direction": 68,
+         "cloud_cover": 7
+      },
+      "2024-10-29": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 24,
+         "rh_max": 68,
+         "rh_min": 96,
+         "wind_speed": 0,
+         "wind_direction": 90,
          "cloud_cover": 5
       },
-      "2024-10-19": {
-         "rainfall": 2,
-         "t_max": 35,
+      "2024-10-30": {
+         "rainfall": 1,
+         "t_max": 30,
          "t_min": 25,
-         "rh_max": 92,
-         "rh_min": 63,
+         "rh_max": 59,
+         "rh_min": 94,
          "wind_speed": 3,
-         "wind_direction": 342,
-         "cloud_cover": 6
-      },
-      "2024-10-20": {
-         "rainfall": 2,
-         "t_max": 35,
-         "t_min": 24,
-         "rh_max": 88,
-         "rh_min": 54,
-         "wind_speed": 4,
-         "wind_direction": 349,
+         "wind_direction": 220,
          "cloud_cover": 4
-      },
-      "2024-10-21": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 50,
-         "wind_speed": 4,
-         "wind_direction": 350,
-         "cloud_cover": 4
-      },
-      "2024-10-22": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 83,
-         "rh_min": 51,
-         "wind_speed": 5,
-         "wind_direction": 352,
-         "cloud_cover": 5
       }
    },
    "names_of_crops": [
-      "groundnut",
-      "horse gram",
-      "green gram",
-      "black gram",
-      "cowpea",
-      "sweet potato",
-      "sesame",
-      "cabbage",
-      "late cauliflower",
-      "broccoli",
-      "brinjal",
-      "tomato",
-      "chilli",
-      "capsicum",
-      "carrot",
-      "radish",
-      "late onion",
-      "garlic",
-      "legumes",
-      "rose",
-      "beans",
       "rice",
-      "maize",
-      "finger millet",
-      "cucumber",
-      "onion",
+      "green gram",
+      "horticulture",
+      "french bean",
+      "banana",
       "papaya",
-      "chicken"
+      "coconut",
+      "others (soil / land preparation)"
    ],
-   "general_advisory": "Soil moisture is adequate for sowing of various crops. Optimum time for sowing of vegetables like cabbage, late cauliflower, broccoli, brinjal, tomato, chilli, capsicum, carrot, radish, late onion, garlic, legumes. Ideal time for hard pruning in rose. Good weather for beans planting.",
+   "general_advisory": "Keep the harvested paddy and non-paddy crops in a safe and waterproof place to avoid rainfall and high wind speed. Go for plucking of flowers to avoid deterioration of flower quality. Make strong wooden support for papaya and banana plants to avoid lodging. Harvest the mature vegetables. Make strong support for trailing-type vegetables. Avoid spraying of pesticides during this period. Don't let the domestic animals outside during this period. Make provision of fodder and clean drinking water for 2-3 days. Don't tie cattle under trees or near any big trees.",
    "crops_data": {
-      "groundnut": {
+      "rice": {
          "advisory": [
-            "Sowing of groundnut can be done with adequate soil moisture."
-         ]
-      },
-      "horse gram": {
-         "advisory": [
-            "Sow horse gram seeds in prepared land."
+            "Make a path at an interval of 10 feet for better drainage of rainwater.",
+            "Spray 2% salt solution (20gm salt in 1 liter water) in the place where the harvesting of matured rice grain is not possible. It is used to prevent the germination of rice grain.",
+            "When there is 80-85% ripening in rice grain in the panicle, harvest the crops and store in a safe place.",
+            "Safely place the harvested grain from the rice field.",
+            "Harvested straw should be kept in a proper way.",
+            "Take necessary action to protect the rice grain in godown (mandi) from rain."
          ]
       },
       "green gram": {
          "advisory": [
-            "Green gram sowing can be done."
+            "Aftercare in pulses (Pigeon pea, green gram, black gram). Make provision for drainage.",
+            "Spray 1.5% chloropyriphos or 0.4% fenovalarate into the ridges to check the spreading of black-headed caterpillar pest to other fields in pulse crop.",
+            "In green gram/black gram, there is a chance of infestation of leaf-eating caterpillar and black-headed caterpillar.",
+            "To control from this, spray a mixture of 2 m.l profenophos 50%EC or 2 ml quinalphos 25%EC or 1 ml dichlorovos 76%EC per liter of water @200 liters per acre during the afternoon."
          ]
       },
-      "black gram": {
+      "horticulture": {
          "advisory": [
-            "Prepare land for black gram sowing."
+            "Make provision for drainage.",
+            "If seedlings of brinjal or tomato set topple by means of rain, straighten them by staking and earthing up.",
+            "Spray 1.5gm streptocycline + 3gm copper oxychloride per liter water to the root zone for wilting in brinjal and tomato, 200 liters mixture required for one acre."
          ]
       },
-      "cowpea": {
+      "french bean": {
          "advisory": [
-            "Sow cowpea seeds in suitable conditions."
+            "Make provision for drainage.",
+            "Spray 0.4 ml flubendiamide 39.35%SC/liter, there is a requirement of 200-liter insecticide for the attack of hairy caterpillar.",
+            "If cercospora leaf spot is seen, then spray 1ml difenoconazole 25%EC or 2gm carbendazim 12% + mancozeb 63%WP (2gm)/1 liter water. 200-liter mixture is required to spray 1 acre."
          ]
       },
-      "sweet potato": {
+      "banana": {
          "advisory": [
-            "Optimum time for sowing sweet potato."
-         ]
-      },
-      "sesame": {
-         "advisory": [
-            "Prepare land for sesame sowing."
-         ]
-      },
-      "cabbage": {
-         "advisory": [
-            "Start nursery preparation for cabbage seeds."
-         ]
-      },
-      "late cauliflower": {
-         "advisory": [
-            "Sowing of late cauliflower can be done."
-         ]
-      },
-      "broccoli": {
-         "advisory": [
-            "Prepare land for broccoli cultivation."
-         ]
-      },
-      "brinjal": {
-         "advisory": [
-            "Seed treatment and nursery sowing advice for brinjal."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Seed treatment and nursery sowing advice for tomato."
-         ]
-      },
-      "chilli": {
-         "advisory": [
-            "Chilli cultivation advice."
-         ]
-      },
-      "capsicum": {
-         "advisory": [
-            "Prepare land for capsicum plantation."
-         ]
-      },
-      "carrot": {
-         "advisory": [
-            "Planting advice for carrots."
-         ]
-      },
-      "radish": {
-         "advisory": [
-            "Radish cultivation guidelines."
-         ]
-      },
-      "late onion": {
-         "advisory": [
-            "Sow late onion seeds in prepared land."
-         ]
-      },
-      "garlic": {
-         "advisory": [
-            "Optimum time for garlic sowing."
-         ]
-      },
-      "legumes": {
-         "advisory": [
-            "Sow legumes in suitable conditions."
-         ]
-      },
-      "rose": {
-         "advisory": [
-            "Ideal time for hard pruning in rose for flower production."
-         ]
-      },
-      "beans": {
-         "advisory": [
-            "Good weather for beans planting."
-         ]
-      },
-      "rice": {
-         "advisory": [
-            "Advisory for managing Brown Plant Hopper (BPH) and White Backed Plant Hopper (WBPH) infestation in paddy."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Management advice for Fall Army Worm in maize crop."
-         ]
-      },
-      "finger millet": {
-         "advisory": [
-            "Protect finger millet from Leaf spot and Leaf blight disease."
-         ]
-      },
-      "cucumber": {
-         "advisory": [
-            "Management advice for fruit fly in cucurbits."
-         ]
-      },
-      "onion": {
-         "advisory": [
-            "Sowing advice for onion cultivation."
+            "Make provision for drainage.",
+            "To control from sigatoka leaf spot spray 2 gm carbendazim 12% + mancozeb 63%WP or chlorothalonil 75%WP per liter of water."
          ]
       },
       "papaya": {
          "advisory": [
-            "Management advice for mealy bug infestation in papaya."
+            "Make provision for drainage.",
+            "Spray 0.3 ml imidachloprid 17.8%SL or 0.3 gm thiomethoxam 25%WG per liter of water to prevent from mealybug and aphid."
          ]
       },
-      "chicken": {
+      "coconut": {
          "advisory": [
-            "Vaccination advice against Ranikhet disease for 3-4 weeks old Poultry birds."
+            "To control from the infestation of red palm weevil, apply carbendazim 3%G + sand 1:1 ratio in the hole of the stem and plug the hole.",
+            "To control from Rhinoceros beetle, clean the nearby compost yard of the coconut garden and disinfect it by applying 1.5% chloropyriphos dust."
+         ]
+      },
+      "others (soil / land preparation)": {
+         "advisory": [
+            "Adequate drainage facilities in the nursery beds should be provided.",
+            "When it is raining, cover the nursery bed with white polythene film, avoid black polythene cover as the seedlings grow tall under it.",
+            "If seed sowing is not done, then sow the seeds after seed treatment and by measuring appropriate soil moisture.",
+            "Apply 2gm metalaxyl 8% + mancozeb 64% or 1gm captan 70% + hexaconazole 5%WP / 1 liter water after rain for collar rot in seedlings."
          ]
       }
    },
-   "date": "18-10-2024"
+   "date": "25-10-2024"
 }

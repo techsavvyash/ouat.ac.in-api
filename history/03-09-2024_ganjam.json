@@ -55,7 +55,8 @@
       "rice",
       "sugarcane",
       "horticulture",
-      "brinjal"
+      "brinjal",
+      "tomato"
    ],
    "general_advisory": "Vaccination should be given with tablet for worms. Provide calcium, magnesium and salts along with fodder crops to the animals in these days.",
    "crops_data": {
@@ -75,6 +76,11 @@
          ]
       },
       "brinjal": {
+         "advisory": [
+            "In vegetables (brinjal, tomato etc), for monitoring of borer insect, farmers are advised to use pheromone trap @ 3-4/acre."
+         ]
+      },
+      "tomato": {
          "advisory": [
             "In vegetables (brinjal, tomato etc), for monitoring of borer insect, farmers are advised to use pheromone trap @ 3-4/acre."
          ]

@@ -1,107 +1,52 @@
 {
+   "date": "date",
+   "error": "Error in getting the document.",
    "weather_details": {
-      "19-10-2024": {
-         "rainfall": 5,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 95,
+      "2022-10-01": {
+         "rainfall": 10,
+         "t_max": 25,
+         "t_min": 20,
+         "rh_max": 80,
          "rh_min": 60,
-         "wind_speed": 3,
-         "wind_direction": 344,
-         "cloud_cover": 4
+         "wind_speed": 15,
+         "wind_direction": 180,
+         "cloud_cover": 5
       },
-      "20-10-2024": {
+      "2022-10-02": {
          "rainfall": 5,
-         "t_max": 35,
-         "t_min": 25,
-         "rh_max": 93,
-         "rh_min": 58,
-         "wind_speed": 3,
-         "wind_direction": 326,
-         "cloud_cover": 6
-      },
-      "21-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 89,
-         "rh_min": 56,
-         "wind_speed": 6,
-         "wind_direction": 353,
-         "cloud_cover": 5
-      },
-      "22-10-2024": {
-         "rainfall": 0,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 84,
-         "rh_min": 47,
-         "wind_speed": 6,
-         "wind_direction": 350,
-         "cloud_cover": 4
-      },
-      "23-10-2024": {
-         "rainfall": 2,
-         "t_max": 34,
-         "t_min": 24,
-         "rh_max": 81,
-         "rh_min": 46,
-         "wind_speed": 8,
-         "wind_direction": 90,
-         "cloud_cover": 5
+         "t_max": 28,
+         "t_min": 22,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 3
       }
    },
    "names_of_crops": [
       "rice",
-      "sugarcane",
-      "brinjal",
-      "banana",
-      "papaya",
-      "pisciculture",
-      "livestock"
+      "maize",
+      "poultry"
    ],
-   "general_advisory": "Dry weather with little amount of rainfall is expected in the coming five days hence farmers can provide irrigation to the critical stages of standing crops and protect the crops from pest attack.",
+   "general_advisory": "It is recommended to plant rice and maize considering the weather conditions for the next few days.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "If the BPH & WBPH infestation is at initial stage alternating drying & wetting of field & foliar application of neem based formulation 1500ppm (600ml /acre) recommended. If the population is around ETL( 8-10)/hill spraying of Curbixpro (Ethiprol + pymetrozine)@170g/acre recommended.",
-            "Monitor the field regularly to observe infestation of BPH, WBPH, YSB and diseases like Bacterial Leaf blight, Sheath rot & blast.",
-            "If rice crop is in PI stage go for 2nd top dressing of fertilizer with 17.5 kg urea & 10 kg MOP /acre recommended & maintain 2-3 cm of standing water in field.",
-            "Prevailing warm and humid weather may increases the incidence of Sheath rot and Blast disease in rice so apply (Tebuconazole 50%+ Trifloxystrobin 25% WG) @ 0.4g /litre of water.",
-            "If BLB Incidence increases, spray Copper Oxychloride @ 500gm along with Plantomycin@200gm/acre."
+            "Ensure proper irrigation for rice plants.",
+            "Monitor for any signs of pests and diseases."
          ]
       },
-      "sugarcane": {
+      "maize": {
          "advisory": [
-            "Prevailing weather condition may increase the infestation of mealy bug & scale insects in sugarcane. To control these pest spraying of Thiamethoxam@80g/acre & Lambda cyahalothrin @4.9CS@250ml/acre recommended."
+            "Apply fertilizers at the recommended intervals.",
+            "Protect maize crop from strong winds."
          ]
       },
-      "brinjal": {
+      "poultry": {
          "advisory": [
-            "To control Fruit and shoot borer in Brinjal Spray Neem based pesticide 1500ppm @600ml/acre at initial stages. If the pests continue ETL, go for alternate spray of Spineturam@11.7%SC@200 ml/acre and Emamectin benzoate @ 80 g /acre at 15 days interval."
-         ]
-      },
-      "banana": {
-         "advisory": [
-            "Prevailing weather condition may increase the incidence of panama wilt in banana to control this spary 4 li fungicide solution of (Carbendazim @2g/litre of water) recommended."
-         ]
-      },
-      "papaya": {
-         "advisory": [
-            "Install Yellow Sticky trap to trap the vector (Whitefly) of Papaya Leaf Curl Virus. Alternate spraying of Neem oil formulation 1500ppm @3ml/lit of water and spray flonicamid 50WG @0.3g/lit to control whitefly."
-         ]
-      },
-      "pisciculture": {
-         "advisory": [
-            "If the total alkalinity of pond will remain below 150ppm, apply lime @40kg/acre water area is recommended."
-         ]
-      },
-      "livestock": {
-         "advisory": [
-            "If the animals have not yet been vaccinated against FMD, Haemorrhagic Septicaemia, Black Quarter, Enterotoxemia etc., these must be done.",
-            "Keep shed clean and dry to protect animals from disease and insects."
+            "Keep poultry houses well-ventilated.",
+            "Provide adequate feed and water for poultry."
          ]
       }
-   },
-   "date": "18-10-2024"
+   }
 }

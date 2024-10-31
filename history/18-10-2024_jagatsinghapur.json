@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "19/10/2024": {
+         "rainfall": 5,
+         "t_max": 35,
+         "t_min": 27,
+         "rh_max": 92,
+         "rh_min": 68,
+         "wind_speed": 2,
+         "wind_direction": 90,
+         "cloud_cover": 5
+      },
+      "22/10/2024": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 83,
+         "rh_min": 55,
+         "wind_speed": 11,
+         "wind_direction": 323,
+         "cloud_cover": 4
+      },
+      "23/10/2024": {
+         "rainfall": 5,
+         "t_max": 34,
+         "t_min": 24,
+         "rh_max": 85,
+         "rh_min": 53,
+         "wind_speed": 12,
+         "wind_direction": 353,
+         "cloud_cover": 7
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "maize",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "onion",
+      "bitter gourd",
+      "brinjal",
+      "sheep",
+      "goats"
+   ],
+   "general_advisory": "To control foot rot disease in paddy spray Metalaxyl 8% + Mancozeb 64% WP @ 400 gram/acre. Harvest matured crops like vegetables & pulses and keep them in a safe place. Deworming and vaccination against Foot and Mouth Disease and Brucellosis should be advised in animals. Vegetable seedlings should be transplanted in afternoon hours.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "False smut disease may be seen in paddy field. To manage the same, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre.",
+            "Neck Blast diseases first drain out excess water from the paddy field. Spray Hexaconazole ml/acre or Azoxystrobin+ Difenoconazole @ 200 ml/acre."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Top dressing of fertilizer is going on. Harvesting of maize crop has started."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Sugarcane is at grand growth stage."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Pod Borer Management - There are chances of Pod borer infestation in black gram and green gram crop. To manage Bihar hairy caterpillar in green gram and black gram crop spray Emamectin Benzoate 5% SG @ 80 ml/acre or Profenophos 50% EC @ 400 ml/acre."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Pod Borer Management - There are chances of Pod borer infestation in black gram and green gram crop."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Before sowing of seeds seed treatment should be done with Carbendazim 50% WP @ 2 grams or Carboxin 37.5% + Thiram 37.5% D.S @ 3 grams/kg of seeds."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "To manage the infestation of Fruit flies, spray Malathion @ 1 ml/lt."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "To reduce the Phomopsis blight disease in brinjal, spray Metalaxyl + Mancozeb Zineb 75% WP @ 500 g/acre in 200 litres of water."
+         ]
+      },
+      "sheep": {
+         "advisory": [
+            "Liver fluke infestation in sheep and goats - Liver Fluke is a great enemy of Sheep and Goats."
+         ]
+      },
+      "goats": {
+         "advisory": [
+            "Liver fluke infestation in sheep and goats - Liver Fluke is a great enemy of Sheep and Goats."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}

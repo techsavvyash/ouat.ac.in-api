@@ -1,0 +1,124 @@
+{
+   "weather_details": {
+      "19-10-2024": {
+         "rainfall": 5,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 96,
+         "rh_min": 64,
+         "wind_speed": 1,
+         "wind_direction": 334,
+         "cloud_cover": 4
+      },
+      "20-10-2024": {
+         "rainfall": 5,
+         "t_max": 32,
+         "t_min": 23,
+         "rh_max": 93,
+         "rh_min": 60,
+         "wind_speed": 4,
+         "wind_direction": 90,
+         "cloud_cover": 6
+      },
+      "21-10-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 90,
+         "rh_min": 51,
+         "wind_speed": 4,
+         "wind_direction": 354,
+         "cloud_cover": 5
+      },
+      "22-10-2024": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 22,
+         "rh_max": 84,
+         "rh_min": 47,
+         "wind_speed": 5,
+         "wind_direction": 356,
+         "cloud_cover": 4
+      },
+      "23-10-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 80,
+         "rh_min": 49,
+         "wind_speed": 7,
+         "wind_direction": 3,
+         "cloud_cover": 5
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "greengram",
+      "pumpkin",
+      "bitter gourd",
+      "okra",
+      "ivy gourd",
+      "guava",
+      "banana"
+   ],
+   "general_advisory": "Harvest the matured crops. After harvesting, land preparation can be done for rabi crop production. Plough the land to make the soil friable for good establishment of the crops. During storage of the produce, make sure to use Celphos tablets (Fumigants) to keep away storage insects. Irrigation to the crops should be on time to avoid drying or wilting of plants. Before sowing seed treatment is necessary to protect from fungal attacks.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Remove the weeds from the field.",
+            "Keep a regular watch on the pests and diseases.",
+            "Milking stage in paddy is an important phase for irrigation. Keep optimum water level in the field.",
+            "For false smut disease, spray Propiconazole or Hexaconazole @ 100 ml or Copper oxychloride @ 250 g in 200 lt of water per acre."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Pulse crop can be taken into consideration for rabi season.",
+            "Remove grasses and other unnecessary plants from the respective crop field.",
+            "After land preparation, sowing of greengram can be taken in Keonjhar district.",
+            "Before sowing of the seeds, always treat the seeds with fungicides like Thiram, Captan etc.",
+            "One good irrigation is compulsory after sowing."
+         ]
+      },
+      "pumpkin": {
+         "advisory": [
+            "Spraying of insecticides should be done in early morning hours to minimize the pest attacks.",
+            "For leaf blights, spray Carbendazim or Mancozeb @ 2 g/lt.",
+            "For Red pumpkin beetle infestation, spray Malathion 50 EC or Methyl demeton 25 EC."
+         ]
+      },
+      "bitter gourd": {
+         "advisory": [
+            "To control Powdery mildew disease, spray Dinocap @ 1 ml/lt or Carbendazim @ 1 g/lt."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Irrigate the crop regularly.",
+            "Harvest the fruits and store them at safe places.",
+            "Sell the fruits in the market at good prices."
+         ]
+      },
+      "ivy gourd": {
+         "advisory": [
+            "Pluck/harvest the fruits and keep them at safe places for further domestic consumption or sell in the market.",
+            "Manage any type of sucking pests by spraying Malathion 50 EC or Dimethoate 30 EC @ 1 ml/lt."
+         ]
+      },
+      "guava": {
+         "advisory": [
+            "Bending process in guava can be beneficial for more number of branches.",
+            "For powder mildew, spray Sulfur powder @ 2-3 g/lt.",
+            "Spraying should not be done during bright sunshine hours."
+         ]
+      },
+      "banana": {
+         "advisory": [
+            "Provide support to the plants and the bunch.",
+            "Trim or cut the excess suckers from the mother plant.",
+            "Keep only one to two suckers for further growth."
+         ]
+      }
+   },
+   "date": "18-10-2024"
+}
