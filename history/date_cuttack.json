@@ -1,52 +1,7 @@
 {
    "date": "date",
-   "error": "Error in getting the document.",
-   "weather_details": {
-      "2022-01-01": {
-         "rainfall": 10,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 80,
-         "rh_min": 60,
-         "wind_speed": 15,
-         "wind_direction": 180,
-         "cloud_cover": 6
-      },
-      "2022-01-02": {
-         "rainfall": 5,
-         "t_max": 20,
-         "t_min": 10,
-         "rh_max": 75,
-         "rh_min": 50,
-         "wind_speed": 10,
-         "wind_direction": 220,
-         "cloud_cover": 4
-      }
-   },
-   "names_of_crops": [
-      "wheat",
-      "rice",
-      "maize"
-   ],
-   "general_advisory": "Sow wheat and maize timely. Be cautious of heavy rainfall.",
-   "crops_data": {
-      "wheat": {
-         "advisory": [
-            "Ensure proper irrigation for wheat.",
-            "Monitor for any signs of pests."
-         ]
-      },
-      "rice": {
-         "advisory": [
-            "Maintain proper water level for rice cultivation.",
-            "Apply fertilizers as per schedule."
-         ]
-      },
-      "maize": {
-         "advisory": [
-            "Protect maize crops from excessive winds.",
-            "Harvest maize at the right maturity stage."
-         ]
-      }
-   }
+   "weather_details": {},
+   "names_of_crops": [],
+   "general_advisory": "",
+   "crops_data": {}
 }
