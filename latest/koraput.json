@@ -1,0 +1,158 @@
+{
+   "weather_details": {
+      "06.12.2024": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 16,
+         "rh_max": 0,
+         "rh_min": 86,
+         "wind_speed": 0,
+         "wind_direction": 43,
+         "cloud_cover": 3
+      },
+      "07.12.2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 0,
+         "rh_min": 81,
+         "wind_speed": 0,
+         "wind_direction": 37,
+         "cloud_cover": 3
+      },
+      "08.12.2024": {
+         "rainfall": 2,
+         "t_max": 30,
+         "t_min": 13,
+         "rh_max": 4,
+         "rh_min": 82,
+         "wind_speed": 0,
+         "wind_direction": 32,
+         "cloud_cover": 2
+      },
+      "09.12.2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 0,
+         "rh_min": 66,
+         "wind_speed": 0,
+         "wind_direction": 22,
+         "cloud_cover": 3
+      },
+      "10-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 13,
+         "rh_max": 3,
+         "rh_min": 86,
+         "wind_speed": 3,
+         "wind_direction": 27,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 12,
+         "rh_max": 1,
+         "rh_min": 81,
+         "wind_speed": 3,
+         "wind_direction": 63,
+         "cloud_cover": 3
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 0,
+         "rh_min": 82,
+         "wind_speed": 2,
+         "wind_direction": 63,
+         "cloud_cover": 2
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 12,
+         "rh_max": 0,
+         "rh_min": 70,
+         "wind_speed": 2,
+         "wind_direction": 51,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "arhar",
+      "groundnut",
+      "mustard",
+      "cauliflower",
+      "cabbage",
+      "broccoli",
+      "okra",
+      "cow",
+      "goat",
+      "poultry"
+   ],
+   "general_advisory": "Apply well decomposed Farm Yard Manure/vermicompost during last ploughing in the field. Before raising any crop go for collection of soil sample and test it in nearby soil testing laboratory. Apply balanced fertilizers in all the crops as per soil test based recommendations mentioned in the soil health card.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Continuing harvesting of kharif paddy. Farmers are advised to harvest and process different varieties separately without mixing for better price. Before storing of paddy, it should be dried properly.",
+            "Farmers are advised for not to burn the residue of kharif paddy in the fields because it pollutes the environment and causes health problems. Mix the residue of paddy crop in the soil to increase soil fertility. Use it as mulching for decreasing soil evaporation and conserve soil moisture.",
+            "If a 'Rodent/Rats' problem is noticed, locate the rodent burrow in the crop field and surrounding areas. Place Aluminium Phosphide 6% tablet @ One tablet (12 gm) per burrow and seal the burrow with mud to kill the rodents."
+         ]
+      },
+      "arhar": {
+         "advisory": [
+            "Follow recommended control measures against pod borer, pod sucking bug, and aphid based on prevailing weather conditions."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Apply Oxyflourfen 23.5% EC for weed management at 2-3 DAS. Apply Imazethapyr 10% SL for post emergence herbicide within 15 DAS."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Apply Oxadiargyl 6% EC as pre-emergence or Quizalofop-ethyl 5% EC as post emergence for weed management."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticide to control Dimond back moth. Spray bio insecticide or chemical insecticide to control tobacco leaf eating caterpillar."
+         ]
+      },
+      "cabbage": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticide to control Dimond back moth. Spray bio insecticide or chemical insecticide to control tobacco leaf eating caterpillar."
+         ]
+      },
+      "broccoli": {
+         "advisory": [
+            "Spray bio insecticide or chemical insecticide to control Dimond back moth. Spray bio insecticide or chemical insecticide to control tobacco leaf eating caterpillar."
+         ]
+      },
+      "okra": {
+         "advisory": [
+            "Spray Buprofezin + Acephate or Thiamethoxam to control aphid infestation. Spray neem based pesticide and Spinosad to control fruit borer."
+         ]
+      },
+      "cow": {
+         "advisory": [
+            "Provide sufficient green grass and concentrate mix for lactating animals for better production."
+         ]
+      },
+      "goat": {
+         "advisory": [
+            "Repair the goat house before winter season to prevent mortality among kids due to cold weather."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Make proper heating arrangements especially for chicks during night hours to reduce mortality rate. Ensure proper brooding arrangement and keep the poultry house clean."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

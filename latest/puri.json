@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 23,
+         "rh_max": 77,
+         "rh_min": 46,
+         "wind_speed": 11,
+         "wind_direction": 33,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 21,
+         "rh_max": 67,
+         "rh_min": 33,
+         "wind_speed": 28,
+         "wind_direction": 15,
+         "cloud_cover": 12
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 20,
+         "rh_max": 61,
+         "rh_min": 28,
+         "wind_speed": 27,
+         "wind_direction": 21,
+         "cloud_cover": 24
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 54,
+         "rh_min": 27,
+         "wind_speed": 13,
+         "wind_direction": 24,
+         "cloud_cover": 15
+      },
+      "15/12/2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 20,
+         "rh_max": 53,
+         "rh_min": 25,
+         "wind_speed": 24,
+         "wind_direction": 27,
+         "cloud_cover": 13
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "cotton",
+      "sugarcane",
+      "potato",
+      "tomato",
+      "brinjal"
+   ],
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There may be chances of infestation of sucking pests, leaf blight, powdery mildew in the crops and vegetables.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Post harvesting stage: Rodent - Place Aluminium Phosphide with mud which will kill the rodents."
+         ]
+      },
+      "blackgram and greengram": {
+         "advisory": [
+            "Vegetative stage: Aphids - Spray Neem Based Pesticide 1500 PPM @ 600 ml/acre."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage: Tobacco Caterpillar - Monitor the emergence of adult moths by setting up Pheromone traps."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Vegetative stage: Hoeing and hand weeding, high ridges for tubers, irrigate crop at 7-8 days interval."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage: Late blight - Spray 2.5 g Metalaxyl + Mancozeb/lit of water for initial infection stage."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Vegetative - Fruit formation stage: Fruit and shoot borer - Spray Neem based pesticide 1500 ppm @ 600 ml/acre."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

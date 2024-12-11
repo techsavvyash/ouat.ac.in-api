@@ -1,0 +1,64 @@
+{
+   "weather_details": {
+      "10.12.2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 22,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 10,
+         "wind_direction": 120,
+         "cloud_cover": 6
+      }
+   },
+   "names_of_crops": [
+      "groundnut",
+      "mustard",
+      "garlic",
+      "chilli",
+      "potato",
+      "cauliflower",
+      "marigold"
+   ],
+   "general_advisory": "Due to the present weather conditions, there is a possibility of increased pest activity in crops. Proper pest management practices should be followed.",
+   "crops_data": {
+      "groundnut": {
+         "advisory": [
+            "Population of Aphids may rise in Groundnut crop due to cloudy weather. Use neem-based pesticide and yellow sticky traps for control."
+         ]
+      },
+      "mustard": {
+         "advisory": [
+            "Chances of Sawfly infestation in Mustard crop. Follow irrigation practices and use appropriate pesticides for control."
+         ]
+      },
+      "garlic": {
+         "advisory": [
+            "Perfect time for planting garlic. Use recommended varieties and spacing for cultivation."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Manage aphids with traps and biopesticides. Use chemical pesticides if infestation is severe."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Early leaf Blight disease may occur in potato crop. Use appropriate fungicides for control."
+         ]
+      },
+      "cauliflower": {
+         "advisory": [
+            "Apply borax for preventing Brown rot in Cauliflower.",
+            "Spray Boron micronutrient after transplanting and before curd formation."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Manage Leaf eating caterpillar pest with traps and biological controls.",
+            "Use chemical controls if necessary during specific hours."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

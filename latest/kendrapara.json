@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "11/12/2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 78,
+         "rh_min": 48,
+         "wind_speed": 15,
+         "wind_direction": 16,
+         "cloud_cover": 4
+      },
+      "12/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 64,
+         "rh_min": 34,
+         "wind_speed": 30,
+         "wind_direction": 14,
+         "cloud_cover": 15
+      },
+      "13/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 53,
+         "rh_min": 28,
+         "wind_speed": 17,
+         "wind_direction": 4,
+         "cloud_cover": 14
+      },
+      "14/12/2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 15,
+         "rh_max": 52,
+         "rh_min": 26,
+         "wind_speed": 40,
+         "wind_direction": 17,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "blackgram",
+      "greengram",
+      "groundnut",
+      "potato",
+      "tomato",
+      "brinjal",
+      "marigold"
+   ],
+   "general_advisory": "Rice grains must be dried under sun for 3-4 days to 14% moisture for consumption and 12% moisture for seed purpose. There will be chances of infestation of sucking pests, leaf blight, powdery mildew in the crops and vegetables. Monitor the crops and vegetables, if symptoms are noticed, undertake appropriate plant protection measures. Complete transplanting of winter vegetable crops. Use low-cost polythene cover above the vegetables nursery to avoid poor germination due to low temperature.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Rodent - Place Aluminium Phosphide with mud in rodent burrows."
+         ]
+      },
+      "blackgram": {
+         "advisory": [
+            "Aphids - Spray Neem Based Pesticide PPM @ 600 ml/acre.",
+            "Tobacco Caterpillar - Monitor and use traps for adult moths. Dust with Chlorpyriphos if necessary."
+         ]
+      },
+      "greengram": {
+         "advisory": [
+            "Aphids - Spray Neem Based Pesticide PPM @ 600 ml/acre.",
+            "Tobacco Caterpillar - Monitor and use traps for adult moths. Dust with Chlorpyriphos if necessary."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Tobacco Caterpillar - Monitor and use traps for adult moths. Dust with Chlorpyriphos if necessary."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Late blight - Spray Metalaxyl + Mancozeb solution to prevent late blight."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Late blight - Spray Metalaxyl + Mancozeb solution to prevent late blight."
+         ]
+      },
+      "brinjal": {
+         "advisory": [
+            "Fruit and shoot borer - Spray Neem based pesticide and alternate sprays."
+         ]
+      },
+      "marigold": {
+         "advisory": [
+            "Thrips - Install Blue sticky traps and apply Fipronil solution.",
+            "Mealy bug - Apply Profenophos solution."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

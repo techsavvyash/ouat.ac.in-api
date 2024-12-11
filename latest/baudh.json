@@ -1,0 +1,102 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 15,
+         "rh_max": 84,
+         "rh_min": 36,
+         "wind_speed": 2,
+         "wind_direction": 259,
+         "cloud_cover": 4
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 74,
+         "rh_min": 30,
+         "wind_speed": 1,
+         "wind_direction": 162,
+         "cloud_cover": 2
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 27,
+         "t_min": 14,
+         "rh_max": 75,
+         "rh_min": 25,
+         "wind_speed": 2,
+         "wind_direction": 166,
+         "cloud_cover": 1
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 64,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 1
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 26,
+         "t_min": 13,
+         "rh_max": 65,
+         "rh_min": 20,
+         "wind_speed": 1,
+         "wind_direction": 214,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram/black gram",
+      "ground nut",
+      "cole crop",
+      "livestock",
+      "poultry"
+   ],
+   "general_advisory": "According to the weather forecast, farmers are advised to harvest mature crops, complete sowing of Rabi crops, and take preventive measures in animal husbandry and poultry.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Farmers are advised to harvest rice and store it properly to avoid damage.",
+            "Regular monitoring for diseases like False Smut and timely spraying if infestation is noticed."
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "Complete sowing of green gram and black gram",
+            "Treat seeds before sowing for better productivity."
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Use improved varieties for sowing",
+            "Treat seeds before sowing for better yield."
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use mulching materials for moisture control",
+            "Monitor against Diamond back moth and take necessary action if observed."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Protect animals from cold weather",
+            "Provide clean drinking water and maintain hygiene in sheds."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Ensure proper ventilation in poultry sheds",
+            "Maintain suitable temperature for drinking water."
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

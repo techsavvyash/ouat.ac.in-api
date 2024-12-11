@@ -1,0 +1,91 @@
+{
+   "weather_details": {
+      "11-12-2024": {
+         "rainfall": 0,
+         "t_max": 30,
+         "t_min": 15,
+         "rh_max": 77,
+         "rh_min": 34,
+         "wind_speed": 8,
+         "wind_direction": 38,
+         "cloud_cover": 3
+      },
+      "12-12-2024": {
+         "rainfall": 0,
+         "t_max": 29,
+         "t_min": 14,
+         "rh_max": 70,
+         "rh_min": 32,
+         "wind_speed": 7,
+         "wind_direction": 41,
+         "cloud_cover": 1
+      },
+      "13-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 67,
+         "rh_min": 29,
+         "wind_speed": 5,
+         "wind_direction": 42,
+         "cloud_cover": 0
+      },
+      "14-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 14,
+         "rh_max": 61,
+         "rh_min": 25,
+         "wind_speed": 7,
+         "wind_direction": 34,
+         "cloud_cover": 0
+      },
+      "15-12-2024": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 13,
+         "rh_max": 59,
+         "rh_min": 22,
+         "wind_speed": 7,
+         "wind_direction": 39,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "green gram/black gram",
+      "ground nut",
+      "cole crop"
+   ],
+   "general_advisory": "According to the medium-range weather forecast, no rainfall is expected in the upcoming week. Farmers are advised to harvest mature crops, complete sowing of Rabi crops, and take necessary precautions in animal husbandry. Deworming and vaccination should be ensured for livestock.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Harvesting of rice without expecting rainfall",
+            "Drying and threshing of harvested rice",
+            "Recommendations for disease management like False Smut"
+         ]
+      },
+      "green gram/black gram": {
+         "advisory": [
+            "Completion of sowing with treated seeds",
+            "Seed treatment and sowing instructions"
+         ]
+      },
+      "ground nut": {
+         "advisory": [
+            "Use of improved varieties",
+            "Seed treatment and sowing guidelines",
+            "Recommendations for effective planting"
+         ]
+      },
+      "cole crop": {
+         "advisory": [
+            "Use of mulching material for moisture maintenance",
+            "Monitoring for pests and diseases",
+            "Spraying advice after rain occurrence"
+         ]
+      }
+   },
+   "date": "10-12-2024"
+}

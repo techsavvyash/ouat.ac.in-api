@@ -241,3 +241,21 @@ ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(
 ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for anugul
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for bhadrak
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for debagarh
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for jajpur
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for kandhamal
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for khordha
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for nuapada
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for rayagada
+ERROR:root:Error downloading PDF: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error downloading PDF for jagatsinghapur

@@ -1,0 +1,47 @@
+{
+   "date": "date",
+   "error": "Error in getting the document.",
+   "weather_details": {
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 50,
+         "wind_speed": 15,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "2022-01-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 85,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "wheat"
+   ],
+   "general_advisory": "Sow rice seeds in well-prepared fields. Use recommended chemicals for weed control. Maintain soil moisture for wheat cultivation.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Sow rice seeds in well-prepared fields.",
+            "Use recommended chemicals for weed control.",
+            "Ensure proper irrigation."
+         ]
+      },
+      "wheat": {
+         "advisory": [
+            "Maintain soil moisture for wheat cultivation.",
+            "Apply fertilizers at recommended rates.",
+            "Monitor for pests and diseases."
+         ]
+      }
+   }
+}
