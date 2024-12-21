@@ -2,25 +2,25 @@
    "date": "date",
    "error": "Error in getting the document.",
    "weather_details": {
-      "2022-12-01": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 80,
-         "rh_min": 50,
-         "wind_speed": 10,
-         "wind_direction": 120,
-         "cloud_cover": 3
+      "2023-01-01": {
+         "rainfall": 10,
+         "t_max": 25,
+         "t_min": 15,
+         "rh_max": 85,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 180,
+         "cloud_cover": 6
       },
-      "2022-12-02": {
-         "rainfall": 2,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 75,
-         "rh_min": 45,
-         "wind_speed": 12,
-         "wind_direction": 140,
-         "cloud_cover": 2
+      "2023-01-02": {
+         "rainfall": 5,
+         "t_max": 22,
+         "t_min": 12,
+         "rh_max": 80,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 200,
+         "cloud_cover": 4
       }
    },
    "names_of_crops": [
@@ -28,24 +28,21 @@
       "wheat",
       "maize"
    ],
-   "general_advisory": "Sunny weather expected with sporadic showers. Plant your crops accordingly.",
+   "general_advisory": "Sow rice seeds after the first heavy rainfall of the season. Maintain proper moisture levels for wheat cultivation. Monitor maize plants for any signs of pests.",
    "crops_data": {
       "rice": {
          "advisory": [
-            "Ensure adequate irrigation for optimal growth",
-            "Watch out for any signs of pests and disease"
+            "Prepare the field by plowing and puddling. Apply fertilizers as per soil test recommendations. Ensure proper irrigation."
          ]
       },
       "wheat": {
          "advisory": [
-            "Prepare for winter frost protection measures",
-            "Maintain soil moisture for healthy growth"
+            "Select high-quality seeds for sowing. Apply nitrogen fertilizer at the early stages of growth. Protect from diseases by timely spraying fungicides."
          ]
       },
       "maize": {
          "advisory": [
-            "Harvest time approaching, monitor crop maturity",
-            "Protect crops from strong winds to avoid damage"
+            "Plant maize in well-drained soil. Water regularly during the flowering stage. Keep an eye out for armyworm infestations."
          ]
       }
    }
