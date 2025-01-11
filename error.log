@@ -262,3 +262,4 @@ ERROR:root:Error downloading PDF for jagatsinghapur
 ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+ERROR:root:Error scraping website: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
