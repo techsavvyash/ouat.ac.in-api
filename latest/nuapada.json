@@ -1,0 +1,109 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 54,
+         "rh_min": 22,
+         "wind_speed": 4,
+         "wind_direction": 233,
+         "cloud_cover": 1
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 52,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 186,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 47,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 240,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 46,
+         "rh_min": 19,
+         "wind_speed": 2,
+         "wind_direction": 297,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 17,
+         "rh_max": 44,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 194,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "chickpea",
+      "groundnut",
+      "sunflower",
+      "onion",
+      "tomato",
+      "chilli",
+      "rose"
+   ],
+   "general_advisory": "General Advisory: \n- Always apply recommended dose of fertilizers according to the soil test report and recommended dose of pesticide in correct method during morning or evening hours and pay attention to the wind direction during application. \n- Provide frequent irrigation to the standing crops like Groundnut, Sunflower, Chick pea, Maize, Green gram and vegetables in view of prevailing dry weather condition. \n- Farmers are advised to install 'T' shaped bird perches in and around crop field like Chickpea, Green gram, Groundnut and vegetables for controlling insect population. \n- Install pheromone trap @ 8/acre for monitoring borer insect in vegetables like brinjal, cauliflower, cabbage, tomato etc. \n- Install yellow sticky trap @ 8 /acre to monitor sucking pest like White fly, Aphids, Jassids & blue sticky trap for Thirps in vegetables at vegetative stage. \nSMS Advisory  ▪ In view of prevailing dry weather condition, provide irrigation to the standing crops in a regular interval.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Weed Management: For one acre area, apply granular herbicide Bensulfuron-methyl 0.6% + Pretilachlor 6% @ 4 kg at 3-5 days after transplanting mixed with equal quantity of sand and broadcast it uniformly in the field or spray Pyrazosulfuron-ethyl 10 % WP @ 100 g at 8-10 days after transplanting or spray Bispyribac sodium 10% SC @ 120 ml at 15-20 DAT or spray Fenoxaprop-p-ethyl 9% EC @ 300 ml/ac at 20 to 25 DAT/DAS mixed with 200 liters of water.",
+            "Pest Management: Install 3 pheromone traps/acre to monitor pest population of stem borer and leaf. If infestation of blast is noticed, spray Tebuconazole 50% + Trifloxystrobin 25% WG @ 6g or Isoprothiolane 40 EC @ 25 ml or Carbendazim 50% WP @ 25g or Hexaconazole 5% EC @ 15ml by mixing with 15 liters of water. Repeat the spray at 7-10 days’ interval."
+         ]
+      },
+      "chickpea": {
+         "advisory": [
+            "Pest Management: Powdery mildew: Prevailing weather condition favours the development of powdery mildew disease. To control spray, Sulphur 80% WP @ 800 g/ac or Propiconazole 25% EC @ 200ml/ac mixed with 200 liters of water. Stem rot/Root rot/Wilting: Prevailing weather condition favours the development of fungal disease like collar rot, root rot, stem rot and wilting. If symptom is noticed spray Carbendazim 50% WP @ 400g/ac or Validamycin 3% L @ 400 ml/ac mixed with 200 liters of water."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Pest Management: Tikka: If symptom is noticed, application of Chlorothalonil 75% WP @ 400g/ac or Hexaconazole 5% EC @ 300 ml/ac or Mancozeb 75% WP @ 600 g/ac mixed with 200 liters of water is recommended."
+         ]
+      },
+      "sunflower": {
+         "advisory": [
+            "Pest Management: Sucking pest complex (Aphid, Hopper, Thrips & White fly): Prevailing weather condition favours the development of sucking pests. Need based spray of Acetamiprid 20% SP @ 50g/acre or Imidacloprid 17.8% SL @ 60 ml/acre mixed with 200 ltrs of water is recommended. Powdery mildew: Infestation of powdery mildew may happen in prevailing weather condition. Spray Propiconazole 25% EC @ 1 ml/ltr or Triademefon 25% WP @ 1g/ltr of water as control measure. Capitulum Borer: Spray Bacillus thuringiensis var kurstaki 5% WP @ 1.5 g/ltr of water. Head Rot: Spray 0.4% Copper oxychloride 50% WP @ 3g/ltr of water."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Nutrient Management: After hoeing and weeding, apply 45kg Urea as first top dressing at 4-week stage followed by irrigation. After hoeing and weeding, apply 23kg Urea as second top dressing at 6 to 7-week stage followed by irrigation."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Pest Management: Fruit & Shoot borer: Install pheromone trap @ 8nos/acre to monitor pest population. For chemical control, spray Flubendiamide 39.35% SC @ 3 ml Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water. Leaf curling/White fly: Leaf curling may notice due to white fly infestation. Install yellow sticky trap @ 8nos/acre to monitor pest population. For chemical control, spray Dimethoate 30% EC @ 20 ml or Cyntranliprole 10.26% OD @ 30ml or Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% @ 4ml or Indoxacarb14.5% SC @ 15 ml mixed with 15 liters of water."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Pest Management: Mite: Stunted growth with downward curling and crinkling of leaves are seen in mite infested chili plants. Apply Ethion 50 % EC or Propargite 57 % EC @ 600-ml/acre mixed with 200 liters of water to control mite infestation."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Powdery mildew: In prevailing weather condition infestation of Powdery mildew may notice in Rose plant. Spray Carbendazim 50% WP @ 2g/ltr of water as preventive measure."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

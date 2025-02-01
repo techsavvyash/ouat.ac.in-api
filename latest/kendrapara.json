@@ -1,0 +1,129 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 92,
+         "rh_min": 55,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 93,
+         "rh_min": 53,
+         "wind_speed": 7,
+         "wind_direction": 225,
+         "cloud_cover": 0
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 94,
+         "rh_min": 50,
+         "wind_speed": 3,
+         "wind_direction": 242,
+         "cloud_cover": 0
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 90,
+         "rh_min": 54,
+         "wind_speed": 4,
+         "wind_direction": 284,
+         "cloud_cover": 0
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 18,
+         "rh_max": 85,
+         "rh_min": 44,
+         "wind_speed": 1,
+         "wind_direction": 295,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers should maintain standing water to a depth of 2-3 cm for at least 2-3 days before uprooting of seedlings. Irrigate fields due to mildly dry conditions. Management advice for various crops including sprays, fertilization, and pest control.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Use Trichogramma japonicum cards for stem borer management",
+            "Utilize pheromone traps",
+            "Apply pest control agents like Cartap Hydrochloride or Chlorantraniliprole"
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Use Validamycin 3% L or Captan + Hexaconazole for stem rot management"
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties for red rot disease prevention",
+            "Treat setts with a solution of carbendazim, chlorpyriphos, and urea"
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Use sprays like Sulphur 80% WP or Hexaconazole for powdery mildew management"
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Same as for black gram"
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Spray Chlorpyriphos + Cypermethrin for cut worm control"
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Use Ethion or Spiromesifen for mite control"
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Manage aphid infestation with neem oil or Flonicam sprays"
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Spray Mancozeb or Difenoconazole for purple blotch and leaf blight management"
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Control black spot disease with Copper Oxychloride spray"
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth to 6 ft for fish hibernation"
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

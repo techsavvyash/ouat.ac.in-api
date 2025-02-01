@@ -1,0 +1,104 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 17,
+         "rh_max": 56,
+         "rh_min": 24,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 1
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 56,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 143,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 18,
+         "rh_max": 47,
+         "rh_min": 20,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 19,
+         "rh_max": 47,
+         "rh_min": 21,
+         "wind_speed": 2,
+         "wind_direction": 53,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 18,
+         "rh_max": 42,
+         "rh_min": 20,
+         "wind_speed": 4,
+         "wind_direction": 80,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "green gram",
+      "black gram",
+      "mango",
+      "vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast, dry weather is expected. Farmers are advised to irrigate crop fields, conduct spraying and intercultural operations, keep fields weed-free, and take care of animals in varying temperatures.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "Transplanting of 3-5 week old seedlings should be advised at proper spacing and depth.",
+            "Apply recommended doses of fertilizers during final puddling.",
+            "Implement weed management practices as suggested."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Use yellow sticky traps to control sucking insects.",
+            "Apply neem oil at the initial stage of attack."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Use yellow sticky traps to control sucking insects.",
+            "Apply neem oil at the initial stage of attack."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet on mango trees to manage pests.",
+            "Prune affected branches and leaves, and apply suggested fungicides if needed."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "Apply recommended insecticides to control pests.",
+            "Monitor for sucking insect attacks and avoid chemical applications during flowering."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "Provide a feed mixture including oil cakes and jaggery to maintain body temperature.",
+            "Ensure pregnant animals receive additional feed and necessary vaccinations.",
+            "Deworm animals to control harmful worms."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

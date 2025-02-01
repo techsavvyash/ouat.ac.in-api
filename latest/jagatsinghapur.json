@@ -1,0 +1,96 @@
+{
+   "weather_details": {
+      "25/01/2025": {
+         "rainfall": 0,
+         "t_max": 28,
+         "t_min": 0,
+         "rh_max": 91,
+         "rh_min": 55,
+         "wind_speed": 8,
+         "wind_direction": 219,
+         "cloud_cover": 0
+      },
+      "01/02/2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 19,
+         "rh_max": 92,
+         "rh_min": 47,
+         "wind_speed": 3,
+         "wind_direction": 264,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Farmers are advised to irrigate their fields due to mildly dry conditions. Specific crop advice includes managing diseases and applying recommended fertilizers and pesticides at appropriate stages.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "To manage stem borer in paddy, use Trichogrammajaponicum card @ 1/acre at weekly intervals."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "To manage stem rot in groundnut, drench soil with Validamycin 3% L @ 400-ml/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "To prevent red rot disease, select resistant varieties and soak setts in a solution before planting."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "To manage powdery mildew disease, spray recommended fungicides."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "To manage powdery mildew disease, spray recommended fungicides."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "To control cut worm, spray recommended insecticides at evening hours."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "To control mites, spray recommended insecticides."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "To control aphids, use neem oil formulation or Flonicam."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "To manage purple blotch and Stemphylium leaf blight, spray recommended fungicides at intervals."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "To control black spot disease, spray Copper Oxy-chloride."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for fish hibernation in the bottom zone."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

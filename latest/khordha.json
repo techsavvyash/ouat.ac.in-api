@@ -1,0 +1,106 @@
+{
+   "weather_details": {
+      "25/01/2025": {
+         "rainfall": 0,
+         "t_max": 19,
+         "t_min": 20,
+         "rh_max": 90,
+         "rh_min": 41,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 0
+      },
+      "26/01/2025": {
+         "rainfall": 0,
+         "t_max": 20,
+         "t_min": 20,
+         "rh_max": 94,
+         "rh_min": 41,
+         "wind_speed": 3,
+         "wind_direction": 214,
+         "cloud_cover": 3
+      },
+      "27/01/2025": {
+         "rainfall": 0,
+         "t_max": 21,
+         "t_min": 20,
+         "rh_max": 93,
+         "rh_min": 40,
+         "wind_speed": 4,
+         "wind_direction": 243,
+         "cloud_cover": 4
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "IMD Weather forecast and Agro-meteorological advisory of Odisha location is now available on Meghdoot mobile app in English and Odia language.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Seedling stage: To manage stem borer in paddy at early stage, use Trichogrammajaponicum card @ 1/acre at weekly interval for 6 times."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Vegetative stage: To manage stem rot, drench soil with Validamycin 3% L @ 400-ml/acre or Captan 70% + Hexaconazole 5% WP @ 300-gram/acre."
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Planting stage: Select resistant varieties to prevent red rot disease. Soak setts for 30 minutes in a solution of water containing carbendazim, chlorpyriphos, and urea."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Vegetative stage: To manage powdery mildew disease, spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Vegetative stage: To manage powdery mildew disease, spray Sulphur 80% WP @800-gram/acre or Hexaconazole 5% E.C @ 300 ml/acre."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Vegetative stage: To control cut worm, spray Chlorpyriphos 50% + Cypermethrin 5% E.C @ 400 ml/acre."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Vegetative stage: For controlling mites, spray Ethion 50% EC @ 600 ml/acre."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Vegetative stage: Prevailing fog condition may increase aphid infestation. To control aphid, spray neem oil formulation or Flonicam."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Vegetative stage: To manage purple blotch and Stemphylium leaf blight disease, spray Mancozeb 75% WP or Difenoconazole 25% E.C at 15 days interval."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Flowering stage: To control black spot disease, spray Copper Oxy-chloride 50% WP."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "As the temperature of the surface water is colder than the bottom layers, the fish prefers to live in the bottom zone. Keep water depth up to 6 ft for hibernating in the warmer bottom zone."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

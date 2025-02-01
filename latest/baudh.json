@@ -1,0 +1,101 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 81,
+         "rh_min": 24,
+         "wind_speed": 3,
+         "wind_direction": 90,
+         "cloud_cover": 2
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 16,
+         "rh_max": 83,
+         "rh_min": 22,
+         "wind_speed": 3,
+         "wind_direction": 168,
+         "cloud_cover": 1
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 16,
+         "rh_max": 65,
+         "rh_min": 20,
+         "wind_speed": 3,
+         "wind_direction": 201,
+         "cloud_cover": 2
+      },
+      "04-02-2025": {
+         "rainfall": 0,
+         "t_max": 34,
+         "t_min": 17,
+         "rh_max": 62,
+         "rh_min": 22,
+         "wind_speed": 1,
+         "wind_direction": 90,
+         "cloud_cover": 3
+      },
+      "05-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 16,
+         "rh_max": 57,
+         "rh_min": 23,
+         "wind_speed": 2,
+         "wind_direction": 141,
+         "cloud_cover": 2
+      }
+   },
+   "names_of_crops": [
+      "dry season rice",
+      "green gram",
+      "black gram",
+      "mango",
+      "vegetable crops",
+      "livestock"
+   ],
+   "general_advisory": "As per the extended range forecast, dry weather along with normal to above normal minimum temperature is expected over the districts of Odisha. Farmers are advised to provide one irrigation in crop field and conduct all kinds of spraying and intercultural operations in standing crop fields. Farmers should keep their field weed-free for proper crop growth. Prevailing temperature condition may affect various types of crops favoring different kinds of insect attacks as well as animals.",
+   "crops_data": {
+      "dry season rice": {
+         "advisory": [
+            "Transplanting of 3-5 week old seedlings should be advised in well-puddled soil at a spacing of 15 cm × 15 cm with 3-4 seedlings per hill at shallow depth. Apply (DAP 44 kg + MOP 22 kg) or (Urea 22 kg + SSP 125 kg + MOP 22 kg) as basal dose during final puddling.",
+            "Weed management: Farmers those have already completed transplanting, apply granular herbicide. Insect/Pest management: In just transplanted field use 3 pheromone traps with 5mg lure/acre in the rice field for monitoring of the yellow stem borer and leaf folder."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "If sucking insect attack is noticed in green/black gram field, use yellow sticky traps to control these insects at the vegetative stage. At the initial stage of attack, spray neem oil per liter of water to control these insects. Insecticide application should be avoided at the flowering stage."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "If sucking insect attack is noticed in green/black gram field, use yellow sticky traps to control these insects at the vegetative stage. At the initial stage of attack, spray neem oil per liter of water to control these insects. Insecticide application should be avoided at the flowering stage."
+         ]
+      },
+      "mango": {
+         "advisory": [
+            "Wrap or fix polythene/alkathane sheet tightly on mango trees to manage mango mealy bug. Training and pruning of diseased and unwanted branches and leaves should be advised.",
+            "If powdery mildew infestation or any fungal infection observed in mango orchard, spraying of wettable sulphur should be advised."
+         ]
+      },
+      "vegetable crops": {
+         "advisory": [
+            "To control leaf eating caterpillar and fruit borer/shoot and fruit borer in tomato and brinjal, spraying of Emamectin Benzoate should be advised.",
+            "For Diamond Back Moth attack in cauliflower, spraying of Spinosad 45 SC or Fipronil 5% SC or Neem oil per liter of water should be advised.",
+            "Regular monitoring against sucking insect attack should be advised."
+         ]
+      },
+      "livestock": {
+         "advisory": [
+            "To maintain the body temperature of animals in prevailing weather conditions, feed them with a mixture of oil cakes and jaggery including covering of body during cold hours. Pregnant animals should be given additional feed.",
+            "Vaccination against FMF, HS, BQ, etc. is advised. Deworming of animals is advised to control harmful worms."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}

@@ -1,0 +1,106 @@
+{
+   "weather_details": {
+      "01-02-2025": {
+         "rainfall": 0,
+         "t_max": 31,
+         "t_min": 24,
+         "rh_max": 88,
+         "rh_min": 67,
+         "wind_speed": 11,
+         "wind_direction": 218,
+         "cloud_cover": 0
+      },
+      "02-02-2025": {
+         "rainfall": 0,
+         "t_max": 32,
+         "t_min": 24,
+         "rh_max": 89,
+         "rh_min": 61,
+         "wind_speed": 11,
+         "wind_direction": 213,
+         "cloud_cover": 0
+      },
+      "03-02-2025": {
+         "rainfall": 0,
+         "t_max": 33,
+         "t_min": 23,
+         "rh_max": 90,
+         "rh_min": 55,
+         "wind_speed": 10,
+         "wind_direction": 231,
+         "cloud_cover": 0
+      }
+   },
+   "names_of_crops": [
+      "paddy",
+      "groundnut",
+      "sugarcane",
+      "black gram",
+      "green gram",
+      "potato",
+      "chilli",
+      "tomato",
+      "onion",
+      "rose",
+      "pisciculture"
+   ],
+   "general_advisory": "Dry weather expected with partly cloudy sky. Mildly dry conditions prevailed. Farmers advised to maintain standing water for seedlings, irrigate fields, apply necessary insecticides and herbicides.",
+   "crops_data": {
+      "paddy": {
+         "advisory": [
+            "Manage stem borer with Trichogramma japonicum card and pheromone traps. Apply appropriate insecticides."
+         ]
+      },
+      "groundnut": {
+         "advisory": [
+            "Manage stem rot with Validamycin drench or Captan + Hexaconazole. "
+         ]
+      },
+      "sugarcane": {
+         "advisory": [
+            "Select resistant varieties for red rot. Soak setts in specified solution."
+         ]
+      },
+      "black gram": {
+         "advisory": [
+            "Control powdery mildew with specified sprays."
+         ]
+      },
+      "green gram": {
+         "advisory": [
+            "Control powdery mildew with specified sprays."
+         ]
+      },
+      "potato": {
+         "advisory": [
+            "Control cut worm with specified insecticides. Dusting may be necessary."
+         ]
+      },
+      "chilli": {
+         "advisory": [
+            "Spray recommended insecticides for mite control."
+         ]
+      },
+      "tomato": {
+         "advisory": [
+            "Control aphids with neem oil or Flonicam sprays."
+         ]
+      },
+      "onion": {
+         "advisory": [
+            "Manage purple blotch and Stemphylium leaf blight with specified fungicides."
+         ]
+      },
+      "rose": {
+         "advisory": [
+            "Control black spot with specified fungicide."
+         ]
+      },
+      "pisciculture": {
+         "advisory": [
+            "Maintain water depth for fish hibernating. Follow specified instructions."
+         ]
+      }
+   },
+   "date": "31-01-2025"
+}
