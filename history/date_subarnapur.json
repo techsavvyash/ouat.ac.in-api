@@ -1,49 +1,7 @@
 {
    "date": "date",
-   "error": "Error in getting the document.",
-   "weather_details": {
-      "2022-01-01": {
-         "rainfall": 5,
-         "t_max": 30,
-         "t_min": 20,
-         "rh_max": 80,
-         "rh_min": 60,
-         "wind_speed": 10,
-         "wind_direction": 180,
-         "cloud_cover": 4
-      },
-      "2022-01-02": {
-         "rainfall": 0,
-         "t_max": 28,
-         "t_min": 18,
-         "rh_max": 75,
-         "rh_min": 55,
-         "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 3
-      }
-   },
-   "names_of_crops": [
-      "rice",
-      "tomato",
-      "poultry"
-   ],
-   "general_advisory": "Sunny weather expected with some chances of rain. Remember to water the crops in case of insufficient rainfall.",
-   "crops_data": {
-      "rice": {
-         "advisory": [
-            "Ensure proper drainage in paddy fields to prevent waterlogging."
-         ]
-      },
-      "tomato": {
-         "advisory": [
-            "Regularly monitor for pests and diseases."
-         ]
-      },
-      "poultry": {
-         "advisory": [
-            "Ensure proper ventilation in poultry houses."
-         ]
-      }
-   }
+   "weather_details": {},
+   "names_of_crops": [],
+   "general_advisory": "",
+   "crops_data": {}
 }

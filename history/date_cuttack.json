@@ -1,7 +1,52 @@
 {
    "date": "date",
-   "weather_details": {},
-   "names_of_crops": [],
-   "general_advisory": "",
-   "crops_data": {}
+   "error": "Error in getting the document.",
+   "weather_details": {
+      "2022-01-01": {
+         "rainfall": 5,
+         "t_max": 30,
+         "t_min": 20,
+         "rh_max": 80,
+         "rh_min": 60,
+         "wind_speed": 15,
+         "wind_direction": 180,
+         "cloud_cover": 4
+      },
+      "2022-01-02": {
+         "rainfall": 2,
+         "t_max": 28,
+         "t_min": 18,
+         "rh_max": 75,
+         "rh_min": 55,
+         "wind_speed": 12,
+         "wind_direction": 200,
+         "cloud_cover": 3
+      }
+   },
+   "names_of_crops": [
+      "rice",
+      "maize",
+      "poultry"
+   ],
+   "general_advisory": "Sow rice and maize crops in the current weather conditions. Take care of poultry in the rainy and windy weather.",
+   "crops_data": {
+      "rice": {
+         "advisory": [
+            "Plant rice in well-drained soil.",
+            "Ensure proper irrigation during dry weather."
+         ]
+      },
+      "maize": {
+         "advisory": [
+            "Maintain spacing of maize plants for optimal growth.",
+            "Harvest maize when cobs are fully ripe."
+         ]
+      },
+      "poultry": {
+         "advisory": [
+            "Provide adequate shelter for poultry in case of heavy rainfall.",
+            "Keep feeders and waterers clean and regularly filled."
+         ]
+      }
+   }
 }

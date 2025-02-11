@@ -1,51 +1,8 @@
 {
    "date": "date",
-   "weather_details": {
-      "2022-01-01": {
-         "rainfall": 5,
-         "t_max": 25,
-         "t_min": 15,
-         "rh_max": 80,
-         "rh_min": 50,
-         "wind_speed": 10,
-         "wind_direction": 180,
-         "cloud_cover": 4
-      },
-      "2022-01-02": {
-         "rainfall": 2,
-         "t_max": 27,
-         "t_min": 16,
-         "rh_max": 75,
-         "rh_min": 45,
-         "wind_speed": 12,
-         "wind_direction": 200,
-         "cloud_cover": 3
-      }
-   },
-   "names_of_crops": [
-      "corn",
-      "rice",
-      "wheat"
-   ],
-   "general_advisory": "Sow seeds in optimal conditions for better growth.",
-   "crops_data": {
-      "corn": {
-         "advisory": [
-            "Plant corn in well-drained soil.",
-            "Fertilize corn plants every two weeks."
-         ]
-      },
-      "rice": {
-         "advisory": [
-            "Rice requires consistent watering.",
-            "Protect rice plants from pests and diseases."
-         ]
-      },
-      "wheat": {
-         "advisory": [
-            "Ensure wheat fields receive enough sunlight.",
-            "Harvest wheat when grains are fully formed."
-         ]
-      }
-   }
+   "error": "Error in getting the document.",
+   "weather_details": {},
+   "names_of_crops": [],
+   "general_advisory": "",
+   "crops_data": {}
 }
